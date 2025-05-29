@@ -1,0 +1,3147 @@
+[
+  {
+    "text": "[Music]",
+    "start": 0.86,
+    "duration": 4.82
+  },
+  {
+    "text": "Welcome to Raging Moderates. I'm Scott",
+    "start": 4.16,
+    "duration": 3.44
+  },
+  {
+    "text": "Galloway and I'm Jessica Tarles. So",
+    "start": 5.68,
+    "duration": 3.44
+  },
+  {
+    "text": "Jess, today we're joined by one of the",
+    "start": 7.6,
+    "duration": 3.84
+  },
+  {
+    "text": "sharpest minds in American politics,",
+    "start": 9.12,
+    "duration": 4.88
+  },
+  {
+    "text": "Larry Sabato. He's a professor at the",
+    "start": 11.44,
+    "duration": 3.68
+  },
+  {
+    "text": "University of Virginia and founder of",
+    "start": 14.0,
+    "duration": 2.8
+  },
+  {
+    "text": "our Center for Politics where he spent",
+    "start": 15.12,
+    "duration": 4.079
+  },
+  {
+    "text": "decades studying the pattern shifts and",
+    "start": 16.8,
+    "duration": 4.399
+  },
+  {
+    "text": "surprises in US elections. You've",
+    "start": 19.199,
+    "duration": 4.801
+  },
+  {
+    "text": "probably seen his team's crystal ball",
+    "start": 21.199,
+    "duration": 4.561
+  },
+  {
+    "text": "election forecasts are some of the most",
+    "start": 24.0,
+    "duration": 4.4
+  },
+  {
+    "text": "cited in the country. And Larry himself",
+    "start": 25.76,
+    "duration": 3.839
+  },
+  {
+    "text": "doesn't shy away from calling out",
+    "start": 28.4,
+    "duration": 2.639
+  },
+  {
+    "text": "threats to democracy, whether it's",
+    "start": 29.599,
+    "duration": 4.401
+  },
+  {
+    "text": "Trumpism, rising voter apathy, or the",
+    "start": 31.039,
+    "duration": 5.281
+  },
+  {
+    "text": "nationalization of local races. In",
+    "start": 34.0,
+    "duration": 4.399
+  },
+  {
+    "text": "recent months, he warned that we're in a",
+    "start": 36.32,
+    "duration": 4.239
+  },
+  {
+    "text": "dangerous moment, one defined more by",
+    "start": 38.399,
+    "duration": 4.16
+  },
+  {
+    "text": "emotion than ideology, where outrage is",
+    "start": 40.559,
+    "duration": 4.961
+  },
+  {
+    "text": "fueling turnout and independence are",
+    "start": 42.559,
+    "duration": 4.801
+  },
+  {
+    "text": "swinging fast. Larry, welcome to the",
+    "start": 45.52,
+    "duration": 3.519
+  },
+  {
+    "text": "show. Thank you so much for having me.",
+    "start": 47.36,
+    "duration": 3.44
+  },
+  {
+    "text": "Looking forward to it. So, let's jump",
+    "start": 49.039,
+    "duration": 3.441
+  },
+  {
+    "text": "right in. We're just a few months into",
+    "start": 50.8,
+    "duration": 3.36
+  },
+  {
+    "text": "Trump's second term. You spent your",
+    "start": 52.48,
+    "duration": 3.599
+  },
+  {
+    "text": "career studying how political eras take",
+    "start": 54.16,
+    "duration": 3.84
+  },
+  {
+    "text": "shape. How would you describe the one",
+    "start": 56.079,
+    "duration": 5.921
+  },
+  {
+    "text": "we're in right now? Frightening. And uh",
+    "start": 58.0,
+    "duration": 5.92
+  },
+  {
+    "text": "it could get a lot worse before it gets",
+    "start": 62.0,
+    "duration": 3.76
+  },
+  {
+    "text": "better. And a lot of the damage being",
+    "start": 63.92,
+    "duration": 4.72
+  },
+  {
+    "text": "done to the governmental structure which",
+    "start": 65.76,
+    "duration": 5.52
+  },
+  {
+    "text": "we spent decades as a people putting",
+    "start": 68.64,
+    "duration": 5.44
+  },
+  {
+    "text": "together will take a generation or more",
+    "start": 71.28,
+    "duration": 5.12
+  },
+  {
+    "text": "to repair. I don't think anyone doubts",
+    "start": 74.08,
+    "duration": 4.0
+  },
+  {
+    "text": "that. A lot of it will have to be",
+    "start": 76.4,
+    "duration": 3.52
+  },
+  {
+    "text": "repaired because it's not working out",
+    "start": 78.08,
+    "duration": 3.679
+  },
+  {
+    "text": "and it won't work out. And what really",
+    "start": 79.92,
+    "duration": 3.519
+  },
+  {
+    "text": "worries me and I think worries everybody",
+    "start": 81.759,
+    "duration": 5.841
+  },
+  {
+    "text": "is as we move closer to elections, maybe",
+    "start": 83.439,
+    "duration": 6.481
+  },
+  {
+    "text": "it's 2026, I think it's much more likely",
+    "start": 87.6,
+    "duration": 3.32
+  },
+  {
+    "text": "to be",
+    "start": 89.92,
+    "duration": 3.92
+  },
+  {
+    "text": "2028. Things we've taken for granted, we",
+    "start": 90.92,
+    "duration": 5.159
+  },
+  {
+    "text": "can't take for granted anymore.",
+    "start": 93.84,
+    "duration": 5.52
+  },
+  {
+    "text": "It's entirely possible that uh Trump is",
+    "start": 96.079,
+    "duration": 6.72
+  },
+  {
+    "text": "going to find ways and means either of",
+    "start": 99.36,
+    "duration": 5.759
+  },
+  {
+    "text": "staying in power himself if not",
+    "start": 102.799,
+    "duration": 4.96
+  },
+  {
+    "text": "guaranteeing then assisting whether it's",
+    "start": 105.119,
+    "duration": 5.28
+  },
+  {
+    "text": "Vance or I don't think it would be Rubio",
+    "start": 107.759,
+    "duration": 5.281
+  },
+  {
+    "text": "might be Rubio or one of his sons to",
+    "start": 110.399,
+    "duration": 4.72
+  },
+  {
+    "text": "succeed him. I hope that that won't",
+    "start": 113.04,
+    "duration": 4.399
+  },
+  {
+    "text": "happen. I hope we're better than that. I",
+    "start": 115.119,
+    "duration": 4.161
+  },
+  {
+    "text": "hope there are enough checks and",
+    "start": 117.439,
+    "duration": 4.241
+  },
+  {
+    "text": "balances left to make sure it doesn't",
+    "start": 119.28,
+    "duration": 5.199
+  },
+  {
+    "text": "happen. But we can't assume these things",
+    "start": 121.68,
+    "duration": 4.719
+  },
+  {
+    "text": "anymore. If you were going to zero in on",
+    "start": 124.479,
+    "duration": 3.121
+  },
+  {
+    "text": "one thing that you find most",
+    "start": 126.399,
+    "duration": 2.72
+  },
+  {
+    "text": "distressing, I mean, part of the problem",
+    "start": 127.6,
+    "duration": 3.999
+  },
+  {
+    "text": "here is sort of this flood the zone of",
+    "start": 129.119,
+    "duration": 3.681
+  },
+  {
+    "text": "all these different things that seem",
+    "start": 131.599,
+    "duration": 3.521
+  },
+  {
+    "text": "outrageous that I think a lot of us feel",
+    "start": 132.8,
+    "duration": 4.32
+  },
+  {
+    "text": "flatfooted in terms of what to focus on.",
+    "start": 135.12,
+    "duration": 3.6
+  },
+  {
+    "text": "What is the one thing that has you most",
+    "start": 137.12,
+    "duration": 3.52
+  },
+  {
+    "text": "disturbed? Well, democracy. It's",
+    "start": 138.72,
+    "duration": 4.0
+  },
+  {
+    "text": "fundamental to everything that we have",
+    "start": 140.64,
+    "duration": 3.76
+  },
+  {
+    "text": "done as a people and will do as a",
+    "start": 142.72,
+    "duration": 4.64
+  },
+  {
+    "text": "people, I hope. Look, I can get as upset",
+    "start": 144.4,
+    "duration": 5.52
+  },
+  {
+    "text": "as anybody about renaming the Gulf of",
+    "start": 147.36,
+    "duration": 5.519
+  },
+  {
+    "text": "Mexico or the possibility of invading",
+    "start": 149.92,
+    "duration": 5.039
+  },
+  {
+    "text": "Greenland. What I'm really worried about",
+    "start": 152.879,
+    "duration": 5.281
+  },
+  {
+    "text": "is that we'll no longer have a society",
+    "start": 154.959,
+    "duration": 5.841
+  },
+  {
+    "text": "that can work together on at least some",
+    "start": 158.16,
+    "duration": 6.48
+  },
+  {
+    "text": "big issues and we are just deeply deeply",
+    "start": 160.8,
+    "duration": 5.6
+  },
+  {
+    "text": "divided. And I've been around I'm",
+    "start": 164.64,
+    "duration": 4.08
+  },
+  {
+    "text": "getting ready to turn 73. I remember the",
+    "start": 166.4,
+    "duration": 4.8
+  },
+  {
+    "text": "60s when we had a lot of polarization",
+    "start": 168.72,
+    "duration": 5.28
+  },
+  {
+    "text": "and division. But this is much worse.",
+    "start": 171.2,
+    "duration": 5.6
+  },
+  {
+    "text": "This this goes right to the fundamentals",
+    "start": 174.0,
+    "duration": 4.48
+  },
+  {
+    "text": "and people don't agree on the",
+    "start": 176.8,
+    "duration": 4.0
+  },
+  {
+    "text": "fundamentals anymore or they're willing",
+    "start": 178.48,
+    "duration": 5.28
+  },
+  {
+    "text": "to follow a cult leader. And when the",
+    "start": 180.8,
+    "duration": 5.359
+  },
+  {
+    "text": "cult leader says these rules don't apply",
+    "start": 183.76,
+    "duration": 5.52
+  },
+  {
+    "text": "to me, they applaud. So yes, that is",
+    "start": 186.159,
+    "duration": 5.121
+  },
+  {
+    "text": "what bothers me more than anything else,",
+    "start": 189.28,
+    "duration": 3.84
+  },
+  {
+    "text": "though I would dispute a lot of the",
+    "start": 191.28,
+    "duration": 3.52
+  },
+  {
+    "text": "things that Trump and Musk have done.",
+    "start": 193.12,
+    "duration": 4.479
+  },
+  {
+    "text": "Just if I may, I agree with you. I I",
+    "start": 194.8,
+    "duration": 5.12
+  },
+  {
+    "text": "don't think sort of at least to date I'm",
+    "start": 197.599,
+    "duration": 5.121
+  },
+  {
+    "text": "not sure that the valid upset about the",
+    "start": 199.92,
+    "duration": 4.88
+  },
+  {
+    "text": "attack on democracy is working. I'm not",
+    "start": 202.72,
+    "duration": 3.599
+  },
+  {
+    "text": "saying that narrative isn't right. I",
+    "start": 204.8,
+    "duration": 3.84
+  },
+  {
+    "text": "just don't know if it's effective. And",
+    "start": 206.319,
+    "duration": 4.321
+  },
+  {
+    "text": "what I'm asking is what specifically do",
+    "start": 208.64,
+    "duration": 3.84
+  },
+  {
+    "text": "you think presents the greatest threat",
+    "start": 210.64,
+    "duration": 3.92
+  },
+  {
+    "text": "so far to democracy? Is it the illegal",
+    "start": 212.48,
+    "duration": 4.16
+  },
+  {
+    "text": "usurp of congressional power for the",
+    "start": 214.56,
+    "duration": 4.88
+  },
+  {
+    "text": "purse? Is it tearing up 80-year old",
+    "start": 216.64,
+    "duration": 5.76
+  },
+  {
+    "text": "alliances, siding with dictators or",
+    "start": 219.44,
+    "duration": 5.76
+  },
+  {
+    "text": "autocrats over our allies? Is it the",
+    "start": 222.4,
+    "duration": 4.72
+  },
+  {
+    "text": "weaponization of the DOJ? What",
+    "start": 225.2,
+    "duration": 3.52
+  },
+  {
+    "text": "specifically, if we were to try and",
+    "start": 227.12,
+    "duration": 4.479
+  },
+  {
+    "text": "focus in on specific things rather than",
+    "start": 228.72,
+    "duration": 4.64
+  },
+  {
+    "text": "this call that democracy is under",
+    "start": 231.599,
+    "duration": 4.241
+  },
+  {
+    "text": "attack, which a lot of us agree with,",
+    "start": 233.36,
+    "duration": 6.159
+  },
+  {
+    "text": "what specifically do you think is the",
+    "start": 235.84,
+    "duration": 6.08
+  },
+  {
+    "text": "most disturbing specific act of the",
+    "start": 239.519,
+    "duration": 4.881
+  },
+  {
+    "text": "Trump administration so far? The uh",
+    "start": 241.92,
+    "duration": 6.0
+  },
+  {
+    "text": "accumulation of power in the Oval Office",
+    "start": 244.4,
+    "duration": 6.64
+  },
+  {
+    "text": "and a tiny group of aids around him,",
+    "start": 247.92,
+    "duration": 5.599
+  },
+  {
+    "text": "some of whom are even more extreme than",
+    "start": 251.04,
+    "duration": 5.199
+  },
+  {
+    "text": "Trump. I don't think Trump is extreme in",
+    "start": 253.519,
+    "duration": 5.361
+  },
+  {
+    "text": "the old sense of the word. Uh he's just",
+    "start": 256.239,
+    "duration": 4.881
+  },
+  {
+    "text": "all for himself. His personal pronouns",
+    "start": 258.88,
+    "duration": 4.72
+  },
+  {
+    "text": "are me, myself, and I. But the people",
+    "start": 261.12,
+    "duration": 6.24
+  },
+  {
+    "text": "around him clearly want to amass as much",
+    "start": 263.6,
+    "duration": 6.72
+  },
+  {
+    "text": "power as possible as early as possible",
+    "start": 267.36,
+    "duration": 4.8
+  },
+  {
+    "text": "and head off all of the checks and",
+    "start": 270.32,
+    "duration": 3.68
+  },
+  {
+    "text": "balances. So, what am I most concerned",
+    "start": 272.16,
+    "duration": 5.52
+  },
+  {
+    "text": "about? I would say the potential for",
+    "start": 274.0,
+    "duration": 6.639
+  },
+  {
+    "text": "ignoring court decisions, which which is",
+    "start": 277.68,
+    "duration": 6.239
+  },
+  {
+    "text": "very real. They're they're trying to eat",
+    "start": 280.639,
+    "duration": 5.681
+  },
+  {
+    "text": "at the edges of this with some of the",
+    "start": 283.919,
+    "duration": 4.801
+  },
+  {
+    "text": "moves they've already made, but that",
+    "start": 286.32,
+    "duration": 4.8
+  },
+  {
+    "text": "would worry me more than anything else.",
+    "start": 288.72,
+    "duration": 4.08
+  },
+  {
+    "text": "But I'm concerned about everything you",
+    "start": 291.12,
+    "duration": 3.2
+  },
+  {
+    "text": "mentioned. We all ought to be concerned",
+    "start": 292.8,
+    "duration": 3.6
+  },
+  {
+    "text": "about all of that because it all fits",
+    "start": 294.32,
+    "duration": 4.72
+  },
+  {
+    "text": "together. It's all roads lead to the",
+    "start": 296.4,
+    "duration": 4.799
+  },
+  {
+    "text": "Oval Office. Except that's not what the",
+    "start": 299.04,
+    "duration": 4.08
+  },
+  {
+    "text": "founders wanted and it's not how we",
+    "start": 301.199,
+    "duration": 4.56
+  },
+  {
+    "text": "practice politics uh for all of these",
+    "start": 303.12,
+    "duration": 4.96
+  },
+  {
+    "text": "years. You can maybe argue that Franklin",
+    "start": 305.759,
+    "duration": 5.28
+  },
+  {
+    "text": "Roosevelt for the first 18 months or",
+    "start": 308.08,
+    "duration": 5.679
+  },
+  {
+    "text": "even two years had that kind of power",
+    "start": 311.039,
+    "duration": 4.681
+  },
+  {
+    "text": "because of the effect of the Great",
+    "start": 313.759,
+    "duration": 5.241
+  },
+  {
+    "text": "Depression. In in times like this, it's",
+    "start": 315.72,
+    "duration": 5.16
+  },
+  {
+    "text": "unprecedented and it's also",
+    "start": 319.0,
+    "duration": 4.68
+  },
+  {
+    "text": "unprecedented for such a large segment",
+    "start": 320.88,
+    "duration": 6.72
+  },
+  {
+    "text": "of the public to obey every word of the",
+    "start": 323.68,
+    "duration": 7.28
+  },
+  {
+    "text": "dear leader. Anything he says goes, even",
+    "start": 327.6,
+    "duration": 5.039
+  },
+  {
+    "text": "when it's contradicted by all the",
+    "start": 330.96,
+    "duration": 4.16
+  },
+  {
+    "text": "available facts. Facts. What are facts?",
+    "start": 332.639,
+    "duration": 4.721
+  },
+  {
+    "text": "he really does have his own set of facts",
+    "start": 335.12,
+    "duration": 4.48
+  },
+  {
+    "text": "and they buy his facts rather than the",
+    "start": 337.36,
+    "duration": 4.8
+  },
+  {
+    "text": "real facts. It's almost as if no one is",
+    "start": 339.6,
+    "duration": 4.24
+  },
+  {
+    "text": "thinking about to happen in the",
+    "start": 342.16,
+    "duration": 3.92
+  },
+  {
+    "text": "postTrump era, whatever that may look",
+    "start": 343.84,
+    "duration": 4.32
+  },
+  {
+    "text": "like or wherever we may get that. And",
+    "start": 346.08,
+    "duration": 5.28
+  },
+  {
+    "text": "you're totally right that it's just by",
+    "start": 348.16,
+    "duration": 5.44
+  },
+  {
+    "text": "the book. If Trump says jump, we say how",
+    "start": 351.36,
+    "duration": 3.36
+  },
+  {
+    "text": "high. We're seeing that with the",
+    "start": 353.6,
+    "duration": 3.2
+  },
+  {
+    "text": "reconciliation bill. Mike Johnson has",
+    "start": 354.72,
+    "duration": 4.319
+  },
+  {
+    "text": "come out and said, \"Oh, well, when Biden",
+    "start": 356.8,
+    "duration": 3.6
+  },
+  {
+    "text": "did it, he was trying to hide this.",
+    "start": 359.039,
+    "duration": 2.72
+  },
+  {
+    "text": "What's great about the Trump family is",
+    "start": 360.4,
+    "duration": 2.799
+  },
+  {
+    "text": "they're just doing it in front of us.\"",
+    "start": 361.759,
+    "duration": 4.321
+  },
+  {
+    "text": "So this naked corruption uh all well and",
+    "start": 363.199,
+    "duration": 5.44
+  },
+  {
+    "text": "good because we can see it. My question",
+    "start": 366.08,
+    "duration": 5.32
+  },
+  {
+    "text": "as someone who's immersed in data",
+    "start": 368.639,
+    "duration": 5.921
+  },
+  {
+    "text": "constantly is how do you take these very",
+    "start": 371.4,
+    "duration": 5.48
+  },
+  {
+    "text": "real concerns that all of us certainly",
+    "start": 374.56,
+    "duration": 4.32
+  },
+  {
+    "text": "on this podcast and millions of",
+    "start": 376.88,
+    "duration": 4.24
+  },
+  {
+    "text": "Americans have about the threat to",
+    "start": 378.88,
+    "duration": 4.0
+  },
+  {
+    "text": "democracy about the consolidation of",
+    "start": 381.12,
+    "duration": 4.72
+  },
+  {
+    "text": "executive power about a Supreme Court",
+    "start": 382.88,
+    "duration": 4.72
+  },
+  {
+    "text": "that doesn't seem to have a problem with",
+    "start": 385.84,
+    "duration": 3.68
+  },
+  {
+    "text": "this kind of consolidation of executive",
+    "start": 387.6,
+    "duration": 4.56
+  },
+  {
+    "text": "power and translate that into election",
+    "start": 389.52,
+    "duration": 4.56
+  },
+  {
+    "text": "results because I thought we had a",
+    "start": 392.16,
+    "duration": 5.12
+  },
+  {
+    "text": "pretty strong case in November granted",
+    "start": 394.08,
+    "duration": 4.72
+  },
+  {
+    "text": "We can talk about this more. You know,",
+    "start": 397.28,
+    "duration": 3.08
+  },
+  {
+    "text": "Kamla coming in for Biden. It was",
+    "start": 398.8,
+    "duration": 4.399
+  },
+  {
+    "text": "complicated. But post January 6, you see",
+    "start": 400.36,
+    "duration": 4.119
+  },
+  {
+    "text": "someone who doesn't respect the rule of",
+    "start": 403.199,
+    "duration": 2.481
+  },
+  {
+    "text": "law, right? Or someone who doesn't think",
+    "start": 404.479,
+    "duration": 4.16
+  },
+  {
+    "text": "that your vote should count and voters",
+    "start": 405.68,
+    "duration": 5.28
+  },
+  {
+    "text": "turned up and they elected him,",
+    "start": 408.639,
+    "duration": 4.161
+  },
+  {
+    "text": "reelected him, and they knew all of this",
+    "start": 410.96,
+    "duration": 4.16
+  },
+  {
+    "text": "about him. So, how do you think we can",
+    "start": 412.8,
+    "duration": 4.32
+  },
+  {
+    "text": "get that to stick or do you think it's",
+    "start": 415.12,
+    "duration": 4.079
+  },
+  {
+    "text": "just always going to be the economy and",
+    "start": 417.12,
+    "duration": 4.0
+  },
+  {
+    "text": "we have to hope and pray for a",
+    "start": 419.199,
+    "duration": 3.201
+  },
+  {
+    "text": "recession? So, people vote for",
+    "start": 421.12,
+    "duration": 3.919
+  },
+  {
+    "text": "Democrats. Well, at base it's civic",
+    "start": 422.4,
+    "duration": 4.72
+  },
+  {
+    "text": "education, which is what my center for",
+    "start": 425.039,
+    "duration": 4.401
+  },
+  {
+    "text": "politics is dedicated to and is trying",
+    "start": 427.12,
+    "duration": 4.56
+  },
+  {
+    "text": "to do something about at the lowest",
+    "start": 429.44,
+    "duration": 4.319
+  },
+  {
+    "text": "possible levels, meaning starting in",
+    "start": 431.68,
+    "duration": 4.32
+  },
+  {
+    "text": "kindergarten and going through at least",
+    "start": 433.759,
+    "duration": 4.801
+  },
+  {
+    "text": "high school and maybe uh junior colleges",
+    "start": 436.0,
+    "duration": 5.599
+  },
+  {
+    "text": "as well. You have to teach people how to",
+    "start": 438.56,
+    "duration": 5.919
+  },
+  {
+    "text": "interpret the system and they have to be",
+    "start": 441.599,
+    "duration": 4.561
+  },
+  {
+    "text": "willing to pay attention. They have to",
+    "start": 444.479,
+    "duration": 3.761
+  },
+  {
+    "text": "be willing to remember that citizenship",
+    "start": 446.16,
+    "duration": 4.8
+  },
+  {
+    "text": "in America doesn't require very much",
+    "start": 448.24,
+    "duration": 4.88
+  },
+  {
+    "text": "anymore. used to require a lot. It",
+    "start": 450.96,
+    "duration": 4.72
+  },
+  {
+    "text": "requires that citizens pay attention to",
+    "start": 453.12,
+    "duration": 5.28
+  },
+  {
+    "text": "big events. Uh and they don't. I think",
+    "start": 455.68,
+    "duration": 5.68
+  },
+  {
+    "text": "it was I think the New York Times uh had",
+    "start": 458.4,
+    "duration": 6.88
+  },
+  {
+    "text": "a um had a piece of a poll uh over the",
+    "start": 461.36,
+    "duration": 6.88
+  },
+  {
+    "text": "weekend where they uh separated",
+    "start": 465.28,
+    "duration": 5.199
+  },
+  {
+    "text": "Americans into people who follow the",
+    "start": 468.24,
+    "duration": 4.88
+  },
+  {
+    "text": "news carefully and people who don't. And",
+    "start": 470.479,
+    "duration": 4.321
+  },
+  {
+    "text": "the people who followed the news",
+    "start": 473.12,
+    "duration": 3.6
+  },
+  {
+    "text": "carefully were much more critical of",
+    "start": 474.8,
+    "duration": 3.839
+  },
+  {
+    "text": "Trump and much more concerned about what",
+    "start": 476.72,
+    "duration": 3.84
+  },
+  {
+    "text": "he was doing. And the people who didn't",
+    "start": 478.639,
+    "duration": 4.321
+  },
+  {
+    "text": "follow what was happening in the news",
+    "start": 480.56,
+    "duration": 4.319
+  },
+  {
+    "text": "thought everything Trump was doing, not",
+    "start": 482.96,
+    "duration": 3.519
+  },
+  {
+    "text": "everything, but a lot of what Trump was",
+    "start": 484.879,
+    "duration": 3.681
+  },
+  {
+    "text": "doing was just fine. They were much more",
+    "start": 486.479,
+    "duration": 5.201
+  },
+  {
+    "text": "inclined to support him. And that is",
+    "start": 488.56,
+    "duration": 6.88
+  },
+  {
+    "text": "potentially fatal to a system like ours.",
+    "start": 491.68,
+    "duration": 5.6
+  },
+  {
+    "text": "We've got to work on it. Everybody's got",
+    "start": 495.44,
+    "duration": 4.319
+  },
+  {
+    "text": "to work on it. Uh most universities have",
+    "start": 497.28,
+    "duration": 4.96
+  },
+  {
+    "text": "a center like mine. We we all ought to",
+    "start": 499.759,
+    "duration": 4.481
+  },
+  {
+    "text": "be working together on it. High school",
+    "start": 502.24,
+    "duration": 3.76
+  },
+  {
+    "text": "and elementary school teachers have to",
+    "start": 504.24,
+    "duration": 3.84
+  },
+  {
+    "text": "work together on it. We're having",
+    "start": 506.0,
+    "duration": 4.479
+  },
+  {
+    "text": "problems. We we started this 25 years",
+    "start": 508.08,
+    "duration": 4.879
+  },
+  {
+    "text": "ago and we were able to get in the",
+    "start": 510.479,
+    "duration": 4.56
+  },
+  {
+    "text": "schools fairly easily. In fact, the",
+    "start": 512.959,
+    "duration": 4.56
+  },
+  {
+    "text": "superintendent and principles welcomed",
+    "start": 515.039,
+    "duration": 4.961
+  },
+  {
+    "text": "us because we were providing all the",
+    "start": 517.519,
+    "duration": 5.52
+  },
+  {
+    "text": "information they needed uh for free.",
+    "start": 520.0,
+    "duration": 5.2
+  },
+  {
+    "text": "They paid for nothing. They used what",
+    "start": 523.039,
+    "duration": 4.961
+  },
+  {
+    "text": "they wanted to use. Now, we can't even",
+    "start": 525.2,
+    "duration": 4.72
+  },
+  {
+    "text": "get our foot in the door because it's",
+    "start": 528.0,
+    "duration": 3.839
+  },
+  {
+    "text": "political. They're worried about",
+    "start": 529.92,
+    "duration": 4.08
+  },
+  {
+    "text": "offending their Republican governors or",
+    "start": 531.839,
+    "duration": 4.641
+  },
+  {
+    "text": "their Republican legislators or goodness",
+    "start": 534.0,
+    "duration": 4.56
+  },
+  {
+    "text": "knows the Trump administration in",
+    "start": 536.48,
+    "duration": 3.76
+  },
+  {
+    "text": "Washington. And I've seen it everywhere.",
+    "start": 538.56,
+    "duration": 4.08
+  },
+  {
+    "text": "I've seen it here. Uh people people",
+    "start": 540.24,
+    "duration": 4.0
+  },
+  {
+    "text": "hunker down. They don't want to",
+    "start": 542.64,
+    "duration": 4.08
+  },
+  {
+    "text": "challenge things. Uh they feel strongly",
+    "start": 544.24,
+    "duration": 4.08
+  },
+  {
+    "text": "about something, but they won't speak",
+    "start": 546.72,
+    "duration": 4.72
+  },
+  {
+    "text": "out about it. That has never been a part",
+    "start": 548.32,
+    "duration": 5.84
+  },
+  {
+    "text": "of university life around the country.",
+    "start": 551.44,
+    "duration": 5.76
+  },
+  {
+    "text": "It is now. Fear is everywhere which is",
+    "start": 554.16,
+    "duration": 5.2
+  },
+  {
+    "text": "exactly what the Trump administration",
+    "start": 557.2,
+    "duration": 4.56
+  },
+  {
+    "text": "has been trying to do and they are",
+    "start": 559.36,
+    "duration": 4.56
+  },
+  {
+    "text": "succeeding.",
+    "start": 561.76,
+    "duration": 4.32
+  },
+  {
+    "text": "Uh Larry, so one of the things that",
+    "start": 563.92,
+    "duration": 4.479
+  },
+  {
+    "text": "frustrates me as a Democrat and it",
+    "start": 566.08,
+    "duration": 4.879
+  },
+  {
+    "text": "sounds like we share concern over what's",
+    "start": 568.399,
+    "duration": 4.721
+  },
+  {
+    "text": "taking place is that I I feel like the",
+    "start": 570.959,
+    "duration": 4.32
+  },
+  {
+    "text": "best ally of this autotocracy is an",
+    "start": 573.12,
+    "duration": 4.24
+  },
+  {
+    "text": "incredibly weak Democratic party and",
+    "start": 575.279,
+    "duration": 3.601
+  },
+  {
+    "text": "that if the election my understanding is",
+    "start": 577.36,
+    "duration": 3.28
+  },
+  {
+    "text": "the election happened a few days ago",
+    "start": 578.88,
+    "duration": 3.84
+  },
+  {
+    "text": "despite everything that's gone on that",
+    "start": 580.64,
+    "duration": 5.44
+  },
+  {
+    "text": "the president still would win. Yes. And",
+    "start": 582.72,
+    "duration": 7.92
+  },
+  {
+    "text": "I see leadership that is feckless. I see",
+    "start": 586.08,
+    "duration": 6.96
+  },
+  {
+    "text": "an inability to message correctly and",
+    "start": 590.64,
+    "duration": 4.96
+  },
+  {
+    "text": "meet people where they get their news",
+    "start": 593.04,
+    "duration": 5.12
+  },
+  {
+    "text": "now. And I I couldn't even name if",
+    "start": 595.6,
+    "duration": 3.76
+  },
+  {
+    "text": "someone said, \"Who's the Democratic",
+    "start": 598.16,
+    "duration": 2.48
+  },
+  {
+    "text": "leader?\" I wouldn't be able to give you",
+    "start": 599.36,
+    "duration": 3.44
+  },
+  {
+    "text": "a name. I don't I don't know if it's AOC",
+    "start": 600.64,
+    "duration": 4.319
+  },
+  {
+    "text": "or Senate Minority Leader Schumer. You",
+    "start": 602.8,
+    "duration": 4.479
+  },
+  {
+    "text": "studied politics and election cycles. If",
+    "start": 604.959,
+    "duration": 3.921
+  },
+  {
+    "text": "you were advising the Democratic Party",
+    "start": 607.279,
+    "duration": 5.521
+  },
+  {
+    "text": "here on how to effectively punch back,",
+    "start": 608.88,
+    "duration": 6.399
+  },
+  {
+    "text": "what points in history would you look to",
+    "start": 612.8,
+    "duration": 4.88
+  },
+  {
+    "text": "either in this nation or abroad such",
+    "start": 615.279,
+    "duration": 4.161
+  },
+  {
+    "text": "that we could rally what is a more",
+    "start": 617.68,
+    "duration": 4.159
+  },
+  {
+    "text": "effective resistance? Let's start by",
+    "start": 619.44,
+    "duration": 4.639
+  },
+  {
+    "text": "remembering Democrats don't control the",
+    "start": 621.839,
+    "duration": 4.401
+  },
+  {
+    "text": "House. Even if it's five votes, we're",
+    "start": 624.079,
+    "duration": 4.481
+  },
+  {
+    "text": "we're so partisan today. The five votes",
+    "start": 626.24,
+    "duration": 3.92
+  },
+  {
+    "text": "is enough to govern, as I think they'll",
+    "start": 628.56,
+    "duration": 3.519
+  },
+  {
+    "text": "prove again with that big beautiful",
+    "start": 630.16,
+    "duration": 4.48
+  },
+  {
+    "text": "bill. They don't control the Senate.",
+    "start": 632.079,
+    "duration": 4.641
+  },
+  {
+    "text": "They do have some influence there when",
+    "start": 634.64,
+    "duration": 3.759
+  },
+  {
+    "text": "60 votes are required, but they don't",
+    "start": 636.72,
+    "duration": 3.76
+  },
+  {
+    "text": "control it. They don't control the White",
+    "start": 638.399,
+    "duration": 4.321
+  },
+  {
+    "text": "House. They don't control even federal",
+    "start": 640.48,
+    "duration": 3.599
+  },
+  {
+    "text": "agencies that are supposed to be",
+    "start": 642.72,
+    "duration": 3.239
+  },
+  {
+    "text": "independent, much less the rest of the",
+    "start": 644.079,
+    "duration": 5.121
+  },
+  {
+    "text": "bureaucracy. Uh they don't control half",
+    "start": 645.959,
+    "duration": 5.32
+  },
+  {
+    "text": "of the states, a little more than half",
+    "start": 649.2,
+    "duration": 4.48
+  },
+  {
+    "text": "of the states and the legislatures. They",
+    "start": 651.279,
+    "duration": 4.24
+  },
+  {
+    "text": "don't control the Supreme Court, which",
+    "start": 653.68,
+    "duration": 3.96
+  },
+  {
+    "text": "is still tilted Republican, even if",
+    "start": 655.519,
+    "duration": 4.241
+  },
+  {
+    "text": "occasionally one or two of them will",
+    "start": 657.64,
+    "duration": 5.319
+  },
+  {
+    "text": "break uh with the Trump preferences. So,",
+    "start": 659.76,
+    "duration": 5.68
+  },
+  {
+    "text": "they control nothing. And in a situation",
+    "start": 662.959,
+    "duration": 5.761
+  },
+  {
+    "text": "like that, you have to control your",
+    "start": 665.44,
+    "duration": 5.92
+  },
+  {
+    "text": "forum first because you don't have",
+    "start": 668.72,
+    "duration": 4.96
+  },
+  {
+    "text": "anything else. You have to spend a lot",
+    "start": 671.36,
+    "duration": 4.64
+  },
+  {
+    "text": "of time and energy and effort uh looking",
+    "start": 673.68,
+    "duration": 4.08
+  },
+  {
+    "text": "toward the next election, which they",
+    "start": 676.0,
+    "duration": 3.76
+  },
+  {
+    "text": "should be doing more of rather than less",
+    "start": 677.76,
+    "duration": 4.96
+  },
+  {
+    "text": "of. That's their chance to regain the",
+    "start": 679.76,
+    "duration": 6.4
+  },
+  {
+    "text": "House. It would take a massive landslide",
+    "start": 682.72,
+    "duration": 5.76
+  },
+  {
+    "text": "wave against Trump to to take control of",
+    "start": 686.16,
+    "duration": 4.239
+  },
+  {
+    "text": "the Senate given the seats that are up.",
+    "start": 688.48,
+    "duration": 3.44
+  },
+  {
+    "text": "But they can at least focus on the",
+    "start": 690.399,
+    "duration": 4.641
+  },
+  {
+    "text": "House. And I think a 10, 15, 20 seat",
+    "start": 691.92,
+    "duration": 6.479
+  },
+  {
+    "text": "majority is entirely possible. Uh the",
+    "start": 695.04,
+    "duration": 5.52
+  },
+  {
+    "text": "way they're going, they'll be lucky to",
+    "start": 698.399,
+    "duration": 4.241
+  },
+  {
+    "text": "have the five seat majority that",
+    "start": 700.56,
+    "duration": 4.8
+  },
+  {
+    "text": "Republicans have right now. But uh the",
+    "start": 702.64,
+    "duration": 4.4
+  },
+  {
+    "text": "House is a real possibility. And once",
+    "start": 705.36,
+    "duration": 4.479
+  },
+  {
+    "text": "you have some piece of the government",
+    "start": 707.04,
+    "duration": 5.2
+  },
+  {
+    "text": "that you control, you control the",
+    "start": 709.839,
+    "duration": 4.321
+  },
+  {
+    "text": "schedule, you control a lot of how you",
+    "start": 712.24,
+    "duration": 3.92
+  },
+  {
+    "text": "structure the committee hearings and all",
+    "start": 714.16,
+    "duration": 4.08
+  },
+  {
+    "text": "the rest of it, you can have a greater",
+    "start": 716.16,
+    "duration": 5.2
+  },
+  {
+    "text": "impact. But for right now, other than",
+    "start": 718.24,
+    "duration": 4.88
+  },
+  {
+    "text": "focusing on the elections, which to me",
+    "start": 721.36,
+    "duration": 5.279
+  },
+  {
+    "text": "is the most important thing by far, uh",
+    "start": 723.12,
+    "duration": 7.36
+  },
+  {
+    "text": "you want to find ways uh to attract",
+    "start": 726.639,
+    "duration": 5.601
+  },
+  {
+    "text": "media attention and therefore the",
+    "start": 730.48,
+    "duration": 3.44
+  },
+  {
+    "text": "public's attention, at least those who",
+    "start": 732.24,
+    "duration": 3.92
+  },
+  {
+    "text": "will pay minimal attention to what the",
+    "start": 733.92,
+    "duration": 5.359
+  },
+  {
+    "text": "media are covering. And you do that by",
+    "start": 736.16,
+    "duration": 6.96
+  },
+  {
+    "text": "uh clever actions, by protests that are",
+    "start": 739.279,
+    "duration": 6.0
+  },
+  {
+    "text": "yes, intense, maybe involving civil",
+    "start": 743.12,
+    "duration": 4.519
+  },
+  {
+    "text": "disobedience, nonviolent,",
+    "start": 745.279,
+    "duration": 4.321
+  },
+  {
+    "text": "nonvi's going to write me and say, \"Oh,",
+    "start": 747.639,
+    "duration": 4.241
+  },
+  {
+    "text": "he's pushing violence.\" Of course not.",
+    "start": 749.6,
+    "duration": 4.72
+  },
+  {
+    "text": "Nonviolence uh is a part of our history.",
+    "start": 751.88,
+    "duration": 5.48
+  },
+  {
+    "text": "Nonviolent uh civil disobedience has had",
+    "start": 754.32,
+    "duration": 5.28
+  },
+  {
+    "text": "a major impact on American history.",
+    "start": 757.36,
+    "duration": 3.84
+  },
+  {
+    "text": "There should be some of that. There",
+    "start": 759.6,
+    "duration": 3.52
+  },
+  {
+    "text": "needs to be some of that. It's tough to",
+    "start": 761.2,
+    "duration": 3.439
+  },
+  {
+    "text": "say. I can tell you what, it's easier to",
+    "start": 763.12,
+    "duration": 4.399
+  },
+  {
+    "text": "say what they shouldn't be doing. I I I",
+    "start": 764.639,
+    "duration": 5.2
+  },
+  {
+    "text": "can't stop laughing about Chuck",
+    "start": 767.519,
+    "duration": 5.56
+  },
+  {
+    "text": "Schumer's tough letter, five or six",
+    "start": 769.839,
+    "duration": 6.8
+  },
+  {
+    "text": "paragraphs of it. Really tough tough",
+    "start": 773.079,
+    "duration": 6.44
+  },
+  {
+    "text": "language to the to President Trump as",
+    "start": 776.639,
+    "duration": 6.081
+  },
+  {
+    "text": "though he reads anything. Uh but that's",
+    "start": 779.519,
+    "duration": 6.161
+  },
+  {
+    "text": "what they think opposition is. And I",
+    "start": 782.72,
+    "duration": 5.919
+  },
+  {
+    "text": "don't mean just to criticize Schumer",
+    "start": 785.68,
+    "duration": 6.0
+  },
+  {
+    "text": "because it's really a partywide problem.",
+    "start": 788.639,
+    "duration": 5.601
+  },
+  {
+    "text": "And the leadership is, and I'm saying",
+    "start": 791.68,
+    "duration": 5.12
+  },
+  {
+    "text": "this as a guy getting ready to turn 73,",
+    "start": 794.24,
+    "duration": 5.44
+  },
+  {
+    "text": "so I'm a senior. It's way too old. The",
+    "start": 796.8,
+    "duration": 5.68
+  },
+  {
+    "text": "democratic structure is way too old.",
+    "start": 799.68,
+    "duration": 4.959
+  },
+  {
+    "text": "They need a lot more younger people who",
+    "start": 802.48,
+    "duration": 5.12
+  },
+  {
+    "text": "won't take no for an answer. And yes,",
+    "start": 804.639,
+    "duration": 5.44
+  },
+  {
+    "text": "uh, a good number of people who who do",
+    "start": 807.6,
+    "duration": 5.12
+  },
+  {
+    "text": "what we used to do in the 60s and 70s,",
+    "start": 810.079,
+    "duration": 5.121
+  },
+  {
+    "text": "issue a list of non-negotiable demands,",
+    "start": 812.72,
+    "duration": 5.04
+  },
+  {
+    "text": "all of which you will negotiate in time,",
+    "start": 815.2,
+    "duration": 4.639
+  },
+  {
+    "text": "but you have a list of non-negotiable",
+    "start": 817.76,
+    "duration": 4.079
+  },
+  {
+    "text": "demands, and you organize around it, and",
+    "start": 819.839,
+    "duration": 4.0
+  },
+  {
+    "text": "you get people energized about it and",
+    "start": 821.839,
+    "duration": 4.0
+  },
+  {
+    "text": "activated about it because the",
+    "start": 823.839,
+    "duration": 4.281
+  },
+  {
+    "text": "Democratic Party and the Democratic",
+    "start": 825.839,
+    "duration": 5.521
+  },
+  {
+    "text": "constituency is half dead, and I'm being",
+    "start": 828.12,
+    "duration": 5.32
+  },
+  {
+    "text": "kind. You spent your life at an",
+    "start": 831.36,
+    "duration": 4.56
+  },
+  {
+    "text": "institute of higher education.",
+    "start": 833.44,
+    "duration": 4.44
+  },
+  {
+    "text": "How would you describe",
+    "start": 835.92,
+    "duration": 4.479
+  },
+  {
+    "text": "anti-discrimination or efforts to root",
+    "start": 837.88,
+    "duration": 4.12
+  },
+  {
+    "text": "out anti-semitism of the Trump",
+    "start": 840.399,
+    "duration": 4.24
+  },
+  {
+    "text": "administration by cutting funding to",
+    "start": 842.0,
+    "duration": 4.399
+  },
+  {
+    "text": "higher education institutions? What is",
+    "start": 844.639,
+    "duration": 3.521
+  },
+  {
+    "text": "your viewpoint there? And can you point",
+    "start": 846.399,
+    "duration": 3.841
+  },
+  {
+    "text": "to any similar situations throughout",
+    "start": 848.16,
+    "duration": 3.84
+  },
+  {
+    "text": "history and how that informs what's",
+    "start": 850.24,
+    "duration": 3.68
+  },
+  {
+    "text": "going on here? You want to start by",
+    "start": 852.0,
+    "duration": 4.56
+  },
+  {
+    "text": "saying any anti-semitism is wrong and we",
+    "start": 853.92,
+    "duration": 4.96
+  },
+  {
+    "text": "had a little bit of it here. It was it",
+    "start": 856.56,
+    "duration": 5.16
+  },
+  {
+    "text": "was relatively minor compared to other",
+    "start": 858.88,
+    "duration": 5.12
+  },
+  {
+    "text": "universities. while it's a legitimate",
+    "start": 861.72,
+    "duration": 4.679
+  },
+  {
+    "text": "concern and it's worse in some places. I",
+    "start": 864.0,
+    "duration": 4.0
+  },
+  {
+    "text": "think some of the Ivy League schools do",
+    "start": 866.399,
+    "duration": 4.401
+  },
+  {
+    "text": "have a problem uh with it and and it",
+    "start": 868.0,
+    "duration": 5.279
+  },
+  {
+    "text": "deserves a lot of focus and it's getting",
+    "start": 870.8,
+    "duration": 5.12
+  },
+  {
+    "text": "it as far as I can see. It's also a",
+    "start": 873.279,
+    "duration": 4.521
+  },
+  {
+    "text": "cover story for the Trump",
+    "start": 875.92,
+    "duration": 4.8
+  },
+  {
+    "text": "administration. They're using that which",
+    "start": 877.8,
+    "duration": 6.039
+  },
+  {
+    "text": "is strongly supported uh by I hope most",
+    "start": 880.72,
+    "duration": 4.88
+  },
+  {
+    "text": "or all Americans or at least most",
+    "start": 883.839,
+    "duration": 3.601
+  },
+  {
+    "text": "Americans and certainly by a vast",
+    "start": 885.6,
+    "duration": 4.2
+  },
+  {
+    "text": "majority of the Republican party",
+    "start": 887.44,
+    "duration": 6.0
+  },
+  {
+    "text": "constituency. That is not a reason to",
+    "start": 889.8,
+    "duration": 6.52
+  },
+  {
+    "text": "limit what universities can investigate",
+    "start": 893.44,
+    "duration": 6.079
+  },
+  {
+    "text": "or to withdraw grants that are in",
+    "start": 896.32,
+    "duration": 6.24
+  },
+  {
+    "text": "looking into uh terrible diseases.",
+    "start": 899.519,
+    "duration": 5.12
+  },
+  {
+    "text": "People will die because of all of this",
+    "start": 902.56,
+    "duration": 4.639
+  },
+  {
+    "text": "withdrawn money. It's not wasted money.",
+    "start": 904.639,
+    "duration": 4.801
+  },
+  {
+    "text": "In fact, if you want money well spent,",
+    "start": 907.199,
+    "duration": 4.32
+  },
+  {
+    "text": "you generally go to to the health side",
+    "start": 909.44,
+    "duration": 4.399
+  },
+  {
+    "text": "of a university. Uh and it has more",
+    "start": 911.519,
+    "duration": 5.76
+  },
+  {
+    "text": "impact. So, it's a cover story uh to",
+    "start": 913.839,
+    "duration": 5.921
+  },
+  {
+    "text": "some degree. We've seen some of it here,",
+    "start": 917.279,
+    "duration": 4.8
+  },
+  {
+    "text": "but not nearly as much of it. I tell you",
+    "start": 919.76,
+    "duration": 5.199
+  },
+  {
+    "text": "what people should focus on more. It's",
+    "start": 922.079,
+    "duration": 4.801
+  },
+  {
+    "text": "not just Trump. It's where he's",
+    "start": 924.959,
+    "duration": 5.201
+  },
+  {
+    "text": "reinforced by Republican governors andor",
+    "start": 926.88,
+    "duration": 6.079
+  },
+  {
+    "text": "Republican legislators. In most of the",
+    "start": 930.16,
+    "duration": 6.64
+  },
+  {
+    "text": "states, the uh governors appoint most or",
+    "start": 932.959,
+    "duration": 6.641
+  },
+  {
+    "text": "all of the board of trustees or we call",
+    "start": 936.8,
+    "duration": 4.88
+  },
+  {
+    "text": "it a board of visitors here for public",
+    "start": 939.6,
+    "duration": 4.72
+  },
+  {
+    "text": "institutions. private institutions do it",
+    "start": 941.68,
+    "duration": 5.76
+  },
+  {
+    "text": "a different way, but uh they appoint",
+    "start": 944.32,
+    "duration": 5.199
+  },
+  {
+    "text": "people who are going to push their",
+    "start": 947.44,
+    "duration": 4.72
+  },
+  {
+    "text": "agenda. And today the Republican party",
+    "start": 949.519,
+    "duration": 4.32
+  },
+  {
+    "text": "agenda is Donald Trump and whatever he",
+    "start": 952.16,
+    "duration": 3.919
+  },
+  {
+    "text": "stands for. I mean, there's so few",
+    "start": 953.839,
+    "duration": 4.401
+  },
+  {
+    "text": "Republicans who will stand up. I should",
+    "start": 956.079,
+    "duration": 4.56
+  },
+  {
+    "text": "say there are so few ex Republicans who",
+    "start": 958.24,
+    "duration": 4.399
+  },
+  {
+    "text": "will stand up to Trump because if they",
+    "start": 960.639,
+    "duration": 4.0
+  },
+  {
+    "text": "weren't ex-Republicans at the beginning,",
+    "start": 962.639,
+    "duration": 4.081
+  },
+  {
+    "text": "they'll be ex-Republicans once MAGA",
+    "start": 964.639,
+    "duration": 4.64
+  },
+  {
+    "text": "takes care of them. Uh, and that's the",
+    "start": 966.72,
+    "duration": 5.28
+  },
+  {
+    "text": "real problem because you have the states",
+    "start": 969.279,
+    "duration": 4.321
+  },
+  {
+    "text": "reinforcing what the Trump",
+    "start": 972.0,
+    "duration": 3.519
+  },
+  {
+    "text": "administration is doing in the slight",
+    "start": 973.6,
+    "duration": 4.32
+  },
+  {
+    "text": "majority of the states where they uh",
+    "start": 975.519,
+    "duration": 4.641
+  },
+  {
+    "text": "control the appointments. So, it's it's",
+    "start": 977.92,
+    "duration": 4.8
+  },
+  {
+    "text": "tough. Again, elections matter and most",
+    "start": 980.16,
+    "duration": 4.88
+  },
+  {
+    "text": "of the focus has to be on winning the",
+    "start": 982.72,
+    "duration": 4.64
+  },
+  {
+    "text": "next election, not just for the House",
+    "start": 985.04,
+    "duration": 4.4
+  },
+  {
+    "text": "and the Senate and in Washington, but",
+    "start": 987.36,
+    "duration": 4.56
+  },
+  {
+    "text": "also for the state legislatores and the",
+    "start": 989.44,
+    "duration": 4.0
+  },
+  {
+    "text": "governorships that are up, and most of",
+    "start": 991.92,
+    "duration": 4.88
+  },
+  {
+    "text": "them are up in 2026 as a as an off-year",
+    "start": 993.44,
+    "duration": 5.36
+  },
+  {
+    "text": "election. Can you talk a bit as well",
+    "start": 996.8,
+    "duration": 3.76
+  },
+  {
+    "text": "about the role of independence because I",
+    "start": 998.8,
+    "duration": 4.24
+  },
+  {
+    "text": "I I go to your commentary for a whole",
+    "start": 1000.56,
+    "duration": 4.8
+  },
+  {
+    "text": "host of reasons u but most predominantly",
+    "start": 1003.04,
+    "duration": 4.64
+  },
+  {
+    "text": "for your vantage point on independence",
+    "start": 1005.36,
+    "duration": 4.32
+  },
+  {
+    "text": "and what actually sways them in",
+    "start": 1007.68,
+    "duration": 4.0
+  },
+  {
+    "text": "elections. Of course, independents have",
+    "start": 1009.68,
+    "duration": 4.64
+  },
+  {
+    "text": "turned pretty strongly against Trump.",
+    "start": 1011.68,
+    "duration": 5.279
+  },
+  {
+    "text": "That's why his ratings have been falling",
+    "start": 1014.32,
+    "duration": 4.24
+  },
+  {
+    "text": "and they'll fall more once the",
+    "start": 1016.959,
+    "duration": 3.12
+  },
+  {
+    "text": "independents who are not paying",
+    "start": 1018.56,
+    "duration": 5.04
+  },
+  {
+    "text": "attention uh figure out what's going on.",
+    "start": 1020.079,
+    "duration": 6.48
+  },
+  {
+    "text": "But they they're the the group of voters",
+    "start": 1023.6,
+    "duration": 6.16
+  },
+  {
+    "text": "that will switch without much push or",
+    "start": 1026.559,
+    "duration": 5.76
+  },
+  {
+    "text": "pressure uh depending on the",
+    "start": 1029.76,
+    "duration": 4.88
+  },
+  {
+    "text": "circumstances of their lives like the",
+    "start": 1032.319,
+    "duration": 4.88
+  },
+  {
+    "text": "economy but not just the economy. What",
+    "start": 1034.64,
+    "duration": 4.559
+  },
+  {
+    "text": "influences them is what helps them in",
+    "start": 1037.199,
+    "duration": 3.921
+  },
+  {
+    "text": "their daily lives. They're heavily",
+    "start": 1039.199,
+    "duration": 3.521
+  },
+  {
+    "text": "concentrated now. They used to be",
+    "start": 1041.12,
+    "duration": 5.04
+  },
+  {
+    "text": "concentrated in high education u part of",
+    "start": 1042.72,
+    "duration": 5.76
+  },
+  {
+    "text": "the electorate, the highly educated part",
+    "start": 1046.16,
+    "duration": 3.92
+  },
+  {
+    "text": "of the elected, high income part of the",
+    "start": 1048.48,
+    "duration": 4.16
+  },
+  {
+    "text": "electorate. Now it's more uh middle",
+    "start": 1050.08,
+    "duration": 5.68
+  },
+  {
+    "text": "class and uh lower middle class that",
+    "start": 1052.64,
+    "duration": 5.36
+  },
+  {
+    "text": "comprise the independents and those",
+    "start": 1055.76,
+    "duration": 4.08
+  },
+  {
+    "text": "independents as I say are busy earning a",
+    "start": 1058.0,
+    "duration": 3.84
+  },
+  {
+    "text": "living or busy living their lives. They",
+    "start": 1059.84,
+    "duration": 3.28
+  },
+  {
+    "text": "don't have a lot of extra time. They",
+    "start": 1061.84,
+    "duration": 2.56
+  },
+  {
+    "text": "certainly don't pay attention to public",
+    "start": 1063.12,
+    "duration": 4.0
+  },
+  {
+    "text": "affairs as much as they as they should.",
+    "start": 1064.4,
+    "duration": 4.8
+  },
+  {
+    "text": "Look so you you're in the business of",
+    "start": 1067.12,
+    "duration": 5.2
+  },
+  {
+    "text": "making or you know you've you have a",
+    "start": 1069.2,
+    "duration": 5.359
+  },
+  {
+    "text": "kind of branded crystal ball given that",
+    "start": 1072.32,
+    "duration": 5.28
+  },
+  {
+    "text": "we're still a ways out. It can't come",
+    "start": 1074.559,
+    "duration": 5.441
+  },
+  {
+    "text": "soon enough. What are we 18 months out?",
+    "start": 1077.6,
+    "duration": 4.72
+  },
+  {
+    "text": "What what are your predictions so far?",
+    "start": 1080.0,
+    "duration": 4.64
+  },
+  {
+    "text": "What do you see regarding the House in",
+    "start": 1082.32,
+    "duration": 5.76
+  },
+  {
+    "text": "26 and any Senate races? My motto, it's",
+    "start": 1084.64,
+    "duration": 5.6
+  },
+  {
+    "text": "there's a bit of a satirical element to",
+    "start": 1088.08,
+    "duration": 4.56
+  },
+  {
+    "text": "Crystal Ball. Uh our slogan is he who",
+    "start": 1090.24,
+    "duration": 4.0
+  },
+  {
+    "text": "lives by the crystal ball ends up eating",
+    "start": 1092.64,
+    "duration": 3.12
+  },
+  {
+    "text": "ground glass. And we've had plenty of",
+    "start": 1094.24,
+    "duration": 3.28
+  },
+  {
+    "text": "ground glass like every other analyst.",
+    "start": 1095.76,
+    "duration": 3.6
+  },
+  {
+    "text": "So I don't want to pretend that we've",
+    "start": 1097.52,
+    "duration": 4.96
+  },
+  {
+    "text": "always been right. Uh although we have a",
+    "start": 1099.36,
+    "duration": 4.4
+  },
+  {
+    "text": "better record than some others, but I",
+    "start": 1102.48,
+    "duration": 2.64
+  },
+  {
+    "text": "don't want to get into that because it's",
+    "start": 1103.76,
+    "duration": 4.799
+  },
+  {
+    "text": "so nasty. Um anyway, what are we",
+    "start": 1105.12,
+    "duration": 6.16
+  },
+  {
+    "text": "predicting so far? It would be nearly",
+    "start": 1108.559,
+    "duration": 5.521
+  },
+  {
+    "text": "impossible to predict that Republicans",
+    "start": 1111.28,
+    "duration": 4.96
+  },
+  {
+    "text": "would hold the House, although we've",
+    "start": 1114.08,
+    "duration": 3.76
+  },
+  {
+    "text": "just published an analysis in the",
+    "start": 1116.24,
+    "duration": 3.28
+  },
+  {
+    "text": "crystal ball from some distinguished",
+    "start": 1117.84,
+    "duration": 4.32
+  },
+  {
+    "text": "political scientists who uh have used",
+    "start": 1119.52,
+    "duration": 4.56
+  },
+  {
+    "text": "another measure measure that has been",
+    "start": 1122.16,
+    "duration": 4.16
+  },
+  {
+    "text": "ignored for the most part. What does the",
+    "start": 1124.08,
+    "duration": 4.64
+  },
+  {
+    "text": "public think will happen? Which party do",
+    "start": 1126.32,
+    "duration": 4.8
+  },
+  {
+    "text": "they believe will hold on? Well, it's",
+    "start": 1128.72,
+    "duration": 4.24
+  },
+  {
+    "text": "early, but even the early predictions",
+    "start": 1131.12,
+    "duration": 3.919
+  },
+  {
+    "text": "often have been right from the public,",
+    "start": 1132.96,
+    "duration": 4.079
+  },
+  {
+    "text": "and they seem to think Republicans will",
+    "start": 1135.039,
+    "duration": 4.081
+  },
+  {
+    "text": "hang on to both the House and Senate. I",
+    "start": 1137.039,
+    "duration": 5.041
+  },
+  {
+    "text": "don't buy it. Uh, some of my colleagues",
+    "start": 1139.12,
+    "duration": 6.24
+  },
+  {
+    "text": "do. I think the the odds are substantial",
+    "start": 1142.08,
+    "duration": 5.76
+  },
+  {
+    "text": "that Democrats will carry the House. We",
+    "start": 1145.36,
+    "duration": 4.24
+  },
+  {
+    "text": "don't know the margin. We can't even",
+    "start": 1147.84,
+    "duration": 4.079
+  },
+  {
+    "text": "guesstimate the margin. As I say, I",
+    "start": 1149.6,
+    "duration": 4.959
+  },
+  {
+    "text": "think it could go up to around 20 seats.",
+    "start": 1151.919,
+    "duration": 5.441
+  },
+  {
+    "text": "uh if if it's a anti-Trump landslide,",
+    "start": 1154.559,
+    "duration": 4.48
+  },
+  {
+    "text": "obviously higher than that, more than",
+    "start": 1157.36,
+    "duration": 4.08
+  },
+  {
+    "text": "that as it was in 2018, another",
+    "start": 1159.039,
+    "duration": 5.76
+  },
+  {
+    "text": "anti-Trump landslide. But the Senate, um",
+    "start": 1161.44,
+    "duration": 5.44
+  },
+  {
+    "text": "there's a tiny chance Democrats could",
+    "start": 1164.799,
+    "duration": 4.88
+  },
+  {
+    "text": "take control, but look at the map. You",
+    "start": 1166.88,
+    "duration": 4.72
+  },
+  {
+    "text": "know, the normal balance in the Senate,",
+    "start": 1169.679,
+    "duration": 4.401
+  },
+  {
+    "text": "if you look at the map, according to the",
+    "start": 1171.6,
+    "duration": 5.12
+  },
+  {
+    "text": "red and blue divisions that exist in",
+    "start": 1174.08,
+    "duration": 5.68
+  },
+  {
+    "text": "America today, is about 53 Republicans",
+    "start": 1176.72,
+    "duration": 6.079
+  },
+  {
+    "text": "and 47 Democrats. So, Democrats really",
+    "start": 1179.76,
+    "duration": 5.919
+  },
+  {
+    "text": "do have to be riding something of a wave",
+    "start": 1182.799,
+    "duration": 5.521
+  },
+  {
+    "text": "probably in two elections to take",
+    "start": 1185.679,
+    "duration": 5.36
+  },
+  {
+    "text": "control of the Senate again because the",
+    "start": 1188.32,
+    "duration": 4.479
+  },
+  {
+    "text": "normal majority is about what they have",
+    "start": 1191.039,
+    "duration": 5.281
+  },
+  {
+    "text": "right now, 5347 for the Republicans.",
+    "start": 1192.799,
+    "duration": 6.481
+  },
+  {
+    "text": "That's because of the system this",
+    "start": 1196.32,
+    "duration": 5.44
+  },
+  {
+    "text": "founder set up, which I I published a",
+    "start": 1199.28,
+    "duration": 4.56
+  },
+  {
+    "text": "book, a more perfect constitution, 23",
+    "start": 1201.76,
+    "duration": 4.56
+  },
+  {
+    "text": "changes to the constitution. Uh, not one",
+    "start": 1203.84,
+    "duration": 4.56
+  },
+  {
+    "text": "of them has happened since I published a",
+    "start": 1206.32,
+    "duration": 4.08
+  },
+  {
+    "text": "book in 2007. And it's been very hurtful",
+    "start": 1208.4,
+    "duration": 4.399
+  },
+  {
+    "text": "to me personally that none of them have",
+    "start": 1210.4,
+    "duration": 5.04
+  },
+  {
+    "text": "been ratified. But I I don't think the",
+    "start": 1212.799,
+    "duration": 4.161
+  },
+  {
+    "text": "Senate should be structured the way it",
+    "start": 1215.44,
+    "duration": 4.72
+  },
+  {
+    "text": "is. And when you have four senators from",
+    "start": 1216.96,
+    "duration": 5.839
+  },
+  {
+    "text": "two Dakotas, and I've spent some time in",
+    "start": 1220.16,
+    "duration": 4.32
+  },
+  {
+    "text": "both Dakotas, and you can't tell them",
+    "start": 1222.799,
+    "duration": 4.24
+  },
+  {
+    "text": "apart. I'm sorry. Uh there's no reason",
+    "start": 1224.48,
+    "duration": 4.319
+  },
+  {
+    "text": "why they should have four senators. But",
+    "start": 1227.039,
+    "duration": 4.401
+  },
+  {
+    "text": "with enough red states, small rural",
+    "start": 1228.799,
+    "duration": 5.041
+  },
+  {
+    "text": "states, the Republicans have to try to",
+    "start": 1231.44,
+    "duration": 4.0
+  },
+  {
+    "text": "lose the Senate. And then then you have",
+    "start": 1233.84,
+    "duration": 3.52
+  },
+  {
+    "text": "the presidential veto which would",
+    "start": 1235.44,
+    "duration": 4.32
+  },
+  {
+    "text": "eliminate virtually everything that the",
+    "start": 1237.36,
+    "duration": 3.6
+  },
+  {
+    "text": "Congress could do other than",
+    "start": 1239.76,
+    "duration": 3.279
+  },
+  {
+    "text": "appointments and and treaties in the",
+    "start": 1240.96,
+    "duration": 3.52
+  },
+  {
+    "text": "Senate. Well, I wonder if we'll ever",
+    "start": 1243.039,
+    "duration": 3.361
+  },
+  {
+    "text": "have another treaty because of the",
+    "start": 1244.48,
+    "duration": 4.12
+  },
+  {
+    "text": "voting requirement uh needed there to",
+    "start": 1246.4,
+    "duration": 5.12
+  },
+  {
+    "text": "ratify. Uh so anyway, that's what we see",
+    "start": 1248.6,
+    "duration": 4.319
+  },
+  {
+    "text": "now",
+    "start": 1251.52,
+    "duration": 3.519
+  },
+  {
+    "text": "gubanatorilially. there is a real chance",
+    "start": 1252.919,
+    "duration": 3.88
+  },
+  {
+    "text": "for for Democratic breakthrough, but",
+    "start": 1255.039,
+    "duration": 5.041
+  },
+  {
+    "text": "they also have to hold um states, close",
+    "start": 1256.799,
+    "duration": 4.961
+  },
+  {
+    "text": "states, competitive states that they",
+    "start": 1260.08,
+    "duration": 3.839
+  },
+  {
+    "text": "have like Michigan and Arizona and so",
+    "start": 1261.76,
+    "duration": 4.64
+  },
+  {
+    "text": "on. Uh but they they could score some",
+    "start": 1263.919,
+    "duration": 4.961
+  },
+  {
+    "text": "surprising victories there as off-year",
+    "start": 1266.4,
+    "duration": 4.8
+  },
+  {
+    "text": "elections when people are just as I",
+    "start": 1268.88,
+    "duration": 5.44
+  },
+  {
+    "text": "think they will be dead sick of Trump",
+    "start": 1271.2,
+    "duration": 5.52
+  },
+  {
+    "text": "and the Trump appeasers or Trump",
+    "start": 1274.32,
+    "duration": 5.12
+  },
+  {
+    "text": "acolytes or Trump minions that are in",
+    "start": 1276.72,
+    "duration": 4.72
+  },
+  {
+    "text": "office. What's one issue that makes you",
+    "start": 1279.44,
+    "duration": 4.0
+  },
+  {
+    "text": "rage and what's one issue that you think",
+    "start": 1281.44,
+    "duration": 4.32
+  },
+  {
+    "text": "we should all calm down about? God, I",
+    "start": 1283.44,
+    "duration": 4.08
+  },
+  {
+    "text": "rage about a lot of things, but mainly",
+    "start": 1285.76,
+    "duration": 5.44
+  },
+  {
+    "text": "it's my age. Um, I I probably because I",
+    "start": 1287.52,
+    "duration": 6.12
+  },
+  {
+    "text": "I watch more TV news than I ever have",
+    "start": 1291.2,
+    "duration": 5.2
+  },
+  {
+    "text": "before. And u it does. As someone who is",
+    "start": 1293.64,
+    "duration": 5.48
+  },
+  {
+    "text": "on cable news, I apologize to the entire",
+    "start": 1296.4,
+    "duration": 5.759
+  },
+  {
+    "text": "world uh for what we export. It's okay.",
+    "start": 1299.12,
+    "duration": 5.439
+  },
+  {
+    "text": "It's really social media more than it is",
+    "start": 1302.159,
+    "duration": 5.361
+  },
+  {
+    "text": "TV. TV funnels what's selling on social",
+    "start": 1304.559,
+    "duration": 5.841
+  },
+  {
+    "text": "media, I think, more than the reverse.",
+    "start": 1307.52,
+    "duration": 4.96
+  },
+  {
+    "text": "Uh, but that makes me rage. There's",
+    "start": 1310.4,
+    "duration": 3.759
+  },
+  {
+    "text": "nothing we can do about social media. I",
+    "start": 1312.48,
+    "duration": 4.24
+  },
+  {
+    "text": "wish we could. I The one thing I've been",
+    "start": 1314.159,
+    "duration": 4.961
+  },
+  {
+    "text": "waiting for that I was promised as a",
+    "start": 1316.72,
+    "duration": 4.72
+  },
+  {
+    "text": "young person was a time machine. I gave",
+    "start": 1319.12,
+    "duration": 4.96
+  },
+  {
+    "text": "up on flying cars, but we were promised",
+    "start": 1321.44,
+    "duration": 4.4
+  },
+  {
+    "text": "a time machine, and we still don't have",
+    "start": 1324.08,
+    "duration": 3.599
+  },
+  {
+    "text": "one cuz I'd like to go back and make it",
+    "start": 1325.84,
+    "duration": 4.16
+  },
+  {
+    "text": "impossible to create social media. I",
+    "start": 1327.679,
+    "duration": 4.321
+  },
+  {
+    "text": "don't know how I do it, but I would I",
+    "start": 1330.0,
+    "duration": 3.44
+  },
+  {
+    "text": "would try to do that in addition to",
+    "start": 1332.0,
+    "duration": 3.2
+  },
+  {
+    "text": "preventing assassinations and lots of",
+    "start": 1333.44,
+    "duration": 4.56
+  },
+  {
+    "text": "other terrible things. And we can't",
+    "start": 1335.2,
+    "duration": 5.599
+  },
+  {
+    "text": "survive for the long term the way we are",
+    "start": 1338.0,
+    "duration": 5.679
+  },
+  {
+    "text": "now. We really can't. And I wish people",
+    "start": 1340.799,
+    "duration": 5.521
+  },
+  {
+    "text": "would focus on that. I I know it's hard.",
+    "start": 1343.679,
+    "duration": 4.321
+  },
+  {
+    "text": "Scott was saying earlier, it's very",
+    "start": 1346.32,
+    "duration": 3.68
+  },
+  {
+    "text": "difficult to get people to care about",
+    "start": 1348.0,
+    "duration": 4.72
+  },
+  {
+    "text": "democracy enough to make it uh an issue",
+    "start": 1350.0,
+    "duration": 4.799
+  },
+  {
+    "text": "or the issue in an election. I I",
+    "start": 1352.72,
+    "duration": 4.4
+  },
+  {
+    "text": "completely agree that that is true for",
+    "start": 1354.799,
+    "duration": 5.041
+  },
+  {
+    "text": "now. Uh, it ought not to be true after",
+    "start": 1357.12,
+    "duration": 4.88
+  },
+  {
+    "text": "January 6th. Maybe the Democratic Party",
+    "start": 1359.84,
+    "duration": 5.04
+  },
+  {
+    "text": "would would do better just rerunning the",
+    "start": 1362.0,
+    "duration": 5.6
+  },
+  {
+    "text": "films of January 6th instead of the crap",
+    "start": 1364.88,
+    "duration": 5.6
+  },
+  {
+    "text": "they put out there on TV ads, the clever",
+    "start": 1367.6,
+    "duration": 5.68
+  },
+  {
+    "text": "TV ads that pay the consultants enormous",
+    "start": 1370.48,
+    "duration": 5.52
+  },
+  {
+    "text": "fees. Just remind people what was at",
+    "start": 1373.28,
+    "duration": 4.8
+  },
+  {
+    "text": "stake and what could have happened. We",
+    "start": 1376.0,
+    "duration": 4.4
+  },
+  {
+    "text": "we would not have had a Democratic",
+    "start": 1378.08,
+    "duration": 5.52
+  },
+  {
+    "text": "election in uh in 2020 if Trump had had",
+    "start": 1380.4,
+    "duration": 6.24
+  },
+  {
+    "text": "his way. And in the recesses of his",
+    "start": 1383.6,
+    "duration": 5.04
+  },
+  {
+    "text": "mind, you're not going to tell me that",
+    "start": 1386.64,
+    "duration": 4.72
+  },
+  {
+    "text": "he isn't thinking of ways to continue",
+    "start": 1388.64,
+    "duration": 5.039
+  },
+  {
+    "text": "his regime either with him or with",
+    "start": 1391.36,
+    "duration": 4.48
+  },
+  {
+    "text": "somebody that he trusts, a member of his",
+    "start": 1393.679,
+    "duration": 5.441
+  },
+  {
+    "text": "family or maybe JD Vance, I don't know,",
+    "start": 1395.84,
+    "duration": 5.68
+  },
+  {
+    "text": "uh, in in four years. And I'm even",
+    "start": 1399.12,
+    "duration": 4.48
+  },
+  {
+    "text": "worried about 2026.",
+    "start": 1401.52,
+    "duration": 5.36
+  },
+  {
+    "text": "what what can his SIZA do, the the",
+    "start": 1403.6,
+    "duration": 6.48
+  },
+  {
+    "text": "organization in in uh DHS that Chris",
+    "start": 1406.88,
+    "duration": 5.279
+  },
+  {
+    "text": "Krebs headed up that looks at cyber",
+    "start": 1410.08,
+    "duration": 4.8
+  },
+  {
+    "text": "security and they know how the system",
+    "start": 1412.159,
+    "duration": 5.601
+  },
+  {
+    "text": "works and uh if you have an honest head",
+    "start": 1414.88,
+    "duration": 5.12
+  },
+  {
+    "text": "of SIZA, they make it work better and",
+    "start": 1417.76,
+    "duration": 4.72
+  },
+  {
+    "text": "they make sure that uh that uh foreign",
+    "start": 1420.0,
+    "duration": 4.48
+  },
+  {
+    "text": "influences are not guiding our",
+    "start": 1422.48,
+    "duration": 5.12
+  },
+  {
+    "text": "elections. But if you have someone who",
+    "start": 1424.48,
+    "duration": 6.4
+  },
+  {
+    "text": "has bad motives and who is listening to",
+    "start": 1427.6,
+    "duration": 6.24
+  },
+  {
+    "text": "the devils in the Oval Office, then it",
+    "start": 1430.88,
+    "duration": 6.4
+  },
+  {
+    "text": "is possible to screw up and to to tilt",
+    "start": 1433.84,
+    "duration": 6.319
+  },
+  {
+    "text": "even a midterm election. We all need to",
+    "start": 1437.28,
+    "duration": 6.08
+  },
+  {
+    "text": "watch everything carefully. We have to.",
+    "start": 1440.159,
+    "duration": 6.321
+  },
+  {
+    "text": "It's a matter of our survival as a as a",
+    "start": 1443.36,
+    "duration": 5.6
+  },
+  {
+    "text": "republic. That was a long answer. I got",
+    "start": 1446.48,
+    "duration": 4.319
+  },
+  {
+    "text": "to No, it was great. It was exactly what",
+    "start": 1448.96,
+    "duration": 3.92
+  },
+  {
+    "text": "I wanted. Thank you. And it's a podcast,",
+    "start": 1450.799,
+    "duration": 4.48
+  },
+  {
+    "text": "you know. I don't we go forever. Yeah, I",
+    "start": 1452.88,
+    "duration": 4.64
+  },
+  {
+    "text": "don't have to speak intervals. I hope",
+    "start": 1455.279,
+    "duration": 4.241
+  },
+  {
+    "text": "it's not cable news. Larry Sabato is a",
+    "start": 1457.52,
+    "duration": 3.12
+  },
+  {
+    "text": "professor at the University of Virginia",
+    "start": 1459.52,
+    "duration": 2.8
+  },
+  {
+    "text": "and founder of the Center of Politics.",
+    "start": 1460.64,
+    "duration": 3.6
+  },
+  {
+    "text": "We very much appreciate your time today,",
+    "start": 1462.32,
+    "duration": 5.12
+  },
+  {
+    "text": "Larry. And congrats on on the center and",
+    "start": 1464.24,
+    "duration": 5.439
+  },
+  {
+    "text": "all your success. Thank you very much.",
+    "start": 1467.44,
+    "duration": 3.68
+  },
+  {
+    "text": "And you got me raging. I hope you're",
+    "start": 1469.679,
+    "duration": 3.441
+  },
+  {
+    "text": "happy. There you go. That was a good",
+    "start": 1471.12,
+    "duration": 3.679
+  },
+  {
+    "text": "rage. I've seen a lot of raging and",
+    "start": 1473.12,
+    "duration": 2.88
+  },
+  {
+    "text": "you're up there. Thanks very much. Thank",
+    "start": 1474.799,
+    "duration": 2.321
+  },
+  {
+    "text": "you very much. It was great to talk.",
+    "start": 1476.0,
+    "duration": 2.64
+  },
+  {
+    "text": "Thank you for your time. Take care.",
+    "start": 1477.12,
+    "duration": 4.52
+  },
+  {
+    "text": "Bye-bye.",
+    "start": 1478.64,
+    "duration": 3.0
+  }
+]

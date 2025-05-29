@@ -1,0 +1,2882 @@
+[
+  {
+    "text": "today's number",
+    "start": 0.04,
+    "duration": 4.12
+  },
+  {
+    "text": "$333,000 that's the average cost of a",
+    "start": 1.96,
+    "duration": 5.319
+  },
+  {
+    "text": "wedding in the US Ed true story at my",
+    "start": 4.16,
+    "duration": 5.439
+  },
+  {
+    "text": "first wedding I told my wife listen I've",
+    "start": 7.279,
+    "duration": 4.48
+  },
+  {
+    "text": "got to come clean I've had a lot of",
+    "start": 9.599,
+    "duration": 4.92
+  },
+  {
+    "text": "prostitutes and she looked up and said I",
+    "start": 11.759,
+    "duration": 3.961
+  },
+  {
+    "text": "thought I'd recognize",
+    "start": 14.519,
+    "duration": 5.321
+  },
+  {
+    "text": "[Music]",
+    "start": 15.72,
+    "duration": 8.479
+  },
+  {
+    "text": "you welcome to propy markets Ed today",
+    "start": 19.84,
+    "duration": 5.96
+  },
+  {
+    "text": "we're speaking with Ben Miller the",
+    "start": 24.199,
+    "duration": 3.521
+  },
+  {
+    "text": "co-founder and CEO of funrise the",
+    "start": 25.8,
+    "duration": 3.479
+  },
+  {
+    "text": "largest director consumer alternative",
+    "start": 27.72,
+    "duration": 3.44
+  },
+  {
+    "text": "asset manager the US this isn't a good",
+    "start": 29.279,
+    "duration": 4.721
+  },
+  {
+    "text": "Segway we speak with Ben about",
+    "start": 31.16,
+    "duration": 5.079
+  },
+  {
+    "text": "increasing access to the private markets",
+    "start": 34.0,
+    "duration": 5.0
+  },
+  {
+    "text": "the merits of Regulation and gaining the",
+    "start": 36.239,
+    "duration": 4.121
+  },
+  {
+    "text": "trust of",
+    "start": 39.0,
+    "duration": 4.2
+  },
+  {
+    "text": "investors the democratization of these",
+    "start": 40.36,
+    "duration": 4.56
+  },
+  {
+    "text": "asset classes I think is a good thing I",
+    "start": 43.2,
+    "duration": 3.839
+  },
+  {
+    "text": "used to be more of a I don't know have",
+    "start": 44.92,
+    "duration": 4.159
+  },
+  {
+    "text": "more of a paternal view now I'm kind of",
+    "start": 47.039,
+    "duration": 3.68
+  },
+  {
+    "text": "stop infantilizing these people and I'm",
+    "start": 49.079,
+    "duration": 3.041
+  },
+  {
+    "text": "beginning to think that regulation was",
+    "start": 50.719,
+    "duration": 2.921
+  },
+  {
+    "text": "nothing but an attempt to sequester",
+    "start": 52.12,
+    "duration": 3.36
+  },
+  {
+    "text": "these assets to institutions such that",
+    "start": 53.64,
+    "duration": 4.0
+  },
+  {
+    "text": "they wouldn't have access to more",
+    "start": 55.48,
+    "duration": 5.079
+  },
+  {
+    "text": "Capital anyways here is our conversation",
+    "start": 57.64,
+    "duration": 5.719
+  },
+  {
+    "text": "with the COO of funrise Ben Miller Ben",
+    "start": 60.559,
+    "duration": 4.121
+  },
+  {
+    "text": "thank you for joining us thanks for",
+    "start": 63.359,
+    "duration": 2.201
+  },
+  {
+    "text": "having",
+    "start": 64.68,
+    "duration": 3.4
+  },
+  {
+    "text": "me so I just want to start out talking a",
+    "start": 65.56,
+    "duration": 4.199
+  },
+  {
+    "text": "little bit about regulation you know we",
+    "start": 68.08,
+    "duration": 4.12
+  },
+  {
+    "text": "talk a lot about venture capital on this",
+    "start": 69.759,
+    "duration": 4.321
+  },
+  {
+    "text": "podcast we talk a lot about alternative",
+    "start": 72.2,
+    "duration": 4.72
+  },
+  {
+    "text": "assets but unlike the stock market these",
+    "start": 74.08,
+    "duration": 4.48
+  },
+  {
+    "text": "aren't the kinds of assets that regular",
+    "start": 76.92,
+    "duration": 4.08
+  },
+  {
+    "text": "people can invest in and I know that",
+    "start": 78.56,
+    "duration": 4.519
+  },
+  {
+    "text": "your company is changing that but before",
+    "start": 81.0,
+    "duration": 3.56
+  },
+  {
+    "text": "we get to that could you just give us a",
+    "start": 83.079,
+    "duration": 5.521
+  },
+  {
+    "text": "brief summary on the landscape in in",
+    "start": 84.56,
+    "duration": 5.879
+  },
+  {
+    "text": "regulation of private Market markets why",
+    "start": 88.6,
+    "duration": 4.799
+  },
+  {
+    "text": "haven't regular investors gotten to",
+    "start": 90.439,
+    "duration": 4.72
+  },
+  {
+    "text": "access these types of markets",
+    "start": 93.399,
+    "duration": 3.601
+  },
+  {
+    "text": "historically well the essence of the",
+    "start": 95.159,
+    "duration": 4.201
+  },
+  {
+    "text": "regulatory framework we have in America",
+    "start": 97.0,
+    "duration": 5.0
+  },
+  {
+    "text": "is that you can either regulate the",
+    "start": 99.36,
+    "duration": 4.92
+  },
+  {
+    "text": "offering or the",
+    "start": 102.0,
+    "duration": 4.6
+  },
+  {
+    "text": "investor so the way that uh public",
+    "start": 104.28,
+    "duration": 4.119
+  },
+  {
+    "text": "markets work is the offerings are",
+    "start": 106.6,
+    "duration": 3.559
+  },
+  {
+    "text": "registered and and reviewed and",
+    "start": 108.399,
+    "duration": 4.4
+  },
+  {
+    "text": "regulated by the SEC and the private",
+    "start": 110.159,
+    "duration": 5.761
+  },
+  {
+    "text": "markets the investor is regulated so",
+    "start": 112.799,
+    "duration": 4.481
+  },
+  {
+    "text": "they have uh different investor",
+    "start": 115.92,
+    "duration": 3.36
+  },
+  {
+    "text": "qualifications like accredited or",
+    "start": 117.28,
+    "duration": 5.24
+  },
+  {
+    "text": "qualified purchaser or qib the premise",
+    "start": 119.28,
+    "duration": 5.0
+  },
+  {
+    "text": "is that if the investor is",
+    "start": 122.52,
+    "duration": 4.879
+  },
+  {
+    "text": "large uh that they are sophisticated so",
+    "start": 124.28,
+    "duration": 5.759
+  },
+  {
+    "text": "that that b for sophistication what",
+    "start": 127.399,
+    "duration": 4.48
+  },
+  {
+    "text": "actually is that what does sophisticated",
+    "start": 130.039,
+    "duration": 4.881
+  },
+  {
+    "text": "mean here do it mean just rich or",
+    "start": 131.879,
+    "duration": 4.36
+  },
+  {
+    "text": "experienced or no it's something a",
+    "start": 134.92,
+    "duration": 5.08
+  },
+  {
+    "text": "wealth or or asset value test so meaning",
+    "start": 136.239,
+    "duration": 5.561
+  },
+  {
+    "text": "a net worth that's that's how much the",
+    "start": 140.0,
+    "duration": 4.44
+  },
+  {
+    "text": "net worth is yeah I mean the technical",
+    "start": 141.8,
+    "duration": 4.439
+  },
+  {
+    "text": "definitions there a million dollars of",
+    "start": 144.44,
+    "duration": 3.92
+  },
+  {
+    "text": "net worth excluding your home for",
+    "start": 146.239,
+    "duration": 3.801
+  },
+  {
+    "text": "accredit investors and qual by",
+    "start": 148.36,
+    "duration": 4.84
+  },
+  {
+    "text": "purchasers is a $5 million hurdle and uh",
+    "start": 150.04,
+    "duration": 7.36
+  },
+  {
+    "text": "a qib is a $100 million of assets and my",
+    "start": 153.2,
+    "duration": 6.319
+  },
+  {
+    "text": "understanding is that with your launch",
+    "start": 157.4,
+    "duration": 4.559
+  },
+  {
+    "text": "of of fundrising the Innovation fund",
+    "start": 159.519,
+    "duration": 4.481
+  },
+  {
+    "text": "that's generally beginning to change",
+    "start": 161.959,
+    "duration": 4.0
+  },
+  {
+    "text": "that I mean it seems like regular",
+    "start": 164.0,
+    "duration": 4.319
+  },
+  {
+    "text": "investors are somehow able to",
+    "start": 165.959,
+    "duration": 4.041
+  },
+  {
+    "text": "participate well so we did something",
+    "start": 168.319,
+    "duration": 3.881
+  },
+  {
+    "text": "novel we created essentially the first",
+    "start": 170.0,
+    "duration": 4.36
+  },
+  {
+    "text": "public Venture fund so we took a venture",
+    "start": 172.2,
+    "duration": 5.36
+  },
+  {
+    "text": "fund and qualified it with the SEC so",
+    "start": 174.36,
+    "duration": 5.28
+  },
+  {
+    "text": "it's a publicly registered uh 40 act",
+    "start": 177.56,
+    "duration": 4.959
+  },
+  {
+    "text": "fund F like a mutual fund so instead of",
+    "start": 179.64,
+    "duration": 4.959
+  },
+  {
+    "text": "having to put uh qualifications or",
+    "start": 182.519,
+    "duration": 4.761
+  },
+  {
+    "text": "limitations on the investor we we have",
+    "start": 184.599,
+    "duration": 4.441
+  },
+  {
+    "text": "the offering or the fund itself is",
+    "start": 187.28,
+    "duration": 3.76
+  },
+  {
+    "text": "regulated but the consequences of that",
+    "start": 189.04,
+    "duration": 4.08
+  },
+  {
+    "text": "is that it opened up venture capital for",
+    "start": 191.04,
+    "duration": 4.919
+  },
+  {
+    "text": "the first time to normal investors and",
+    "start": 193.12,
+    "duration": 4.28
+  },
+  {
+    "text": "how did you come up with this idea well",
+    "start": 195.959,
+    "duration": 4.64
+  },
+  {
+    "text": "so I uh co-founded fundrise back in 2012",
+    "start": 197.4,
+    "duration": 5.559
+  },
+  {
+    "text": "to democratize investing in real estate",
+    "start": 200.599,
+    "duration": 4.36
+  },
+  {
+    "text": "so I've been working in this sort of",
+    "start": 202.959,
+    "duration": 4.961
+  },
+  {
+    "text": "intersection of Tech Finance and",
+    "start": 204.959,
+    "duration": 7.121
+  },
+  {
+    "text": "regulations for the past 12 years and uh",
+    "start": 207.92,
+    "duration": 6.0
+  },
+  {
+    "text": "we we sort of successfully democratized",
+    "start": 212.08,
+    "duration": 4.28
+  },
+  {
+    "text": "mesing real estate um we have like two",
+    "start": 213.92,
+    "duration": 4.48
+  },
+  {
+    "text": "million users and I think we have $7",
+    "start": 216.36,
+    "duration": 4.92
+  },
+  {
+    "text": "billion doar of real estate assets so",
+    "start": 218.4,
+    "duration": 4.64
+  },
+  {
+    "text": "when we sort of were thinking about the",
+    "start": 221.28,
+    "duration": 4.72
+  },
+  {
+    "text": "next Hill to climb we you know we work",
+    "start": 223.04,
+    "duration": 4.8
+  },
+  {
+    "text": "in Tech we have 100 software Engineers",
+    "start": 226.0,
+    "duration": 4.12
+  },
+  {
+    "text": "we have all the technology that a",
+    "start": 227.84,
+    "duration": 4.52
+  },
+  {
+    "text": "company at our scale would have and you",
+    "start": 230.12,
+    "duration": 4.319
+  },
+  {
+    "text": "know we felt like it didn't make sense",
+    "start": 232.36,
+    "duration": 4.599
+  },
+  {
+    "text": "that Venture Capital should be barred",
+    "start": 234.439,
+    "duration": 4.921
+  },
+  {
+    "text": "for normal people just that just seemed",
+    "start": 236.959,
+    "duration": 5.521
+  },
+  {
+    "text": "antiquate ated and so we went to the SEC",
+    "start": 239.36,
+    "duration": 4.84
+  },
+  {
+    "text": "and spent a couple years working with",
+    "start": 242.48,
+    "duration": 4.92
+  },
+  {
+    "text": "them to find a framework that they felt",
+    "start": 244.2,
+    "duration": 5.959
+  },
+  {
+    "text": "uh would work to sort of open up the",
+    "start": 247.4,
+    "duration": 5.52
+  },
+  {
+    "text": "industry and that was also true of real",
+    "start": 250.159,
+    "duration": 5.041
+  },
+  {
+    "text": "estate yeah I started in that took me",
+    "start": 252.92,
+    "duration": 4.4
+  },
+  {
+    "text": "about two years as well open it up maybe",
+    "start": 255.2,
+    "duration": 5.24
+  },
+  {
+    "text": "maybe longer back in 2011 2012 and the",
+    "start": 257.32,
+    "duration": 5.52
+  },
+  {
+    "text": "whole thing makes people feel like reg",
+    "start": 260.44,
+    "duration": 5.16
+  },
+  {
+    "text": "Regulators or government is this like",
+    "start": 262.84,
+    "duration": 4.76
+  },
+  {
+    "text": "kind of like far off entity but if you",
+    "start": 265.6,
+    "duration": 4.4
+  },
+  {
+    "text": "walk in the front door and you talk to",
+    "start": 267.6,
+    "duration": 3.48
+  },
+  {
+    "text": "them and say this is what I want to do",
+    "start": 270.0,
+    "duration": 2.68
+  },
+  {
+    "text": "this is why I want to do it generally",
+    "start": 271.08,
+    "duration": 3.76
+  },
+  {
+    "text": "they're pretty open-minded it's slow me",
+    "start": 272.68,
+    "duration": 4.519
+  },
+  {
+    "text": "it takes took us a couple years gen I",
+    "start": 274.84,
+    "duration": 4.56
+  },
+  {
+    "text": "mean i' my generally found that you can",
+    "start": 277.199,
+    "duration": 5.0
+  },
+  {
+    "text": "get done what is logical as long as",
+    "start": 279.4,
+    "duration": 4.76
+  },
+  {
+    "text": "you're uh you know trying to do it for",
+    "start": 282.199,
+    "duration": 4.44
+  },
+  {
+    "text": "for good reasons yeah Ben nice to meet",
+    "start": 284.16,
+    "duration": 4.72
+  },
+  {
+    "text": "you so I love the idea of",
+    "start": 286.639,
+    "duration": 4.361
+  },
+  {
+    "text": "democratizing investing in certain asset",
+    "start": 288.88,
+    "duration": 3.36
+  },
+  {
+    "text": "classes that traditionally have been",
+    "start": 291.0,
+    "duration": 3.44
+  },
+  {
+    "text": "sequestered from you know black better",
+    "start": 292.24,
+    "duration": 4.32
+  },
+  {
+    "text": "term retail investors I would imagine",
+    "start": 294.44,
+    "duration": 4.479
+  },
+  {
+    "text": "that it would be an administrative and",
+    "start": 296.56,
+    "duration": 4.8
+  },
+  {
+    "text": "logistical nightmare for you though",
+    "start": 298.919,
+    "duration": 4.641
+  },
+  {
+    "text": "because some of these assets are",
+    "start": 301.36,
+    "duration": 4.64
+  },
+  {
+    "text": "illiquid and trying to figure out the",
+    "start": 303.56,
+    "duration": 4.72
+  },
+  {
+    "text": "entry point and then when someone wants",
+    "start": 306.0,
+    "duration": 4.919
+  },
+  {
+    "text": "to redeem how have you gotten past is it",
+    "start": 308.28,
+    "duration": 5.04
+  },
+  {
+    "text": "a use of technology is it quite frankly",
+    "start": 310.919,
+    "duration": 5.521
+  },
+  {
+    "text": "lockups that are that are not onerous",
+    "start": 313.32,
+    "duration": 6.04
+  },
+  {
+    "text": "but you know multi-year lockup periods",
+    "start": 316.44,
+    "duration": 5.28
+  },
+  {
+    "text": "how have you gotten around not only the",
+    "start": 319.36,
+    "duration": 3.839
+  },
+  {
+    "text": "regulatory hurdles but just the",
+    "start": 321.72,
+    "duration": 3.479
+  },
+  {
+    "text": "administrative and logistical hurdles of",
+    "start": 323.199,
+    "duration": 4.241
+  },
+  {
+    "text": "having someone place a small dollar",
+    "start": 325.199,
+    "duration": 4.0
+  },
+  {
+    "text": "amount into a private illiquid",
+    "start": 327.44,
+    "duration": 3.36
+  },
+  {
+    "text": "investment I'll break your question up",
+    "start": 329.199,
+    "duration": 3.641
+  },
+  {
+    "text": "into two parts one is a technology",
+    "start": 330.8,
+    "duration": 4.399
+  },
+  {
+    "text": "question one sort of a business practice",
+    "start": 332.84,
+    "duration": 3.52
+  },
+  {
+    "text": "so on the",
+    "start": 335.199,
+    "duration": 3.241
+  },
+  {
+    "text": "technology point we you know we build a",
+    "start": 336.36,
+    "duration": 4.119
+  },
+  {
+    "text": "platform we have the same type of",
+    "start": 338.44,
+    "duration": 3.879
+  },
+  {
+    "text": "Technology platform you'd see with a big",
+    "start": 340.479,
+    "duration": 4.041
+  },
+  {
+    "text": "you know investment platform like Schwab",
+    "start": 342.319,
+    "duration": 4.6
+  },
+  {
+    "text": "we have uh you know 18 people doing",
+    "start": 344.52,
+    "duration": 4.28
+  },
+  {
+    "text": "customer service investor relations we",
+    "start": 346.919,
+    "duration": 4.521
+  },
+  {
+    "text": "have software that manages like all the",
+    "start": 348.8,
+    "duration": 5.28
+  },
+  {
+    "text": "distributions and dividends and you know",
+    "start": 351.44,
+    "duration": 5.479
+  },
+  {
+    "text": "millions of people so what we found",
+    "start": 354.08,
+    "duration": 4.08
+  },
+  {
+    "text": "because we didn't start with a $10",
+    "start": 356.919,
+    "duration": 2.961
+  },
+  {
+    "text": "minimum we we started with a higher",
+    "start": 358.16,
+    "duration": 4.96
+  },
+  {
+    "text": "minimum in the thousands years ago and",
+    "start": 359.88,
+    "duration": 5.56
+  },
+  {
+    "text": "as it became more and more automated you",
+    "start": 363.12,
+    "duration": 5.12
+  },
+  {
+    "text": "know the marginal cost per dollar of",
+    "start": 365.44,
+    "duration": 5.64
+  },
+  {
+    "text": "software is zero right I mean it's cost",
+    "start": 368.24,
+    "duration": 5.84
+  },
+  {
+    "text": "nothing to make bits so the technology",
+    "start": 371.08,
+    "duration": 6.0
+  },
+  {
+    "text": "platform at scale is what drove the the",
+    "start": 374.08,
+    "duration": 5.08
+  },
+  {
+    "text": "uh access down and then the question",
+    "start": 377.08,
+    "duration": 4.239
+  },
+  {
+    "text": "about liquidity and redemptions that's",
+    "start": 379.16,
+    "duration": 4.159
+  },
+  {
+    "text": "been a really interesting dynamic in the",
+    "start": 381.319,
+    "duration": 4.44
+  },
+  {
+    "text": "market where um I think you see this a",
+    "start": 383.319,
+    "duration": 4.361
+  },
+  {
+    "text": "lot in in Industries where something's",
+    "start": 385.759,
+    "duration": 4.28
+  },
+  {
+    "text": "new people don't know what the best",
+    "start": 387.68,
+    "duration": 5.12
+  },
+  {
+    "text": "practices are and there's a process of",
+    "start": 390.039,
+    "duration": 5.72
+  },
+  {
+    "text": "evolution so we we learned that um you",
+    "start": 392.8,
+    "duration": 4.36
+  },
+  {
+    "text": "know you have these two worlds public",
+    "start": 395.759,
+    "duration": 3.56
+  },
+  {
+    "text": "markets which are 100% liquid private",
+    "start": 397.16,
+    "duration": 4.64
+  },
+  {
+    "text": "markets which are nearly 0% liquid and",
+    "start": 399.319,
+    "duration": 4.16
+  },
+  {
+    "text": "if you're going to create a a a bridge",
+    "start": 401.8,
+    "duration": 3.16
+  },
+  {
+    "text": "between the two you have to basically",
+    "start": 403.479,
+    "duration": 3.961
+  },
+  {
+    "text": "have a mix of liquid and liquid assets",
+    "start": 404.96,
+    "duration": 4.56
+  },
+  {
+    "text": "you can't be one or the other and so our",
+    "start": 407.44,
+    "duration": 3.28
+  },
+  {
+    "text": "funds are",
+    "start": 409.52,
+    "duration": 3.88
+  },
+  {
+    "text": "typically approximately 30% liquid so",
+    "start": 410.72,
+    "duration": 6.039
+  },
+  {
+    "text": "our Tech fund for example um has lots of",
+    "start": 413.4,
+    "duration": 5.4
+  },
+  {
+    "text": "private Investments and tech companies",
+    "start": 416.759,
+    "duration": 3.321
+  },
+  {
+    "text": "as well as",
+    "start": 418.8,
+    "duration": 3.399
+  },
+  {
+    "text": "uh we hold liquid Bond typically liquid",
+    "start": 420.08,
+    "duration": 4.959
+  },
+  {
+    "text": "Tech bonds so we bought Tech busted",
+    "start": 422.199,
+    "duration": 5.0
+  },
+  {
+    "text": "convertibles and other kinds of bonds so",
+    "start": 425.039,
+    "duration": 4.72
+  },
+  {
+    "text": "it's really about um recognizing that if",
+    "start": 427.199,
+    "duration": 3.84
+  },
+  {
+    "text": "you're going to be at this intersection",
+    "start": 429.759,
+    "duration": 3.601
+  },
+  {
+    "text": "you have to be a mix of two models",
+    "start": 431.039,
+    "duration": 3.88
+  },
+  {
+    "text": "liquid and IL liquid you can't be one of",
+    "start": 433.36,
+    "duration": 3.48
+  },
+  {
+    "text": "the other I also just had a question",
+    "start": 434.919,
+    "duration": 4.84
+  },
+  {
+    "text": "about private credit and can you first",
+    "start": 436.84,
+    "duration": 5.919
+  },
+  {
+    "text": "off Define private credit and give it",
+    "start": 439.759,
+    "duration": 4.961
+  },
+  {
+    "text": "not a pitch but an overview of the asset",
+    "start": 442.759,
+    "duration": 4.401
+  },
+  {
+    "text": "class and why investors might be",
+    "start": 444.72,
+    "duration": 3.96
+  },
+  {
+    "text": "interested in having some exposure to",
+    "start": 447.16,
+    "duration": 3.56
+  },
+  {
+    "text": "private credit private credit is is",
+    "start": 448.68,
+    "duration": 5.04
+  },
+  {
+    "text": "non-bank lending so banks are are highly",
+    "start": 450.72,
+    "duration": 4.68
+  },
+  {
+    "text": "regulated because they take their money",
+    "start": 453.72,
+    "duration": 5.159
+  },
+  {
+    "text": "from uh depositors and matching uh",
+    "start": 455.4,
+    "duration": 5.0
+  },
+  {
+    "text": "assets and liabilities is tricky because",
+    "start": 458.879,
+    "duration": 4.16
+  },
+  {
+    "text": "the deposits are could be overnight",
+    "start": 460.4,
+    "duration": 4.359
+  },
+  {
+    "text": "liquidated like we saw in Silicon Valley",
+    "start": 463.039,
+    "duration": 4.28
+  },
+  {
+    "text": "Bank but the assets are illiquid so as a",
+    "start": 464.759,
+    "duration": 4.12
+  },
+  {
+    "text": "consequence because of the deposit",
+    "start": 467.319,
+    "duration": 3.121
+  },
+  {
+    "text": "Insurance the banks have become",
+    "start": 468.879,
+    "duration": 3.681
+  },
+  {
+    "text": "regulated and over time increasingly",
+    "start": 470.44,
+    "duration": 4.319
+  },
+  {
+    "text": "more regulated and the more regulated",
+    "start": 472.56,
+    "duration": 4.16
+  },
+  {
+    "text": "they become the more the lending",
+    "start": 474.759,
+    "duration": 5.241
+  },
+  {
+    "text": "environment needs other Solutions",
+    "start": 476.72,
+    "duration": 5.12
+  },
+  {
+    "text": "and so those other Solutions can be",
+    "start": 480.0,
+    "duration": 3.72
+  },
+  {
+    "text": "different kinds of debt funds there",
+    "start": 481.84,
+    "duration": 4.0
+  },
+  {
+    "text": "there are mortgage rats there are all",
+    "start": 483.72,
+    "duration": 4.879
+  },
+  {
+    "text": "sorts of of of flavors of kinds of",
+    "start": 485.84,
+    "duration": 4.28
+  },
+  {
+    "text": "private credit and what they're trying",
+    "start": 488.599,
+    "duration": 3.241
+  },
+  {
+    "text": "to do what you know we have a private",
+    "start": 490.12,
+    "duration": 2.96
+  },
+  {
+    "text": "credit fund is you're trying to find",
+    "start": 491.84,
+    "duration": 3.24
+  },
+  {
+    "text": "places that are not getting funded",
+    "start": 493.08,
+    "duration": 3.6
+  },
+  {
+    "text": "appropriately there's",
+    "start": 495.08,
+    "duration": 3.28
+  },
+  {
+    "text": "inefficiencies and um those",
+    "start": 496.68,
+    "duration": 3.919
+  },
+  {
+    "text": "inefficiencies can be cyclical or they",
+    "start": 498.36,
+    "duration": 3.6
+  },
+  {
+    "text": "can be structural depending on what's",
+    "start": 500.599,
+    "duration": 3.401
+  },
+  {
+    "text": "happening in the world and so on one",
+    "start": 501.96,
+    "duration": 4.56
+  },
+  {
+    "text": "hand I think this is a secular Trend",
+    "start": 504.0,
+    "duration": 4.12
+  },
+  {
+    "text": "that's that's going to continue to",
+    "start": 506.52,
+    "duration": 3.76
+  },
+  {
+    "text": "become dominant because as Banks can be",
+    "start": 508.12,
+    "duration": 3.76
+  },
+  {
+    "text": "more and more regulated and actually I",
+    "start": 510.28,
+    "duration": 3.84
+  },
+  {
+    "text": "think as Banks get out of the lending",
+    "start": 511.88,
+    "duration": 4.279
+  },
+  {
+    "text": "business actually they're going to",
+    "start": 514.12,
+    "duration": 3.32
+  },
+  {
+    "text": "there's going to be a need for private",
+    "start": 516.159,
+    "duration": 3.961
+  },
+  {
+    "text": "credit the other hand there es and flows",
+    "start": 517.44,
+    "duration": 3.8
+  },
+  {
+    "text": "and some sometimes there's too much",
+    "start": 520.12,
+    "duration": 2.68
+  },
+  {
+    "text": "money in the market and sometimes",
+    "start": 521.24,
+    "duration": 3.36
+  },
+  {
+    "text": "there's not enough I just want to go",
+    "start": 522.8,
+    "duration": 4.92
+  },
+  {
+    "text": "back to democratized access in investing",
+    "start": 524.6,
+    "duration": 6.0
+  },
+  {
+    "text": "which I I'm all for and I've talked",
+    "start": 527.72,
+    "duration": 6.2
+  },
+  {
+    "text": "about on this podcast before but I think",
+    "start": 530.6,
+    "duration": 5.679
+  },
+  {
+    "text": "that word democratizing democratizing",
+    "start": 533.92,
+    "duration": 4.84
+  },
+  {
+    "text": "access in in the investment World it",
+    "start": 536.279,
+    "duration": 5.361
+  },
+  {
+    "text": "it's kind of getting a bad WAP I think",
+    "start": 538.76,
+    "duration": 5.68
+  },
+  {
+    "text": "because it's being used so frequently I",
+    "start": 541.64,
+    "duration": 5.16
+  },
+  {
+    "text": "mean we saw it with Robin Hood we've",
+    "start": 544.44,
+    "duration": 5.399
+  },
+  {
+    "text": "seen it with with other um Financial",
+    "start": 546.8,
+    "duration": 5.24
+  },
+  {
+    "text": "products so I'm just curious to get your",
+    "start": 549.839,
+    "duration": 4.761
+  },
+  {
+    "text": "view on what what democratized access",
+    "start": 552.04,
+    "duration": 5.72
+  },
+  {
+    "text": "means at fundrise and why do you think",
+    "start": 554.6,
+    "duration": 5.44
+  },
+  {
+    "text": "that investors should take it seriously",
+    "start": 557.76,
+    "duration": 4.12
+  },
+  {
+    "text": "if you think about in a longer time",
+    "start": 560.04,
+    "duration": 4.919
+  },
+  {
+    "text": "scale like 100 years you know the Arc of",
+    "start": 561.88,
+    "duration": 4.56
+  },
+  {
+    "text": "financial history bends towards",
+    "start": 564.959,
+    "duration": 3.921
+  },
+  {
+    "text": "democracy and there's been es and fits",
+    "start": 566.44,
+    "duration": 3.6
+  },
+  {
+    "text": "and starts",
+    "start": 568.88,
+    "duration": 2.8
+  },
+  {
+    "text": "and so often when something's getting",
+    "start": 570.04,
+    "duration": 3.76
+  },
+  {
+    "text": "democratized again there's like periods",
+    "start": 571.68,
+    "duration": 4.2
+  },
+  {
+    "text": "of of instability as the industry",
+    "start": 573.8,
+    "duration": 4.719
+  },
+  {
+    "text": "figures out the norms and now you know",
+    "start": 575.88,
+    "duration": 4.399
+  },
+  {
+    "text": "everybody invest in mutual funds that",
+    "start": 578.519,
+    "duration": 3.601
+  },
+  {
+    "text": "wasn't the case before the 80s everybody",
+    "start": 580.279,
+    "duration": 5.0
+  },
+  {
+    "text": "invests in in uh stocks and trading so",
+    "start": 582.12,
+    "duration": 6.2
+  },
+  {
+    "text": "these these Trends um have often gone",
+    "start": 585.279,
+    "duration": 4.841
+  },
+  {
+    "text": "through sort of booms and busts and so",
+    "start": 588.32,
+    "duration": 4.28
+  },
+  {
+    "text": "we went through a a boom and a bust with",
+    "start": 590.12,
+    "duration": 5.08
+  },
+  {
+    "text": "that because democratized it uh then it",
+    "start": 592.6,
+    "duration": 5.28
+  },
+  {
+    "text": "got overvalued uh but",
+    "start": 595.2,
+    "duration": 4.92
+  },
+  {
+    "text": "so one of the advantage of private",
+    "start": 597.88,
+    "duration": 3.639
+  },
+  {
+    "text": "markets over public markets is you can",
+    "start": 600.12,
+    "duration": 3.68
+  },
+  {
+    "text": "take a longer view typically when you're",
+    "start": 601.519,
+    "duration": 3.721
+  },
+  {
+    "text": "investing in the private markets it's a",
+    "start": 603.8,
+    "duration": 4.159
+  },
+  {
+    "text": "7 to 10 year Horizon maybe five at the",
+    "start": 605.24,
+    "duration": 5.4
+  },
+  {
+    "text": "minimum and so you can see past a lot of",
+    "start": 607.959,
+    "duration": 5.641
+  },
+  {
+    "text": "the short-term volatility so right now",
+    "start": 610.64,
+    "duration": 5.84
+  },
+  {
+    "text": "we're probably you know coming through",
+    "start": 613.6,
+    "duration": 5.239
+  },
+  {
+    "text": "kind of a bust in that where people took",
+    "start": 616.48,
+    "duration": 4.0
+  },
+  {
+    "text": "advantage of it I",
+    "start": 618.839,
+    "duration": 4.12
+  },
+  {
+    "text": "think and and some of the models really",
+    "start": 620.48,
+    "duration": 6.52
+  },
+  {
+    "text": "didn't hold up but I think over time you",
+    "start": 622.959,
+    "duration": 5.961
+  },
+  {
+    "text": "know people are figuring it out I think",
+    "start": 627.0,
+    "duration": 4.16
+  },
+  {
+    "text": "we've we figured out how to democratize",
+    "start": 628.92,
+    "duration": 3.84
+  },
+  {
+    "text": "uh real estate venture capital private",
+    "start": 631.16,
+    "duration": 4.56
+  },
+  {
+    "text": "credit and just because of technology",
+    "start": 632.76,
+    "duration": 5.12
+  },
+  {
+    "text": "and information transparency the",
+    "start": 635.72,
+    "duration": 3.48
+  },
+  {
+    "text": "difference between public and private",
+    "start": 637.88,
+    "duration": 3.6
+  },
+  {
+    "text": "markets is diminishing I mean the",
+    "start": 639.2,
+    "duration": 3.879
+  },
+  {
+    "text": "private markets are becoming more public",
+    "start": 641.48,
+    "duration": 4.039
+  },
+  {
+    "text": "more transparent more efficient and",
+    "start": 643.079,
+    "duration": 4.44
+  },
+  {
+    "text": "that's just what happens to markets",
+    "start": 645.519,
+    "duration": 3.801
+  },
+  {
+    "text": "thankfully because of the system we live",
+    "start": 647.519,
+    "duration": 4.401
+  },
+  {
+    "text": "in and I think that you know 100 years",
+    "start": 649.32,
+    "duration": 3.88
+  },
+  {
+    "text": "from now 50 years from now it probably",
+    "start": 651.92,
+    "duration": 3.68
+  },
+  {
+    "text": "won't be a difference between the two",
+    "start": 653.2,
+    "duration": 4.759
+  },
+  {
+    "text": "and it's just a question of like who and",
+    "start": 655.6,
+    "duration": 4.16
+  },
+  {
+    "text": "how you win that",
+    "start": 657.959,
+    "duration": 4.32
+  },
+  {
+    "text": "yeah I feel like the The",
+    "start": 659.76,
+    "duration": 5.24
+  },
+  {
+    "text": "Regulators argument has been that you",
+    "start": 662.279,
+    "duration": 5.0
+  },
+  {
+    "text": "know you need to protect investors from",
+    "start": 665.0,
+    "duration": 4.48
+  },
+  {
+    "text": "themselves in a way like if if you if",
+    "start": 667.279,
+    "duration": 3.961
+  },
+  {
+    "text": "you're not you know registering with the",
+    "start": 669.48,
+    "duration": 4.96
+  },
+  {
+    "text": "SEC and you have people selling stock in",
+    "start": 671.24,
+    "duration": 5.599
+  },
+  {
+    "text": "private companies then you know",
+    "start": 674.44,
+    "duration": 4.24
+  },
+  {
+    "text": "inexperienced investors won't really",
+    "start": 676.839,
+    "duration": 3.041
+  },
+  {
+    "text": "know what they're doing and they could",
+    "start": 678.68,
+    "duration": 3.159
+  },
+  {
+    "text": "get ripped off in some way I think",
+    "start": 679.88,
+    "duration": 3.84
+  },
+  {
+    "text": "that's sort of the argument from the",
+    "start": 681.839,
+    "duration": 4.881
+  },
+  {
+    "text": "regulator side of things which I get in",
+    "start": 683.72,
+    "duration": 6.239
+  },
+  {
+    "text": "a way but it's a very paternalistic",
+    "start": 686.72,
+    "duration": 6.799
+  },
+  {
+    "text": "view so i' I'd love to get your take on",
+    "start": 689.959,
+    "duration": 6.281
+  },
+  {
+    "text": "do you see the merits in protecting",
+    "start": 693.519,
+    "duration": 4.44
+  },
+  {
+    "text": "investors from themselves or do you",
+    "start": 696.24,
+    "duration": 3.399
+  },
+  {
+    "text": "believe that it should be more of a",
+    "start": 697.959,
+    "duration": 4.44
+  },
+  {
+    "text": "free-for-all that anyone can go invest",
+    "start": 699.639,
+    "duration": 4.64
+  },
+  {
+    "text": "in whatever they want and if you get",
+    "start": 702.399,
+    "duration": 3.721
+  },
+  {
+    "text": "burned on the downside you know you",
+    "start": 704.279,
+    "duration": 3.721
+  },
+  {
+    "text": "should have done your diligence my",
+    "start": 706.12,
+    "duration": 5.399
+  },
+  {
+    "text": "experience as a manager through 2008 was",
+    "start": 708.0,
+    "duration": 6.6
+  },
+  {
+    "text": "that you certainly can't trust anybody",
+    "start": 711.519,
+    "duration": 4.921
+  },
+  {
+    "text": "big companies big institutions or small",
+    "start": 714.6,
+    "duration": 3.799
+  },
+  {
+    "text": "investors there's the there's a lack of",
+    "start": 716.44,
+    "duration": 4.959
+  },
+  {
+    "text": "uh of good judgment and when times are",
+    "start": 718.399,
+    "duration": 6.201
+  },
+  {
+    "text": "hot and so um it's a constant balance",
+    "start": 721.399,
+    "duration": 4.841
+  },
+  {
+    "text": "right every we've been dealing with this",
+    "start": 724.6,
+    "duration": 3.28
+  },
+  {
+    "text": "and and probably every political",
+    "start": 726.24,
+    "duration": 3.36
+  },
+  {
+    "text": "discussion how much you deal with",
+    "start": 727.88,
+    "duration": 5.24
+  },
+  {
+    "text": "protecting investors or or U regulating",
+    "start": 729.6,
+    "duration": 6.039
+  },
+  {
+    "text": "versus basically uh free enterprise",
+    "start": 733.12,
+    "duration": 4.839
+  },
+  {
+    "text": "growth-driven entrepreneurism and you",
+    "start": 735.639,
+    "duration": 3.601
+  },
+  {
+    "text": "have to have a balanced approach you",
+    "start": 737.959,
+    "duration": 2.88
+  },
+  {
+    "text": "have to basically have a nuanced",
+    "start": 739.24,
+    "duration": 4.159
+  },
+  {
+    "text": "approach and times the pendulum swings",
+    "start": 740.839,
+    "duration": 5.281
+  },
+  {
+    "text": "too far one way or the other uh but I it",
+    "start": 743.399,
+    "duration": 4.401
+  },
+  {
+    "text": "just it feels like we we do make",
+    "start": 746.12,
+    "duration": 3.8
+  },
+  {
+    "text": "progress and we are making progress",
+    "start": 747.8,
+    "duration": 3.36
+  },
+  {
+    "text": "I think Venture Capital we you know",
+    "start": 749.92,
+    "duration": 3.08
+  },
+  {
+    "text": "we're the we're one of the first to open",
+    "start": 751.16,
+    "duration": 3.76
+  },
+  {
+    "text": "a venture capital but I think 10 years",
+    "start": 753.0,
+    "duration": 4.16
+  },
+  {
+    "text": "from now it'll be absolutely normal",
+    "start": 754.92,
+    "duration": 4.32
+  },
+  {
+    "text": "every major Venture shop they'll have a",
+    "start": 757.16,
+    "duration": 5.4
+  },
+  {
+    "text": "seed fund they'll have a series a fund a",
+    "start": 759.24,
+    "duration": 5.52
+  },
+  {
+    "text": "growth fund and they'll have a a public",
+    "start": 762.56,
+    "duration": 3.839
+  },
+  {
+    "text": "crossover Venture fund like we do I mean",
+    "start": 764.76,
+    "duration": 4.12
+  },
+  {
+    "text": "it's this is you know 10 years ago there",
+    "start": 766.399,
+    "duration": 4.041
+  },
+  {
+    "text": "really weren't any growth funds of",
+    "start": 768.88,
+    "duration": 3.0
+  },
+  {
+    "text": "consequence and now they're totally",
+    "start": 770.44,
+    "duration": 2.68
+  },
+  {
+    "text": "normalized",
+    "start": 771.88,
+    "duration": 5.04
+  },
+  {
+    "text": "so it's a process and you know execution",
+    "start": 773.12,
+    "duration": 6.839
+  },
+  {
+    "text": "matters but it's I think it's inevitable",
+    "start": 776.92,
+    "duration": 5.76
+  },
+  {
+    "text": "you mentioned like in 2008 and the lack",
+    "start": 779.959,
+    "duration": 4.721
+  },
+  {
+    "text": "of trust I would imagine that that's one",
+    "start": 782.68,
+    "duration": 3.519
+  },
+  {
+    "text": "of the main things that you have to",
+    "start": 784.68,
+    "duration": 3.76
+  },
+  {
+    "text": "focus on as a fund manager in this asset",
+    "start": 786.199,
+    "duration": 5.401
+  },
+  {
+    "text": "class is establishing that trust with",
+    "start": 788.44,
+    "duration": 5.68
+  },
+  {
+    "text": "consumers I'd love to get your view on",
+    "start": 791.6,
+    "duration": 4.52
+  },
+  {
+    "text": "on how to do that as a fund manager and",
+    "start": 794.12,
+    "duration": 5.04
+  },
+  {
+    "text": "and also just how entrepreneurs can do",
+    "start": 796.12,
+    "duration": 4.88
+  },
+  {
+    "text": "that with their customers my experience",
+    "start": 799.16,
+    "duration": 5.119
+  },
+  {
+    "text": "with investors actually is that um they",
+    "start": 801.0,
+    "duration": 5.04
+  },
+  {
+    "text": "want to give you trust they actually",
+    "start": 804.279,
+    "duration": 4.641
+  },
+  {
+    "text": "really do but then you have to maintain",
+    "start": 806.04,
+    "duration": 4.76
+  },
+  {
+    "text": "it and that takes basically time we have",
+    "start": 808.92,
+    "duration": 4.32
+  },
+  {
+    "text": "investors been with us for over a decade",
+    "start": 810.8,
+    "duration": 4.08
+  },
+  {
+    "text": "and that's a that's a really strong",
+    "start": 813.24,
+    "duration": 3.52
+  },
+  {
+    "text": "relationship and we have investors who",
+    "start": 814.88,
+    "duration": 3.92
+  },
+  {
+    "text": "invested at the top of the market and",
+    "start": 816.76,
+    "duration": 3.96
+  },
+  {
+    "text": "now like two years later they're not as",
+    "start": 818.8,
+    "duration": 4.08
+  },
+  {
+    "text": "happy with us what investors want are",
+    "start": 820.72,
+    "duration": 3.52
+  },
+  {
+    "text": "performance they just really want",
+    "start": 822.88,
+    "duration": 3.759
+  },
+  {
+    "text": "outcomes and that's like uh that's how",
+    "start": 824.24,
+    "duration": 4.56
+  },
+  {
+    "text": "you drive",
+    "start": 826.639,
+    "duration": 5.76
+  },
+  {
+    "text": "trust we'll be right",
+    "start": 828.8,
+    "duration": 3.599
+  },
+  {
+    "text": "back we're back with Prof G markets B",
+    "start": 835.759,
+    "duration": 5.08
+  },
+  {
+    "text": "what's the business model is it like a",
+    "start": 839.199,
+    "duration": 3.44
+  },
+  {
+    "text": "typical 2 and 20 or is it more like a",
+    "start": 840.839,
+    "duration": 3.8
+  },
+  {
+    "text": "mutual fund how do you guys make money",
+    "start": 842.639,
+    "duration": 4.081
+  },
+  {
+    "text": "so yeah it's only asset management fee",
+    "start": 844.639,
+    "duration": 3.921
+  },
+  {
+    "text": "we don't take a carried interest on our",
+    "start": 846.72,
+    "duration": 3.64
+  },
+  {
+    "text": "um funds they're they're registered 40",
+    "start": 848.56,
+    "duration": 4.079
+  },
+  {
+    "text": "act funds in some ways you could argue",
+    "start": 850.36,
+    "duration": 3.719
+  },
+  {
+    "text": "the most disruptive thing you could do",
+    "start": 852.639,
+    "duration": 3.241
+  },
+  {
+    "text": "to the private Equity or Venture Capital",
+    "start": 854.079,
+    "duration": 4.44
+  },
+  {
+    "text": "industry would be to remove their 20%",
+    "start": 855.88,
+    "duration": 4.48
+  },
+  {
+    "text": "cared interest yeah just go straight Fe",
+    "start": 858.519,
+    "duration": 3.481
+  },
+  {
+    "text": "it's this extremely disruptive model of",
+    "start": 860.36,
+    "duration": 2.56
+  },
+  {
+    "text": "venture",
+    "start": 862.0,
+    "duration": 3.92
+  },
+  {
+    "text": "capital and um we got rid of it back",
+    "start": 862.92,
+    "duration": 5.2
+  },
+  {
+    "text": "after 2008 because I I always found it",
+    "start": 865.92,
+    "duration": 4.56
+  },
+  {
+    "text": "as a it's a one-way option so it's an",
+    "start": 868.12,
+    "duration": 5.12
+  },
+  {
+    "text": "risk incentive so you you you get 20% of",
+    "start": 870.48,
+    "duration": 4.2
+  },
+  {
+    "text": "the profits if things go well but you",
+    "start": 873.24,
+    "duration": 4.56
+  },
+  {
+    "text": "don't give back 20% of the downside and",
+    "start": 874.68,
+    "duration": 5.2
+  },
+  {
+    "text": "so it for especially for normal",
+    "start": 877.8,
+    "duration": 3.64
+  },
+  {
+    "text": "investors it's it's much more important",
+    "start": 879.88,
+    "duration": 3.879
+  },
+  {
+    "text": "to manage risk and so I think it's",
+    "start": 881.44,
+    "duration": 5.199
+  },
+  {
+    "text": "better alignment even though it's it's",
+    "start": 883.759,
+    "duration": 4.401
+  },
+  {
+    "text": "extremely different than the normal",
+    "start": 886.639,
+    "duration": 4.601
+  },
+  {
+    "text": "Venture fund and how do your Fe for I",
+    "start": 888.16,
+    "duration": 4.44
+  },
+  {
+    "text": "just want to acknowledge there's more",
+    "start": 891.24,
+    "duration": 3.0
+  },
+  {
+    "text": "Logistics and administrative expense",
+    "start": 892.6,
+    "duration": 4.08
+  },
+  {
+    "text": "when you're managing a million accounts",
+    "start": 894.24,
+    "duration": 5.599
+  },
+  {
+    "text": "versus going to you know AIA or Ottawa",
+    "start": 896.68,
+    "duration": 5.48
+  },
+  {
+    "text": "teachers but how do your fees generally",
+    "start": 899.839,
+    "duration": 4.521
+  },
+  {
+    "text": "speaking if I invest",
+    "start": 902.16,
+    "duration": 4.52
+  },
+  {
+    "text": "$10,000 in your private credit fund or",
+    "start": 904.36,
+    "duration": 3.719
+  },
+  {
+    "text": "your real estate fund what am I looking",
+    "start": 906.68,
+    "duration": 3.279
+  },
+  {
+    "text": "at in terms of Annual fees yeah I mean",
+    "start": 908.079,
+    "duration": 3.721
+  },
+  {
+    "text": "it's 1 to 2% a year depending on the",
+    "start": 909.959,
+    "duration": 6.601
+  },
+  {
+    "text": "fund and so it's it's sort of ruthlessly",
+    "start": 911.8,
+    "duration": 7.64
+  },
+  {
+    "text": "tight fees I mean that's very very",
+    "start": 916.56,
+    "duration": 5.88
+  },
+  {
+    "text": "low and so we are just getting Break",
+    "start": 919.44,
+    "duration": 4.639
+  },
+  {
+    "text": "Even this year I mean it's much much",
+    "start": 922.44,
+    "duration": 3.079
+  },
+  {
+    "text": "lower fees considering our assets under",
+    "start": 924.079,
+    "duration": 4.24
+  },
+  {
+    "text": "management we should be like uh 10x more",
+    "start": 925.519,
+    "duration": 5.601
+  },
+  {
+    "text": "profitable but the internet doesn't",
+    "start": 928.319,
+    "duration": 6.08
+  },
+  {
+    "text": "reward uh High fees and so we took a",
+    "start": 931.12,
+    "duration": 4.88
+  },
+  {
+    "text": "long-term view that if we could",
+    "start": 934.399,
+    "duration": 4.92
+  },
+  {
+    "text": "basically exist and win on on tight fees",
+    "start": 936.0,
+    "duration": 4.8
+  },
+  {
+    "text": "that as we scaled it would be a",
+    "start": 939.319,
+    "duration": 3.2
+  },
+  {
+    "text": "competitive Advantage doesn't that imply",
+    "start": 940.8,
+    "duration": 2.839
+  },
+  {
+    "text": "that you needed to raise a lot of money",
+    "start": 942.519,
+    "duration": 2.721
+  },
+  {
+    "text": "to get to that point we have to have",
+    "start": 943.639,
+    "duration": 3.2
+  },
+  {
+    "text": "scale I mean scale so we got to about",
+    "start": 945.24,
+    "duration": 3.48
+  },
+  {
+    "text": "three billion of equity under management",
+    "start": 946.839,
+    "duration": 3.201
+  },
+  {
+    "text": "and software I mean you know the",
+    "start": 948.72,
+    "duration": 2.64
+  },
+  {
+    "text": "majority of our team are software",
+    "start": 950.04,
+    "duration": 3.56
+  },
+  {
+    "text": "engineers and tech people and so the",
+    "start": 951.36,
+    "duration": 4.479
+  },
+  {
+    "text": "more we automate the lower the the",
+    "start": 953.6,
+    "duration": 4.32
+  },
+  {
+    "text": "marginal cost do you track your funds",
+    "start": 955.839,
+    "duration": 4.281
+  },
+  {
+    "text": "performance relative to benchmarks and",
+    "start": 957.92,
+    "duration": 4.2
+  },
+  {
+    "text": "how have you guys done um depends on the",
+    "start": 960.12,
+    "duration": 5.0
+  },
+  {
+    "text": "funds so we we I personally think about",
+    "start": 962.12,
+    "duration": 5.279
+  },
+  {
+    "text": "Vanguard re index as the as The",
+    "start": 965.12,
+    "duration": 5.48
+  },
+  {
+    "text": "Benchmark for real estate and uh We've",
+    "start": 967.399,
+    "duration": 6.0
+  },
+  {
+    "text": "pretty handily outperformed them for the",
+    "start": 970.6,
+    "duration": 6.239
+  },
+  {
+    "text": "last you know 10 years and that you know",
+    "start": 973.399,
+    "duration": 5.68
+  },
+  {
+    "text": "it's not that hard honestly you know",
+    "start": 976.839,
+    "duration": 4.44
+  },
+  {
+    "text": "rangar read index had office in it it",
+    "start": 979.079,
+    "duration": 5.2
+  },
+  {
+    "text": "had a lot of like uh uh really bad",
+    "start": 981.279,
+    "duration": 5.721
+  },
+  {
+    "text": "assets so in a way like our performance",
+    "start": 984.279,
+    "duration": 5.281
+  },
+  {
+    "text": "isn't doesn't actually like",
+    "start": 987.0,
+    "duration": 4.16
+  },
+  {
+    "text": "the thing about investing is that is",
+    "start": 989.56,
+    "duration": 4.079
+  },
+  {
+    "text": "actually not that complicated",
+    "start": 991.16,
+    "duration": 4.479
+  },
+  {
+    "text": "intellectually but it's really difficult",
+    "start": 993.639,
+    "duration": 4.921
+  },
+  {
+    "text": "sort of corporately because investors",
+    "start": 995.639,
+    "duration": 4.961
+  },
+  {
+    "text": "and the world they want you to go all in",
+    "start": 998.56,
+    "duration": 3.959
+  },
+  {
+    "text": "when the times are hot and they want to",
+    "start": 1000.6,
+    "duration": 3.96
+  },
+  {
+    "text": "flee to the hills when times are cold",
+    "start": 1002.519,
+    "duration": 4.12
+  },
+  {
+    "text": "and so it makes it really difficult as a",
+    "start": 1004.56,
+    "duration": 4.839
+  },
+  {
+    "text": "as a fund manager to actually do what",
+    "start": 1006.639,
+    "duration": 4.76
+  },
+  {
+    "text": "you're what you know is the right thing",
+    "start": 1009.399,
+    "duration": 3.24
+  },
+  {
+    "text": "because you get basically get punished",
+    "start": 1011.399,
+    "duration": 5.321
+  },
+  {
+    "text": "for it have you had any uh problems",
+    "start": 1012.639,
+    "duration": 5.401
+  },
+  {
+    "text": "actually becoming an investor in these",
+    "start": 1016.72,
+    "duration": 4.119
+  },
+  {
+    "text": "private companies I mean you mentioned",
+    "start": 1018.04,
+    "duration": 5.32
+  },
+  {
+    "text": "democratizing access to retail investors",
+    "start": 1020.839,
+    "duration": 4.48
+  },
+  {
+    "text": "but it's also pretty difficult even if",
+    "start": 1023.36,
+    "duration": 4.4
+  },
+  {
+    "text": "you are a sophisticated accredited",
+    "start": 1025.319,
+    "duration": 4.561
+  },
+  {
+    "text": "investor to get on the cap table but",
+    "start": 1027.76,
+    "duration": 5.039
+  },
+  {
+    "text": "you've invested in open AI anthropic",
+    "start": 1029.88,
+    "duration": 5.199
+  },
+  {
+    "text": "canva how are you how are you getting on",
+    "start": 1032.799,
+    "duration": 5.441
+  },
+  {
+    "text": "these cap tables that is definitely the",
+    "start": 1035.079,
+    "duration": 5.081
+  },
+  {
+    "text": "hard part that's interesting it's been",
+    "start": 1038.24,
+    "duration": 3.52
+  },
+  {
+    "text": "easier to raise money than get the right",
+    "start": 1040.16,
+    "duration": 3.36
+  },
+  {
+    "text": "deal flow oh yeah that's really",
+    "start": 1041.76,
+    "duration": 3.919
+  },
+  {
+    "text": "interesting oh yeah we we actually had",
+    "start": 1043.52,
+    "duration": 3.96
+  },
+  {
+    "text": "like $50 million in cash when we started",
+    "start": 1045.679,
+    "duration": 4.081
+  },
+  {
+    "text": "the fund and we and we didn't deploy it",
+    "start": 1047.48,
+    "duration": 4.64
+  },
+  {
+    "text": "because it was so difficult to I didn't",
+    "start": 1049.76,
+    "duration": 3.68
+  },
+  {
+    "text": "want to deploy it into the wrong",
+    "start": 1052.12,
+    "duration": 3.919
+  },
+  {
+    "text": "companies and so we sat on it for for",
+    "start": 1053.44,
+    "duration": 4.96
+  },
+  {
+    "text": "almost a year which our investors were",
+    "start": 1056.039,
+    "duration": 3.64
+  },
+  {
+    "text": "not that happy",
+    "start": 1058.4,
+    "duration": 3.68
+  },
+  {
+    "text": "with but it it takes time and",
+    "start": 1059.679,
+    "duration": 4.281
+  },
+  {
+    "text": "unfortunately because like when I go to",
+    "start": 1062.08,
+    "duration": 4.52
+  },
+  {
+    "text": "approach company like I one of the",
+    "start": 1063.96,
+    "duration": 4.599
+  },
+  {
+    "text": "companies you name plus other ones it's",
+    "start": 1066.6,
+    "duration": 3.92
+  },
+  {
+    "text": "funny because like 80% of the companies",
+    "start": 1068.559,
+    "duration": 5.521
+  },
+  {
+    "text": "we invested in fundrise is a customer of",
+    "start": 1070.52,
+    "duration": 5.639
+  },
+  {
+    "text": "so we're customer of Cana or customer of",
+    "start": 1074.08,
+    "duration": 3.479
+  },
+  {
+    "text": "data bricks we're customer of these you",
+    "start": 1076.159,
+    "duration": 3.52
+  },
+  {
+    "text": "know open Ai and and we have um",
+    "start": 1077.559,
+    "duration": 4.441
+  },
+  {
+    "text": "relationship there plus like I go into a",
+    "start": 1079.679,
+    "duration": 4.321
+  },
+  {
+    "text": "room there' be five people from the IR",
+    "start": 1082.0,
+    "duration": 3.76
+  },
+  {
+    "text": "you know the company's IR team and maybe",
+    "start": 1084.0,
+    "duration": 4.159
+  },
+  {
+    "text": "the cfo's office and I'll say okay is",
+    "start": 1085.76,
+    "duration": 3.68
+  },
+  {
+    "text": "anybody here in this room a fundrise",
+    "start": 1088.159,
+    "duration": 3.841
+  },
+  {
+    "text": "investor usually half the room is a",
+    "start": 1089.44,
+    "duration": 5.119
+  },
+  {
+    "text": "personally invested in fundrise somehow",
+    "start": 1092.0,
+    "duration": 4.48
+  },
+  {
+    "text": "and so the credibility and connections",
+    "start": 1094.559,
+    "duration": 4.081
+  },
+  {
+    "text": "we have has allowed us to have like an",
+    "start": 1096.48,
+    "duration": 4.319
+  },
+  {
+    "text": "opportunity to get into these companies",
+    "start": 1098.64,
+    "duration": 3.84
+  },
+  {
+    "text": "and then lastly we were lucky right this",
+    "start": 1100.799,
+    "duration": 3.76
+  },
+  {
+    "text": "Market is much more normalized there's a",
+    "start": 1102.48,
+    "duration": 3.72
+  },
+  {
+    "text": "lot less Capital than it was two years",
+    "start": 1104.559,
+    "duration": 3.561
+  },
+  {
+    "text": "ago and so we came into the market a",
+    "start": 1106.2,
+    "duration": 4.479
+  },
+  {
+    "text": "good time and and when uh we could get",
+    "start": 1108.12,
+    "duration": 4.32
+  },
+  {
+    "text": "access to these",
+    "start": 1110.679,
+    "duration": 3.88
+  },
+  {
+    "text": "companies and just a final question you",
+    "start": 1112.44,
+    "duration": 3.8
+  },
+  {
+    "text": "are a successful founder you started",
+    "start": 1114.559,
+    "duration": 4.12
+  },
+  {
+    "text": "this company in 2012 it's now the",
+    "start": 1116.24,
+    "duration": 4.36
+  },
+  {
+    "text": "largest direct consumer alternative",
+    "start": 1118.679,
+    "duration": 4.321
+  },
+  {
+    "text": "asset manager in the US I think we have",
+    "start": 1120.6,
+    "duration": 3.8
+  },
+  {
+    "text": "a lot of entrepreneurs who listen to",
+    "start": 1123.0,
+    "duration": 3.559
+  },
+  {
+    "text": "this show do you have any advice to them",
+    "start": 1124.4,
+    "duration": 3.68
+  },
+  {
+    "text": "any advice to any entrepreneurs who",
+    "start": 1126.559,
+    "duration": 3.081
+  },
+  {
+    "text": "might be listening what do you think it",
+    "start": 1128.08,
+    "duration": 3.8
+  },
+  {
+    "text": "takes to build a successful company oh",
+    "start": 1129.64,
+    "duration": 3.919
+  },
+  {
+    "text": "man it takes",
+    "start": 1131.88,
+    "duration": 4.72
+  },
+  {
+    "text": "incredible grit I mean just brutality I",
+    "start": 1133.559,
+    "duration": 5.641
+  },
+  {
+    "text": "got to interrupt you man I I can't I can",
+    "start": 1136.6,
+    "duration": 3.959
+  },
+  {
+    "text": "just see it in your face and when I",
+    "start": 1139.2,
+    "duration": 2.76
+  },
+  {
+    "text": "think I know enough about alternative",
+    "start": 1140.559,
+    "duration": 3.521
+  },
+  {
+    "text": "Investments I worked with hedge funds I",
+    "start": 1141.96,
+    "duration": 3.32
+  },
+  {
+    "text": "think what you're doing is a",
+    "start": 1144.08,
+    "duration": 3.599
+  },
+  {
+    "text": "nightmare I can't even imagine what it's",
+    "start": 1145.28,
+    "duration": 6.04
+  },
+  {
+    "text": "like to take money from someone take",
+    "start": 1147.679,
+    "duration": 6.521
+  },
+  {
+    "text": "their 400 bucks and them start pinging",
+    "start": 1151.32,
+    "duration": 4.839
+  },
+  {
+    "text": "customer service demanding that you get",
+    "start": 1154.2,
+    "duration": 4.719
+  },
+  {
+    "text": "better returns for them or I I just I",
+    "start": 1156.159,
+    "duration": 5.601
+  },
+  {
+    "text": "would think that this would be literally",
+    "start": 1158.919,
+    "duration": 6.201
+  },
+  {
+    "text": "like you are a masochist I just imagine",
+    "start": 1161.76,
+    "duration": 5.24
+  },
+  {
+    "text": "there's 2% of your customer base is",
+    "start": 1165.12,
+    "duration": 5.88
+  },
+  {
+    "text": "what's the term a nightmare May",
+    "start": 1167.0,
+    "duration": 6.4
+  },
+  {
+    "text": "and that they're like emailing you",
+    "start": 1171.0,
+    "duration": 4.799
+  },
+  {
+    "text": "personally and and tweeting at me yeah",
+    "start": 1173.4,
+    "duration": 5.44
+  },
+  {
+    "text": "yeah yeah anyways I I would think this",
+    "start": 1175.799,
+    "duration": 5.161
+  },
+  {
+    "text": "would be just a 12 years of like hand",
+    "start": 1178.84,
+    "duration": 4.44
+  },
+  {
+    "text": "toand combat but I feel like to be an",
+    "start": 1180.96,
+    "duration": 4.599
+  },
+  {
+    "text": "entrepreneur is to be a masochist like",
+    "start": 1183.28,
+    "duration": 4.32
+  },
+  {
+    "text": "you you can't you can't be successful",
+    "start": 1185.559,
+    "duration": 3.721
+  },
+  {
+    "text": "and not be a masochist you just have to",
+    "start": 1187.6,
+    "duration": 4.199
+  },
+  {
+    "text": "love the pain the pain has to be",
+    "start": 1189.28,
+    "duration": 3.68
+  },
+  {
+    "text": "something that you somehow get",
+    "start": 1191.799,
+    "duration": 3.441
+  },
+  {
+    "text": "gratification out of because otherwise",
+    "start": 1192.96,
+    "duration": 3.839
+  },
+  {
+    "text": "uh there's no way anybody could do this",
+    "start": 1195.24,
+    "duration": 3.88
+  },
+  {
+    "text": "type of work so what would that advice",
+    "start": 1196.799,
+    "duration": 4.88
+  },
+  {
+    "text": "be then embrace the suck I mean it's",
+    "start": 1199.12,
+    "duration": 4.72
+  },
+  {
+    "text": "it's hard because the the real advice is",
+    "start": 1201.679,
+    "duration": 4.24
+  },
+  {
+    "text": "that like it's going to be harder than",
+    "start": 1203.84,
+    "duration": 4.48
+  },
+  {
+    "text": "you possibly imagine is masochism but",
+    "start": 1205.919,
+    "duration": 3.801
+  },
+  {
+    "text": "like because you don't really appreciate",
+    "start": 1208.32,
+    "duration": 2.68
+  },
+  {
+    "text": "it you're going to do it anyways I did",
+    "start": 1209.72,
+    "duration": 3.959
+  },
+  {
+    "text": "it anyways and and like there's some",
+    "start": 1211.0,
+    "duration": 5.12
+  },
+  {
+    "text": "sort of moment when you when you kind of",
+    "start": 1213.679,
+    "duration": 4.081
+  },
+  {
+    "text": "like accept the pain like there's you",
+    "start": 1216.12,
+    "duration": 3.12
+  },
+  {
+    "text": "know Health crisis you all these things",
+    "start": 1217.76,
+    "duration": 3.72
+  },
+  {
+    "text": "that go wrong and you start to start to",
+    "start": 1219.24,
+    "duration": 4.799
+  },
+  {
+    "text": "see them as normal like that the sort of",
+    "start": 1221.48,
+    "duration": 4.6
+  },
+  {
+    "text": "the crazy drama that happens it just",
+    "start": 1224.039,
+    "duration": 3.921
+  },
+  {
+    "text": "makes no sense and and you're just",
+    "start": 1226.08,
+    "duration": 3.0
+  },
+  {
+    "text": "dealing with like you know like when",
+    "start": 1227.96,
+    "duration": 3.48
+  },
+  {
+    "text": "Silicon Valley Bank exploded or Co you",
+    "start": 1229.08,
+    "duration": 3.839
+  },
+  {
+    "text": "know literally covid the country",
+    "start": 1231.44,
+    "duration": 3.96
+  },
+  {
+    "text": "shutting down and and you just if you",
+    "start": 1232.919,
+    "duration": 3.961
+  },
+  {
+    "text": "get to a place where you see those is",
+    "start": 1235.4,
+    "duration": 4.639
+  },
+  {
+    "text": "like regular business like you know",
+    "start": 1236.88,
+    "duration": 5.799
+  },
+  {
+    "text": "normal normal uh making payroll and",
+    "start": 1240.039,
+    "duration": 3.681
+  },
+  {
+    "text": "things like that if you get to a place",
+    "start": 1242.679,
+    "duration": 3.201
+  },
+  {
+    "text": "where you actually you no longer are",
+    "start": 1243.72,
+    "duration": 4.28
+  },
+  {
+    "text": "phased by it that's the that's the",
+    "start": 1245.88,
+    "duration": 5.76
+  },
+  {
+    "text": "emotional Evolution and so like trying",
+    "start": 1248.0,
+    "duration": 6.919
+  },
+  {
+    "text": "to turn the pain into into like um you",
+    "start": 1251.64,
+    "duration": 6.159
+  },
+  {
+    "text": "know spin it into gold is the emot is",
+    "start": 1254.919,
+    "duration": 4.64
+  },
+  {
+    "text": "really the psych ological emotional",
+    "start": 1257.799,
+    "duration": 5.76
+  },
+  {
+    "text": "journey and um you know that journey is",
+    "start": 1259.559,
+    "duration": 6.321
+  },
+  {
+    "text": "like uh I recommend that like people",
+    "start": 1263.559,
+    "duration": 4.0
+  },
+  {
+    "text": "have empathy for themselves how about",
+    "start": 1265.88,
+    "duration": 3.88
+  },
+  {
+    "text": "that Ben Miller is the co-founder and",
+    "start": 1267.559,
+    "duration": 3.841
+  },
+  {
+    "text": "CEO of fundrise which is the largest",
+    "start": 1269.76,
+    "duration": 2.919
+  },
+  {
+    "text": "direct consumer alternative asset",
+    "start": 1271.4,
+    "duration": 3.48
+  },
+  {
+    "text": "manager in the US Ben thank you for",
+    "start": 1272.679,
+    "duration": 3.561
+  },
+  {
+    "text": "joining us yeah thanks for having me",
+    "start": 1274.88,
+    "duration": 3.24
+  },
+  {
+    "text": "thanks Ben thank you for watching this",
+    "start": 1276.24,
+    "duration": 3.72
+  },
+  {
+    "text": "version of propy markets check out our",
+    "start": 1278.12,
+    "duration": 4.24
+  },
+  {
+    "text": "pod feed for office hours on Wednesday",
+    "start": 1279.96,
+    "duration": 4.199
+  },
+  {
+    "text": "and we'll be back with a fresh take on",
+    "start": 1282.36,
+    "duration": 5.34
+  },
+  {
+    "text": "markets every Monday",
+    "start": 1284.159,
+    "duration": 12.45
+  },
+  {
+    "text": "[Music]",
+    "start": 1287.7,
+    "duration": 8.909
+  }
+]
