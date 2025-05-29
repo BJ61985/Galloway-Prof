@@ -1,0 +1,5972 @@
+[
+  {
+    "text": "Scott you recently wrote a post on your",
+    "start": 0.08,
+    "duration": 4.84
+  },
+  {
+    "text": "blog no mercy No Malice about the energy",
+    "start": 2.04,
+    "duration": 4.92
+  },
+  {
+    "text": "industry and your predictions for what",
+    "start": 4.92,
+    "duration": 3.96
+  },
+  {
+    "text": "is going to happen in terms of our",
+    "start": 6.96,
+    "duration": 4.2
+  },
+  {
+    "text": "energy consumption and Global energy",
+    "start": 8.88,
+    "duration": 5.12
+  },
+  {
+    "text": "demand could you summarize what your",
+    "start": 11.16,
+    "duration": 5.24
+  },
+  {
+    "text": "thoughts are there we always find a way",
+    "start": 14.0,
+    "duration": 5.92
+  },
+  {
+    "text": "to put energy to work and I think they",
+    "start": 16.4,
+    "duration": 4.959
+  },
+  {
+    "text": "essentially when you look at the",
+    "start": 19.92,
+    "duration": 4.439
+  },
+  {
+    "text": "problems around carbon and global",
+    "start": 21.359,
+    "duration": 4.881
+  },
+  {
+    "text": "warming and then you couple that with so",
+    "start": 24.359,
+    "duration": 4.401
+  },
+  {
+    "text": "many nations developing who want uh who",
+    "start": 26.24,
+    "duration": 4.68
+  },
+  {
+    "text": "are producing hundreds of millions of",
+    "start": 28.76,
+    "duration": 3.639
+  },
+  {
+    "text": "people coming into the middle class and",
+    "start": 30.92,
+    "duration": 2.319
+  },
+  {
+    "text": "what happens when you come into the",
+    "start": 32.399,
+    "duration": 3.881
+  },
+  {
+    "text": "middle class you start getting a car",
+    "start": 33.239,
+    "duration": 4.521
+  },
+  {
+    "text": "your energy consumption goes up you",
+    "start": 36.28,
+    "duration": 3.52
+  },
+  {
+    "text": "start eating more beef all of these",
+    "start": 37.76,
+    "duration": 4.76
+  },
+  {
+    "text": "things that require a ton more energy",
+    "start": 39.8,
+    "duration": 5.56
+  },
+  {
+    "text": "the demand here is insatiable and so",
+    "start": 42.52,
+    "duration": 4.12
+  },
+  {
+    "text": "people who come up with whether it's",
+    "start": 45.36,
+    "duration": 4.039
+  },
+  {
+    "text": "nuclear or some sort of you know",
+    "start": 46.64,
+    "duration": 5.68
+  },
+  {
+    "text": "different renewable or you know near",
+    "start": 49.399,
+    "duration": 5.8
+  },
+  {
+    "text": "self-propulsion machines in the ocean",
+    "start": 52.32,
+    "duration": 5.759
+  },
+  {
+    "text": "whatever it is that is going to create a",
+    "start": 55.199,
+    "duration": 7.52
+  },
+  {
+    "text": "lot of billionaires and maybe our first",
+    "start": 58.079,
+    "duration": 4.64
+  },
+  {
+    "text": "[Music]",
+    "start": 63.34,
+    "duration": 4.9
+  },
+  {
+    "text": "trillionaire welcome to firsttime",
+    "start": 65.72,
+    "duration": 4.88
+  },
+  {
+    "text": "Founders here's a stat I learned",
+    "start": 68.24,
+    "duration": 5.919
+  },
+  {
+    "text": "recently a chat GPT request consumes 10",
+    "start": 70.6,
+    "duration": 6.6
+  },
+  {
+    "text": "times more energy than a Google search",
+    "start": 74.159,
+    "duration": 5.121
+  },
+  {
+    "text": "we're in the early Innings but AI is",
+    "start": 77.2,
+    "duration": 4.52
+  },
+  {
+    "text": "already using up more power than small",
+    "start": 79.28,
+    "duration": 4.4
+  },
+  {
+    "text": "Nations and that consumption is expected",
+    "start": 81.72,
+    "duration": 4.759
+  },
+  {
+    "text": "to Triple by the end of the decade which",
+    "start": 83.68,
+    "duration": 4.84
+  },
+  {
+    "text": "leaves us with an existential question",
+    "start": 86.479,
+    "duration": 4.561
+  },
+  {
+    "text": "for our planet how how are we going to",
+    "start": 88.52,
+    "duration": 5.84
+  },
+  {
+    "text": "keep the lights on my next guest is a",
+    "start": 91.04,
+    "duration": 6.6
+  },
+  {
+    "text": "Pioneer in energy specifically energy",
+    "start": 94.36,
+    "duration": 5.6
+  },
+  {
+    "text": "storage after designing batteries for",
+    "start": 97.64,
+    "duration": 5.28
+  },
+  {
+    "text": "Elon Musk as Tesla's director of energy",
+    "start": 99.96,
+    "duration": 5.24
+  },
+  {
+    "text": "he decided to start his own company to",
+    "start": 102.92,
+    "duration": 4.479
+  },
+  {
+    "text": "help us store energy cheaper and for",
+    "start": 105.2,
+    "duration": 5.879
+  },
+  {
+    "text": "longer over 6 years he raised $900",
+    "start": 107.399,
+    "duration": 6.801
+  },
+  {
+    "text": "million in funding built a 1 million",
+    "start": 111.079,
+    "duration": 5.0
+  },
+  {
+    "text": "square foot battery Factory in West",
+    "start": 114.2,
+    "duration": 4.64
+  },
+  {
+    "text": "Virginia and will soon deploy the",
+    "start": 116.079,
+    "duration": 5.4
+  },
+  {
+    "text": "biggest battery ever for created there",
+    "start": 118.84,
+    "duration": 5.44
+  },
+  {
+    "text": "are few individuals alive today who have",
+    "start": 121.479,
+    "duration": 4.64
+  },
+  {
+    "text": "had a bigger impact on the energy",
+    "start": 124.28,
+    "duration": 4.64
+  },
+  {
+    "text": "industry and its future this is my",
+    "start": 126.119,
+    "duration": 6.321
+  },
+  {
+    "text": "conversation with Matteo Haro CEO and",
+    "start": 128.92,
+    "duration": 6.36
+  },
+  {
+    "text": "founder of form energy good to see you",
+    "start": 132.44,
+    "duration": 5.28
+  },
+  {
+    "text": "Mato good to see you Ed nice to be here",
+    "start": 135.28,
+    "duration": 3.76
+  },
+  {
+    "text": "let's get right into it because I know",
+    "start": 137.72,
+    "duration": 2.879
+  },
+  {
+    "text": "that you don't have all the time in the",
+    "start": 139.04,
+    "duration": 3.36
+  },
+  {
+    "text": "world um so you know we've been",
+    "start": 140.599,
+    "duration": 4.401
+  },
+  {
+    "text": "discussing energy a lot on this podcast",
+    "start": 142.4,
+    "duration": 4.6
+  },
+  {
+    "text": "recently more than usual and it's been",
+    "start": 145.0,
+    "duration": 5.28
+  },
+  {
+    "text": "coming up a lot mostly because of AI",
+    "start": 147.0,
+    "duration": 4.8
+  },
+  {
+    "text": "just a couple stats that really grabbed",
+    "start": 150.28,
+    "duration": 5.12
+  },
+  {
+    "text": "our attention one is that energy demand",
+    "start": 151.8,
+    "duration": 7.48
+  },
+  {
+    "text": "for AI is currently doubling every 100",
+    "start": 155.4,
+    "duration": 7.64
+  },
+  {
+    "text": "days uh and two partly as a result the",
+    "start": 159.28,
+    "duration": 5.959
+  },
+  {
+    "text": "total amount of energy consumed by data",
+    "start": 163.04,
+    "duration": 4.919
+  },
+  {
+    "text": "centers is expected to Triple in the",
+    "start": 165.239,
+    "duration": 5.121
+  },
+  {
+    "text": "next 6 years and for context that would",
+    "start": 167.959,
+    "duration": 5.2
+  },
+  {
+    "text": "be enough energy to power 40 million",
+    "start": 170.36,
+    "duration": 5.84
+  },
+  {
+    "text": "homes in America now I know there's a",
+    "start": 173.159,
+    "duration": 5.44
+  },
+  {
+    "text": "lot more to the energy conversation than",
+    "start": 176.2,
+    "duration": 3.959
+  },
+  {
+    "text": "AI but I would say that the the key",
+    "start": 178.599,
+    "duration": 2.92
+  },
+  {
+    "text": "takeaway that we're learning is that",
+    "start": 180.159,
+    "duration": 3.08
+  },
+  {
+    "text": "basically in the next few years we're",
+    "start": 181.519,
+    "duration": 4.921
+  },
+  {
+    "text": "going to need a ton more energy far more",
+    "start": 183.239,
+    "duration": 5.521
+  },
+  {
+    "text": "than we produce today and we're going to",
+    "start": 186.44,
+    "duration": 4.76
+  },
+  {
+    "text": "need new innovative solutions to",
+    "start": 188.76,
+    "duration": 4.119
+  },
+  {
+    "text": "generate store and distribute that",
+    "start": 191.2,
+    "duration": 3.2
+  },
+  {
+    "text": "energy which is exactly what you are",
+    "start": 192.879,
+    "duration": 5.161
+  },
+  {
+    "text": "doing with your company form energy I'd",
+    "start": 194.4,
+    "duration": 6.52
+  },
+  {
+    "text": "like to start with some very basic stuff",
+    "start": 198.04,
+    "duration": 4.839
+  },
+  {
+    "text": "before we get into you and and",
+    "start": 200.92,
+    "duration": 6.239
+  },
+  {
+    "text": "form your mission is to quote transform",
+    "start": 202.879,
+    "duration": 6.92
+  },
+  {
+    "text": "the grid I hear that term a lot the G",
+    "start": 207.159,
+    "duration": 4.36
+  },
+  {
+    "text": "grid the electric grid the power grid",
+    "start": 209.799,
+    "duration": 4.64
+  },
+  {
+    "text": "what actually is the grid the grid is",
+    "start": 211.519,
+    "duration": 4.72
+  },
+  {
+    "text": "perhaps the most complex machine that",
+    "start": 214.439,
+    "duration": 3.961
+  },
+  {
+    "text": "humans have ever made it's and also the",
+    "start": 216.239,
+    "duration": 4.801
+  },
+  {
+    "text": "largest I in many ways think of it as a",
+    "start": 218.4,
+    "duration": 5.88
+  },
+  {
+    "text": "single integrated entity by continent",
+    "start": 221.04,
+    "duration": 5.559
+  },
+  {
+    "text": "more or less um where we are",
+    "start": 224.28,
+    "duration": 5.08
+  },
+  {
+    "text": "simultaneously producing and consuming a",
+    "start": 226.599,
+    "duration": 5.681
+  },
+  {
+    "text": "commodity at the same time and in the",
+    "start": 229.36,
+    "duration": 5.2
+  },
+  {
+    "text": "case of uh the electroc grid that is of",
+    "start": 232.28,
+    "duration": 4.959
+  },
+  {
+    "text": "course electricity and today that's",
+    "start": 234.56,
+    "duration": 4.879
+  },
+  {
+    "text": "happening on every continent in slightly",
+    "start": 237.239,
+    "duration": 4.64
+  },
+  {
+    "text": "different ways uh but largely what we do",
+    "start": 239.439,
+    "duration": 4.201
+  },
+  {
+    "text": "is we generate electricity in one",
+    "start": 241.879,
+    "duration": 3.961
+  },
+  {
+    "text": "location and we move it uh to where it's",
+    "start": 243.64,
+    "duration": 3.959
+  },
+  {
+    "text": "needed where the demand is where what we",
+    "start": 245.84,
+    "duration": 4.52
+  },
+  {
+    "text": "call the load uh sits and so we have",
+    "start": 247.599,
+    "duration": 4.881
+  },
+  {
+    "text": "this reconciliation that's happening on",
+    "start": 250.36,
+    "duration": 4.439
+  },
+  {
+    "text": "a subsecond basis in fact you know",
+    "start": 252.48,
+    "duration": 5.439
+  },
+  {
+    "text": "microsc basis um for production and",
+    "start": 254.799,
+    "duration": 4.921
+  },
+  {
+    "text": "consumption of of a good so that's what",
+    "start": 257.919,
+    "duration": 3.56
+  },
+  {
+    "text": "we're talking about when we say the grid",
+    "start": 259.72,
+    "duration": 3.8
+  },
+  {
+    "text": "it it's basically the Electric System",
+    "start": 261.479,
+    "duration": 4.641
+  },
+  {
+    "text": "the production the uh or generation as",
+    "start": 263.52,
+    "duration": 4.6
+  },
+  {
+    "text": "we say the transmission the distribution",
+    "start": 266.12,
+    "duration": 4.24
+  },
+  {
+    "text": "and then the consumption but you are an",
+    "start": 268.12,
+    "duration": 4.88
+  },
+  {
+    "text": "innovator in storage and I don't think",
+    "start": 270.36,
+    "duration": 4.16
+  },
+  {
+    "text": "you mentioned that word when you",
+    "start": 273.0,
+    "duration": 3.36
+  },
+  {
+    "text": "described the grid there I don't think a",
+    "start": 274.52,
+    "duration": 4.04
+  },
+  {
+    "text": "lot of people understand or appreciate",
+    "start": 276.36,
+    "duration": 4.44
+  },
+  {
+    "text": "what a significant industry that is let",
+    "start": 278.56,
+    "duration": 5.0
+  },
+  {
+    "text": "alone realize that it actually exists",
+    "start": 280.8,
+    "duration": 4.6
+  },
+  {
+    "text": "give us a rundown on energy storage what",
+    "start": 283.56,
+    "duration": 4.44
+  },
+  {
+    "text": "is it what are the different types how",
+    "start": 285.4,
+    "duration": 5.12
+  },
+  {
+    "text": "does it play into this complex system",
+    "start": 288.0,
+    "duration": 4.639
+  },
+  {
+    "text": "which you described which is the grid",
+    "start": 290.52,
+    "duration": 3.399
+  },
+  {
+    "text": "yeah and part of the reason I didn't",
+    "start": 292.639,
+    "duration": 3.721
+  },
+  {
+    "text": "mention it is because one of the reasons",
+    "start": 293.919,
+    "duration": 4.761
+  },
+  {
+    "text": "why the electric grid is so impressive",
+    "start": 296.36,
+    "duration": 3.839
+  },
+  {
+    "text": "as a feed of engineering because it",
+    "start": 298.68,
+    "duration": 3.799
+  },
+  {
+    "text": "doesn't use a lot of storage in fact uh",
+    "start": 300.199,
+    "duration": 3.761
+  },
+  {
+    "text": "it's sort of counterintuitive at least",
+    "start": 302.479,
+    "duration": 3.081
+  },
+  {
+    "text": "not in the from the generation to the",
+    "start": 303.96,
+    "duration": 3.84
+  },
+  {
+    "text": "consumption side of things uh think",
+    "start": 305.56,
+    "duration": 4.04
+  },
+  {
+    "text": "about any other very large industry it",
+    "start": 307.8,
+    "duration": 3.48
+  },
+  {
+    "text": "could be retail you know refrigerated",
+    "start": 309.6,
+    "duration": 3.8
+  },
+  {
+    "text": "Goods it could be data uh we have data",
+    "start": 311.28,
+    "duration": 4.28
+  },
+  {
+    "text": "warehouses it could be you know you name",
+    "start": 313.4,
+    "duration": 4.68
+  },
+  {
+    "text": "it there is a version of inventory",
+    "start": 315.56,
+    "duration": 4.199
+  },
+  {
+    "text": "that's sits somewhere between production",
+    "start": 318.08,
+    "duration": 3.64
+  },
+  {
+    "text": "and consumption uh because it's a",
+    "start": 319.759,
+    "duration": 3.521
+  },
+  {
+    "text": "natural thing to do right that's that's",
+    "start": 321.72,
+    "duration": 3.16
+  },
+  {
+    "text": "how we sort of move things around and",
+    "start": 323.28,
+    "duration": 3.72
+  },
+  {
+    "text": "and are become efficient at that uh",
+    "start": 324.88,
+    "duration": 3.52
+  },
+  {
+    "text": "whereas on the electric grid we're doing",
+    "start": 327.0,
+    "duration": 2.72
+  },
+  {
+    "text": "all of that in real time right",
+    "start": 328.4,
+    "duration": 3.12
+  },
+  {
+    "text": "generation and consumption there's",
+    "start": 329.72,
+    "duration": 3.8
+  },
+  {
+    "text": "Upstream versions of storage we have",
+    "start": 331.52,
+    "duration": 4.16
+  },
+  {
+    "text": "liquid fuels or we have you know coal or",
+    "start": 333.52,
+    "duration": 3.799
+  },
+  {
+    "text": "we have you know these kinds of things",
+    "start": 335.68,
+    "duration": 3.84
+  },
+  {
+    "text": "but in between the generation and",
+    "start": 337.319,
+    "duration": 3.32
+  },
+  {
+    "text": "consumption we don't have a lot of",
+    "start": 339.52,
+    "duration": 4.679
+  },
+  {
+    "text": "storage so this is a growing area uh",
+    "start": 340.639,
+    "duration": 5.321
+  },
+  {
+    "text": "because there is a growing need for",
+    "start": 344.199,
+    "duration": 4.361
+  },
+  {
+    "text": "storage because now we have uh different",
+    "start": 345.96,
+    "duration": 4.679
+  },
+  {
+    "text": "kinds of generation uh we do not have",
+    "start": 348.56,
+    "duration": 4.16
+  },
+  {
+    "text": "those fuels in many cases uh to just",
+    "start": 350.639,
+    "duration": 4.521
+  },
+  {
+    "text": "store and have sit around until we need",
+    "start": 352.72,
+    "duration": 5.039
+  },
+  {
+    "text": "them yes we still of course do do some",
+    "start": 355.16,
+    "duration": 5.28
+  },
+  {
+    "text": "of that but increasingly in very large",
+    "start": 357.759,
+    "duration": 5.081
+  },
+  {
+    "text": "volumes the lowest cost version of",
+    "start": 360.44,
+    "duration": 4.28
+  },
+  {
+    "text": "electricity is the Renewables and and",
+    "start": 362.84,
+    "duration": 4.68
+  },
+  {
+    "text": "these are by definition weather driven",
+    "start": 364.72,
+    "duration": 4.759
+  },
+  {
+    "text": "right Renewables um and therefore",
+    "start": 367.52,
+    "duration": 3.959
+  },
+  {
+    "text": "intermittent right they go away and they",
+    "start": 369.479,
+    "duration": 4.361
+  },
+  {
+    "text": "come back and so we need to think about",
+    "start": 371.479,
+    "duration": 4.201
+  },
+  {
+    "text": "the storage that we need to reconcile",
+    "start": 373.84,
+    "duration": 4.4
+  },
+  {
+    "text": "these generation resources uh at the",
+    "start": 375.68,
+    "duration": 4.959
+  },
+  {
+    "text": "scale that is really impacting the",
+    "start": 378.24,
+    "duration": 5.12
+  },
+  {
+    "text": "entire Electric System now there has",
+    "start": 380.639,
+    "duration": 4.601
+  },
+  {
+    "text": "been electric storage on the grid uh",
+    "start": 383.36,
+    "duration": 3.32
+  },
+  {
+    "text": "from the beginning because people did",
+    "start": 385.24,
+    "duration": 3.64
+  },
+  {
+    "text": "realize some of this is a challenge and",
+    "start": 386.68,
+    "duration": 4.079
+  },
+  {
+    "text": "primarily it was water so you sort of",
+    "start": 388.88,
+    "duration": 3.439
+  },
+  {
+    "text": "had water up on a hill more or less and",
+    "start": 390.759,
+    "duration": 3.0
+  },
+  {
+    "text": "you would run it through a turbine going",
+    "start": 392.319,
+    "duration": 2.841
+  },
+  {
+    "text": "down the hill to generate electricity",
+    "start": 393.759,
+    "duration": 3.081
+  },
+  {
+    "text": "and then during periods of low cost you",
+    "start": 395.16,
+    "duration": 3.52
+  },
+  {
+    "text": "would pump it back up the hill and so",
+    "start": 396.84,
+    "duration": 3.68
+  },
+  {
+    "text": "that's that's been sort of a known way",
+    "start": 398.68,
+    "duration": 3.56
+  },
+  {
+    "text": "to use energy storage for a very long",
+    "start": 400.52,
+    "duration": 4.36
+  },
+  {
+    "text": "time um and of course we rely on",
+    "start": 402.24,
+    "duration": 4.64
+  },
+  {
+    "text": "Nature's natural mechanism for that",
+    "start": 404.88,
+    "duration": 3.48
+  },
+  {
+    "text": "which is snow in the mountains which",
+    "start": 406.88,
+    "duration": 3.68
+  },
+  {
+    "text": "very helpfully melts during the you know",
+    "start": 408.36,
+    "duration": 3.959
+  },
+  {
+    "text": "during the other half of the year and",
+    "start": 410.56,
+    "duration": 3.479
+  },
+  {
+    "text": "sends water Downstream that we sort of",
+    "start": 412.319,
+    "duration": 3.361
+  },
+  {
+    "text": "capture which we then put to productive",
+    "start": 414.039,
+    "duration": 3.88
+  },
+  {
+    "text": "use and so the question now is how do we",
+    "start": 415.68,
+    "duration": 3.919
+  },
+  {
+    "text": "bring more types of energy storage on",
+    "start": 417.919,
+    "duration": 3.96
+  },
+  {
+    "text": "into the grid cost effectively and at",
+    "start": 419.599,
+    "duration": 4.921
+  },
+  {
+    "text": "scale such that we can incorporate even",
+    "start": 421.879,
+    "duration": 6.201
+  },
+  {
+    "text": "more of these lowcost renewable but",
+    "start": 424.52,
+    "duration": 6.88
+  },
+  {
+    "text": "intermittent sources of electricity so",
+    "start": 428.08,
+    "duration": 7.64
+  },
+  {
+    "text": "it sounds like then coal oil those are",
+    "start": 431.4,
+    "duration": 7.68
+  },
+  {
+    "text": "both energy producers and examples of",
+    "start": 435.72,
+    "duration": 5.64
+  },
+  {
+    "text": "energy storage that's that would be",
+    "start": 439.08,
+    "duration": 4.799
+  },
+  {
+    "text": "right exactly in some ways yes and and",
+    "start": 441.36,
+    "duration": 4.92
+  },
+  {
+    "text": "you know I I mentioned the use of energy",
+    "start": 443.879,
+    "duration": 4.361
+  },
+  {
+    "text": "storage paired with Renewables but in",
+    "start": 446.28,
+    "duration": 3.88
+  },
+  {
+    "text": "fact they can also be very effectively",
+    "start": 448.24,
+    "duration": 4.32
+  },
+  {
+    "text": "paired with those conventional resources",
+    "start": 450.16,
+    "duration": 4.8
+  },
+  {
+    "text": "as well so it's I mentioned sort of",
+    "start": 452.56,
+    "duration": 4.0
+  },
+  {
+    "text": "intermittent weather right sun going",
+    "start": 454.96,
+    "duration": 4.28
+  },
+  {
+    "text": "down sun coming back but we also live in",
+    "start": 456.56,
+    "duration": 4.479
+  },
+  {
+    "text": "increasingly volatile weather",
+    "start": 459.24,
+    "duration": 4.04
+  },
+  {
+    "text": "environment where we have these storms",
+    "start": 461.039,
+    "duration": 4.56
+  },
+  {
+    "text": "you know extreme heat or extreme cold",
+    "start": 463.28,
+    "duration": 4.599
+  },
+  {
+    "text": "and that is also stressing the way that",
+    "start": 465.599,
+    "duration": 4.081
+  },
+  {
+    "text": "we have generated electricity for a very",
+    "start": 467.879,
+    "duration": 3.801
+  },
+  {
+    "text": "long time so look at the winter storm",
+    "start": 469.68,
+    "duration": 3.68
+  },
+  {
+    "text": "Yuri which was this the storm that",
+    "start": 471.68,
+    "duration": 3.479
+  },
+  {
+    "text": "happened a few years back in Texas and",
+    "start": 473.36,
+    "duration": 3.839
+  },
+  {
+    "text": "cost $60 billion worth of damage you",
+    "start": 475.159,
+    "duration": 3.961
+  },
+  {
+    "text": "know this sort of unprecedented freeze",
+    "start": 477.199,
+    "duration": 4.601
+  },
+  {
+    "text": "in the middle of February in Texas right",
+    "start": 479.12,
+    "duration": 4.56
+  },
+  {
+    "text": "and one of the major reasons why the",
+    "start": 481.8,
+    "duration": 3.76
+  },
+  {
+    "text": "blackout lasted as long as it didn't was",
+    "start": 483.68,
+    "duration": 4.519
+  },
+  {
+    "text": "was so so impactful was because the",
+    "start": 485.56,
+    "duration": 5.039
+  },
+  {
+    "text": "natural gas resources were frozen in",
+    "start": 488.199,
+    "duration": 3.84
+  },
+  {
+    "text": "place more or less in other words you",
+    "start": 490.599,
+    "duration": 4.04
+  },
+  {
+    "text": "couldn't access the stored energy right",
+    "start": 492.039,
+    "duration": 4.481
+  },
+  {
+    "text": "and so that's another way that we're",
+    "start": 494.639,
+    "duration": 4.081
+  },
+  {
+    "text": "looking to say well what is a",
+    "start": 496.52,
+    "duration": 5.519
+  },
+  {
+    "text": "non-correlated way to store this energy",
+    "start": 498.72,
+    "duration": 4.8
+  },
+  {
+    "text": "in such a way that we have just a really",
+    "start": 502.039,
+    "duration": 5.321
+  },
+  {
+    "text": "reliable robust uh system overall right",
+    "start": 503.52,
+    "duration": 5.56
+  },
+  {
+    "text": "because increasingly and I'm sure we'll",
+    "start": 507.36,
+    "duration": 4.119
+  },
+  {
+    "text": "talk about on the AI front increasingly",
+    "start": 509.08,
+    "duration": 5.639
+  },
+  {
+    "text": "electricity is a requirement uh to to",
+    "start": 511.479,
+    "duration": 5.44
+  },
+  {
+    "text": "operate the modern society there's a",
+    "start": 514.719,
+    "duration": 4.44
+  },
+  {
+    "text": "woman who runs a utility called uh",
+    "start": 516.919,
+    "duration": 4.48
+  },
+  {
+    "text": "Portland Gas and Electric Maria Pope and",
+    "start": 519.159,
+    "duration": 4.041
+  },
+  {
+    "text": "and she's a a leader in the industry and",
+    "start": 521.399,
+    "duration": 4.081
+  },
+  {
+    "text": "she's fond of saying that electricity",
+    "start": 523.2,
+    "duration": 4.84
+  },
+  {
+    "text": "may only be 2% of GDP in the United",
+    "start": 525.48,
+    "duration": 5.44
+  },
+  {
+    "text": "States but it's the first 2% and you",
+    "start": 528.04,
+    "duration": 4.76
+  },
+  {
+    "text": "know everything else sort of relies on",
+    "start": 530.92,
+    "duration": 4.24
+  },
+  {
+    "text": "the on that 2% and so having different",
+    "start": 532.8,
+    "duration": 4.479
+  },
+  {
+    "text": "kinds of energy sort show up in ways",
+    "start": 535.16,
+    "duration": 3.88
+  },
+  {
+    "text": "that it hasn't been required to",
+    "start": 537.279,
+    "duration": 2.761
+  },
+  {
+    "text": "previously",
+    "start": 539.04,
+    "duration": 2.359
+  },
+  {
+    "text": "becomes a really interesting and",
+    "start": 540.04,
+    "duration": 3.88
+  },
+  {
+    "text": "compelling and uh and fun frankly uh",
+    "start": 541.399,
+    "duration": 4.481
+  },
+  {
+    "text": "aspect of of sort of where we are in the",
+    "start": 543.92,
+    "duration": 3.96
+  },
+  {
+    "text": "electricity IND industry so it's almost",
+    "start": 545.88,
+    "duration": 4.28
+  },
+  {
+    "text": "like I mean just to put it very simply",
+    "start": 547.88,
+    "duration": 4.639
+  },
+  {
+    "text": "you know a wind turbine is generating",
+    "start": 550.16,
+    "duration": 4.76
+  },
+  {
+    "text": "the energy from the wind but it's not",
+    "start": 552.519,
+    "duration": 4.481
+  },
+  {
+    "text": "necessarily storing it and as we",
+    "start": 554.92,
+    "duration": 3.919
+  },
+  {
+    "text": "increasingly rely on Renewables we're",
+    "start": 557.0,
+    "duration": 3.839
+  },
+  {
+    "text": "going to need more ways to store that",
+    "start": 558.839,
+    "duration": 3.721
+  },
+  {
+    "text": "energy in a way that and I love that",
+    "start": 560.839,
+    "duration": 3.921
+  },
+  {
+    "text": "point you made that you know the the",
+    "start": 562.56,
+    "duration": 3.88
+  },
+  {
+    "text": "freezing weather conditions we couldn't",
+    "start": 564.76,
+    "duration": 4.84
+  },
+  {
+    "text": "even access um those more tradition",
+    "start": 566.44,
+    "duration": 5.16
+  },
+  {
+    "text": "forms of energy storage which brings us",
+    "start": 569.6,
+    "duration": 5.2
+  },
+  {
+    "text": "to batteries I think some people maybe",
+    "start": 571.6,
+    "duration": 5.6
+  },
+  {
+    "text": "not everyone has heard of the lithium",
+    "start": 574.8,
+    "duration": 5.44
+  },
+  {
+    "text": "ion battery I feel like there's been",
+    "start": 577.2,
+    "duration": 5.04
+  },
+  {
+    "text": "this increased interest in lithium",
+    "start": 580.24,
+    "duration": 5.24
+  },
+  {
+    "text": "that's what I understand to be the what",
+    "start": 582.24,
+    "duration": 5.52
+  },
+  {
+    "text": "do we want to call it Blue Chip battery",
+    "start": 585.48,
+    "duration": 3.799
+  },
+  {
+    "text": "that we have been using for energy",
+    "start": 587.76,
+    "duration": 4.8
+  },
+  {
+    "text": "storage for however long you have a",
+    "start": 589.279,
+    "duration": 6.481
+  },
+  {
+    "text": "different battery called the iron air",
+    "start": 592.56,
+    "duration": 6.36
+  },
+  {
+    "text": "battery uh what's the difference between",
+    "start": 595.76,
+    "duration": 5.36
+  },
+  {
+    "text": "this traditional battery we've been",
+    "start": 598.92,
+    "duration": 4.159
+  },
+  {
+    "text": "using for the past however many decades",
+    "start": 601.12,
+    "duration": 4.159
+  },
+  {
+    "text": "I actually don't know versus your",
+    "start": 603.079,
+    "duration": 4.041
+  },
+  {
+    "text": "battery the iron air battery yeah so",
+    "start": 605.279,
+    "duration": 3.8
+  },
+  {
+    "text": "lithium has been around for some time it",
+    "start": 607.12,
+    "duration": 4.2
+  },
+  {
+    "text": "was sort of first discovered uh in the",
+    "start": 609.079,
+    "duration": 3.88
+  },
+  {
+    "text": "late 70s early 80s there's there's",
+    "start": 611.32,
+    "duration": 3.639
+  },
+  {
+    "text": "different variants of of that battery so",
+    "start": 612.959,
+    "duration": 4.201
+  },
+  {
+    "text": "lithiumion covers a class of different",
+    "start": 614.959,
+    "duration": 4.521
+  },
+  {
+    "text": "kinds of of those batteries uh and it",
+    "start": 617.16,
+    "duration": 4.32
+  },
+  {
+    "text": "was commercialized in the 80s for",
+    "start": 619.48,
+    "duration": 4.0
+  },
+  {
+    "text": "camcorders so pre-sell phone of course",
+    "start": 621.48,
+    "duration": 3.68
+  },
+  {
+    "text": "you had to have a dedicated device which",
+    "start": 623.48,
+    "duration": 4.08
+  },
+  {
+    "text": "was a shoulder mounted camera you know",
+    "start": 625.16,
+    "duration": 4.88
+  },
+  {
+    "text": "this this huge bulky thing but was an",
+    "start": 627.56,
+    "duration": 4.399
+  },
+  {
+    "text": "enormous success commercially because",
+    "start": 630.04,
+    "duration": 3.28
+  },
+  {
+    "text": "for the first time you could you were",
+    "start": 631.959,
+    "duration": 2.801
+  },
+  {
+    "text": "untethered you have to keep this thing",
+    "start": 633.32,
+    "duration": 3.16
+  },
+  {
+    "text": "plugged in and you could walk around you",
+    "start": 634.76,
+    "duration": 4.319
+  },
+  {
+    "text": "know your kids baseball game or a",
+    "start": 636.48,
+    "duration": 4.64
+  },
+  {
+    "text": "wedding or whatever it was and you know",
+    "start": 639.079,
+    "duration": 4.2
+  },
+  {
+    "text": "take take video footage that's why",
+    "start": 641.12,
+    "duration": 4.44
+  },
+  {
+    "text": "lithium was commercialized and",
+    "start": 643.279,
+    "duration": 4.401
+  },
+  {
+    "text": "lithiumion is a wonderful chemistry",
+    "start": 645.56,
+    "duration": 3.959
+  },
+  {
+    "text": "principally because of density so so you",
+    "start": 647.68,
+    "duration": 4.08
+  },
+  {
+    "text": "can cram a lot of energy in a very very",
+    "start": 649.519,
+    "duration": 4.041
+  },
+  {
+    "text": "small amount of volume and it doesn't",
+    "start": 651.76,
+    "duration": 3.96
+  },
+  {
+    "text": "weigh very much and so it enabled all",
+    "start": 653.56,
+    "duration": 4.0
+  },
+  {
+    "text": "these subsequent consumer electronics",
+    "start": 655.72,
+    "duration": 3.6
+  },
+  {
+    "text": "applications the ones that we sort of",
+    "start": 657.56,
+    "duration": 3.76
+  },
+  {
+    "text": "take for granted today laptops and you",
+    "start": 659.32,
+    "duration": 4.0
+  },
+  {
+    "text": "know phones that fit in our pockets and",
+    "start": 661.32,
+    "duration": 3.639
+  },
+  {
+    "text": "they are they are literally right next",
+    "start": 663.32,
+    "duration": 3.759
+  },
+  {
+    "text": "to our existence uh we're so reliant on",
+    "start": 664.959,
+    "duration": 4.521
+  },
+  {
+    "text": "them and so it's no surprise that we're",
+    "start": 667.079,
+    "duration": 4.241
+  },
+  {
+    "text": "also using a lot of lithiumion batteries",
+    "start": 669.48,
+    "duration": 3.72
+  },
+  {
+    "text": "for the electric GD because it's a",
+    "start": 671.32,
+    "duration": 4.24
+  },
+  {
+    "text": "proven technology it's now being made at",
+    "start": 673.2,
+    "duration": 4.079
+  },
+  {
+    "text": "massive scale especially thanks to the",
+    "start": 675.56,
+    "duration": 3.399
+  },
+  {
+    "text": "automotive industry which is driving",
+    "start": 677.279,
+    "duration": 4.761
+  },
+  {
+    "text": "that scale and cost down and largely",
+    "start": 678.959,
+    "duration": 5.281
+  },
+  {
+    "text": "what they're doing is helping to uh meet",
+    "start": 682.04,
+    "duration": 4.479
+  },
+  {
+    "text": "the peak of the electric grid so so",
+    "start": 684.24,
+    "duration": 3.96
+  },
+  {
+    "text": "think about the patterns of electricity",
+    "start": 686.519,
+    "duration": 3.281
+  },
+  {
+    "text": "consumption that happen throughout the",
+    "start": 688.2,
+    "duration": 3.879
+  },
+  {
+    "text": "day they follow the patterns of human",
+    "start": 689.8,
+    "duration": 4.159
+  },
+  {
+    "text": "existence right so so very quiet at",
+    "start": 692.079,
+    "duration": 3.44
+  },
+  {
+    "text": "night and then they ramp up during the",
+    "start": 693.959,
+    "duration": 3.041
+  },
+  {
+    "text": "day and there's there's a peak that you",
+    "start": 695.519,
+    "duration": 2.961
+  },
+  {
+    "text": "see which happens in the middle of the",
+    "start": 697.0,
+    "duration": 3.44
+  },
+  {
+    "text": "day when sort of activity is at its",
+    "start": 698.48,
+    "duration": 3.88
+  },
+  {
+    "text": "greatest and then it Peak comes down",
+    "start": 700.44,
+    "duration": 3.32
+  },
+  {
+    "text": "over the course of the night and sort of",
+    "start": 702.36,
+    "duration": 3.32
+  },
+  {
+    "text": "goes to bed if you will and historically",
+    "start": 703.76,
+    "duration": 4.84
+  },
+  {
+    "text": "we've used coal or natural gas or or",
+    "start": 705.68,
+    "duration": 4.76
+  },
+  {
+    "text": "Hydro to sort of match those Cycles we",
+    "start": 708.6,
+    "duration": 3.64
+  },
+  {
+    "text": "turn things on and off or ramp them up",
+    "start": 710.44,
+    "duration": 4.44
+  },
+  {
+    "text": "or down and batteries being wonderful",
+    "start": 712.24,
+    "duration": 3.92
+  },
+  {
+    "text": "coming on when we need them and going",
+    "start": 714.88,
+    "duration": 2.84
+  },
+  {
+    "text": "off when we don't need them that's the",
+    "start": 716.16,
+    "duration": 3.359
+  },
+  {
+    "text": "very first application for lithium on",
+    "start": 717.72,
+    "duration": 3.84
+  },
+  {
+    "text": "the grid as well is to meet those Peaks",
+    "start": 719.519,
+    "duration": 4.161
+  },
+  {
+    "text": "those relatively short duration Peaks um",
+    "start": 721.56,
+    "duration": 4.2
+  },
+  {
+    "text": "that we have as a as electric system",
+    "start": 723.68,
+    "duration": 3.64
+  },
+  {
+    "text": "because again we need to reconcile all",
+    "start": 725.76,
+    "duration": 3.56
+  },
+  {
+    "text": "of this in real time right it's use it",
+    "start": 727.32,
+    "duration": 4.72
+  },
+  {
+    "text": "or lose it electricity and so uh having",
+    "start": 729.32,
+    "duration": 5.519
+  },
+  {
+    "text": "these batteries show up instantaneously",
+    "start": 732.04,
+    "duration": 4.479
+  },
+  {
+    "text": "and provide that power exactly when we",
+    "start": 734.839,
+    "duration": 3.601
+  },
+  {
+    "text": "need it for a few hours and then go away",
+    "start": 736.519,
+    "duration": 4.361
+  },
+  {
+    "text": "that that's a very helpful um uh",
+    "start": 738.44,
+    "duration": 5.079
+  },
+  {
+    "text": "function for electric storage one key",
+    "start": 740.88,
+    "duration": 4.959
+  },
+  {
+    "text": "feature of lithium ion or any dur",
+    "start": 743.519,
+    "duration": 4.921
+  },
+  {
+    "text": "battery really is that duration goes",
+    "start": 745.839,
+    "duration": 4.521
+  },
+  {
+    "text": "hand inand with cost in other words you",
+    "start": 748.44,
+    "duration": 3.759
+  },
+  {
+    "text": "can't really separate how long you",
+    "start": 750.36,
+    "duration": 3.76
+  },
+  {
+    "text": "discharge it from how much it costs to",
+    "start": 752.199,
+    "duration": 3.961
+  },
+  {
+    "text": "do that right because it all it all",
+    "start": 754.12,
+    "duration": 5.0
+  },
+  {
+    "text": "comes down to that and uh lithium ion is",
+    "start": 756.16,
+    "duration": 5.44
+  },
+  {
+    "text": "great from a energy density standpoint",
+    "start": 759.12,
+    "duration": 3.92
+  },
+  {
+    "text": "and from a cycle standpoint you can",
+    "start": 761.6,
+    "duration": 3.08
+  },
+  {
+    "text": "charge it and recharge it many thousands",
+    "start": 763.04,
+    "duration": 4.239
+  },
+  {
+    "text": "of times now um it is not so great",
+    "start": 764.68,
+    "duration": 3.959
+  },
+  {
+    "text": "comparatively speaking from a cost",
+    "start": 767.279,
+    "duration": 3.24
+  },
+  {
+    "text": "standpoint and so for the purposes of",
+    "start": 768.639,
+    "duration": 3.921
+  },
+  {
+    "text": "the electric grid anyway you know phones",
+    "start": 770.519,
+    "duration": 3.721
+  },
+  {
+    "text": "and laptops and cars are are quite",
+    "start": 772.56,
+    "duration": 3.68
+  },
+  {
+    "text": "different but from from the electri grid",
+    "start": 774.24,
+    "duration": 4.399
+  },
+  {
+    "text": "standpoint it's cost effective it only",
+    "start": 776.24,
+    "duration": 4.719
+  },
+  {
+    "text": "discharg for a few hours at a time in",
+    "start": 778.639,
+    "duration": 3.961
+  },
+  {
+    "text": "other words generally between 2 and 4",
+    "start": 780.959,
+    "duration": 3.761
+  },
+  {
+    "text": "hours duration anything longer than that",
+    "start": 782.6,
+    "duration": 4.4
+  },
+  {
+    "text": "it's really just not cost competitive",
+    "start": 784.72,
+    "duration": 4.32
+  },
+  {
+    "text": "and and so think about the landscape of",
+    "start": 787.0,
+    "duration": 4.079
+  },
+  {
+    "text": "the electric grid we have to solve all",
+    "start": 789.04,
+    "duration": 4.12
+  },
+  {
+    "text": "of the challenges right of intermittency",
+    "start": 791.079,
+    "duration": 4.44
+  },
+  {
+    "text": "not just a few hours at a time we've got",
+    "start": 793.16,
+    "duration": 4.56
+  },
+  {
+    "text": "to solve for seasonal imbalances we have",
+    "start": 795.519,
+    "duration": 4.44
+  },
+  {
+    "text": "to solve for you know extreme weather",
+    "start": 797.72,
+    "duration": 4.119
+  },
+  {
+    "text": "that sits around for a week or for you",
+    "start": 799.959,
+    "duration": 3.841
+  },
+  {
+    "text": "know four days or whatever might be and",
+    "start": 801.839,
+    "duration": 4.881
+  },
+  {
+    "text": "so to solve those problems we need to",
+    "start": 803.8,
+    "duration": 6.039
+  },
+  {
+    "text": "start to look to other types of storage",
+    "start": 806.72,
+    "duration": 5.4
+  },
+  {
+    "text": "that that really can be cost effective",
+    "start": 809.839,
+    "duration": 4.401
+  },
+  {
+    "text": "over those much longer durations than",
+    "start": 812.12,
+    "duration": 4.68
+  },
+  {
+    "text": "just a couple hours at a time which",
+    "start": 814.24,
+    "duration": 4.68
+  },
+  {
+    "text": "brings us pretty nicely to the iron air",
+    "start": 816.8,
+    "duration": 4.12
+  },
+  {
+    "text": "battery which from my understanding it",
+    "start": 818.92,
+    "duration": 4.359
+  },
+  {
+    "text": "lost several days in comparison one of",
+    "start": 820.92,
+    "duration": 4.279
+  },
+  {
+    "text": "the reasons why we like this technology",
+    "start": 823.279,
+    "duration": 4.12
+  },
+  {
+    "text": "was it it had been demonstrated you can",
+    "start": 825.199,
+    "duration": 5.241
+  },
+  {
+    "text": "rust and unrust iron reliably many times",
+    "start": 827.399,
+    "duration": 4.44
+  },
+  {
+    "text": "but it had never been commercialized",
+    "start": 830.44,
+    "duration": 3.28
+  },
+  {
+    "text": "because it didn't have a killer app it",
+    "start": 831.839,
+    "duration": 4.12
+  },
+  {
+    "text": "was first investigated in the 1970s in",
+    "start": 833.72,
+    "duration": 4.72
+  },
+  {
+    "text": "the United States um under actually a",
+    "start": 835.959,
+    "duration": 4.12
+  },
+  {
+    "text": "grant from Department of energy to",
+    "start": 838.44,
+    "duration": 3.0
+  },
+  {
+    "text": "Westinghouse which was one of the main",
+    "start": 840.079,
+    "duration": 4.2
+  },
+  {
+    "text": "electric um entities at the time as well",
+    "start": 841.44,
+    "duration": 4.36
+  },
+  {
+    "text": "as a Swedish national lab right around",
+    "start": 844.279,
+    "duration": 3.961
+  },
+  {
+    "text": "that same time as well but when they",
+    "start": 845.8,
+    "duration": 5.039
+  },
+  {
+    "text": "sort of dug into it iron air batteries",
+    "start": 848.24,
+    "duration": 4.36
+  },
+  {
+    "text": "are not very suitable for vehicles or",
+    "start": 850.839,
+    "duration": 3.641
+  },
+  {
+    "text": "for Consumer Electronics or for anything",
+    "start": 852.6,
+    "duration": 3.88
+  },
+  {
+    "text": "else frankly um and S of sat on the",
+    "start": 854.48,
+    "duration": 3.84
+  },
+  {
+    "text": "Shelf relatively speaking for about 50",
+    "start": 856.48,
+    "duration": 4.4
+  },
+  {
+    "text": "years and and when we were starting form",
+    "start": 858.32,
+    "duration": 4.959
+  },
+  {
+    "text": "about seven years ago um we went looking",
+    "start": 860.88,
+    "duration": 4.0
+  },
+  {
+    "text": "for things that did exist but which had",
+    "start": 863.279,
+    "duration": 3.401
+  },
+  {
+    "text": "never been commercialized and we saw",
+    "start": 864.88,
+    "duration": 4.28
+  },
+  {
+    "text": "iron air and we said this looks like now",
+    "start": 866.68,
+    "duration": 4.48
+  },
+  {
+    "text": "now it there is a killer app and that",
+    "start": 869.16,
+    "duration": 3.479
+  },
+  {
+    "text": "killer app is on the grid for much",
+    "start": 871.16,
+    "duration": 4.239
+  },
+  {
+    "text": "longer duration than any of the other uh",
+    "start": 872.639,
+    "duration": 5.041
+  },
+  {
+    "text": "Technologies can can go after and it's",
+    "start": 875.399,
+    "duration": 4.44
+  },
+  {
+    "text": "it's again because of the cost right if",
+    "start": 877.68,
+    "duration": 3.8
+  },
+  {
+    "text": "we need a certain duration to be much",
+    "start": 879.839,
+    "duration": 3.601
+  },
+  {
+    "text": "longer to bridge those multiple days of",
+    "start": 881.48,
+    "duration": 3.76
+  },
+  {
+    "text": "intermittency that we face or the",
+    "start": 883.44,
+    "duration": 3.759
+  },
+  {
+    "text": "weather volatility broadly speaking then",
+    "start": 885.24,
+    "duration": 4.0
+  },
+  {
+    "text": "we have to come in at a much lower cost",
+    "start": 887.199,
+    "duration": 3.961
+  },
+  {
+    "text": "to to get that much longer duration",
+    "start": 889.24,
+    "duration": 3.2
+  },
+  {
+    "text": "right that's sort of the inevitable",
+    "start": 891.16,
+    "duration": 3.679
+  },
+  {
+    "text": "trade that you make and so that that's",
+    "start": 892.44,
+    "duration": 3.759
+  },
+  {
+    "text": "what we sort of picked up off the shelf",
+    "start": 894.839,
+    "duration": 3.281
+  },
+  {
+    "text": "and dusted off and said now let's apply",
+    "start": 896.199,
+    "duration": 3.681
+  },
+  {
+    "text": "50 years of human knowledge in",
+    "start": 898.12,
+    "duration": 3.2
+  },
+  {
+    "text": "electrochemistry right battery",
+    "start": 899.88,
+    "duration": 3.68
+  },
+  {
+    "text": "development corrosion science knowledge",
+    "start": 901.32,
+    "duration": 4.36
+  },
+  {
+    "text": "of iron right all these things and go",
+    "start": 903.56,
+    "duration": 3.959
+  },
+  {
+    "text": "commercialize that battery not just",
+    "start": 905.68,
+    "duration": 3.92
+  },
+  {
+    "text": "prove that the science works but build a",
+    "start": 907.519,
+    "duration": 3.88
+  },
+  {
+    "text": "device and scalop a manufacturing",
+    "start": 909.6,
+    "duration": 3.84
+  },
+  {
+    "text": "facility and keep the cost entitlement",
+    "start": 911.399,
+    "duration": 3.641
+  },
+  {
+    "text": "where it is and drive performance",
+    "start": 913.44,
+    "duration": 3.24
+  },
+  {
+    "text": "further than than even what they thought",
+    "start": 915.04,
+    "duration": 4.239
+  },
+  {
+    "text": "they could get uh 50 years ago and so so",
+    "start": 916.68,
+    "duration": 3.959
+  },
+  {
+    "text": "that's what we've been doing that's been",
+    "start": 919.279,
+    "duration": 3.92
+  },
+  {
+    "text": "the work of the company is to really um",
+    "start": 920.639,
+    "duration": 5.681
+  },
+  {
+    "text": "drive this commercialization of iron air",
+    "start": 923.199,
+    "duration": 5.08
+  },
+  {
+    "text": "as a chemistry into the world for the",
+    "start": 926.32,
+    "duration": 4.879
+  },
+  {
+    "text": "first time what has the demand for these",
+    "start": 928.279,
+    "duration": 5.601
+  },
+  {
+    "text": "batteries looked like in the past couple",
+    "start": 931.199,
+    "duration": 6.2
+  },
+  {
+    "text": "years it appears I mean especially based",
+    "start": 933.88,
+    "duration": 5.12
+  },
+  {
+    "text": "on the amount of funding that you've",
+    "start": 937.399,
+    "duration": 3.68
+  },
+  {
+    "text": "secured that there is already a serious",
+    "start": 939.0,
+    "duration": 3.6
+  },
+  {
+    "text": "need for these is that what you're",
+    "start": 941.079,
+    "duration": 3.161
+  },
+  {
+    "text": "experiencing on the sales end yeah",
+    "start": 942.6,
+    "duration": 3.239
+  },
+  {
+    "text": "absolutely and of course the picture",
+    "start": 944.24,
+    "duration": 3.92
+  },
+  {
+    "text": "changes quickly relatively speaking so",
+    "start": 945.839,
+    "duration": 4.36
+  },
+  {
+    "text": "when we started the company we said well",
+    "start": 948.16,
+    "duration": 3.72
+  },
+  {
+    "text": "we're going to build a 100 hour battery",
+    "start": 950.199,
+    "duration": 3.44
+  },
+  {
+    "text": "that's you know 1110th the cost of",
+    "start": 951.88,
+    "duration": 3.439
+  },
+  {
+    "text": "lithium on and people said a lot of",
+    "start": 953.639,
+    "duration": 3.801
+  },
+  {
+    "text": "people said ah well that's that's not",
+    "start": 955.319,
+    "duration": 3.841
+  },
+  {
+    "text": "going to be relevant for 20 to 30 years",
+    "start": 957.44,
+    "duration": 2.879
+  },
+  {
+    "text": "you know good luck right it's going to",
+    "start": 959.16,
+    "duration": 3.08
+  },
+  {
+    "text": "take forever for a market to show up for",
+    "start": 960.319,
+    "duration": 4.721
+  },
+  {
+    "text": "that kind of thing and what very clearly",
+    "start": 962.24,
+    "duration": 4.599
+  },
+  {
+    "text": "fell out of that really detailed",
+    "start": 965.04,
+    "duration": 3.359
+  },
+  {
+    "text": "analysis that we ended up doing with",
+    "start": 966.839,
+    "duration": 4.36
+  },
+  {
+    "text": "utilities by the way was if you can have",
+    "start": 968.399,
+    "duration": 5.721
+  },
+  {
+    "text": "a 100h hour battery at the cost point",
+    "start": 971.199,
+    "duration": 4.64
+  },
+  {
+    "text": "because those two things go together",
+    "start": 974.12,
+    "duration": 4.279
+  },
+  {
+    "text": "then you drive a whole new asset class",
+    "start": 975.839,
+    "duration": 4.201
+  },
+  {
+    "text": "on the electric system and there's a",
+    "start": 978.399,
+    "duration": 3.88
+  },
+  {
+    "text": "huge amount of value right now you don't",
+    "start": 980.04,
+    "duration": 4.279
+  },
+  {
+    "text": "have to wait 20 to 30 years you can you",
+    "start": 982.279,
+    "duration": 3.8
+  },
+  {
+    "text": "can address pockets of that",
+    "start": 984.319,
+    "duration": 3.801
+  },
+  {
+    "text": "intermittency or reliability challenges",
+    "start": 986.079,
+    "duration": 3.32
+  },
+  {
+    "text": "or whatever else that might might be",
+    "start": 988.12,
+    "duration": 3.079
+  },
+  {
+    "text": "right now because it's just another",
+    "start": 989.399,
+    "duration": 3.521
+  },
+  {
+    "text": "costeffective asset doesn't even really",
+    "start": 991.199,
+    "duration": 5.401
+  },
+  {
+    "text": "matter and so so that came out very very",
+    "start": 992.92,
+    "duration": 6.12
+  },
+  {
+    "text": "clearly and we started working with",
+    "start": 996.6,
+    "duration": 4.359
+  },
+  {
+    "text": "these utilities so our customers are are",
+    "start": 999.04,
+    "duration": 3.08
+  },
+  {
+    "text": "those utilities right if you're a",
+    "start": 1000.959,
+    "duration": 2.841
+  },
+  {
+    "text": "customer of utility it's probably the",
+    "start": 1002.12,
+    "duration": 3.519
+  },
+  {
+    "text": "name of the utility that you send a bill",
+    "start": 1003.8,
+    "duration": 4.479
+  },
+  {
+    "text": "to every month these are this is Excel",
+    "start": 1005.639,
+    "duration": 5.081
+  },
+  {
+    "text": "Energy in Colorado in Minnesota or",
+    "start": 1008.279,
+    "duration": 4.12
+  },
+  {
+    "text": "Georgia power in the state of Georgia or",
+    "start": 1010.72,
+    "duration": 3.84
+  },
+  {
+    "text": "Pacific a electric PG in California",
+    "start": 1012.399,
+    "duration": 3.961
+  },
+  {
+    "text": "Dominion in Virginia these kinds of",
+    "start": 1014.56,
+    "duration": 4.839
+  },
+  {
+    "text": "entities that are uh under the the way",
+    "start": 1016.36,
+    "duration": 5.12
+  },
+  {
+    "text": "the United States operates these things",
+    "start": 1019.399,
+    "duration": 4.281
+  },
+  {
+    "text": "they're essentially regulated monopolies",
+    "start": 1021.48,
+    "duration": 3.959
+  },
+  {
+    "text": "so they have a natural monopoly right",
+    "start": 1023.68,
+    "duration": 3.359
+  },
+  {
+    "text": "they run the wires you're not going to",
+    "start": 1025.439,
+    "duration": 3.12
+  },
+  {
+    "text": "have two companies running wires to your",
+    "start": 1027.039,
+    "duration": 3.4
+  },
+  {
+    "text": "house right to compete so if you have",
+    "start": 1028.559,
+    "duration": 3.721
+  },
+  {
+    "text": "blackouts it's their problem right",
+    "start": 1030.439,
+    "duration": 3.48
+  },
+  {
+    "text": "they're the operator they're responsible",
+    "start": 1032.28,
+    "duration": 3.96
+  },
+  {
+    "text": "for it fundamentally and they have to",
+    "start": 1033.919,
+    "duration": 4.76
+  },
+  {
+    "text": "keep costs under control right it's got",
+    "start": 1036.24,
+    "duration": 5.079
+  },
+  {
+    "text": "to be safe and increasingly it has to be",
+    "start": 1038.679,
+    "duration": 5.201
+  },
+  {
+    "text": "decarbonized and so this is sort of the",
+    "start": 1041.319,
+    "duration": 4.72
+  },
+  {
+    "text": "the the the challenge of the last 10",
+    "start": 1043.88,
+    "duration": 3.679
+  },
+  {
+    "text": "years of the utility industry is to",
+    "start": 1046.039,
+    "duration": 3.561
+  },
+  {
+    "text": "figure out how to solve all that and now",
+    "start": 1047.559,
+    "duration": 4.48
+  },
+  {
+    "text": "add on top of it load growth which is",
+    "start": 1049.6,
+    "duration": 4.12
+  },
+  {
+    "text": "another new challenge relatively new",
+    "start": 1052.039,
+    "duration": 3.561
+  },
+  {
+    "text": "challenge that the industry is facing",
+    "start": 1053.72,
+    "duration": 3.52
+  },
+  {
+    "text": "which it hasn't had to face for the last",
+    "start": 1055.6,
+    "duration": 3.319
+  },
+  {
+    "text": "20 or 30 years right load growth right",
+    "start": 1057.24,
+    "duration": 3.84
+  },
+  {
+    "text": "the amount of new demand for electricity",
+    "start": 1058.919,
+    "duration": 3.801
+  },
+  {
+    "text": "has been flat for the last 20 or 30",
+    "start": 1061.08,
+    "duration": 3.8
+  },
+  {
+    "text": "years before that it did grow very",
+    "start": 1062.72,
+    "duration": 4.079
+  },
+  {
+    "text": "quickly we we electrified the whole",
+    "start": 1064.88,
+    "duration": 4.0
+  },
+  {
+    "text": "country in the United States basically",
+    "start": 1066.799,
+    "duration": 2.88
+  },
+  {
+    "text": "from",
+    "start": 1068.88,
+    "duration": 4.88
+  },
+  {
+    "text": "zero not basically from zero in the 192s",
+    "start": 1069.679,
+    "duration": 5.681
+  },
+  {
+    "text": "all the way sort of to the 1970s there",
+    "start": 1073.76,
+    "duration": 3.159
+  },
+  {
+    "text": "was very quick load growth and it sort",
+    "start": 1075.36,
+    "duration": 3.84
+  },
+  {
+    "text": "of you know evened off so we have built",
+    "start": 1076.919,
+    "duration": 5.201
+  },
+  {
+    "text": "a lot of electricity sort of system",
+    "start": 1079.2,
+    "duration": 5.28
+  },
+  {
+    "text": "capacity historically but we haven't had",
+    "start": 1082.12,
+    "duration": 4.12
+  },
+  {
+    "text": "to do that for the last 20 30 years so",
+    "start": 1084.48,
+    "duration": 4.16
+  },
+  {
+    "text": "load growth on top is a challenge that",
+    "start": 1086.24,
+    "duration": 4.24
+  },
+  {
+    "text": "maybe the electric industry is not used",
+    "start": 1088.64,
+    "duration": 3.56
+  },
+  {
+    "text": "to meeting it's something that they did",
+    "start": 1090.48,
+    "duration": 2.92
+  },
+  {
+    "text": "meet in the past but it's a brand new",
+    "start": 1092.2,
+    "duration": 2.959
+  },
+  {
+    "text": "challenge and you mix it in with these",
+    "start": 1093.4,
+    "duration": 4.8
+  },
+  {
+    "text": "other ones of of reliability and cost",
+    "start": 1095.159,
+    "duration": 4.88
+  },
+  {
+    "text": "and decarbonization and now it's just",
+    "start": 1098.2,
+    "duration": 4.599
+  },
+  {
+    "text": "you know an even more complex set of",
+    "start": 1100.039,
+    "duration": 4.161
+  },
+  {
+    "text": "challenges that the utility needs to",
+    "start": 1102.799,
+    "duration": 3.36
+  },
+  {
+    "text": "solve and into that mix we're",
+    "start": 1104.2,
+    "duration": 4.32
+  },
+  {
+    "text": "introducing a new asset a new resource",
+    "start": 1106.159,
+    "duration": 4.601
+  },
+  {
+    "text": "right tool if you will um for them to",
+    "start": 1108.52,
+    "duration": 4.519
+  },
+  {
+    "text": "solve all these problems simultaneously",
+    "start": 1110.76,
+    "duration": 4.68
+  },
+  {
+    "text": "yeah I mean this idea of energy",
+    "start": 1113.039,
+    "duration": 4.841
+  },
+  {
+    "text": "consumption going up and then being flat",
+    "start": 1115.44,
+    "duration": 5.04
+  },
+  {
+    "text": "and it's just about to tick up again",
+    "start": 1117.88,
+    "duration": 4.88
+  },
+  {
+    "text": "which I just find fascinating it seems",
+    "start": 1120.48,
+    "duration": 4.6
+  },
+  {
+    "text": "like it's just because of AI I did a",
+    "start": 1122.76,
+    "duration": 3.76
+  },
+  {
+    "text": "little bit of research on this in the",
+    "start": 1125.08,
+    "duration": 2.76
+  },
+  {
+    "text": "past couple weeks and just sort of",
+    "start": 1126.52,
+    "duration": 3.92
+  },
+  {
+    "text": "looked at per capita energy consumption",
+    "start": 1127.84,
+    "duration": 5.64
+  },
+  {
+    "text": "over the past 200 years basically and it",
+    "start": 1130.44,
+    "duration": 5.119
+  },
+  {
+    "text": "more or less is an exponential curve I",
+    "start": 1133.48,
+    "duration": 4.12
+  },
+  {
+    "text": "mean this is per capita it's not that we",
+    "start": 1135.559,
+    "duration": 4.081
+  },
+  {
+    "text": "have more people on earth people are",
+    "start": 1137.6,
+    "duration": 3.52
+  },
+  {
+    "text": "consuming more",
+    "start": 1139.64,
+    "duration": 3.88
+  },
+  {
+    "text": "energy is that just going to continue",
+    "start": 1141.12,
+    "duration": 5.72
+  },
+  {
+    "text": "into eternity are humans just on a per",
+    "start": 1143.52,
+    "duration": 5.56
+  },
+  {
+    "text": "capita basis going to consume more and",
+    "start": 1146.84,
+    "duration": 4.24
+  },
+  {
+    "text": "more and more it's a great question and",
+    "start": 1149.08,
+    "duration": 3.68
+  },
+  {
+    "text": "and part of the question is is that",
+    "start": 1151.08,
+    "duration": 4.4
+  },
+  {
+    "text": "consumption being enabled by low costs",
+    "start": 1152.76,
+    "duration": 4.96
+  },
+  {
+    "text": "right uh you know these things go hand",
+    "start": 1155.48,
+    "duration": 3.84
+  },
+  {
+    "text": "inand right sort of if you build the",
+    "start": 1157.72,
+    "duration": 3.36
+  },
+  {
+    "text": "highways wider do more more people just",
+    "start": 1159.32,
+    "duration": 3.16
+  },
+  {
+    "text": "show up right because they they want to",
+    "start": 1161.08,
+    "duration": 4.479
+  },
+  {
+    "text": "use the resource but all of human like",
+    "start": 1162.48,
+    "duration": 5.679
+  },
+  {
+    "text": "modern human civilization is based on",
+    "start": 1165.559,
+    "duration": 5.681
+  },
+  {
+    "text": "low cost abundant energy that's sort of",
+    "start": 1168.159,
+    "duration": 4.88
+  },
+  {
+    "text": "a fundamental of the civilization that",
+    "start": 1171.24,
+    "duration": 4.319
+  },
+  {
+    "text": "we live in today and where that energy",
+    "start": 1173.039,
+    "duration": 4.721
+  },
+  {
+    "text": "comes from the mix of it um has has",
+    "start": 1175.559,
+    "duration": 4.961
+  },
+  {
+    "text": "shifted over the last 200 years so in",
+    "start": 1177.76,
+    "duration": 4.48
+  },
+  {
+    "text": "initially of course that energy was was",
+    "start": 1180.52,
+    "duration": 4.32
+  },
+  {
+    "text": "wood we literally burn through forests",
+    "start": 1182.24,
+    "duration": 4.2
+  },
+  {
+    "text": "of of Europe that are just now",
+    "start": 1184.84,
+    "duration": 3.8
+  },
+  {
+    "text": "essentially growing back in many ways",
+    "start": 1186.44,
+    "duration": 4.76
+  },
+  {
+    "text": "and and so we started do fuel switching",
+    "start": 1188.64,
+    "duration": 4.159
+  },
+  {
+    "text": "so we went from wood to coal and then",
+    "start": 1191.2,
+    "duration": 4.04
+  },
+  {
+    "text": "from coal to know more Hydro power and",
+    "start": 1192.799,
+    "duration": 3.841
+  },
+  {
+    "text": "then ultimately to other sources of",
+    "start": 1195.24,
+    "duration": 3.76
+  },
+  {
+    "text": "hydrocarbons and then and we've been on",
+    "start": 1196.64,
+    "duration": 4.64
+  },
+  {
+    "text": "the hydrocarbons for the last 100 years",
+    "start": 1199.0,
+    "duration": 4.64
+  },
+  {
+    "text": "uh maybe mixing in some nuclear in there",
+    "start": 1201.28,
+    "duration": 4.48
+  },
+  {
+    "text": "uh fairly recently and then now we're",
+    "start": 1203.64,
+    "duration": 4.279
+  },
+  {
+    "text": "pulling in more renewable so you you do",
+    "start": 1205.76,
+    "duration": 4.12
+  },
+  {
+    "text": "see a fuel switching and the numbers",
+    "start": 1207.919,
+    "duration": 3.841
+  },
+  {
+    "text": "going up because costs continue to go",
+    "start": 1209.88,
+    "duration": 4.52
+  },
+  {
+    "text": "down right that is a feature of the",
+    "start": 1211.76,
+    "duration": 5.12
+  },
+  {
+    "text": "energy in the industry more broadly is",
+    "start": 1214.4,
+    "duration": 4.72
+  },
+  {
+    "text": "that despite all of that growth despite",
+    "start": 1216.88,
+    "duration": 4.56
+  },
+  {
+    "text": "all of that demand costs in fact",
+    "start": 1219.12,
+    "duration": 5.559
+  },
+  {
+    "text": "continue to go down on a real",
+    "start": 1221.44,
+    "duration": 3.239
+  },
+  {
+    "text": "basis we'll be right back",
+    "start": 1225.24,
+    "duration": 4.6
+  },
+  {
+    "text": "[Music]",
+    "start": 1229.93,
+    "duration": 4.129
+  },
+  {
+    "text": "we're back with firsttime",
+    "start": 1235.4,
+    "duration": 4.639
+  },
+  {
+    "text": "Founders I'd love to get an",
+    "start": 1236.96,
+    "duration": 4.88
+  },
+  {
+    "text": "understanding for how you arrived here",
+    "start": 1240.039,
+    "duration": 4.441
+  },
+  {
+    "text": "and that is at iron air battery",
+    "start": 1241.84,
+    "duration": 4.64
+  },
+  {
+    "text": "manufacturing one of the leading",
+    "start": 1244.48,
+    "duration": 4.12
+  },
+  {
+    "text": "renewable energy storage people in the",
+    "start": 1246.48,
+    "duration": 4.319
+  },
+  {
+    "text": "world um just a little bit of your",
+    "start": 1248.6,
+    "duration": 4.76
+  },
+  {
+    "text": "background you grew up in Selenas",
+    "start": 1250.799,
+    "duration": 4.721
+  },
+  {
+    "text": "California you went on to Harvard for",
+    "start": 1253.36,
+    "duration": 5.199
+  },
+  {
+    "text": "undergrad you studied economics then you",
+    "start": 1255.52,
+    "duration": 4.48
+  },
+  {
+    "text": "you made what I would consider a very",
+    "start": 1258.559,
+    "duration": 3.0
+  },
+  {
+    "text": "rare move in the world of tech which is",
+    "start": 1260.0,
+    "duration": 3.52
+  },
+  {
+    "text": "you went to Divinity School you went to",
+    "start": 1261.559,
+    "duration": 4.321
+  },
+  {
+    "text": "Yale and you were studying to become a",
+    "start": 1263.52,
+    "duration": 4.159
+  },
+  {
+    "text": "theologian and from my understanding you",
+    "start": 1265.88,
+    "duration": 4.36
+  },
+  {
+    "text": "wanted to be a priest tell us about your",
+    "start": 1267.679,
+    "duration": 4.801
+  },
+  {
+    "text": "childhood and and especially about that",
+    "start": 1270.24,
+    "duration": 4.039
+  },
+  {
+    "text": "decision to go to Divinity School and",
+    "start": 1272.48,
+    "duration": 3.36
+  },
+  {
+    "text": "perhaps how that may have translated",
+    "start": 1274.279,
+    "duration": 4.121
+  },
+  {
+    "text": "into your career in Renewables yeah so",
+    "start": 1275.84,
+    "duration": 4.4
+  },
+  {
+    "text": "the town of Selenas where I grew up in",
+    "start": 1278.4,
+    "duration": 3.279
+  },
+  {
+    "text": "California it's an agricultural",
+    "start": 1280.24,
+    "duration": 2.96
+  },
+  {
+    "text": "committee so so we go to lettuce",
+    "start": 1281.679,
+    "duration": 3.201
+  },
+  {
+    "text": "essentially that's the primary good",
+    "start": 1283.2,
+    "duration": 5.8
+  },
+  {
+    "text": "there and uh that Community was totally",
+    "start": 1284.88,
+    "duration": 6.0
+  },
+  {
+    "text": "transformed when they figure out how to",
+    "start": 1289.0,
+    "duration": 3.76
+  },
+  {
+    "text": "um ship lettuce from the west coast to",
+    "start": 1290.88,
+    "duration": 2.88
+  },
+  {
+    "text": "the east coast in other words",
+    "start": 1292.76,
+    "duration": 3.0
+  },
+  {
+    "text": "refrigerated car or you want to think",
+    "start": 1293.76,
+    "duration": 4.56
+  },
+  {
+    "text": "about it storage right energy storage",
+    "start": 1295.76,
+    "duration": 5.24
+  },
+  {
+    "text": "and my parents were for public servants",
+    "start": 1298.32,
+    "duration": 4.32
+  },
+  {
+    "text": "my dad a lawyer for Farm Workers my mom",
+    "start": 1301.0,
+    "duration": 3.559
+  },
+  {
+    "text": "a teacher at public schools for children",
+    "start": 1302.64,
+    "duration": 4.76
+  },
+  {
+    "text": "and Farm Workers essentially and uh and",
+    "start": 1304.559,
+    "duration": 5.0
+  },
+  {
+    "text": "so I saw also sort of the energy Nexus",
+    "start": 1307.4,
+    "duration": 4.36
+  },
+  {
+    "text": "right the way that having access to",
+    "start": 1309.559,
+    "duration": 4.12
+  },
+  {
+    "text": "locost energy and and you know that",
+    "start": 1311.76,
+    "duration": 3.48
+  },
+  {
+    "text": "being a fundamental building block of",
+    "start": 1313.679,
+    "duration": 3.761
+  },
+  {
+    "text": "civilization how that intersects",
+    "start": 1315.24,
+    "duration": 4.0
+  },
+  {
+    "text": "advantaged and disadvantage communities",
+    "start": 1317.44,
+    "duration": 4.16
+  },
+  {
+    "text": "in some very important ways um and so",
+    "start": 1319.24,
+    "duration": 3.96
+  },
+  {
+    "text": "that has always been sort of a feature",
+    "start": 1321.6,
+    "duration": 3.4
+  },
+  {
+    "text": "of my thinking in general and went to",
+    "start": 1323.2,
+    "duration": 3.68
+  },
+  {
+    "text": "Harvard and I studied energy economics",
+    "start": 1325.0,
+    "duration": 3.679
+  },
+  {
+    "text": "largely uh and then I actually worked in",
+    "start": 1326.88,
+    "duration": 3.159
+  },
+  {
+    "text": "the tech industry for a few years after",
+    "start": 1328.679,
+    "duration": 2.88
+  },
+  {
+    "text": "that this was the very first tech boom",
+    "start": 1330.039,
+    "duration": 3.561
+  },
+  {
+    "text": "in Boston and you know late 90s early",
+    "start": 1331.559,
+    "duration": 5.321
+  },
+  {
+    "text": "2000s and uh was was largely disaffected",
+    "start": 1333.6,
+    "duration": 5.52
+  },
+  {
+    "text": "with what I saw in that industry it",
+    "start": 1336.88,
+    "duration": 3.919
+  },
+  {
+    "text": "seemed it seemed like it couldn't be",
+    "start": 1339.12,
+    "duration": 3.439
+  },
+  {
+    "text": "real and indeed that was the case and so",
+    "start": 1340.799,
+    "duration": 3.561
+  },
+  {
+    "text": "I had a hunger to work on what I felt to",
+    "start": 1342.559,
+    "duration": 3.961
+  },
+  {
+    "text": "be more meaningful topics vocationally",
+    "start": 1344.36,
+    "duration": 4.439
+  },
+  {
+    "text": "you know professionally I I like to work",
+    "start": 1346.52,
+    "duration": 4.12
+  },
+  {
+    "text": "I like to work hard I want that to mean",
+    "start": 1348.799,
+    "duration": 5.041
+  },
+  {
+    "text": "something and so I also take my my faith",
+    "start": 1350.64,
+    "duration": 5.24
+  },
+  {
+    "text": "seriously and I I wanted to pursue sort",
+    "start": 1353.84,
+    "duration": 4.16
+  },
+  {
+    "text": "of the intellectual aspects of that and",
+    "start": 1355.88,
+    "duration": 4.2
+  },
+  {
+    "text": "was open to becoming a you know an",
+    "start": 1358.0,
+    "duration": 5.0
+  },
+  {
+    "text": "ordained U priest but found out very",
+    "start": 1360.08,
+    "duration": 4.719
+  },
+  {
+    "text": "early on thanks to the curriculum at",
+    "start": 1363.0,
+    "duration": 4.279
+  },
+  {
+    "text": "Yale that I'm wholly unfit to be a",
+    "start": 1364.799,
+    "duration": 5.961
+  },
+  {
+    "text": "priest I that should not be my job and",
+    "start": 1367.279,
+    "duration": 4.801
+  },
+  {
+    "text": "so once I realized that that was just",
+    "start": 1370.76,
+    "duration": 4.399
+  },
+  {
+    "text": "not going to be my vocation uh I took",
+    "start": 1372.08,
+    "duration": 4.599
+  },
+  {
+    "text": "those same skills and tried to apply",
+    "start": 1375.159,
+    "duration": 3.081
+  },
+  {
+    "text": "them to figure out what did I what did I",
+    "start": 1376.679,
+    "duration": 4.041
+  },
+  {
+    "text": "want to do and energy you know sort of",
+    "start": 1378.24,
+    "duration": 4.039
+  },
+  {
+    "text": "having been a lifelong Fascination for",
+    "start": 1380.72,
+    "duration": 4.72
+  },
+  {
+    "text": "me um I really sort of wanted to pursue",
+    "start": 1382.279,
+    "duration": 4.921
+  },
+  {
+    "text": "that now that's a very broad topic and",
+    "start": 1385.44,
+    "duration": 3.04
+  },
+  {
+    "text": "so I started to just do a lot of",
+    "start": 1387.2,
+    "duration": 3.64
+  },
+  {
+    "text": "research and you know a lot of a lot of",
+    "start": 1388.48,
+    "duration": 3.96
+  },
+  {
+    "text": "connections was one of the wonderful",
+    "start": 1390.84,
+    "duration": 3.28
+  },
+  {
+    "text": "parts of Harvard I they used to have a",
+    "start": 1392.44,
+    "duration": 3.08
+  },
+  {
+    "text": "book that you could literally open and",
+    "start": 1394.12,
+    "duration": 3.28
+  },
+  {
+    "text": "call people alumni that were willing",
+    "start": 1395.52,
+    "duration": 3.279
+  },
+  {
+    "text": "that were in the field of energy that",
+    "start": 1397.4,
+    "duration": 2.84
+  },
+  {
+    "text": "you that were willing to take a call",
+    "start": 1398.799,
+    "duration": 4.24
+  },
+  {
+    "text": "from the manual LinkedIn yeah exactly I",
+    "start": 1400.24,
+    "duration": 4.36
+  },
+  {
+    "text": "I had to physically go to an office to",
+    "start": 1403.039,
+    "duration": 4.88
+  },
+  {
+    "text": "take down numbers and uh and started to",
+    "start": 1404.6,
+    "duration": 5.559
+  },
+  {
+    "text": "sort of piece together a a thesis if you",
+    "start": 1407.919,
+    "duration": 3.721
+  },
+  {
+    "text": "will about what what the energy",
+    "start": 1410.159,
+    "duration": 3.4
+  },
+  {
+    "text": "landscape was was going to look like and",
+    "start": 1411.64,
+    "duration": 3.44
+  },
+  {
+    "text": "and even then you could see costs coming",
+    "start": 1413.559,
+    "duration": 3.761
+  },
+  {
+    "text": "down on wind and solar they were they",
+    "start": 1415.08,
+    "duration": 3.76
+  },
+  {
+    "text": "were very high compared to where they",
+    "start": 1417.32,
+    "duration": 4.0
+  },
+  {
+    "text": "are today but but the trend was was",
+    "start": 1418.84,
+    "duration": 3.4
+  },
+  {
+    "text": "definitely pointing in the right",
+    "start": 1421.32,
+    "duration": 4.04
+  },
+  {
+    "text": "direction and and steep right steep down",
+    "start": 1422.24,
+    "duration": 5.4
+  },
+  {
+    "text": "um and so I sort of made a sector bet I",
+    "start": 1425.36,
+    "duration": 3.439
+  },
+  {
+    "text": "I basically",
+    "start": 1427.64,
+    "duration": 3.88
+  },
+  {
+    "text": "just bet vocationally that it would be",
+    "start": 1428.799,
+    "duration": 5.321
+  },
+  {
+    "text": "an interesting field uh and it felt very",
+    "start": 1431.52,
+    "duration": 5.12
+  },
+  {
+    "text": "relevant and needed to have compelling",
+    "start": 1434.12,
+    "duration": 4.08
+  },
+  {
+    "text": "types of energy storage to take those",
+    "start": 1436.64,
+    "duration": 3.279
+  },
+  {
+    "text": "Brun rable resources that were coming",
+    "start": 1438.2,
+    "duration": 3.44
+  },
+  {
+    "text": "down and cost so quickly and basically I",
+    "start": 1439.919,
+    "duration": 3.88
+  },
+  {
+    "text": "just said to myself I bet at some point",
+    "start": 1441.64,
+    "duration": 3.6
+  },
+  {
+    "text": "you know batteries will become relevant",
+    "start": 1443.799,
+    "duration": 3.801
+  },
+  {
+    "text": "on the grid and and that's what I did so",
+    "start": 1445.24,
+    "duration": 4.679
+  },
+  {
+    "text": "I I went to a company straight out of D",
+    "start": 1447.6,
+    "duration": 4.64
+  },
+  {
+    "text": "Vin school and picked up my masters in",
+    "start": 1449.919,
+    "duration": 3.721
+  },
+  {
+    "text": "Theology and went to go go work for",
+    "start": 1452.24,
+    "duration": 3.64
+  },
+  {
+    "text": "battery company uh and then that was in",
+    "start": 1453.64,
+    "duration": 4.279
+  },
+  {
+    "text": "New York and then a few years after that",
+    "start": 1455.88,
+    "duration": 4.279
+  },
+  {
+    "text": "ended up at Tesla in 2009 um where I",
+    "start": 1457.919,
+    "duration": 4.561
+  },
+  {
+    "text": "started what became the Tesla energy uh",
+    "start": 1460.159,
+    "duration": 4.041
+  },
+  {
+    "text": "effort taking the lithium ion batteries",
+    "start": 1462.48,
+    "duration": 4.079
+  },
+  {
+    "text": "out of the car and uh really for the",
+    "start": 1464.2,
+    "duration": 3.599
+  },
+  {
+    "text": "first time putting them on the electric",
+    "start": 1466.559,
+    "duration": 4.281
+  },
+  {
+    "text": "grid you worked closely with JB strable",
+    "start": 1467.799,
+    "duration": 5.24
+  },
+  {
+    "text": "who's the co-founder of Tesla I believe",
+    "start": 1470.84,
+    "duration": 4.76
+  },
+  {
+    "text": "you were working with Elon Musk too what",
+    "start": 1473.039,
+    "duration": 6.12
+  },
+  {
+    "text": "were some of the learnings from being on",
+    "start": 1475.6,
+    "duration": 6.16
+  },
+  {
+    "text": "that rocket ship I mean it sounds like I",
+    "start": 1479.159,
+    "duration": 4.961
+  },
+  {
+    "text": "love you say you made the sector bet we",
+    "start": 1481.76,
+    "duration": 4.56
+  },
+  {
+    "text": "often talk on this podcast about riding",
+    "start": 1484.12,
+    "duration": 4.039
+  },
+  {
+    "text": "the right wave picking the wave and then",
+    "start": 1486.32,
+    "duration": 3.88
+  },
+  {
+    "text": "just riding through it you did that with",
+    "start": 1488.159,
+    "duration": 3.841
+  },
+  {
+    "text": "that sector and you also did that with a",
+    "start": 1490.2,
+    "duration": 4.28
+  },
+  {
+    "text": "company you went from a smallest startup",
+    "start": 1492.0,
+    "duration": 4.559
+  },
+  {
+    "text": "to one of the largest and most",
+    "start": 1494.48,
+    "duration": 4.52
+  },
+  {
+    "text": "influential companies in the world",
+    "start": 1496.559,
+    "duration": 3.921
+  },
+  {
+    "text": "what was that experience like well at",
+    "start": 1499.0,
+    "duration": 4.0
+  },
+  {
+    "text": "the time in 2009 it was definitely not",
+    "start": 1500.48,
+    "duration": 4.079
+  },
+  {
+    "text": "one of the large you know most",
+    "start": 1503.0,
+    "duration": 3.72
+  },
+  {
+    "text": "influential in fact there was a you know",
+    "start": 1504.559,
+    "duration": 4.281
+  },
+  {
+    "text": "Tesla Death Watch right uh there was",
+    "start": 1506.72,
+    "duration": 4.0
+  },
+  {
+    "text": "this website that that was trying to",
+    "start": 1508.84,
+    "duration": 3.64
+  },
+  {
+    "text": "predict exactly when Tesla would fail",
+    "start": 1510.72,
+    "duration": 3.04
+  },
+  {
+    "text": "because so many people were sure it was",
+    "start": 1512.48,
+    "duration": 2.04
+  },
+  {
+    "text": "going to",
+    "start": 1513.76,
+    "duration": 3.36
+  },
+  {
+    "text": "fail uh so absolutely it was a different",
+    "start": 1514.52,
+    "duration": 4.8
+  },
+  {
+    "text": "moment for the company and for the for",
+    "start": 1517.12,
+    "duration": 4.919
+  },
+  {
+    "text": "the electric vehicle movement in general",
+    "start": 1519.32,
+    "duration": 5.239
+  },
+  {
+    "text": "um but it was I I could not think of a",
+    "start": 1522.039,
+    "duration": 4.841
+  },
+  {
+    "text": "better place to go it was also the Tesla",
+    "start": 1524.559,
+    "duration": 3.921
+  },
+  {
+    "text": "was like a shining light for folks who",
+    "start": 1526.88,
+    "duration": 3.679
+  },
+  {
+    "text": "really wanted to work on the hardest",
+    "start": 1528.48,
+    "duration": 5.24
+  },
+  {
+    "text": "most impactful problems Tesla just was",
+    "start": 1530.559,
+    "duration": 4.801
+  },
+  {
+    "text": "like it was like moths to a flame for",
+    "start": 1533.72,
+    "duration": 4.04
+  },
+  {
+    "text": "that place um and so you know Elon",
+    "start": 1535.36,
+    "duration": 4.439
+  },
+  {
+    "text": "rightly deserves a lot of credit for the",
+    "start": 1537.76,
+    "duration": 3.6
+  },
+  {
+    "text": "vision that he set and the ambition of",
+    "start": 1539.799,
+    "duration": 4.641
+  },
+  {
+    "text": "his goals which um which which were just",
+    "start": 1541.36,
+    "duration": 7.08
+  },
+  {
+    "text": "you know completely inspiring um and uh",
+    "start": 1544.44,
+    "duration": 5.479
+  },
+  {
+    "text": "the quality of the people that ended up",
+    "start": 1548.44,
+    "duration": 3.92
+  },
+  {
+    "text": "showing up is was unparalleled and just",
+    "start": 1549.919,
+    "duration": 4.441
+  },
+  {
+    "text": "just spectacular and so I got to work",
+    "start": 1552.36,
+    "duration": 3.88
+  },
+  {
+    "text": "with JB and I got to work with Elon and",
+    "start": 1554.36,
+    "duration": 4.76
+  },
+  {
+    "text": "and a bunch of other colleagues",
+    "start": 1556.24,
+    "duration": 5.24
+  },
+  {
+    "text": "be Leno and I could I could list you",
+    "start": 1559.12,
+    "duration": 4.84
+  },
+  {
+    "text": "know many many names there and you know",
+    "start": 1561.48,
+    "duration": 4.799
+  },
+  {
+    "text": "some of the key learnings were go after",
+    "start": 1563.96,
+    "duration": 4.079
+  },
+  {
+    "text": "hard problems you'll get the best people",
+    "start": 1566.279,
+    "duration": 3.0
+  },
+  {
+    "text": "to work on them right it's a little",
+    "start": 1568.039,
+    "duration": 3.24
+  },
+  {
+    "text": "counterintuitive like great people don't",
+    "start": 1569.279,
+    "duration": 5.161
+  },
+  {
+    "text": "want to work on mediocre challenges they",
+    "start": 1571.279,
+    "duration": 5.12
+  },
+  {
+    "text": "want to work on hard problems they they",
+    "start": 1574.44,
+    "duration": 3.719
+  },
+  {
+    "text": "want to work on in fact the hardest",
+    "start": 1576.399,
+    "duration": 4.28
+  },
+  {
+    "text": "problems and and if you if you pick the",
+    "start": 1578.159,
+    "duration": 5.161
+  },
+  {
+    "text": "right ones and you set ambitious goals",
+    "start": 1580.679,
+    "duration": 3.921
+  },
+  {
+    "text": "you know in some ways you end up with a",
+    "start": 1583.32,
+    "duration": 2.76
+  },
+  {
+    "text": "self-fulfilling prophecy on that in",
+    "start": 1584.6,
+    "duration": 3.439
+  },
+  {
+    "text": "terms of the type of talent you can you",
+    "start": 1586.08,
+    "duration": 5.04
+  },
+  {
+    "text": "can bring into the company now getting",
+    "start": 1588.039,
+    "duration": 4.36
+  },
+  {
+    "text": "high quality folks into the company",
+    "start": 1591.12,
+    "duration": 2.84
+  },
+  {
+    "text": "that's step one you've got to continue",
+    "start": 1592.399,
+    "duration": 3.201
+  },
+  {
+    "text": "to motivate them and drive them in the",
+    "start": 1593.96,
+    "duration": 3.36
+  },
+  {
+    "text": "right way and you know everything else",
+    "start": 1595.6,
+    "duration": 4.319
+  },
+  {
+    "text": "but but absolutely I saw that uh play",
+    "start": 1597.32,
+    "duration": 4.719
+  },
+  {
+    "text": "out to to the company's benefit time and",
+    "start": 1599.919,
+    "duration": 4.12
+  },
+  {
+    "text": "time again uh in those early days of",
+    "start": 1602.039,
+    "duration": 3.961
+  },
+  {
+    "text": "Tesla as we went you know from my time",
+    "start": 1604.039,
+    "duration": 4.24
+  },
+  {
+    "text": "there from about 300 to 30,000 people it",
+    "start": 1606.0,
+    "duration": 4.799
+  },
+  {
+    "text": "was it was quite the sweep uh so so that",
+    "start": 1608.279,
+    "duration": 4.12
+  },
+  {
+    "text": "was certainly a key learning you know go",
+    "start": 1610.799,
+    "duration": 2.76
+  },
+  {
+    "text": "after go after the big stuff that",
+    "start": 1612.399,
+    "duration": 3.201
+  },
+  {
+    "text": "matters yeah why not but it wasn't",
+    "start": 1613.559,
+    "duration": 3.84
+  },
+  {
+    "text": "enough to keep you and then eventually",
+    "start": 1615.6,
+    "duration": 5.04
+  },
+  {
+    "text": "you started your company why why why did",
+    "start": 1617.399,
+    "duration": 5.201
+  },
+  {
+    "text": "you decide to do that well as much as I",
+    "start": 1620.64,
+    "duration": 4.08
+  },
+  {
+    "text": "saw that lithium Lon very clearly back",
+    "start": 1622.6,
+    "duration": 4.16
+  },
+  {
+    "text": "in 2009 when I joined Tusa was going to",
+    "start": 1624.72,
+    "duration": 4.52
+  },
+  {
+    "text": "be the next thing to to come into the",
+    "start": 1626.76,
+    "duration": 4.36
+  },
+  {
+    "text": "Grid in a in a meaningful way and have a",
+    "start": 1629.24,
+    "duration": 4.159
+  },
+  {
+    "text": "big impact it also became clear over my",
+    "start": 1631.12,
+    "duration": 4.559
+  },
+  {
+    "text": "time there lithium mind was not the end",
+    "start": 1633.399,
+    "duration": 3.88
+  },
+  {
+    "text": "all be all for energy storage on the",
+    "start": 1635.679,
+    "duration": 4.441
+  },
+  {
+    "text": "grid and um you know that just that was",
+    "start": 1637.279,
+    "duration": 4.64
+  },
+  {
+    "text": "increasingly clear as I talked to",
+    "start": 1640.12,
+    "duration": 3.799
+  },
+  {
+    "text": "utility Executives while I was building",
+    "start": 1641.919,
+    "duration": 3.841
+  },
+  {
+    "text": "up the Tesla energy business there you",
+    "start": 1643.919,
+    "duration": 3.12
+  },
+  {
+    "text": "know they would describe these other",
+    "start": 1645.76,
+    "duration": 3.08
+  },
+  {
+    "text": "challenges that that M was just not",
+    "start": 1647.039,
+    "duration": 4.321
+  },
+  {
+    "text": "going to be able to to meet additionally",
+    "start": 1648.84,
+    "duration": 5.28
+  },
+  {
+    "text": "s and you know a half years roughly is",
+    "start": 1651.36,
+    "duration": 4.52
+  },
+  {
+    "text": "enough time for me to spend at Tesla",
+    "start": 1654.12,
+    "duration": 3.88
+  },
+  {
+    "text": "it's a yeah you may have heard it's an",
+    "start": 1655.88,
+    "duration": 4.919
+  },
+  {
+    "text": "intense place to work and so I I love to",
+    "start": 1658.0,
+    "duration": 4.679
+  },
+  {
+    "text": "work hard I love to work on you know",
+    "start": 1660.799,
+    "duration": 4.201
+  },
+  {
+    "text": "what I feel matters and I'm also married",
+    "start": 1662.679,
+    "duration": 4.24
+  },
+  {
+    "text": "and I got three kids and you know that",
+    "start": 1665.0,
+    "duration": 3.48
+  },
+  {
+    "text": "that was I want to stay married and be",
+    "start": 1666.919,
+    "duration": 3.801
+  },
+  {
+    "text": "in my kids life in the right way and so",
+    "start": 1668.48,
+    "duration": 5.16
+  },
+  {
+    "text": "um so for me that was that was enough um",
+    "start": 1670.72,
+    "duration": 4.88
+  },
+  {
+    "text": "and it was enough for me that it was",
+    "start": 1673.64,
+    "duration": 3.039
+  },
+  {
+    "text": "enough you know I didn't have to I",
+    "start": 1675.6,
+    "duration": 3.559
+  },
+  {
+    "text": "didn't have to keep staying there and um",
+    "start": 1676.679,
+    "duration": 4.12
+  },
+  {
+    "text": "I also wanted to leave on good terms you",
+    "start": 1679.159,
+    "duration": 4.441
+  },
+  {
+    "text": "know everybody has a time at which you",
+    "start": 1680.799,
+    "duration": 4.681
+  },
+  {
+    "text": "know it's time for them to leave Tesla",
+    "start": 1683.6,
+    "duration": 3.319
+  },
+  {
+    "text": "and I saw a moment and I just said you",
+    "start": 1685.48,
+    "duration": 3.0
+  },
+  {
+    "text": "know now's a good time right I I did",
+    "start": 1686.919,
+    "duration": 3.0
+  },
+  {
+    "text": "exactly what I wanted to do I started",
+    "start": 1688.48,
+    "duration": 3.52
+  },
+  {
+    "text": "the Tesla energy effort and got it stood",
+    "start": 1689.919,
+    "duration": 4.441
+  },
+  {
+    "text": "up and I'm super proud of the business",
+    "start": 1692.0,
+    "duration": 4.159
+  },
+  {
+    "text": "that is today and the the the role that",
+    "start": 1694.36,
+    "duration": 4.319
+  },
+  {
+    "text": "I played early on uh it's it's a great",
+    "start": 1696.159,
+    "duration": 4.681
+  },
+  {
+    "text": "business and there were more things I",
+    "start": 1698.679,
+    "duration": 3.761
+  },
+  {
+    "text": "still wanted to do specifically for",
+    "start": 1700.84,
+    "duration": 3.64
+  },
+  {
+    "text": "energy storage precisely because I made",
+    "start": 1702.44,
+    "duration": 4.44
+  },
+  {
+    "text": "a sector bet not a company bet and and",
+    "start": 1704.48,
+    "duration": 5.52
+  },
+  {
+    "text": "so I saw more more Runway there more",
+    "start": 1706.88,
+    "duration": 6.0
+  },
+  {
+    "text": "opportunity and frankly more fun uh to",
+    "start": 1710.0,
+    "duration": 4.44
+  },
+  {
+    "text": "go back to an earlier stage and and",
+    "start": 1712.88,
+    "duration": 2.88
+  },
+  {
+    "text": "start something and I didn't know that",
+    "start": 1714.44,
+    "duration": 3.599
+  },
+  {
+    "text": "at the time when I left Tessa um but",
+    "start": 1715.76,
+    "duration": 3.84
+  },
+  {
+    "text": "that's very quickly where my brain went",
+    "start": 1718.039,
+    "duration": 3.961
+  },
+  {
+    "text": "to because I've been in the industry 20",
+    "start": 1719.6,
+    "duration": 3.72
+  },
+  {
+    "text": "years now it turns out I'm not very good",
+    "start": 1722.0,
+    "duration": 2.96
+  },
+  {
+    "text": "at thinking about much else other than",
+    "start": 1723.32,
+    "duration": 4.52
+  },
+  {
+    "text": "energy storage friendly electric GD so",
+    "start": 1724.96,
+    "duration": 5.599
+  },
+  {
+    "text": "it was sort of a natural inevitability I",
+    "start": 1727.84,
+    "duration": 5.4
+  },
+  {
+    "text": "suppose um yeah and I also should say",
+    "start": 1730.559,
+    "duration": 4.921
+  },
+  {
+    "text": "that I had never founded anything uh",
+    "start": 1733.24,
+    "duration": 5.08
+  },
+  {
+    "text": "when I became a a co-founder of for",
+    "start": 1735.48,
+    "duration": 4.36
+  },
+  {
+    "text": "before I had started a company just on",
+    "start": 1738.32,
+    "duration": 3.239
+  },
+  {
+    "text": "my own that ended up merging to to",
+    "start": 1739.84,
+    "duration": 4.319
+  },
+  {
+    "text": "become form but at the same time I was",
+    "start": 1741.559,
+    "duration": 5.12
+  },
+  {
+    "text": "40 years old uh I also knew exactly what",
+    "start": 1744.159,
+    "duration": 4.961
+  },
+  {
+    "text": "needed to be done and so you know I had",
+    "start": 1746.679,
+    "duration": 4.961
+  },
+  {
+    "text": "zero doubt you know I need I need some",
+    "start": 1749.12,
+    "duration": 4.679
+  },
+  {
+    "text": "encouragement from uh from close friends",
+    "start": 1751.64,
+    "duration": 4.279
+  },
+  {
+    "text": "and more importantly my wife to take",
+    "start": 1753.799,
+    "duration": 3.441
+  },
+  {
+    "text": "that step you know you do have to sort",
+    "start": 1755.919,
+    "duration": 2.801
+  },
+  {
+    "text": "of take that very first step and say I'm",
+    "start": 1757.24,
+    "duration": 3.4
+  },
+  {
+    "text": "going to be a Founder on something do",
+    "start": 1758.72,
+    "duration": 4.16
+  },
+  {
+    "text": "the incorporation right right um and",
+    "start": 1760.64,
+    "duration": 4.399
+  },
+  {
+    "text": "push it Forward make the mental",
+    "start": 1762.88,
+    "duration": 4.6
+  },
+  {
+    "text": "commitment to to go do that uh but I",
+    "start": 1765.039,
+    "duration": 5.12
+  },
+  {
+    "text": "also had one I did take that step with",
+    "start": 1767.48,
+    "duration": 4.679
+  },
+  {
+    "text": "with that support I also knew exactly",
+    "start": 1770.159,
+    "duration": 3.721
+  },
+  {
+    "text": "what needed to be done and um I still",
+    "start": 1772.159,
+    "duration": 4.88
+  },
+  {
+    "text": "feel that way I I I see very clearly uh",
+    "start": 1773.88,
+    "duration": 5.08
+  },
+  {
+    "text": "the path in front of the company um and",
+    "start": 1777.039,
+    "duration": 3.52
+  },
+  {
+    "text": "that's because you know I've been doing",
+    "start": 1778.96,
+    "duration": 3.0
+  },
+  {
+    "text": "this for for a long time and I've seen",
+    "start": 1780.559,
+    "duration": 3.641
+  },
+  {
+    "text": "good I've seen bad I've seen uh you know",
+    "start": 1781.96,
+    "duration": 3.48
+  },
+  {
+    "text": "different ways to do things and I think",
+    "start": 1784.2,
+    "duration": 3.12
+  },
+  {
+    "text": "I've got a pretty good sense now for uh",
+    "start": 1785.44,
+    "duration": 3.56
+  },
+  {
+    "text": "for what works not just for the industry",
+    "start": 1787.32,
+    "duration": 3.16
+  },
+  {
+    "text": "how to go build a business energy",
+    "start": 1789.0,
+    "duration": 3.48
+  },
+  {
+    "text": "storage specifically but also for how to",
+    "start": 1790.48,
+    "duration": 4.4
+  },
+  {
+    "text": "build an organization you mentioned that",
+    "start": 1792.48,
+    "duration": 4.6
+  },
+  {
+    "text": "you a co-founder and that the company",
+    "start": 1794.88,
+    "duration": 3.919
+  },
+  {
+    "text": "mged is very interesting story I mean",
+    "start": 1797.08,
+    "duration": 3.959
+  },
+  {
+    "text": "the original company you created was a",
+    "start": 1798.799,
+    "duration": 4.12
+  },
+  {
+    "text": "different company called verse energy",
+    "start": 1801.039,
+    "duration": 5.201
+  },
+  {
+    "text": "and then you ended up combining it with",
+    "start": 1802.919,
+    "duration": 5.161
+  },
+  {
+    "text": "what I would call a competitor I mean it",
+    "start": 1806.24,
+    "duration": 5.0
+  },
+  {
+    "text": "was a This research team out of MIT",
+    "start": 1808.08,
+    "duration": 5.36
+  },
+  {
+    "text": "headed by this guy yet mcch Chang who's",
+    "start": 1811.24,
+    "duration": 4.52
+  },
+  {
+    "text": "now your Chief science officer and I",
+    "start": 1813.44,
+    "duration": 4.56
+  },
+  {
+    "text": "believe his whole team is pretty much on",
+    "start": 1815.76,
+    "duration": 5.399
+  },
+  {
+    "text": "your founding team why did you decide to",
+    "start": 1818.0,
+    "duration": 5.279
+  },
+  {
+    "text": "combine with someone else specifically",
+    "start": 1821.159,
+    "duration": 4.161
+  },
+  {
+    "text": "someone who was working on the same",
+    "start": 1823.279,
+    "duration": 5.12
+  },
+  {
+    "text": "problems and thus competing with you",
+    "start": 1825.32,
+    "duration": 5.8
+  },
+  {
+    "text": "yeah this was uh maybe a benefit of of",
+    "start": 1828.399,
+    "duration": 4.561
+  },
+  {
+    "text": "the age you know that I was when I",
+    "start": 1831.12,
+    "duration": 3.72
+  },
+  {
+    "text": "started it you know at some at some",
+    "start": 1832.96,
+    "duration": 4.199
+  },
+  {
+    "text": "point you you realized that sublimating",
+    "start": 1834.84,
+    "duration": 5.719
+  },
+  {
+    "text": "the ego is in your own benefit and and",
+    "start": 1837.159,
+    "duration": 5.561
+  },
+  {
+    "text": "you know I I'd been before Tesla I'd",
+    "start": 1840.559,
+    "duration": 4.161
+  },
+  {
+    "text": "been at a failed battery company we",
+    "start": 1842.72,
+    "duration": 3.4
+  },
+  {
+    "text": "basically didn't do anything you know",
+    "start": 1844.72,
+    "duration": 3.6
+  },
+  {
+    "text": "after you know working hard for almost",
+    "start": 1846.12,
+    "duration": 4.88
+  },
+  {
+    "text": "five years at that entity and I wanted",
+    "start": 1848.32,
+    "duration": 4.719
+  },
+  {
+    "text": "to make sure we gave ourselves every",
+    "start": 1851.0,
+    "duration": 4.0
+  },
+  {
+    "text": "possible chance to succeed and that",
+    "start": 1853.039,
+    "duration": 3.961
+  },
+  {
+    "text": "included having multiple technical shots",
+    "start": 1855.0,
+    "duration": 3.96
+  },
+  {
+    "text": "on goal and having people around the",
+    "start": 1857.0,
+    "duration": 3.639
+  },
+  {
+    "text": "table from the very beginning that had",
+    "start": 1858.96,
+    "duration": 4.28
+  },
+  {
+    "text": "been through this before and so not just",
+    "start": 1860.639,
+    "duration": 4.76
+  },
+  {
+    "text": "yet but my other co-founders Marco Ted",
+    "start": 1863.24,
+    "duration": 4.279
+  },
+  {
+    "text": "and Billy we've all been in batteries",
+    "start": 1865.399,
+    "duration": 3.481
+  },
+  {
+    "text": "before this was nobody's first time",
+    "start": 1867.519,
+    "duration": 3.321
+  },
+  {
+    "text": "around the blog and so having the",
+    "start": 1868.88,
+    "duration": 3.919
+  },
+  {
+    "text": "collected you know Decades of of",
+    "start": 1870.84,
+    "duration": 3.64
+  },
+  {
+    "text": "knowledge and wisdom and harder and",
+    "start": 1872.799,
+    "duration": 5.0
+  },
+  {
+    "text": "scars um was just too compelling to pass",
+    "start": 1874.48,
+    "duration": 5.319
+  },
+  {
+    "text": "up and we had more than one technical",
+    "start": 1877.799,
+    "duration": 4.24
+  },
+  {
+    "text": "shot on goal I had identified iron air",
+    "start": 1879.799,
+    "duration": 4.6
+  },
+  {
+    "text": "on my own but we didn't know at the time",
+    "start": 1882.039,
+    "duration": 4.561
+  },
+  {
+    "text": "that that was going to succeed at all",
+    "start": 1884.399,
+    "duration": 5.081
+  },
+  {
+    "text": "right and so you know in the world you",
+    "start": 1886.6,
+    "duration": 4.64
+  },
+  {
+    "text": "know starting at this stage you know",
+    "start": 1889.48,
+    "duration": 5.24
+  },
+  {
+    "text": "that we did of of of Novel R&D and you",
+    "start": 1891.24,
+    "duration": 5.36
+  },
+  {
+    "text": "know early stage commercialization",
+    "start": 1894.72,
+    "duration": 3.64
+  },
+  {
+    "text": "inevitably there are several cards that",
+    "start": 1896.6,
+    "duration": 4.84
+  },
+  {
+    "text": "you turn over that's either Aces or it's",
+    "start": 1898.36,
+    "duration": 5.64
+  },
+  {
+    "text": "zeros and uh we're we're lucky enough",
+    "start": 1901.44,
+    "duration": 4.32
+  },
+  {
+    "text": "that on on iron air we turned over",
+    "start": 1904.0,
+    "duration": 3.159
+  },
+  {
+    "text": "enough of those early on to say yeah",
+    "start": 1905.76,
+    "duration": 2.48
+  },
+  {
+    "text": "this is the one that's going to be but",
+    "start": 1907.159,
+    "duration": 3.48
+  },
+  {
+    "text": "you just never know um as a friend of",
+    "start": 1908.24,
+    "duration": 4.279
+  },
+  {
+    "text": "mine says the sometimes the universe",
+    "start": 1910.639,
+    "duration": 3.681
+  },
+  {
+    "text": "works the way that you want it to but",
+    "start": 1912.519,
+    "duration": 3.64
+  },
+  {
+    "text": "you don't know that going in right and",
+    "start": 1914.32,
+    "duration": 3.92
+  },
+  {
+    "text": "so bringing you know five Co Founders",
+    "start": 1916.159,
+    "duration": 4.441
+  },
+  {
+    "text": "which is an unusual unusually large",
+    "start": 1918.24,
+    "duration": 4.84
+  },
+  {
+    "text": "number of co-founders made complete",
+    "start": 1920.6,
+    "duration": 4.72
+  },
+  {
+    "text": "sense to to us at the time because we",
+    "start": 1923.08,
+    "duration": 4.8
+  },
+  {
+    "text": "all got along very well it turns out um",
+    "start": 1925.32,
+    "duration": 4.12
+  },
+  {
+    "text": "and and we're all still in the company",
+    "start": 1927.88,
+    "duration": 3.0
+  },
+  {
+    "text": "we're all still you know pulling hard on",
+    "start": 1929.44,
+    "duration": 4.56
+  },
+  {
+    "text": "the company um it's now a huge Advantage",
+    "start": 1930.88,
+    "duration": 5.08
+  },
+  {
+    "text": "we're 750 people and we have five",
+    "start": 1934.0,
+    "duration": 3.96
+  },
+  {
+    "text": "Founders throughout all parts of the",
+    "start": 1935.96,
+    "duration": 3.4
+  },
+  {
+    "text": "company that represent the founder",
+    "start": 1937.96,
+    "duration": 3.64
+  },
+  {
+    "text": "mentality that are completely committed",
+    "start": 1939.36,
+    "duration": 4.039
+  },
+  {
+    "text": "to the success of this company and so",
+    "start": 1941.6,
+    "duration": 3.439
+  },
+  {
+    "text": "you know I can't I can't imagine doing",
+    "start": 1943.399,
+    "duration": 3.081
+  },
+  {
+    "text": "it any other way you being a sole",
+    "start": 1945.039,
+    "duration": 3.281
+  },
+  {
+    "text": "founder in this kind of kind of",
+    "start": 1946.48,
+    "duration": 4.48
+  },
+  {
+    "text": "Enterprise it's just it's it's really",
+    "start": 1948.32,
+    "duration": 4.8
+  },
+  {
+    "text": "really hard you know none of it has been",
+    "start": 1950.96,
+    "duration": 5.559
+  },
+  {
+    "text": "easy we've benefited from a ton of",
+    "start": 1953.12,
+    "duration": 5.399
+  },
+  {
+    "text": "really hard work and super smart people",
+    "start": 1956.519,
+    "duration": 4.321
+  },
+  {
+    "text": "in some luck along the way and none of",
+    "start": 1958.519,
+    "duration": 5.361
+  },
+  {
+    "text": "it easy or or given uh frankly and and",
+    "start": 1960.84,
+    "duration": 6.04
+  },
+  {
+    "text": "so you know the the the any company is",
+    "start": 1963.88,
+    "duration": 5.519
+  },
+  {
+    "text": "sort of imprinted by its Founders and I",
+    "start": 1966.88,
+    "duration": 4.44
+  },
+  {
+    "text": "can't imagine a better you know set of",
+    "start": 1969.399,
+    "duration": 3.921
+  },
+  {
+    "text": "four co-founders to be with um on this",
+    "start": 1971.32,
+    "duration": 3.8
+  },
+  {
+    "text": "journey from the very beginning yeah",
+    "start": 1973.32,
+    "duration": 4.64
+  },
+  {
+    "text": "I've I've heard you say elsewhere um",
+    "start": 1975.12,
+    "duration": 4.0
+  },
+  {
+    "text": "that you don't you don't consider",
+    "start": 1977.96,
+    "duration": 3.28
+  },
+  {
+    "text": "yourself one of these kind of",
+    "start": 1979.12,
+    "duration": 3.72
+  },
+  {
+    "text": "charismatic",
+    "start": 1981.24,
+    "duration": 4.399
+  },
+  {
+    "text": "salesman Visionary what I would call say",
+    "start": 1982.84,
+    "duration": 6.04
+  },
+  {
+    "text": "like an Elon Musk Steve Jobs type and I",
+    "start": 1985.639,
+    "duration": 4.88
+  },
+  {
+    "text": "personally I find that refreshing and",
+    "start": 1988.88,
+    "duration": 2.84
+  },
+  {
+    "text": "and the way that you describe it it",
+    "start": 1990.519,
+    "duration": 3.0
+  },
+  {
+    "text": "sounds like from the from the very",
+    "start": 1991.72,
+    "duration": 4.559
+  },
+  {
+    "text": "beginning what you've been leaning on is",
+    "start": 1993.519,
+    "duration": 5.361
+  },
+  {
+    "text": "your expertise I mean from your entire",
+    "start": 1996.279,
+    "duration": 4.88
+  },
+  {
+    "text": "career in the industry plus teaming up",
+    "start": 1998.88,
+    "duration": 5.84
+  },
+  {
+    "text": "with four other experts in this I like",
+    "start": 2001.159,
+    "duration": 5.161
+  },
+  {
+    "text": "it because I feel like there's just",
+    "start": 2004.72,
+    "duration": 2.919
+  },
+  {
+    "text": "there are a lot of leaders in Tech right",
+    "start": 2006.32,
+    "duration": 4.0
+  },
+  {
+    "text": "now who I would say lean on the vision",
+    "start": 2007.639,
+    "duration": 5.961
+  },
+  {
+    "text": "which can kind of delve into blind",
+    "start": 2010.32,
+    "duration": 6.0
+  },
+  {
+    "text": "confidence um which I think we have",
+    "start": 2013.6,
+    "duration": 5.679
+  },
+  {
+    "text": "enough of so I'm just interested as as a",
+    "start": 2016.32,
+    "duration": 5.52
+  },
+  {
+    "text": "leader who do you look up to what who",
+    "start": 2019.279,
+    "duration": 5.041
+  },
+  {
+    "text": "are sort of some of your leaders that",
+    "start": 2021.84,
+    "duration": 3.92
+  },
+  {
+    "text": "are your role models who do you try to",
+    "start": 2024.32,
+    "duration": 4.28
+  },
+  {
+    "text": "model your behavior off of as a manager",
+    "start": 2025.76,
+    "duration": 5.0
+  },
+  {
+    "text": "well first of all I I heartily agree",
+    "start": 2028.6,
+    "duration": 3.88
+  },
+  {
+    "text": "with your sentiment that that we over",
+    "start": 2030.76,
+    "duration": 4.759
+  },
+  {
+    "text": "index to to sort of the megap CEO",
+    "start": 2032.48,
+    "duration": 5.84
+  },
+  {
+    "text": "founder type and um I think there's just",
+    "start": 2035.519,
+    "duration": 4.76
+  },
+  {
+    "text": "too many other styles of effective",
+    "start": 2038.32,
+    "duration": 4.56
+  },
+  {
+    "text": "leadership to to over index on on just",
+    "start": 2040.279,
+    "duration": 4.601
+  },
+  {
+    "text": "one and and so the one that I bring to",
+    "start": 2042.88,
+    "duration": 3.519
+  },
+  {
+    "text": "the table is is perhaps a little bit",
+    "start": 2044.88,
+    "duration": 5.08
+  },
+  {
+    "text": "more understated to be clear uh what I",
+    "start": 2046.399,
+    "duration": 5.801
+  },
+  {
+    "text": "don't compromise on is standard of",
+    "start": 2049.96,
+    "duration": 4.36
+  },
+  {
+    "text": "Excellence that we have internally and",
+    "start": 2052.2,
+    "duration": 4.679
+  },
+  {
+    "text": "and and you can drive that in a lot of",
+    "start": 2054.32,
+    "duration": 4.72
+  },
+  {
+    "text": "different ways to be clear and it",
+    "start": 2056.879,
+    "duration": 4.161
+  },
+  {
+    "text": "doesn't have to be again sort of this",
+    "start": 2059.04,
+    "duration": 3.92
+  },
+  {
+    "text": "this megap fona type personality that's",
+    "start": 2061.04,
+    "duration": 4.639
+  },
+  {
+    "text": "just hammering people from the to uh we",
+    "start": 2062.96,
+    "duration": 4.48
+  },
+  {
+    "text": "we we hold each other to very rigorous",
+    "start": 2065.679,
+    "duration": 3.68
+  },
+  {
+    "text": "standard and if there's one sort of",
+    "start": 2067.44,
+    "duration": 4.28
+  },
+  {
+    "text": "management approach that I that I take",
+    "start": 2069.359,
+    "duration": 4.921
+  },
+  {
+    "text": "first and foremost it's it's a very",
+    "start": 2071.72,
+    "duration": 5.159
+  },
+  {
+    "text": "immodest hoarding of talent I will I",
+    "start": 2074.28,
+    "duration": 5.48
+  },
+  {
+    "text": "will completely admit to that um you",
+    "start": 2076.879,
+    "duration": 4.401
+  },
+  {
+    "text": "know that that you need to go after the",
+    "start": 2079.76,
+    "duration": 3.399
+  },
+  {
+    "text": "absolute best people for absolutely",
+    "start": 2081.28,
+    "duration": 4.16
+  },
+  {
+    "text": "everything you possibly can um and then",
+    "start": 2083.159,
+    "duration": 3.52
+  },
+  {
+    "text": "hold them accountable I set the right",
+    "start": 2085.44,
+    "duration": 3.28
+  },
+  {
+    "text": "vision and hold them accountable um but",
+    "start": 2086.679,
+    "duration": 4.361
+  },
+  {
+    "text": "I also am not a micromanager much less",
+    "start": 2088.72,
+    "duration": 4.919
+  },
+  {
+    "text": "as Elon would say nanom manager um I you",
+    "start": 2091.04,
+    "duration": 4.96
+  },
+  {
+    "text": "know I really do uh want to hire those",
+    "start": 2093.639,
+    "duration": 4.081
+  },
+  {
+    "text": "great people and then Empower them to go",
+    "start": 2096.0,
+    "duration": 4.079
+  },
+  {
+    "text": "do um you know their their best possible",
+    "start": 2097.72,
+    "duration": 4.84
+  },
+  {
+    "text": "work you know that that understated",
+    "start": 2100.079,
+    "duration": 5.361
+  },
+  {
+    "text": "style uh comes from my parents to be",
+    "start": 2102.56,
+    "duration": 5.279
+  },
+  {
+    "text": "perfectly honest you know I saw them be",
+    "start": 2105.44,
+    "duration": 5.2
+  },
+  {
+    "text": "leaders in their respective Fields using",
+    "start": 2107.839,
+    "duration": 6.841
+  },
+  {
+    "text": "using that approach um and so you you",
+    "start": 2110.64,
+    "duration": 6.84
+  },
+  {
+    "text": "know there there perhaps is also an echo",
+    "start": 2114.68,
+    "duration": 6.28
+  },
+  {
+    "text": "just a little bit of one uh from the",
+    "start": 2117.48,
+    "duration": 5.52
+  },
+  {
+    "text": "vocation of people who are ordained in",
+    "start": 2120.96,
+    "duration": 3.36
+  },
+  {
+    "text": "the ministry like in other words how do",
+    "start": 2123.0,
+    "duration": 3.32
+  },
+  {
+    "text": "you how do you lead a group with with",
+    "start": 2124.32,
+    "duration": 4.84
+  },
+  {
+    "text": "humility but still with Vision right um",
+    "start": 2126.32,
+    "duration": 6.16
+  },
+  {
+    "text": "and and still with a driving",
+    "start": 2129.16,
+    "duration": 3.32
+  },
+  {
+    "text": "force we'll be right",
+    "start": 2132.52,
+    "duration": 8.099
+  },
+  {
+    "text": "[Music]",
+    "start": 2134.53,
+    "duration": 6.089
+  },
+  {
+    "text": "back we're back with first-time Founders",
+    "start": 2142.2,
+    "duration": 4.72
+  },
+  {
+    "text": "when we last spoke there was this one",
+    "start": 2145.52,
+    "duration": 3.44
+  },
+  {
+    "text": "line that you mentioned to me which I",
+    "start": 2146.92,
+    "duration": 4.04
+  },
+  {
+    "text": "love which you said sort of guides you",
+    "start": 2148.96,
+    "duration": 4.72
+  },
+  {
+    "text": "is this passage from Proverbs quote",
+    "start": 2150.96,
+    "duration": 5.8
+  },
+  {
+    "text": "people will perish for lack of vision",
+    "start": 2153.68,
+    "duration": 4.6
+  },
+  {
+    "text": "what does that mean to to you you know",
+    "start": 2156.76,
+    "duration": 5.319
+  },
+  {
+    "text": "it's a it's a stark reminder uh that was",
+    "start": 2158.28,
+    "duration": 6.36
+  },
+  {
+    "text": "that was written at a time uh when",
+    "start": 2162.079,
+    "duration": 4.76
+  },
+  {
+    "text": "people were living in the desert and and",
+    "start": 2164.64,
+    "duration": 4.52
+  },
+  {
+    "text": "literally if if they didn't all agree on",
+    "start": 2166.839,
+    "duration": 4.76
+  },
+  {
+    "text": "the vision they would die right and the",
+    "start": 2169.16,
+    "duration": 5.12
+  },
+  {
+    "text": "imperative of a Clear Vision is as",
+    "start": 2171.599,
+    "duration": 5.72
+  },
+  {
+    "text": "relevant for the group of the 750 people",
+    "start": 2174.28,
+    "duration": 5.079
+  },
+  {
+    "text": "inside of form as it was for the people",
+    "start": 2177.319,
+    "duration": 4.28
+  },
+  {
+    "text": "that you know the the Hebrew people that",
+    "start": 2179.359,
+    "duration": 4.561
+  },
+  {
+    "text": "that first wrote that down and the",
+    "start": 2181.599,
+    "duration": 5.681
+  },
+  {
+    "text": "company will go away it will perish if",
+    "start": 2183.92,
+    "duration": 5.48
+  },
+  {
+    "text": "if we don't have the right Vision people",
+    "start": 2187.28,
+    "duration": 4.039
+  },
+  {
+    "text": "can go take different jobs people can go",
+    "start": 2189.4,
+    "duration": 3.199
+  },
+  {
+    "text": "decide to do something different with",
+    "start": 2191.319,
+    "duration": 4.561
+  },
+  {
+    "text": "their life um and if we don't give them",
+    "start": 2192.599,
+    "duration": 6.361
+  },
+  {
+    "text": "the right vision and let them know today",
+    "start": 2195.88,
+    "duration": 4.68
+  },
+  {
+    "text": "why they're working on the thing that",
+    "start": 2198.96,
+    "duration": 3.119
+  },
+  {
+    "text": "they're working on and why it matters in",
+    "start": 2200.56,
+    "duration": 3.799
+  },
+  {
+    "text": "a broader context the company will",
+    "start": 2202.079,
+    "duration": 4.601
+  },
+  {
+    "text": "perish it's as simple as that and so",
+    "start": 2204.359,
+    "duration": 4.201
+  },
+  {
+    "text": "it's a it's a stark reminder of sort of",
+    "start": 2206.68,
+    "duration": 5.24
+  },
+  {
+    "text": "the existential requirement in fact uh",
+    "start": 2208.56,
+    "duration": 4.799
+  },
+  {
+    "text": "especially if you're starting something",
+    "start": 2211.92,
+    "duration": 3.88
+  },
+  {
+    "text": "brand new from scratch creating a",
+    "start": 2213.359,
+    "duration": 4.281
+  },
+  {
+    "text": "category inside of an industry that's",
+    "start": 2215.8,
+    "duration": 4.12
+  },
+  {
+    "text": "relatively nence right not to mention a",
+    "start": 2217.64,
+    "duration": 6.0
+  },
+  {
+    "text": "company um uh doing something new to",
+    "start": 2219.92,
+    "duration": 6.159
+  },
+  {
+    "text": "provide that vision and to pre be very",
+    "start": 2223.64,
+    "duration": 4.719
+  },
+  {
+    "text": "clear about why we're here and why this",
+    "start": 2226.079,
+    "duration": 4.401
+  },
+  {
+    "text": "group of humans gets together on a",
+    "start": 2228.359,
+    "duration": 4.681
+  },
+  {
+    "text": "regular basis in fact on a daily basis",
+    "start": 2230.48,
+    "duration": 5.76
+  },
+  {
+    "text": "um to to work on a common goal it's also",
+    "start": 2233.04,
+    "duration": 5.64
+  },
+  {
+    "text": "a a reminder to to be humble in in",
+    "start": 2236.24,
+    "duration": 4.48
+  },
+  {
+    "text": "service of that Vision right it it is",
+    "start": 2238.68,
+    "duration": 3.56
+  },
+  {
+    "text": "not about me it's not about the",
+    "start": 2240.72,
+    "duration": 2.72
+  },
+  {
+    "text": "management team it's about the vision",
+    "start": 2242.24,
+    "duration": 2.92
+  },
+  {
+    "text": "that we're setting as a company uh and",
+    "start": 2243.44,
+    "duration": 3.56
+  },
+  {
+    "text": "the impact that we hope to go have it's",
+    "start": 2245.16,
+    "duration": 4.8
+  },
+  {
+    "text": "almost goes beyond just the company",
+    "start": 2247.0,
+    "duration": 5.04
+  },
+  {
+    "text": "because one thing we haven't mentioned",
+    "start": 2249.96,
+    "duration": 5.76
+  },
+  {
+    "text": "yet is climate um and you know this was",
+    "start": 2252.04,
+    "duration": 5.84
+  },
+  {
+    "text": "one of the main reasons I assume that",
+    "start": 2255.72,
+    "duration": 3.8
+  },
+  {
+    "text": "you started this I mean much of the",
+    "start": 2257.88,
+    "duration": 3.92
+  },
+  {
+    "text": "upside in your company is that it will",
+    "start": 2259.52,
+    "duration": 4.0
+  },
+  {
+    "text": "address climate change iron air",
+    "start": 2261.8,
+    "duration": 3.76
+  },
+  {
+    "text": "batteries are a way to store energy",
+    "start": 2263.52,
+    "duration": 4.96
+  },
+  {
+    "text": "without relying on fossil fuels and the",
+    "start": 2265.56,
+    "duration": 6.16
+  },
+  {
+    "text": "data is just getting bad and scary I",
+    "start": 2268.48,
+    "duration": 6.599
+  },
+  {
+    "text": "mean one stat I pulled here is that NASA",
+    "start": 2271.72,
+    "duration": 6.639
+  },
+  {
+    "text": "confirmed that 2023 was the warmest year",
+    "start": 2275.079,
+    "duration": 6.801
+  },
+  {
+    "text": "ever so to what extent is the",
+    "start": 2278.359,
+    "duration": 7.24
+  },
+  {
+    "text": "existential threat of climate also a",
+    "start": 2281.88,
+    "duration": 6.479
+  },
+  {
+    "text": "motivating factor in addition to the",
+    "start": 2285.599,
+    "duration": 4.401
+  },
+  {
+    "text": "possibility that your company as with",
+    "start": 2288.359,
+    "duration": 4.921
+  },
+  {
+    "text": "any company could perish if sales drop",
+    "start": 2290.0,
+    "duration": 5.48
+  },
+  {
+    "text": "off yeah that that's a different sort of",
+    "start": 2293.28,
+    "duration": 3.64
+  },
+  {
+    "text": "level of thinking about perishing that's",
+    "start": 2295.48,
+    "duration": 5.24
+  },
+  {
+    "text": "for sure but um it's it's a huge",
+    "start": 2296.92,
+    "duration": 6.8
+  },
+  {
+    "text": "motivator to be to be clear and it's",
+    "start": 2300.72,
+    "duration": 5.96
+  },
+  {
+    "text": "also tied to something I said earlier",
+    "start": 2303.72,
+    "duration": 4.879
+  },
+  {
+    "text": "which is that cheap abundant energy",
+    "start": 2306.68,
+    "duration": 4.12
+  },
+  {
+    "text": "underpins human civilization broadly",
+    "start": 2308.599,
+    "duration": 4.361
+  },
+  {
+    "text": "speaking today and that is that fact is",
+    "start": 2310.8,
+    "duration": 5.279
+  },
+  {
+    "text": "not going away and and so uh we need to",
+    "start": 2312.96,
+    "duration": 6.8
+  },
+  {
+    "text": "figure out how we will drive the energy",
+    "start": 2316.079,
+    "duration": 5.721
+  },
+  {
+    "text": "industry forward in a way that solves",
+    "start": 2319.76,
+    "duration": 5.24
+  },
+  {
+    "text": "for everybody right in the end um and",
+    "start": 2321.8,
+    "duration": 5.84
+  },
+  {
+    "text": "yes it it absolutely means meeting the",
+    "start": 2325.0,
+    "duration": 4.24
+  },
+  {
+    "text": "climate challenges that we have and and",
+    "start": 2327.64,
+    "duration": 3.12
+  },
+  {
+    "text": "the decarbonization challenges that we",
+    "start": 2329.24,
+    "duration": 3.8
+  },
+  {
+    "text": "have and still providing reliable",
+    "start": 2330.76,
+    "duration": 4.88
+  },
+  {
+    "text": "lowcost abundant energy no matter what",
+    "start": 2333.04,
+    "duration": 5.039
+  },
+  {
+    "text": "and that is not a s which we can flip",
+    "start": 2335.64,
+    "duration": 5.199
+  },
+  {
+    "text": "overnight it's not uh nobody has a wand",
+    "start": 2338.079,
+    "duration": 4.04
+  },
+  {
+    "text": "to sort of make things better",
+    "start": 2340.839,
+    "duration": 4.081
+  },
+  {
+    "text": "immediately it will take Innovation and",
+    "start": 2342.119,
+    "duration": 4.521
+  },
+  {
+    "text": "it will take Innovation at scale and it",
+    "start": 2344.92,
+    "duration": 4.919
+  },
+  {
+    "text": "will take a massive amounts of capital I",
+    "start": 2346.64,
+    "duration": 5.08
+  },
+  {
+    "text": "don't know if you saw this but roughly",
+    "start": 2349.839,
+    "duration": 4.441
+  },
+  {
+    "text": "between 100 and 150 trillion dollars of",
+    "start": 2351.72,
+    "duration": 6.16
+  },
+  {
+    "text": "capital will go into uh this broad",
+    "start": 2354.28,
+    "duration": 5.559
+  },
+  {
+    "text": "change that will happen over the next 40",
+    "start": 2357.88,
+    "duration": 3.959
+  },
+  {
+    "text": "or 50 years it's it's it's a little",
+    "start": 2359.839,
+    "duration": 3.601
+  },
+  {
+    "text": "incredible like literally incredible",
+    "start": 2361.839,
+    "duration": 4.561
+  },
+  {
+    "text": "right it's hard to imagine um and so we",
+    "start": 2363.44,
+    "duration": 4.84
+  },
+  {
+    "text": "need to be able to meet the scale of",
+    "start": 2366.4,
+    "duration": 4.0
+  },
+  {
+    "text": "that challenge in a lot of different",
+    "start": 2368.28,
+    "duration": 5.0
+  },
+  {
+    "text": "ways and absolutely we see that this",
+    "start": 2370.4,
+    "duration": 5.0
+  },
+  {
+    "text": "kind of storage can be a critical tool",
+    "start": 2373.28,
+    "duration": 5.319
+  },
+  {
+    "text": "to enabling that change to happen in a",
+    "start": 2375.4,
+    "duration": 5.439
+  },
+  {
+    "text": "way that solves for a lot of people",
+    "start": 2378.599,
+    "duration": 3.881
+  },
+  {
+    "text": "meets the climate goals meets the energy",
+    "start": 2380.839,
+    "duration": 4.76
+  },
+  {
+    "text": "goals uh meets the reliability goals",
+    "start": 2382.48,
+    "duration": 5.24
+  },
+  {
+    "text": "right that that we have for this stuff",
+    "start": 2385.599,
+    "duration": 5.48
+  },
+  {
+    "text": "and um so it's a huge motivating factor",
+    "start": 2387.72,
+    "duration": 5.359
+  },
+  {
+    "text": "in the broader context of just the scope",
+    "start": 2391.079,
+    "duration": 3.681
+  },
+  {
+    "text": "and scale of of this industry this",
+    "start": 2393.079,
+    "duration": 2.961
+  },
+  {
+    "text": "energy industry and within that the",
+    "start": 2394.76,
+    "duration": 3.359
+  },
+  {
+    "text": "electricity industry um that we happen",
+    "start": 2396.04,
+    "duration": 4.52
+  },
+  {
+    "text": "to work on if there's one thing that you",
+    "start": 2398.119,
+    "duration": 4.601
+  },
+  {
+    "text": "think regular people should know about",
+    "start": 2400.56,
+    "duration": 4.12
+  },
+  {
+    "text": "the state of our climate today I mean I",
+    "start": 2402.72,
+    "duration": 4.48
+  },
+  {
+    "text": "just mentioned last year was very warm",
+    "start": 2404.68,
+    "duration": 5.76
+  },
+  {
+    "text": "but I feel like these stats often don't",
+    "start": 2407.2,
+    "duration": 5.68
+  },
+  {
+    "text": "ring true for people I think it's hard",
+    "start": 2410.44,
+    "duration": 5.08
+  },
+  {
+    "text": "to feel that impending doom and I think",
+    "start": 2412.88,
+    "duration": 4.32
+  },
+  {
+    "text": "there's a lot of psychological research",
+    "start": 2415.52,
+    "duration": 3.88
+  },
+  {
+    "text": "on that issue but if there's one thing",
+    "start": 2417.2,
+    "duration": 4.32
+  },
+  {
+    "text": "you think people should know about",
+    "start": 2419.4,
+    "duration": 3.76
+  },
+  {
+    "text": "climate today and where we're at right",
+    "start": 2421.52,
+    "duration": 4.16
+  },
+  {
+    "text": "now what would it be well I guess I'll",
+    "start": 2423.16,
+    "duration": 5.56
+  },
+  {
+    "text": "say two things one the volatility of the",
+    "start": 2425.68,
+    "duration": 5.159
+  },
+  {
+    "text": "weather is also increasing so so that if",
+    "start": 2428.72,
+    "duration": 4.2
+  },
+  {
+    "text": "you look at the incidents this is from",
+    "start": 2430.839,
+    "duration": 5.52
+  },
+  {
+    "text": "the Noah then National Oceanic",
+    "start": 2432.92,
+    "duration": 5.72
+  },
+  {
+    "text": "administrative entity that tracks these",
+    "start": 2436.359,
+    "duration": 4.48
+  },
+  {
+    "text": "things if you look at the number of",
+    "start": 2438.64,
+    "duration": 4.92
+  },
+  {
+    "text": "multi-day Highly volatile weather events",
+    "start": 2440.839,
+    "duration": 4.561
+  },
+  {
+    "text": "that are that are driving essentially",
+    "start": 2443.56,
+    "duration": 3.559
+  },
+  {
+    "text": "dollars of damage um in the United",
+    "start": 2445.4,
+    "duration": 4.32
+  },
+  {
+    "text": "States uh they're going up uh pretty",
+    "start": 2447.119,
+    "duration": 4.601
+  },
+  {
+    "text": "pretty significantly and I don't have a",
+    "start": 2449.72,
+    "duration": 3.92
+  },
+  {
+    "text": "py stat to sort of give to you but I've",
+    "start": 2451.72,
+    "duration": 3.28
+  },
+  {
+    "text": "seen the chart and it's it's definitely",
+    "start": 2453.64,
+    "duration": 4.16
+  },
+  {
+    "text": "open to the right there that's important",
+    "start": 2455.0,
+    "duration": 4.96
+  },
+  {
+    "text": "uh to to keep in mind it a changing",
+    "start": 2457.8,
+    "duration": 4.92
+  },
+  {
+    "text": "climate means a lot of things however we",
+    "start": 2459.96,
+    "duration": 4.76
+  },
+  {
+    "text": "experience it as weather in the end",
+    "start": 2462.72,
+    "duration": 4.119
+  },
+  {
+    "text": "right um and that weather will be more",
+    "start": 2464.72,
+    "duration": 4.52
+  },
+  {
+    "text": "volatile for us we'll have to sort of",
+    "start": 2466.839,
+    "duration": 4.441
+  },
+  {
+    "text": "think about that and and",
+    "start": 2469.24,
+    "duration": 3.839
+  },
+  {
+    "text": "specifically for a lot of people it",
+    "start": 2471.28,
+    "duration": 4.319
+  },
+  {
+    "text": "means it means water volatility either",
+    "start": 2473.079,
+    "duration": 4.76
+  },
+  {
+    "text": "too much or too little and and you know",
+    "start": 2475.599,
+    "duration": 4.0
+  },
+  {
+    "text": "what that means you know to to",
+    "start": 2477.839,
+    "duration": 5.801
+  },
+  {
+    "text": "civilization is uh is quite important",
+    "start": 2479.599,
+    "duration": 5.641
+  },
+  {
+    "text": "now the other part of that is you know",
+    "start": 2483.64,
+    "duration": 3.679
+  },
+  {
+    "text": "it's important to to have a sense of",
+    "start": 2485.24,
+    "duration": 3.76
+  },
+  {
+    "text": "agency in this because sometimes you",
+    "start": 2487.319,
+    "duration": 4.681
+  },
+  {
+    "text": "know $150 billion or you know 2\u00b0 C or",
+    "start": 2489.0,
+    "duration": 4.2
+  },
+  {
+    "text": "any of these other things that they're",
+    "start": 2492.0,
+    "duration": 4.44
+  },
+  {
+    "text": "sort of so abstract as to be unrelatable",
+    "start": 2493.2,
+    "duration": 5.6
+  },
+  {
+    "text": "and I think it's important to to",
+    "start": 2496.44,
+    "duration": 3.44
+  },
+  {
+    "text": "understand the scope of the challenge it",
+    "start": 2498.8,
+    "duration": 3.2
+  },
+  {
+    "text": "seems really really big and remember",
+    "start": 2499.88,
+    "duration": 4.479
+  },
+  {
+    "text": "that humans whenever we decide to do",
+    "start": 2502.0,
+    "duration": 4.48
+  },
+  {
+    "text": "something we pretty much do it",
+    "start": 2504.359,
+    "duration": 4.401
+  },
+  {
+    "text": "collectively look at every sort of",
+    "start": 2506.48,
+    "duration": 3.96
+  },
+  {
+    "text": "energy transition age that we've been",
+    "start": 2508.76,
+    "duration": 3.16
+  },
+  {
+    "text": "through I mentioned the fuel",
+    "start": 2510.44,
+    "duration": 4.0
+  },
+  {
+    "text": "substitution that has happened we have",
+    "start": 2511.92,
+    "duration": 4.76
+  },
+  {
+    "text": "done it we have we have been in periods",
+    "start": 2514.44,
+    "duration": 3.6
+  },
+  {
+    "text": "before when we said said surely we're",
+    "start": 2516.68,
+    "duration": 2.96
+  },
+  {
+    "text": "going to run out of energy surely we",
+    "start": 2518.04,
+    "duration": 3.44
+  },
+  {
+    "text": "can't keep going in this way and we run",
+    "start": 2519.64,
+    "duration": 3.28
+  },
+  {
+    "text": "the numbers in a linear fashion and",
+    "start": 2521.48,
+    "duration": 4.52
+  },
+  {
+    "text": "that's all true and Innovation steps in",
+    "start": 2522.92,
+    "duration": 6.8
+  },
+  {
+    "text": "and human will to to succeed steps in",
+    "start": 2526.0,
+    "duration": 5.48
+  },
+  {
+    "text": "and we've seen that pattern over and",
+    "start": 2529.72,
+    "duration": 3.68
+  },
+  {
+    "text": "over and over again and so I I have a",
+    "start": 2531.48,
+    "duration": 4.16
+  },
+  {
+    "text": "ton of faith based on the evidence that",
+    "start": 2533.4,
+    "duration": 4.56
+  },
+  {
+    "text": "I see uh that that will continue to be",
+    "start": 2535.64,
+    "duration": 5.04
+  },
+  {
+    "text": "true and that we collectively as a",
+    "start": 2537.96,
+    "duration": 4.639
+  },
+  {
+    "text": "civilization will step up and and meet",
+    "start": 2540.68,
+    "duration": 3.879
+  },
+  {
+    "text": "the needs and we'll do that because",
+    "start": 2542.599,
+    "duration": 4.641
+  },
+  {
+    "text": "people from all walks of life in in all",
+    "start": 2544.559,
+    "duration": 4.841
+  },
+  {
+    "text": "ways that they intersect energy broadly",
+    "start": 2547.24,
+    "duration": 4.92
+  },
+  {
+    "text": "speaking um will want that to be true if",
+    "start": 2549.4,
+    "duration": 5.0
+  },
+  {
+    "text": "you had one piece of advice that you had",
+    "start": 2552.16,
+    "duration": 3.76
+  },
+  {
+    "text": "to give to your former self when you",
+    "start": 2554.4,
+    "duration": 3.439
+  },
+  {
+    "text": "were starting the company what would it",
+    "start": 2555.92,
+    "duration": 4.0
+  },
+  {
+    "text": "be go do",
+    "start": 2557.839,
+    "duration": 4.641
+  },
+  {
+    "text": "it I I I really didn't know that I was",
+    "start": 2559.92,
+    "duration": 4.679
+  },
+  {
+    "text": "going to start a company uh and and I it",
+    "start": 2562.48,
+    "duration": 3.72
+  },
+  {
+    "text": "took me some months to decide whether or",
+    "start": 2564.599,
+    "duration": 3.201
+  },
+  {
+    "text": "not I mentioned you know good advice",
+    "start": 2566.2,
+    "duration": 4.04
+  },
+  {
+    "text": "from friends and support from my wife uh",
+    "start": 2567.8,
+    "duration": 5.12
+  },
+  {
+    "text": "that were critical to do it and it it it",
+    "start": 2570.24,
+    "duration": 4.52
+  },
+  {
+    "text": "has been harder than expected to be",
+    "start": 2572.92,
+    "duration": 5.48
+  },
+  {
+    "text": "perfectly honest um and more fulfilling",
+    "start": 2574.76,
+    "duration": 7.12
+  },
+  {
+    "text": "at the same time and I think uh you",
+    "start": 2578.4,
+    "duration": 5.199
+  },
+  {
+    "text": "never you just really never know going",
+    "start": 2581.88,
+    "duration": 3.64
+  },
+  {
+    "text": "into it you know what the journey is",
+    "start": 2583.599,
+    "duration": 3.881
+  },
+  {
+    "text": "going to look like and sometimes you",
+    "start": 2585.52,
+    "duration": 4.079
+  },
+  {
+    "text": "just still need that encouragement and",
+    "start": 2587.48,
+    "duration": 3.839
+  },
+  {
+    "text": "you know you sort of would like to ask",
+    "start": 2589.599,
+    "duration": 3.281
+  },
+  {
+    "text": "your future self is is this going to be",
+    "start": 2591.319,
+    "duration": 3.201
+  },
+  {
+    "text": "worth it and I think the answer",
+    "start": 2592.88,
+    "duration": 3.479
+  },
+  {
+    "text": "unequivocally is yes and in different",
+    "start": 2594.52,
+    "duration": 4.24
+  },
+  {
+    "text": "ways than you expect right so go do it",
+    "start": 2596.359,
+    "duration": 5.2
+  },
+  {
+    "text": "it's not that much risk in the end right",
+    "start": 2598.76,
+    "duration": 4.44
+  },
+  {
+    "text": "I think collectively people are probably",
+    "start": 2601.559,
+    "duration": 3.28
+  },
+  {
+    "text": "too risk averse especially when it comes",
+    "start": 2603.2,
+    "duration": 3.919
+  },
+  {
+    "text": "to their vocations you know I have I I'm",
+    "start": 2604.839,
+    "duration": 4.161
+  },
+  {
+    "text": "un fortunate I come from a stable family",
+    "start": 2607.119,
+    "duration": 4.48
+  },
+  {
+    "text": "and you know they always support me and",
+    "start": 2609.0,
+    "duration": 6.359
+  },
+  {
+    "text": "love me um but but even still I think",
+    "start": 2611.599,
+    "duration": 5.24
+  },
+  {
+    "text": "professionally people take far too few",
+    "start": 2615.359,
+    "duration": 4.561
+  },
+  {
+    "text": "risks Mato Haro is the founder and CEO",
+    "start": 2616.839,
+    "duration": 5.841
+  },
+  {
+    "text": "of form energy Mato I would love to talk",
+    "start": 2619.92,
+    "duration": 4.439
+  },
+  {
+    "text": "for hours more but I know you need to go",
+    "start": 2622.68,
+    "duration": 3.48
+  },
+  {
+    "text": "build some iron air batteries so we'll",
+    "start": 2624.359,
+    "duration": 3.24
+  },
+  {
+    "text": "let you go thanks very much it was great",
+    "start": 2626.16,
+    "duration": 2.68
+  },
+  {
+    "text": "to chat",
+    "start": 2627.599,
+    "duration": 9.53
+  },
+  {
+    "text": "[Music]",
+    "start": 2628.84,
+    "duration": 8.289
+  }
+]
