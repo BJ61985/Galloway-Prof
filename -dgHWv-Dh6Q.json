@@ -1,0 +1,8577 @@
+[
+  {
+    "text": "Today's number 70. That's the percentage",
+    "start": 0.08,
+    "duration": 4.16
+  },
+  {
+    "text": "of people who say they're polite to AI",
+    "start": 2.24,
+    "duration": 4.16
+  },
+  {
+    "text": "models when interacting with them. Ed,",
+    "start": 4.24,
+    "duration": 4.08
+  },
+  {
+    "text": "which vegetable has the worst manners.",
+    "start": 6.4,
+    "duration": 5.46
+  },
+  {
+    "text": "What? The rudabagga. It's terrible.",
+    "start": 8.32,
+    "duration": 6.92
+  },
+  {
+    "text": "[Music]",
+    "start": 11.86,
+    "duration": 3.38
+  },
+  {
+    "text": "Get it. The rudabagga. Yeah, I got it.",
+    "start": 15.92,
+    "duration": 5.8
+  },
+  {
+    "text": "Rudga. Rudga. Welcome to Prop Markets,",
+    "start": 18.279,
+    "duration": 6.801
+  },
+  {
+    "text": "Ed. Welcome to Prop Markets.",
+    "start": 21.72,
+    "duration": 6.24
+  },
+  {
+    "text": "Today we're speaking with Ryan",
+    "start": 25.08,
+    "duration": 5.0
+  },
+  {
+    "text": "Peterson, the founder and CEO of",
+    "start": 27.96,
+    "duration": 4.36
+  },
+  {
+    "text": "Flexport. Now there's a real name for a",
+    "start": 30.08,
+    "duration": 7.2
+  },
+  {
+    "text": "real man. First, Ed, it's time for Ruda",
+    "start": 32.32,
+    "duration": 7.96
+  },
+  {
+    "text": "Banter.",
+    "start": 37.28,
+    "duration": 3.0
+  },
+  {
+    "text": "You always sound depressed when you have",
+    "start": 41.2,
+    "duration": 4.0
+  },
+  {
+    "text": "to intro this podcast just a little bit.",
+    "start": 42.96,
+    "duration": 4.24
+  },
+  {
+    "text": "It's like, oh, now I got to talk to this",
+    "start": 45.2,
+    "duration": 3.839
+  },
+  {
+    "text": "guy Ed again. Well, it's only like my",
+    "start": 47.2,
+    "duration": 4.16
+  },
+  {
+    "text": "11th Joy bag on its podcast",
+    "start": 49.039,
+    "duration": 3.84
+  },
+  {
+    "text": "today. I don't know where. Are you",
+    "start": 51.36,
+    "duration": 4.16
+  },
+  {
+    "text": "raging mo? Wait, just wait. Who am I?",
+    "start": 52.879,
+    "duration": 4.16
+  },
+  {
+    "text": "Listen, you openly lesbian. Oh, wait.",
+    "start": 55.52,
+    "duration": 4.08
+  },
+  {
+    "text": "That's Cara. Never mind. I don't know",
+    "start": 57.039,
+    "duration": 4.881
+  },
+  {
+    "text": "where I am. What are you up to? I'm not",
+    "start": 59.6,
+    "duration": 4.8
+  },
+  {
+    "text": "up too much, Scott. I'm I'm in New York.",
+    "start": 61.92,
+    "duration": 4.08
+  },
+  {
+    "text": "I'm just grinding away trying to make",
+    "start": 64.4,
+    "duration": 3.36
+  },
+  {
+    "text": "this podcast the best it can be. But I'm",
+    "start": 66.0,
+    "duration": 4.4
+  },
+  {
+    "text": "very happy though because we won the",
+    "start": 67.76,
+    "duration": 4.8
+  },
+  {
+    "text": "Webby's people's voice award. That's",
+    "start": 70.4,
+    "duration": 4.56
+  },
+  {
+    "text": "right. That's right. Say more. What does",
+    "start": 72.56,
+    "duration": 5.12
+  },
+  {
+    "text": "that mean?",
+    "start": 74.96,
+    "duration": 4.799
+  },
+  {
+    "text": "Uh yeah, we we won the Webbby. It's",
+    "start": 77.68,
+    "duration": 3.52
+  },
+  {
+    "text": "interesting. There are two awards. one",
+    "start": 79.759,
+    "duration": 4.161
+  },
+  {
+    "text": "is decided on by the judges or the",
+    "start": 81.2,
+    "duration": 5.12
+  },
+  {
+    "text": "executive committee of the Webby Awards",
+    "start": 83.92,
+    "duration": 4.32
+  },
+  {
+    "text": "and we did not win that prestigious",
+    "start": 86.32,
+    "duration": 4.72
+  },
+  {
+    "text": "prize, but we did win on the popular",
+    "start": 88.24,
+    "duration": 5.36
+  },
+  {
+    "text": "vote where the people decide what is the",
+    "start": 91.04,
+    "duration": 4.8
+  },
+  {
+    "text": "best business podcast. So, I think",
+    "start": 93.6,
+    "duration": 5.08
+  },
+  {
+    "text": "that's honestly a greater honor. The the",
+    "start": 95.84,
+    "duration": 5.599
+  },
+  {
+    "text": "elites don't love us, but the people",
+    "start": 98.68,
+    "duration": 4.36
+  },
+  {
+    "text": "love us. We're we're the populist",
+    "start": 101.439,
+    "duration": 4.281
+  },
+  {
+    "text": " communist pilot bureau",
+    "start": 103.04,
+    "duration": 5.92
+  },
+  {
+    "text": "Exactly. Um, so for that, we have only",
+    "start": 105.72,
+    "duration": 5.399
+  },
+  {
+    "text": "our audience to thank. So, thank you",
+    "start": 108.96,
+    "duration": 3.92
+  },
+  {
+    "text": "everyone who voted. We're very, very",
+    "start": 111.119,
+    "duration": 5.36
+  },
+  {
+    "text": "excited. I'll be getting my first trophy",
+    "start": 112.88,
+    "duration": 6.72
+  },
+  {
+    "text": "for anything. Um, and we'll be at the",
+    "start": 116.479,
+    "duration": 4.96
+  },
+  {
+    "text": "Webby Awards in a couple weeks. And I",
+    "start": 119.6,
+    "duration": 3.76
+  },
+  {
+    "text": "hope Scott, maybe you'll join us. Maybe",
+    "start": 121.439,
+    "duration": 4.561
+  },
+  {
+    "text": "you'll fly in. No.",
+    "start": 123.36,
+    "duration": 4.0
+  },
+  {
+    "text": "What's the last award you won?",
+    "start": 126.0,
+    "duration": 2.959
+  },
+  {
+    "text": "Seriously, what's the last recognition",
+    "start": 127.36,
+    "duration": 4.32
+  },
+  {
+    "text": "or award you won? I won a prize uh for",
+    "start": 128.959,
+    "duration": 5.441
+  },
+  {
+    "text": "my thesis in college. What was your",
+    "start": 131.68,
+    "duration": 4.32
+  },
+  {
+    "text": "thesis? If I talk about it, you're going",
+    "start": 134.4,
+    "duration": 2.8
+  },
+  {
+    "text": "to start making fun of me and it's going",
+    "start": 136.0,
+    "duration": 2.959
+  },
+  {
+    "text": "to bore the hell out of you, but it was",
+    "start": 137.2,
+    "duration": 4.56
+  },
+  {
+    "text": "on ancient Greek festivals. Ancient",
+    "start": 138.959,
+    "duration": 3.961
+  },
+  {
+    "text": "Greek",
+    "start": 141.76,
+    "duration": 3.52
+  },
+  {
+    "text": "festivals. All right. As you may know, I",
+    "start": 142.92,
+    "duration": 5.0
+  },
+  {
+    "text": "was a classics major. Yeah. I won the",
+    "start": 145.28,
+    "duration": 4.88
+  },
+  {
+    "text": "Keiny Prize for best senior thesis. So,",
+    "start": 147.92,
+    "duration": 3.6
+  },
+  {
+    "text": "that was actually a pretty good prize",
+    "start": 150.16,
+    "duration": 2.96
+  },
+  {
+    "text": "and I won some money for it. That's a",
+    "start": 151.52,
+    "duration": 3.28
+  },
+  {
+    "text": "pretty big deal, right? What about you?",
+    "start": 153.12,
+    "duration": 4.56
+  },
+  {
+    "text": "What was what was the last maybe maybe",
+    "start": 154.8,
+    "duration": 4.719
+  },
+  {
+    "text": "award that that people wouldn't know",
+    "start": 157.68,
+    "duration": 3.199
+  },
+  {
+    "text": "about or that I wouldn't know? I know",
+    "start": 159.519,
+    "duration": 3.201
+  },
+  {
+    "text": "you won like a Webbby and you're the New",
+    "start": 160.879,
+    "duration": 4.161
+  },
+  {
+    "text": "York Times bestseller and the poets and",
+    "start": 162.72,
+    "duration": 3.76
+  },
+  {
+    "text": "quants best business professor of the",
+    "start": 165.04,
+    "duration": 4.72
+  },
+  {
+    "text": "year, etc., etc., but maybe some like",
+    "start": 166.48,
+    "duration": 4.88
+  },
+  {
+    "text": "interesting. Did you have a high school",
+    "start": 169.76,
+    "duration": 3.6
+  },
+  {
+    "text": "poll? You know, like most popular, most",
+    "start": 171.36,
+    "duration": 3.76
+  },
+  {
+    "text": "handsome. Oh, yeah. Yeah. I won most",
+    "start": 173.36,
+    "duration": 4.32
+  },
+  {
+    "text": "comical. Oh, really? That was funny when",
+    "start": 175.12,
+    "duration": 4.72
+  },
+  {
+    "text": "I was young. So, what happened then? How",
+    "start": 177.68,
+    "duration": 4.08
+  },
+  {
+    "text": "did things change? The joy got starched",
+    "start": 179.84,
+    "duration": 3.52
+  },
+  {
+    "text": "from my life. I don't know. Sort of the",
+    "start": 181.76,
+    "duration": 3.68
+  },
+  {
+    "text": "bitter sadness of everyday drudgery just",
+    "start": 183.36,
+    "duration": 5.599
+  },
+  {
+    "text": "drove all joy from my from my soul. But,",
+    "start": 185.44,
+    "duration": 6.32
+  },
+  {
+    "text": "no, I'm still I still got it. Yeah, I",
+    "start": 188.959,
+    "duration": 4.321
+  },
+  {
+    "text": "think you do. Enough of the Get to",
+    "start": 191.76,
+    "duration": 3.839
+  },
+  {
+    "text": "the headlines. Let's do it. German bonds",
+    "start": 193.28,
+    "duration": 4.4
+  },
+  {
+    "text": "and the euro are climbing as investors",
+    "start": 195.599,
+    "duration": 4.081
+  },
+  {
+    "text": "look to the Euro zone as a safe haven.",
+    "start": 197.68,
+    "duration": 3.76
+  },
+  {
+    "text": "The shift follows Trump's latest attack",
+    "start": 199.68,
+    "duration": 3.76
+  },
+  {
+    "text": "on the Fed chair Jerome Powell on Truth",
+    "start": 201.44,
+    "duration": 4.719
+  },
+  {
+    "text": "Social where he called him quote a major",
+    "start": 203.44,
+    "duration": 5.28
+  },
+  {
+    "text": "loser. The post triggered a sharp market",
+    "start": 206.159,
+    "duration": 4.64
+  },
+  {
+    "text": "reaction. The major indices fell more",
+    "start": 208.72,
+    "duration": 4.32
+  },
+  {
+    "text": "than 2% and the dollar sank to a",
+    "start": 210.799,
+    "duration": 4.321
+  },
+  {
+    "text": "three-year low. Chinese statebacked",
+    "start": 213.04,
+    "duration": 4.4
+  },
+  {
+    "text": "funds are halting investments in US",
+    "start": 215.12,
+    "duration": 4.479
+  },
+  {
+    "text": "private equity as trade tensions between",
+    "start": 217.44,
+    "duration": 4.56
+  },
+  {
+    "text": "the two countries intensify. The freeze",
+    "start": 219.599,
+    "duration": 4.56
+  },
+  {
+    "text": "on allocations is reportedly a direct",
+    "start": 222.0,
+    "duration": 3.92
+  },
+  {
+    "text": "response to pressure from the Chinese",
+    "start": 224.159,
+    "duration": 3.841
+  },
+  {
+    "text": "government. And finally, Bill Aman's",
+    "start": 225.92,
+    "duration": 4.959
+  },
+  {
+    "text": "Persing Square has built up a nearly 20%",
+    "start": 228.0,
+    "duration": 5.04
+  },
+  {
+    "text": "stake in Hertz, citing the company's",
+    "start": 230.879,
+    "duration": 4.0
+  },
+  {
+    "text": "strong position amid tariffs. In a post",
+    "start": 233.04,
+    "duration": 4.24
+  },
+  {
+    "text": "on X, Aman said higher tariffs could",
+    "start": 234.879,
+    "duration": 4.961
+  },
+  {
+    "text": "drive up used car prices, boosting the",
+    "start": 237.28,
+    "duration": 5.679
+  },
+  {
+    "text": "value of Herz's fleet. Scott, let's",
+    "start": 239.84,
+    "duration": 6.08
+  },
+  {
+    "text": "start with these German bonds. I just",
+    "start": 242.959,
+    "duration": 5.121
+  },
+  {
+    "text": "want to frame what's happening here",
+    "start": 245.92,
+    "duration": 4.8
+  },
+  {
+    "text": "because you know last week we talked",
+    "start": 248.08,
+    "duration": 4.079
+  },
+  {
+    "text": "about what was happening to the US",
+    "start": 250.72,
+    "duration": 3.28
+  },
+  {
+    "text": "Treasury market and also what was",
+    "start": 252.159,
+    "duration": 4.32
+  },
+  {
+    "text": "happening to the US dollar where we saw",
+    "start": 254.0,
+    "duration": 6.32
+  },
+  {
+    "text": "a sell-off in in both categories which",
+    "start": 256.479,
+    "duration": 6.361
+  },
+  {
+    "text": "is very rare for that to happen",
+    "start": 260.32,
+    "duration": 5.92
+  },
+  {
+    "text": "simultaneously and the question we were",
+    "start": 262.84,
+    "duration": 5.32
+  },
+  {
+    "text": "asking last week was okay well if",
+    "start": 266.24,
+    "duration": 4.72
+  },
+  {
+    "text": "there's this giant selloff here then",
+    "start": 268.16,
+    "duration": 5.12
+  },
+  {
+    "text": "where is the money going you know if",
+    "start": 270.96,
+    "duration": 4.48
+  },
+  {
+    "text": "you're selling your US stocks and you're",
+    "start": 273.28,
+    "duration": 4.479
+  },
+  {
+    "text": "selling your US treasuries and you're",
+    "start": 275.44,
+    "duration": 4.96
+  },
+  {
+    "text": "selling your US dollars, then what are",
+    "start": 277.759,
+    "duration": 5.201
+  },
+  {
+    "text": "you buying? What are you converting that",
+    "start": 280.4,
+    "duration": 5.799
+  },
+  {
+    "text": "capital into? And so what we're seeing",
+    "start": 282.96,
+    "duration": 6.64
+  },
+  {
+    "text": "here is basically an answer to that in",
+    "start": 286.199,
+    "duration": 5.081
+  },
+  {
+    "text": "the short term. In the short term, what",
+    "start": 289.6,
+    "duration": 3.68
+  },
+  {
+    "text": "are investors buying? Where is the",
+    "start": 291.28,
+    "duration": 4.0
+  },
+  {
+    "text": "capital going? Well, one, it's going to",
+    "start": 293.28,
+    "duration": 5.199
+  },
+  {
+    "text": "euros and two, it's going to European",
+    "start": 295.28,
+    "duration": 5.84
+  },
+  {
+    "text": "debt, such as the German bunt here,",
+    "start": 298.479,
+    "duration": 5.121
+  },
+  {
+    "text": "which is Germany's equivalent of a",
+    "start": 301.12,
+    "duration": 5.12
+  },
+  {
+    "text": "treasury. So, the euro is up 5% in the",
+    "start": 303.6,
+    "duration": 4.8
+  },
+  {
+    "text": "past month against the dollar. The yield",
+    "start": 306.24,
+    "duration": 5.36
+  },
+  {
+    "text": "on the 2-year German bunt is now 2%",
+    "start": 308.4,
+    "duration": 5.12
+  },
+  {
+    "text": "lower than the yield on the 2-year",
+    "start": 311.6,
+    "duration": 4.24
+  },
+  {
+    "text": "Treasury in America. And so, what we're",
+    "start": 313.52,
+    "duration": 4.72
+  },
+  {
+    "text": "witnessing right now is this very",
+    "start": 315.84,
+    "duration": 4.639
+  },
+  {
+    "text": "interesting dynamic where it's perfectly",
+    "start": 318.24,
+    "duration": 4.799
+  },
+  {
+    "text": "symmetrical to what is happening in the",
+    "start": 320.479,
+    "duration": 5.361
+  },
+  {
+    "text": "US. So, in the US, you have this rare",
+    "start": 323.039,
+    "duration": 5.681
+  },
+  {
+    "text": "combination of a sell-off in the bond",
+    "start": 325.84,
+    "duration": 5.6
+  },
+  {
+    "text": "market and in dollars. And then in",
+    "start": 328.72,
+    "duration": 4.56
+  },
+  {
+    "text": "Europe you have this very rare",
+    "start": 331.44,
+    "duration": 4.88
+  },
+  {
+    "text": "combination of a rally in both bonds and",
+    "start": 333.28,
+    "duration": 5.759
+  },
+  {
+    "text": "in the euro. So I think the answer",
+    "start": 336.32,
+    "duration": 5.76
+  },
+  {
+    "text": "couldn't be clearer. Right now the world",
+    "start": 339.039,
+    "duration": 6.081
+  },
+  {
+    "text": "is selling America. We knew that. But as",
+    "start": 342.08,
+    "duration": 5.76
+  },
+  {
+    "text": "of this week the world also appears now",
+    "start": 345.12,
+    "duration": 5.6
+  },
+  {
+    "text": "to be buying Europe. So Scott, your",
+    "start": 347.84,
+    "duration": 4.48
+  },
+  {
+    "text": "reactions to what's happening here. The",
+    "start": 350.72,
+    "duration": 3.12
+  },
+  {
+    "text": "idea of the German bonds become an",
+    "start": 352.32,
+    "duration": 2.8
+  },
+  {
+    "text": "alternative to the global dominant",
+    "start": 353.84,
+    "duration": 3.12
+  },
+  {
+    "text": "system of US treasuries is sort of",
+    "start": 355.12,
+    "duration": 4.32
+  },
+  {
+    "text": "interesting. It's a tiny market compared",
+    "start": 356.96,
+    "duration": 4.079
+  },
+  {
+    "text": "to the US Treasury market. It's 3",
+    "start": 359.44,
+    "duration": 4.479
+  },
+  {
+    "text": "trillion compared to 30 trillion for US",
+    "start": 361.039,
+    "duration": 5.44
+  },
+  {
+    "text": "limiting its replacement potential. And",
+    "start": 363.919,
+    "duration": 4.881
+  },
+  {
+    "text": "they've also historically suffered from",
+    "start": 366.479,
+    "duration": 4.321
+  },
+  {
+    "text": "scarcity and sub-zero yields, which is",
+    "start": 368.8,
+    "duration": 3.519
+  },
+  {
+    "text": "really interesting. You have to pay them",
+    "start": 370.8,
+    "duration": 4.6
+  },
+  {
+    "text": "to uh hold on to boons for as a store of",
+    "start": 372.319,
+    "duration": 5.201
+  },
+  {
+    "text": "value. But increased issuance",
+    "start": 375.4,
+    "duration": 4.04
+  },
+  {
+    "text": "post-German stimulus is easing those",
+    "start": 377.52,
+    "duration": 4.88
+  },
+  {
+    "text": "constraints. The question is how",
+    "start": 379.44,
+    "duration": 4.56
+  },
+  {
+    "text": "permanent are structural these shifts",
+    "start": 382.4,
+    "duration": 3.6
+  },
+  {
+    "text": "that even if the markets recover even if",
+    "start": 384.0,
+    "duration": 2.96
+  },
+  {
+    "text": "there's a different approach to",
+    "start": 386.0,
+    "duration": 2.96
+  },
+  {
+    "text": "governments or you know they come out",
+    "start": 386.96,
+    "duration": 4.72
+  },
+  {
+    "text": "and say no the Fed is independent slowly",
+    "start": 388.96,
+    "duration": 5.359
+  },
+  {
+    "text": "but surely over time big big",
+    "start": 391.68,
+    "duration": 4.56
+  },
+  {
+    "text": "institutions have increased the their",
+    "start": 394.319,
+    "duration": 3.44
+  },
+  {
+    "text": "allocation they each have sort of a",
+    "start": 396.24,
+    "duration": 2.799
+  },
+  {
+    "text": "certain percentage that they put into",
+    "start": 397.759,
+    "duration": 2.88
+  },
+  {
+    "text": "asset classes and they have models such",
+    "start": 399.039,
+    "duration": 3.201
+  },
+  {
+    "text": "that they can justify higher prices",
+    "start": 400.639,
+    "duration": 3.601
+  },
+  {
+    "text": "whereas my favorite is the person",
+    "start": 402.24,
+    "duration": 4.48
+  },
+  {
+    "text": "running all the Nevada pension funds is",
+    "start": 404.24,
+    "duration": 4.239
+  },
+  {
+    "text": "one guy who makes a reasonable living in",
+    "start": 406.72,
+    "duration": 3.919
+  },
+  {
+    "text": "a bad office who just invests and ETFs",
+    "start": 408.479,
+    "duration": 4.481
+  },
+  {
+    "text": "from Vanguard and he's outperformed you",
+    "start": 410.639,
+    "duration": 4.321
+  },
+  {
+    "text": "know the 700 people working on Harvard's",
+    "start": 412.96,
+    "duration": 4.0
+  },
+  {
+    "text": "endowment but they try to figure out",
+    "start": 414.96,
+    "duration": 3.359
+  },
+  {
+    "text": "risk models and they have asset",
+    "start": 416.96,
+    "duration": 3.04
+  },
+  {
+    "text": "allocation or we're going to put x% in",
+    "start": 418.319,
+    "duration": 5.201
+  },
+  {
+    "text": "venture x% in growth equity and",
+    "start": 420.0,
+    "duration": 5.039
+  },
+  {
+    "text": "consistently I think over the last 20 or",
+    "start": 423.52,
+    "duration": 2.84
+  },
+  {
+    "text": "30 years they've increased their",
+    "start": 425.039,
+    "duration": 3.6
+  },
+  {
+    "text": "allocation to private equity because",
+    "start": 426.36,
+    "duration": 4.0
+  },
+  {
+    "text": "that's been an asset class that has",
+    "start": 428.639,
+    "duration": 3.921
+  },
+  {
+    "text": "overperformed and I wonder how many",
+    "start": 430.36,
+    "duration": 3.64
+  },
+  {
+    "text": "institutions are just going to",
+    "start": 432.56,
+    "duration": 3.639
+  },
+  {
+    "text": "restructure their allocation in terms of",
+    "start": 434.0,
+    "duration": 4.72
+  },
+  {
+    "text": "percentage away from the amount of",
+    "start": 436.199,
+    "duration": 4.761
+  },
+  {
+    "text": "capital they allocate to the US market.",
+    "start": 438.72,
+    "duration": 4.4
+  },
+  {
+    "text": "So I think this is structural. Exactly.",
+    "start": 440.96,
+    "duration": 4.079
+  },
+  {
+    "text": "Right. And by the way, I mean our next",
+    "start": 443.12,
+    "duration": 3.6
+  },
+  {
+    "text": "headline here is about private equity",
+    "start": 445.039,
+    "duration": 4.88
+  },
+  {
+    "text": "and this turn away from US private",
+    "start": 446.72,
+    "duration": 5.36
+  },
+  {
+    "text": "equity. But you mentioned ju before we",
+    "start": 449.919,
+    "duration": 4.081
+  },
+  {
+    "text": "just move on to that, you mention this",
+    "start": 452.08,
+    "duration": 4.08
+  },
+  {
+    "text": "idea that institutions are turning away",
+    "start": 454.0,
+    "duration": 4.08
+  },
+  {
+    "text": "from these assets. I mean I just saw",
+    "start": 456.16,
+    "duration": 4.8
+  },
+  {
+    "text": "another headline talk explaining how",
+    "start": 458.08,
+    "duration": 5.28
+  },
+  {
+    "text": "Yale is completely unwinding its private",
+    "start": 460.96,
+    "duration": 4.48
+  },
+  {
+    "text": "equity positions right now. And I think",
+    "start": 463.36,
+    "duration": 5.16
+  },
+  {
+    "text": "what we're seeing is large funds, large",
+    "start": 465.44,
+    "duration": 5.44
+  },
+  {
+    "text": "institutions are trying to figure out a",
+    "start": 468.52,
+    "duration": 4.0
+  },
+  {
+    "text": "way to",
+    "start": 470.88,
+    "duration": 5.759
+  },
+  {
+    "text": "slowly get out of America and figure out",
+    "start": 472.52,
+    "duration": 6.679
+  },
+  {
+    "text": "ways to invest in Europe. And I don't",
+    "start": 476.639,
+    "duration": 4.56
+  },
+  {
+    "text": "think that means that you suddenly",
+    "start": 479.199,
+    "duration": 4.881
+  },
+  {
+    "text": "convert overnight. Uh you suddenly buy",
+    "start": 481.199,
+    "duration": 5.201
+  },
+  {
+    "text": "into the biggest PE funds in in Europe.",
+    "start": 484.08,
+    "duration": 3.6
+  },
+  {
+    "text": "But I do think it means that what",
+    "start": 486.4,
+    "duration": 2.799
+  },
+  {
+    "text": "they're doing is they're they're",
+    "start": 487.68,
+    "duration": 3.76
+  },
+  {
+    "text": "shifting to Europe. They're converting",
+    "start": 489.199,
+    "duration": 5.041
+  },
+  {
+    "text": "into euros in preparation to make these",
+    "start": 491.44,
+    "duration": 5.36
+  },
+  {
+    "text": "investments. They're converting into the",
+    "start": 494.24,
+    "duration": 4.88
+  },
+  {
+    "text": "European debt markets. And I think what",
+    "start": 496.8,
+    "duration": 4.32
+  },
+  {
+    "text": "will happen is that's the preliminary",
+    "start": 499.12,
+    "duration": 5.04
+  },
+  {
+    "text": "step. That's the first part of of the",
+    "start": 501.12,
+    "duration": 5.359
+  },
+  {
+    "text": "rotation of the transition out of",
+    "start": 504.16,
+    "duration": 4.879
+  },
+  {
+    "text": "America. And I would I would imagine",
+    "start": 506.479,
+    "duration": 5.201
+  },
+  {
+    "text": "that what will happen downstream of this",
+    "start": 509.039,
+    "duration": 4.44
+  },
+  {
+    "text": "once we sort of emerge from the",
+    "start": 511.68,
+    "duration": 5.039
+  },
+  {
+    "text": "uncertainty is while they are pouring",
+    "start": 513.479,
+    "duration": 6.761
+  },
+  {
+    "text": "into these European safe haven assets",
+    "start": 516.719,
+    "duration": 6.481
+  },
+  {
+    "text": "i.e. bonds I think the next step is",
+    "start": 520.24,
+    "duration": 4.32
+  },
+  {
+    "text": "they're going to start getting into more",
+    "start": 523.2,
+    "duration": 2.72
+  },
+  {
+    "text": "risky assets. They're going to start",
+    "start": 524.56,
+    "duration": 3.68
+  },
+  {
+    "text": "getting into the European stock market.",
+    "start": 525.92,
+    "duration": 3.68
+  },
+  {
+    "text": "Maybe they'll start getting into",
+    "start": 528.24,
+    "duration": 3.12
+  },
+  {
+    "text": "European alternative assets like",
+    "start": 529.6,
+    "duration": 5.04
+  },
+  {
+    "text": "European VC, European private equity.",
+    "start": 531.36,
+    "duration": 5.68
+  },
+  {
+    "text": "Let's just talk about what we're seeing",
+    "start": 534.64,
+    "duration": 5.44
+  },
+  {
+    "text": "here with China. So, China is halting",
+    "start": 537.04,
+    "duration": 5.6
+  },
+  {
+    "text": "all of its investments in American",
+    "start": 540.08,
+    "duration": 5.04
+  },
+  {
+    "text": "private equity. And that is significant",
+    "start": 542.64,
+    "duration": 5.12
+  },
+  {
+    "text": "when you understand the role that China",
+    "start": 545.12,
+    "duration": 5.44
+  },
+  {
+    "text": "has played historically in the US",
+    "start": 547.76,
+    "duration": 4.639
+  },
+  {
+    "text": "private equity markets, which is to say",
+    "start": 550.56,
+    "duration": 4.0
+  },
+  {
+    "text": "a big role. You know, some of the some",
+    "start": 552.399,
+    "duration": 3.681
+  },
+  {
+    "text": "of the biggest funds and the biggest",
+    "start": 554.56,
+    "duration": 4.48
+  },
+  {
+    "text": "names in private equity have taken in",
+    "start": 556.08,
+    "duration": 5.72
+  },
+  {
+    "text": "big investments from China. Funds like",
+    "start": 559.04,
+    "duration": 4.96
+  },
+  {
+    "text": "Blackstone, the Chinese sovereign wealth",
+    "start": 561.8,
+    "duration": 3.96
+  },
+  {
+    "text": "fund was one of their biggest investors",
+    "start": 564.0,
+    "duration": 5.12
+  },
+  {
+    "text": "in the IPO. Funds like TPG,",
+    "start": 565.76,
+    "duration": 6.48
+  },
+  {
+    "text": "uh, Colile, which continues to co-invest",
+    "start": 569.12,
+    "duration": 5.12
+  },
+  {
+    "text": "with China to this day. And China has",
+    "start": 572.24,
+    "duration": 4.64
+  },
+  {
+    "text": "said there's no no more investing in",
+    "start": 574.24,
+    "duration": 6.0
+  },
+  {
+    "text": "private equity in America, which is",
+    "start": 576.88,
+    "duration": 5.28
+  },
+  {
+    "text": "actually quite a big deal for the",
+    "start": 580.24,
+    "duration": 3.279
+  },
+  {
+    "text": "private equity industry. And we just saw",
+    "start": 582.16,
+    "duration": 4.48
+  },
+  {
+    "text": "Blackstone's earnings last week. And",
+    "start": 583.519,
+    "duration": 5.121
+  },
+  {
+    "text": "Schwarzman, who of course was a Trump",
+    "start": 586.64,
+    "duration": 4.24
+  },
+  {
+    "text": "supporter, he appeared to be quite",
+    "start": 588.64,
+    "duration": 4.639
+  },
+  {
+    "text": "rattled by these tariffs. He said,",
+    "start": 590.88,
+    "duration": 4.72
+  },
+  {
+    "text": "quote, \"Tariffs have dramatically",
+    "start": 593.279,
+    "duration": 4.321
+  },
+  {
+    "text": "impacted investor sentiment.\" He said,",
+    "start": 595.6,
+    "duration": 3.919
+  },
+  {
+    "text": "\"We believe that fast resolution is",
+    "start": 597.6,
+    "duration": 4.48
+  },
+  {
+    "text": "critical to mitigate risks and keep the",
+    "start": 599.519,
+    "duration": 4.641
+  },
+  {
+    "text": "economy on the growth path.\" So, this",
+    "start": 602.08,
+    "duration": 4.319
+  },
+  {
+    "text": "could be a real shakeup to the private",
+    "start": 604.16,
+    "duration": 4.72
+  },
+  {
+    "text": "equity industry in America. China's",
+    "start": 606.399,
+    "duration": 4.641
+  },
+  {
+    "text": "probably said, \"Why on earth are we",
+    "start": 608.88,
+    "duration": 3.84
+  },
+  {
+    "text": "strengthening relationships with the US",
+    "start": 611.04,
+    "duration": 3.44
+  },
+  {
+    "text": "who treats us poorly? Let's take some of",
+    "start": 612.72,
+    "duration": 4.32
+  },
+  {
+    "text": "our capital and use that to strengthen",
+    "start": 614.48,
+    "duration": 4.799
+  },
+  {
+    "text": "relationships with other nations.",
+    "start": 617.04,
+    "duration": 3.919
+  },
+  {
+    "text": "Chinese investments in Footsie 100",
+    "start": 619.279,
+    "duration": 3.521
+  },
+  {
+    "text": "companies have surged, reaching nearly",
+    "start": 620.959,
+    "duration": 5.521
+  },
+  {
+    "text": "90 billion, a 40% jump from 2022. So",
+    "start": 622.8,
+    "duration": 5.36
+  },
+  {
+    "text": "when we talk about a rerating of",
+    "start": 626.48,
+    "duration": 5.28
+  },
+  {
+    "text": "American stocks down from a P of 28 to",
+    "start": 628.16,
+    "duration": 7.44
+  },
+  {
+    "text": "Germany again 22, Japan 18, China 14.",
+    "start": 631.76,
+    "duration": 5.28
+  },
+  {
+    "text": "Well, what actually happens there? The",
+    "start": 635.6,
+    "duration": 3.12
+  },
+  {
+    "text": "mechanics of that are that people sell",
+    "start": 637.04,
+    "duration": 5.12
+  },
+  {
+    "text": "US stocks and buy stocks in Japan,",
+    "start": 638.72,
+    "duration": 5.76
+  },
+  {
+    "text": "Germany or China. And I think you're",
+    "start": 642.16,
+    "duration": 5.2
+  },
+  {
+    "text": "saying that and that is if China and",
+    "start": 644.48,
+    "duration": 4.24
+  },
+  {
+    "text": "they're actually not the largest US",
+    "start": 647.36,
+    "duration": 3.599
+  },
+  {
+    "text": "investor, but they're significant enough",
+    "start": 648.72,
+    "duration": 4.72
+  },
+  {
+    "text": "investor where if they pull money out",
+    "start": 650.959,
+    "duration": 5.12
+  },
+  {
+    "text": "and start putting it into other markets",
+    "start": 653.44,
+    "duration": 4.639
+  },
+  {
+    "text": "that again that rerating begins to",
+    "start": 656.079,
+    "duration": 3.76
+  },
+  {
+    "text": "happen. This has more impact actually on",
+    "start": 658.079,
+    "duration": 4.241
+  },
+  {
+    "text": "private market valuations and some",
+    "start": 659.839,
+    "duration": 3.841
+  },
+  {
+    "text": "people would argue well that ultimately",
+    "start": 662.32,
+    "duration": 4.16
+  },
+  {
+    "text": "impacts public home valuations. But a",
+    "start": 663.68,
+    "duration": 6.48
+  },
+  {
+    "text": "lot of when there's less um money for",
+    "start": 666.48,
+    "duration": 5.28
+  },
+  {
+    "text": "these private equity companies, what",
+    "start": 670.16,
+    "duration": 2.96
+  },
+  {
+    "text": "that means is that entrepreneurs looking",
+    "start": 671.76,
+    "duration": 3.28
+  },
+  {
+    "text": "to sell their business have fewer biders",
+    "start": 673.12,
+    "duration": 4.24
+  },
+  {
+    "text": "and the valuations start to come down.",
+    "start": 675.04,
+    "duration": 4.16
+  },
+  {
+    "text": "And what's also interesting is I bet",
+    "start": 677.36,
+    "duration": 4.8
+  },
+  {
+    "text": "they're clearly targeting the 8 or 12",
+    "start": 679.2,
+    "duration": 5.199
+  },
+  {
+    "text": "people in the economy that have a great",
+    "start": 682.16,
+    "duration": 5.679
+  },
+  {
+    "text": "deal of of influence over Trump. So",
+    "start": 684.399,
+    "duration": 5.601
+  },
+  {
+    "text": "again, this is just another another",
+    "start": 687.839,
+    "duration": 4.0
+  },
+  {
+    "text": "point of light around why we're going to",
+    "start": 690.0,
+    "duration": 4.0
+  },
+  {
+    "text": "see this rerating. And it and it's",
+    "start": 691.839,
+    "duration": 4.321
+  },
+  {
+    "text": "small, but it does it does it carry a",
+    "start": 694.0,
+    "duration": 3.44
+  },
+  {
+    "text": "trend because you got to think that like",
+    "start": 696.16,
+    "duration": 2.96
+  },
+  {
+    "text": "CIC is one of those sovereigns everyone",
+    "start": 697.44,
+    "duration": 4.88
+  },
+  {
+    "text": "talks about. Mubalaba, PIFF, and I think",
+    "start": 699.12,
+    "duration": 4.959
+  },
+  {
+    "text": "they're this is the this is the Chinese",
+    "start": 702.32,
+    "duration": 4.24
+  },
+  {
+    "text": "sovereign wealth fund CIC. I think",
+    "start": 704.079,
+    "duration": 3.681
+  },
+  {
+    "text": "people take their actions very",
+    "start": 706.56,
+    "duration": 2.56
+  },
+  {
+    "text": "seriously. They're very smart. They're",
+    "start": 707.76,
+    "duration": 2.88
+  },
+  {
+    "text": "very strategic. They're very long-term.",
+    "start": 709.12,
+    "duration": 3.36
+  },
+  {
+    "text": "So, it's more of a branding and a",
+    "start": 710.64,
+    "duration": 3.759
+  },
+  {
+    "text": "headline, I think, risk than it is",
+    "start": 712.48,
+    "duration": 3.76
+  },
+  {
+    "text": "actual the actual capital cuz relative",
+    "start": 714.399,
+    "duration": 4.0
+  },
+  {
+    "text": "to other nations, it's less capital than",
+    "start": 716.24,
+    "duration": 5.2
+  },
+  {
+    "text": "you'd think. But this might be again",
+    "start": 718.399,
+    "duration": 5.68
+  },
+  {
+    "text": "this just sends another signal that the",
+    "start": 721.44,
+    "duration": 4.48
+  },
+  {
+    "text": "US is no longer the safe haven for",
+    "start": 724.079,
+    "duration": 3.521
+  },
+  {
+    "text": "capital that there's a capital flight",
+    "start": 725.92,
+    "duration": 3.84
+  },
+  {
+    "text": "which again creates that rerating down",
+    "start": 727.6,
+    "duration": 5.039
+  },
+  {
+    "text": "and you mentioned that China is a",
+    "start": 729.76,
+    "duration": 4.639
+  },
+  {
+    "text": "significant investor but not as",
+    "start": 732.639,
+    "duration": 3.601
+  },
+  {
+    "text": "significant as other nations which is",
+    "start": 734.399,
+    "duration": 4.081
+  },
+  {
+    "text": "true but I think the question is well",
+    "start": 736.24,
+    "duration": 5.279
+  },
+  {
+    "text": "what if other countries start to follow",
+    "start": 738.48,
+    "duration": 6.24
+  },
+  {
+    "text": "suit I mean we have 5.5 trillion dollars",
+    "start": 741.519,
+    "duration": 6.241
+  },
+  {
+    "text": "of direct foreign investment in the US",
+    "start": 744.72,
+    "duration": 4.799
+  },
+  {
+    "text": "more than half a trillion of that comes",
+    "start": 747.76,
+    "duration": 4.16
+  },
+  {
+    "text": "from Canada. A trillion of that comes",
+    "start": 749.519,
+    "duration": 4.521
+  },
+  {
+    "text": "from Asia. But probably most",
+    "start": 751.92,
+    "duration": 4.159
+  },
+  {
+    "text": "concerningly, almost three and a half",
+    "start": 754.04,
+    "duration": 4.2
+  },
+  {
+    "text": "trillion comes from Europe. And for as",
+    "start": 756.079,
+    "duration": 3.601
+  },
+  {
+    "text": "long as this country has existed, those",
+    "start": 758.24,
+    "duration": 3.839
+  },
+  {
+    "text": "numbers have gone up every single year.",
+    "start": 759.68,
+    "duration": 4.719
+  },
+  {
+    "text": "And so I think the big question is what",
+    "start": 762.079,
+    "duration": 3.841
+  },
+  {
+    "text": "happens? I mean, clearly the China",
+    "start": 764.399,
+    "duration": 3.44
+  },
+  {
+    "text": "number is going to go down, but what",
+    "start": 765.92,
+    "duration": 4.719
+  },
+  {
+    "text": "happens if the Canada number goes down",
+    "start": 767.839,
+    "duration": 4.641
+  },
+  {
+    "text": "and the Europe numbers goes down? What",
+    "start": 770.639,
+    "duration": 4.561
+  },
+  {
+    "text": "if Europe goes from a $3.5 trillion",
+    "start": 772.48,
+    "duration": 5.599
+  },
+  {
+    "text": "position to a $2 trillion position, a $1",
+    "start": 775.2,
+    "duration": 5.12
+  },
+  {
+    "text": "trillion position, even lower? And I",
+    "start": 778.079,
+    "duration": 3.521
+  },
+  {
+    "text": "think those are the big questions here",
+    "start": 780.32,
+    "duration": 3.44
+  },
+  {
+    "text": "that we need to pay attention to. So",
+    "start": 781.6,
+    "duration": 5.76
+  },
+  {
+    "text": "again, yes, China cutting off the",
+    "start": 783.76,
+    "duration": 6.319
+  },
+  {
+    "text": "funding to private equity funds is not",
+    "start": 787.36,
+    "duration": 5.68
+  },
+  {
+    "text": "that big of a deal on a pure dollar",
+    "start": 790.079,
+    "duration": 6.0
+  },
+  {
+    "text": "value basis, but it's a big deal when",
+    "start": 793.04,
+    "duration": 6.239
+  },
+  {
+    "text": "you consider what it might do and how",
+    "start": 796.079,
+    "duration": 6.32
+  },
+  {
+    "text": "the other dominoes in the line may fall.",
+    "start": 799.279,
+    "duration": 6.321
+  },
+  {
+    "text": "The best strategy for career success is,",
+    "start": 802.399,
+    "duration": 5.041
+  },
+  {
+    "text": "I think, is relationships because you",
+    "start": 805.6,
+    "duration": 3.039
+  },
+  {
+    "text": "want to be put in a room of",
+    "start": 807.44,
+    "duration": 2.399
+  },
+  {
+    "text": "opportunities even when you're not",
+    "start": 808.639,
+    "duration": 3.281
+  },
+  {
+    "text": "physically present. I think what Trump",
+    "start": 809.839,
+    "duration": 4.161
+  },
+  {
+    "text": "has done is that Trump has put America",
+    "start": 811.92,
+    "duration": 4.32
+  },
+  {
+    "text": "and our markets and our assets in a room",
+    "start": 814.0,
+    "duration": 4.8
+  },
+  {
+    "text": "full of hostilities. And that is we just",
+    "start": 816.24,
+    "duration": 3.92
+  },
+  {
+    "text": "don't know who's going to stab us and",
+    "start": 818.8,
+    "duration": 3.599
+  },
+  {
+    "text": "where or what they're going to do. But",
+    "start": 820.16,
+    "duration": 4.16
+  },
+  {
+    "text": "there some very bright people all over",
+    "start": 822.399,
+    "duration": 4.0
+  },
+  {
+    "text": "the world with a lot of capital are",
+    "start": 824.32,
+    "duration": 3.519
+  },
+  {
+    "text": "trying to figure out quite frankly how",
+    "start": 826.399,
+    "duration": 3.68
+  },
+  {
+    "text": "to punch back. Okay, let's talk about",
+    "start": 827.839,
+    "duration": 6.0
+  },
+  {
+    "text": "Bill Aman and his new 20% stake in Hertz",
+    "start": 830.079,
+    "duration": 6.0
+  },
+  {
+    "text": "which he's been tweeting about. uh he's",
+    "start": 833.839,
+    "duration": 4.081
+  },
+  {
+    "text": "talked a lot about, you know, how this",
+    "start": 836.079,
+    "duration": 3.841
+  },
+  {
+    "text": "company is uniquely positioned,",
+    "start": 837.92,
+    "duration": 5.2
+  },
+  {
+    "text": "especially amid these tariff policies",
+    "start": 839.92,
+    "duration": 5.44
+  },
+  {
+    "text": "and he's talking about how these tariffs",
+    "start": 843.12,
+    "duration": 4.48
+  },
+  {
+    "text": "are going to drive up the price of used",
+    "start": 845.36,
+    "duration": 4.719
+  },
+  {
+    "text": "cars and of course Herz has this massive",
+    "start": 847.6,
+    "duration": 4.88
+  },
+  {
+    "text": "fleet of used cars. So Scott, your",
+    "start": 850.079,
+    "duration": 5.76
+  },
+  {
+    "text": "reactions to Bill Aman and this kind of",
+    "start": 852.48,
+    "duration": 7.68
+  },
+  {
+    "text": "creative investment that he says is a",
+    "start": 855.839,
+    "duration": 7.281
+  },
+  {
+    "text": "response in large part to the tariffs. I",
+    "start": 860.16,
+    "duration": 4.72
+  },
+  {
+    "text": "appreciate the art in it. It's like when",
+    "start": 863.12,
+    "duration": 3.279
+  },
+  {
+    "text": "you see interpretive dance, you think,",
+    "start": 864.88,
+    "duration": 3.04
+  },
+  {
+    "text": "\"Wow,\" or modern art, you think, \"Wow,",
+    "start": 866.399,
+    "duration": 2.961
+  },
+  {
+    "text": "that's really creative.\" And then kind",
+    "start": 867.92,
+    "duration": 2.56
+  },
+  {
+    "text": "of 10 minutes in, you're like, \"This",
+    "start": 869.36,
+    "duration": 4.64
+  },
+  {
+    "text": "makes no sense.\"",
+    "start": 870.48,
+    "duration": 5.359
+  },
+  {
+    "text": "That's really good analogy. This is",
+    "start": 874.0,
+    "duration": 5.04
+  },
+  {
+    "text": "interpretive dance to decide that. Okay,",
+    "start": 875.839,
+    "duration": 5.36
+  },
+  {
+    "text": "so he has an asset base that's gone up",
+    "start": 879.04,
+    "duration": 4.08
+  },
+  {
+    "text": "in value or Herz has an asset base",
+    "start": 881.199,
+    "duration": 4.561
+  },
+  {
+    "text": "that's gone up in value, but in order to",
+    "start": 883.12,
+    "duration": 4.64
+  },
+  {
+    "text": "maintain that asset base, his cost will",
+    "start": 885.76,
+    "duration": 4.4
+  },
+  {
+    "text": "go up because for every car they sell,",
+    "start": 887.76,
+    "duration": 3.439
+  },
+  {
+    "text": "they're going to have to replace it with",
+    "start": 890.16,
+    "duration": 2.88
+  },
+  {
+    "text": "a higher price car. I guess the notion",
+    "start": 891.199,
+    "duration": 4.961
+  },
+  {
+    "text": "is that because cars are more expensive,",
+    "start": 893.04,
+    "duration": 6.76
+  },
+  {
+    "text": "more people will rent than own or I",
+    "start": 896.16,
+    "duration": 6.84
+  },
+  {
+    "text": "don't and I think the counterveiling",
+    "start": 899.8,
+    "duration": 7.32
+  },
+  {
+    "text": "force of a massive decline in tourism",
+    "start": 903.0,
+    "duration": 6.519
+  },
+  {
+    "text": "which I would imagine makes up a large",
+    "start": 907.12,
+    "duration": 4.48
+  },
+  {
+    "text": "portion of their rental market. I think",
+    "start": 909.519,
+    "duration": 7.201
+  },
+  {
+    "text": "that negative force will be greater than",
+    "start": 911.6,
+    "duration": 7.76
+  },
+  {
+    "text": "the increase in the value of their",
+    "start": 916.72,
+    "duration": 6.799
+  },
+  {
+    "text": "current fleet. So I don't to me I think",
+    "start": 919.36,
+    "duration": 7.68
+  },
+  {
+    "text": "this is really creative and Bill has",
+    "start": 923.519,
+    "duration": 5.281
+  },
+  {
+    "text": "such a strong brand in the industry that",
+    "start": 927.04,
+    "duration": 4.0
+  },
+  {
+    "text": "when he puts out a tweet the stock",
+    "start": 928.8,
+    "duration": 4.0
+  },
+  {
+    "text": "literally doubled in value but this",
+    "start": 931.04,
+    "duration": 4.159
+  },
+  {
+    "text": "company it did double literally they the",
+    "start": 932.8,
+    "duration": 4.479
+  },
+  {
+    "text": "shares rose 100%. Yeah but the company",
+    "start": 935.199,
+    "duration": 4.401
+  },
+  {
+    "text": "has 6 billion in debt with a market cap",
+    "start": 937.279,
+    "duration": 4.8
+  },
+  {
+    "text": "of around 3 billion including a half a",
+    "start": 939.6,
+    "duration": 4.88
+  },
+  {
+    "text": "billion in junk bonds. They lost three",
+    "start": 942.079,
+    "duration": 5.521
+  },
+  {
+    "text": "billion last year. In some I think Herz",
+    "start": 944.48,
+    "duration": 6.64
+  },
+  {
+    "text": "is just a shitty in a shitty business. I",
+    "start": 947.6,
+    "duration": 5.76
+  },
+  {
+    "text": "think what this is is just sort of a",
+    "start": 951.12,
+    "duration": 5.6
+  },
+  {
+    "text": "simple distressed asset activist play. I",
+    "start": 953.36,
+    "duration": 5.44
+  },
+  {
+    "text": "mean you have this company that has",
+    "start": 956.72,
+    "duration": 4.479
+  },
+  {
+    "text": "fallen around 90% in the past four",
+    "start": 958.8,
+    "duration": 5.44
+  },
+  {
+    "text": "years. And I think this is sort of no",
+    "start": 961.199,
+    "duration": 5.44
+  },
+  {
+    "text": "different from any other activist",
+    "start": 964.24,
+    "duration": 4.24
+  },
+  {
+    "text": "investment. He sees opportunities. he's",
+    "start": 966.639,
+    "duration": 4.401
+  },
+  {
+    "text": "looked at the the debt and he sees, you",
+    "start": 968.48,
+    "duration": 5.44
+  },
+  {
+    "text": "know, he sees upside given how Herz has",
+    "start": 971.04,
+    "duration": 4.239
+  },
+  {
+    "text": "been beaten down over the last few",
+    "start": 973.92,
+    "duration": 3.12
+  },
+  {
+    "text": "years. What's interesting to me is the",
+    "start": 975.279,
+    "duration": 4.8
+  },
+  {
+    "text": "way he is positioning this as a tariff",
+    "start": 977.04,
+    "duration": 7.28
+  },
+  {
+    "text": "play. And I I feel that this is probably",
+    "start": 980.079,
+    "duration": 6.161
+  },
+  {
+    "text": "going to become a theme now where",
+    "start": 984.32,
+    "duration": 3.519
+  },
+  {
+    "text": "everyone's going to figure out a way to",
+    "start": 986.24,
+    "duration": 4.159
+  },
+  {
+    "text": "sort of retroactively justify their",
+    "start": 987.839,
+    "duration": 5.881
+  },
+  {
+    "text": "investment thesis as a response to",
+    "start": 990.399,
+    "duration": 6.88
+  },
+  {
+    "text": "tariffs. And that's sort of what he",
+    "start": 993.72,
+    "duration": 6.28
+  },
+  {
+    "text": "said. I mean his his argument I can just",
+    "start": 997.279,
+    "duration": 4.56
+  },
+  {
+    "text": "quote him directly. He said Herz is",
+    "start": 1000.0,
+    "duration": 3.6
+  },
+  {
+    "text": "uniquely well positioned in the current",
+    "start": 1001.839,
+    "duration": 3.761
+  },
+  {
+    "text": "tariff environment where auto tariffs",
+    "start": 1003.6,
+    "duration": 3.679
+  },
+  {
+    "text": "are likely to cause used car prices to",
+    "start": 1005.6,
+    "duration": 4.479
+  },
+  {
+    "text": "rise. Herz owns a fleet of over 500,000",
+    "start": 1007.279,
+    "duration": 4.56
+  },
+  {
+    "text": "vehicles valued at approximately 12",
+    "start": 1010.079,
+    "duration": 4.0
+  },
+  {
+    "text": "billion. A 10% increase in used car",
+    "start": 1011.839,
+    "duration": 4.481
+  },
+  {
+    "text": "prices would equate to a $1.2 billion",
+    "start": 1014.079,
+    "duration": 4.401
+  },
+  {
+    "text": "gain on its auto assets. So he's",
+    "start": 1016.32,
+    "duration": 4.879
+  },
+  {
+    "text": "basically saying, you know, we saw what",
+    "start": 1018.48,
+    "duration": 4.719
+  },
+  {
+    "text": "was happening in tariff world and we",
+    "start": 1021.199,
+    "duration": 4.961
+  },
+  {
+    "text": "decided to to go to go in and buy herds.",
+    "start": 1023.199,
+    "duration": 7.281
+  },
+  {
+    "text": "But what's he's not really acknowledging",
+    "start": 1026.16,
+    "duration": 6.399
+  },
+  {
+    "text": "is the fact that they actually started",
+    "start": 1030.48,
+    "duration": 4.64
+  },
+  {
+    "text": "building this position last year, you",
+    "start": 1032.559,
+    "duration": 4.961
+  },
+  {
+    "text": "know, before any of these tariff changes",
+    "start": 1035.12,
+    "duration": 5.6
+  },
+  {
+    "text": "came about. Yes, it was after Trump won,",
+    "start": 1037.52,
+    "duration": 5.519
+  },
+  {
+    "text": "but I don't think he could have known",
+    "start": 1040.72,
+    "duration": 3.92
+  },
+  {
+    "text": "that the tariff environment would be",
+    "start": 1043.039,
+    "duration": 3.601
+  },
+  {
+    "text": "this crazy and that it would be this",
+    "start": 1044.64,
+    "duration": 4.64
+  },
+  {
+    "text": "targeted against cars. And in fact, you",
+    "start": 1046.64,
+    "duration": 5.919
+  },
+  {
+    "text": "see his reaction to Liberation Day where",
+    "start": 1049.28,
+    "duration": 5.759
+  },
+  {
+    "text": "he was all up in arms on Twitter and he",
+    "start": 1052.559,
+    "duration": 4.721
+  },
+  {
+    "text": "was massively disapproving of it. I",
+    "start": 1055.039,
+    "duration": 4.321
+  },
+  {
+    "text": "think to me that is an indication that",
+    "start": 1057.28,
+    "duration": 4.24
+  },
+  {
+    "text": "Bill Aman did not expect the tariff",
+    "start": 1059.36,
+    "duration": 5.199
+  },
+  {
+    "text": "policy to play out the way it did. So I",
+    "start": 1061.52,
+    "duration": 5.56
+  },
+  {
+    "text": "think this is sort of him trying",
+    "start": 1064.559,
+    "duration": 7.441
+  },
+  {
+    "text": "to retrofit this 40 chess tariff move as",
+    "start": 1067.08,
+    "duration": 7.32
+  },
+  {
+    "text": "a way to explain what is essentially",
+    "start": 1072.0,
+    "duration": 4.48
+  },
+  {
+    "text": "just kind of a regular activist",
+    "start": 1074.4,
+    "duration": 4.32
+  },
+  {
+    "text": "investment. It reminds me there's been",
+    "start": 1076.48,
+    "duration": 4.8
+  },
+  {
+    "text": "an activist play about 10 times at a",
+    "start": 1078.72,
+    "duration": 4.24
+  },
+  {
+    "text": "company called Macy's. And the play was",
+    "start": 1081.28,
+    "duration": 3.6
+  },
+  {
+    "text": "always the same and that is the",
+    "start": 1082.96,
+    "duration": 3.839
+  },
+  {
+    "text": "underlying real estate is worth more",
+    "start": 1084.88,
+    "duration": 4.96
+  },
+  {
+    "text": "than the company. and they did the",
+    "start": 1086.799,
+    "duration": 4.561
+  },
+  {
+    "text": "analysis and they were right and that",
+    "start": 1089.84,
+    "duration": 3.36
+  },
+  {
+    "text": "the stock was trading at a market cap or",
+    "start": 1091.36,
+    "duration": 3.199
+  },
+  {
+    "text": "an enterprise value of 2 billion and",
+    "start": 1093.2,
+    "duration": 4.0
+  },
+  {
+    "text": "they own 3 billion in real estate. So,",
+    "start": 1094.559,
+    "duration": 4.24
+  },
+  {
+    "text": "okay, that the company's under value.",
+    "start": 1097.2,
+    "duration": 2.56
+  },
+  {
+    "text": "The problem is it's like telling",
+    "start": 1098.799,
+    "duration": 2.88
+  },
+  {
+    "text": "someone, all right, your heart and your",
+    "start": 1099.76,
+    "duration": 3.52
+  },
+  {
+    "text": "lungs are worth millions of dollars. And",
+    "start": 1101.679,
+    "duration": 3.12
+  },
+  {
+    "text": "it's like, well, okay, I'm kind of fond",
+    "start": 1103.28,
+    "duration": 3.759
+  },
+  {
+    "text": "of my heart and lungs. And that was",
+    "start": 1104.799,
+    "duration": 5.841
+  },
+  {
+    "text": "right, no CEO was willing to harvest the",
+    "start": 1107.039,
+    "duration": 5.281
+  },
+  {
+    "text": "organs of Macy's. They weren't willing",
+    "start": 1110.64,
+    "duration": 3.96
+  },
+  {
+    "text": "to shut down Macy's and sell the real",
+    "start": 1112.32,
+    "duration": 6.0
+  },
+  {
+    "text": "estate. So, okay, great. Your cars just",
+    "start": 1114.6,
+    "duration": 6.68
+  },
+  {
+    "text": "went up in value 10%. What What does",
+    "start": 1118.32,
+    "duration": 5.2
+  },
+  {
+    "text": "that mean for earn? How do you monetize?",
+    "start": 1121.28,
+    "duration": 3.92
+  },
+  {
+    "text": "How do you harvest that organ? Great",
+    "start": 1123.52,
+    "duration": 3.36
+  },
+  {
+    "text": "point. Because Hertz isn't going to just",
+    "start": 1125.2,
+    "duration": 3.839
+  },
+  {
+    "text": "sell its fleet tomorrow. They they like",
+    "start": 1126.88,
+    "duration": 3.52
+  },
+  {
+    "text": "to believe they're in the business of",
+    "start": 1129.039,
+    "duration": 3.681
+  },
+  {
+    "text": "running cars. It's just and and what",
+    "start": 1130.4,
+    "duration": 4.88
+  },
+  {
+    "text": "you're going to find here and the thing",
+    "start": 1132.72,
+    "duration": 4.16
+  },
+  {
+    "text": "that's going to drive the stock price",
+    "start": 1135.28,
+    "duration": 2.96
+  },
+  {
+    "text": "over the medium and the long term. In",
+    "start": 1136.88,
+    "duration": 2.96
+  },
+  {
+    "text": "the short term, it's Bill Aman's brand",
+    "start": 1138.24,
+    "duration": 4.0
+  },
+  {
+    "text": "and it in this interpretive dance. But",
+    "start": 1139.84,
+    "duration": 4.0
+  },
+  {
+    "text": "over the medium-term and even the kind",
+    "start": 1142.24,
+    "duration": 4.08
+  },
+  {
+    "text": "of extended short term, the thing that's",
+    "start": 1143.84,
+    "duration": 4.88
+  },
+  {
+    "text": "going to dictate this company's stock",
+    "start": 1146.32,
+    "duration": 4.16
+  },
+  {
+    "text": "price, unless it becomes a meme stock,",
+    "start": 1148.72,
+    "duration": 3.48
+  },
+  {
+    "text": "which is possible, but I don't think it",
+    "start": 1150.48,
+    "duration": 4.559
+  },
+  {
+    "text": "will, is the growth or decline of the",
+    "start": 1152.2,
+    "duration": 5.16
+  },
+  {
+    "text": "business. And the revenues fell 3% last",
+    "start": 1155.039,
+    "duration": 3.681
+  },
+  {
+    "text": "year, and they're probably going to fall",
+    "start": 1157.36,
+    "duration": 3.199
+  },
+  {
+    "text": "more than that this year. It's a highly",
+    "start": 1158.72,
+    "duration": 5.6
+  },
+  {
+    "text": "levered business in a shitty business",
+    "start": 1160.559,
+    "duration": 6.081
+  },
+  {
+    "text": "that's in structural decline because of",
+    "start": 1164.32,
+    "duration": 4.4
+  },
+  {
+    "text": "ride hailing and then has the one-two",
+    "start": 1166.64,
+    "duration": 5.039
+  },
+  {
+    "text": "punch of a cyclical kick in the nuts or",
+    "start": 1168.72,
+    "duration": 4.72
+  },
+  {
+    "text": "an exogenous kick in the nuts from a",
+    "start": 1171.679,
+    "duration": 4.88
+  },
+  {
+    "text": "decline in tourism. So interesting to",
+    "start": 1173.44,
+    "duration": 6.08
+  },
+  {
+    "text": "look at, you know, fun. Like who the",
+    "start": 1176.559,
+    "duration": 4.641
+  },
+  {
+    "text": " is the rich parent that put their",
+    "start": 1179.52,
+    "duration": 3.6
+  },
+  {
+    "text": "kids through modern dance and let them",
+    "start": 1181.2,
+    "duration": 4.96
+  },
+  {
+    "text": "do this with their life? Anyways, it",
+    "start": 1183.12,
+    "duration": 4.52
+  },
+  {
+    "text": "almost doesn't matter though because the",
+    "start": 1186.16,
+    "duration": 5.519
+  },
+  {
+    "text": "markets like Bill Aman and he he made a",
+    "start": 1187.64,
+    "duration": 6.24
+  },
+  {
+    "text": "clearly convinced the markets that, you",
+    "start": 1191.679,
+    "duration": 4.321
+  },
+  {
+    "text": "know, maybe it's a meme stock. I mean,",
+    "start": 1193.88,
+    "duration": 4.28
+  },
+  {
+    "text": "it went 100% in a day. That's probably",
+    "start": 1196.0,
+    "duration": 6.08
+  },
+  {
+    "text": "what it is. Um, but for now, he's he's",
+    "start": 1198.16,
+    "duration": 6.16
+  },
+  {
+    "text": "winning interpretive dance or not.",
+    "start": 1202.08,
+    "duration": 4.16
+  },
+  {
+    "text": "Agreed. He's got a standing ovation cuz",
+    "start": 1204.32,
+    "duration": 2.96
+  },
+  {
+    "text": "everyone's looking at each other going,",
+    "start": 1206.24,
+    "duration": 3.679
+  },
+  {
+    "text": "\"Wait, that was great.\" Right? I'm cool",
+    "start": 1207.28,
+    "duration": 4.32
+  },
+  {
+    "text": "if I clap for whatever I just saw on",
+    "start": 1209.919,
+    "duration": 4.161
+  },
+  {
+    "text": "stage. Right? This is unique and",
+    "start": 1211.6,
+    "duration": 5.36
+  },
+  {
+    "text": "different. It's art. Yes, perfect",
+    "start": 1214.08,
+    "duration": 5.479
+  },
+  {
+    "text": "analogy. I love",
+    "start": 1216.96,
+    "duration": 5.2
+  },
+  {
+    "text": "it. We'll be right back. And if you're",
+    "start": 1219.559,
+    "duration": 4.201
+  },
+  {
+    "text": "enjoying the show so far, be sure to",
+    "start": 1222.16,
+    "duration": 3.759
+  },
+  {
+    "text": "like and subscribe to the ProfG GP Pod",
+    "start": 1223.76,
+    "duration": 5.68
+  },
+  {
+    "text": "YouTube channel at the link",
+    "start": 1225.919,
+    "duration": 3.521
+  },
+  {
+    "text": "below. Support for the show comes from",
+    "start": 1233.0,
+    "duration": 3.64
+  },
+  {
+    "text": "Found. When you're a small business",
+    "start": 1235.36,
+    "duration": 2.88
+  },
+  {
+    "text": "owner, making sure your bookkeeping and",
+    "start": 1236.64,
+    "duration": 3.519
+  },
+  {
+    "text": "taxes stay in order comes at a cost. I'm",
+    "start": 1238.24,
+    "duration": 3.28
+  },
+  {
+    "text": "not talking about your money. I'm",
+    "start": 1240.159,
+    "duration": 3.601
+  },
+  {
+    "text": "talking about your time. hours and hours",
+    "start": 1241.52,
+    "duration": 3.44
+  },
+  {
+    "text": "you could have spent actually growing",
+    "start": 1243.76,
+    "duration": 3.2
+  },
+  {
+    "text": "your business. But the reality is it",
+    "start": 1244.96,
+    "duration": 3.76
+  },
+  {
+    "text": "doesn't have to be that way thanks to",
+    "start": 1246.96,
+    "duration": 4.24
+  },
+  {
+    "text": "Found. Found is a banking platform that",
+    "start": 1248.72,
+    "duration": 3.92
+  },
+  {
+    "text": "doesn't just consolidate your financial",
+    "start": 1251.2,
+    "duration": 3.04
+  },
+  {
+    "text": "ecosystem. It automates manual",
+    "start": 1252.64,
+    "duration": 3.76
+  },
+  {
+    "text": "activities like expense tracking and",
+    "start": 1254.24,
+    "duration": 4.16
+  },
+  {
+    "text": "finding tax write-offs. Found can make",
+    "start": 1256.4,
+    "duration": 3.84
+  },
+  {
+    "text": "staying on top of invoices and payments",
+    "start": 1258.4,
+    "duration": 4.0
+  },
+  {
+    "text": "easy. And small businesses are loving",
+    "start": 1260.24,
+    "duration": 4.48
+  },
+  {
+    "text": "Found. One Found user said this. Found",
+    "start": 1262.4,
+    "duration": 4.32
+  },
+  {
+    "text": "is going to save me so much headache. It",
+    "start": 1264.72,
+    "duration": 3.439
+  },
+  {
+    "text": "makes everything so much easier.",
+    "start": 1266.72,
+    "duration": 3.12
+  },
+  {
+    "text": "Expenses, income, profits, taxes,",
+    "start": 1268.159,
+    "duration": 3.921
+  },
+  {
+    "text": "invoices, even. That's just one of their",
+    "start": 1269.84,
+    "duration": 4.88
+  },
+  {
+    "text": "30,000 five-star reviews. You can open a",
+    "start": 1272.08,
+    "duration": 4.839
+  },
+  {
+    "text": "Found account for free at",
+    "start": 1274.72,
+    "duration": 5.76
+  },
+  {
+    "text": "found.com/proofg spelled",
+    "start": 1276.919,
+    "duration": 3.561
+  },
+  {
+    "text": "fund.com/propg. Found is a financial",
+    "start": 1280.52,
+    "duration": 3.96
+  },
+  {
+    "text": "technology company, not a bank. Banking",
+    "start": 1282.48,
+    "duration": 3.92
+  },
+  {
+    "text": "services are provided by Puremont Bank,",
+    "start": 1284.48,
+    "duration": 4.559
+  },
+  {
+    "text": "member FDIC. Don't put this one off.",
+    "start": 1286.4,
+    "duration": 4.24
+  },
+  {
+    "text": "Join thousands of small business owners",
+    "start": 1289.039,
+    "duration": 5.201
+  },
+  {
+    "text": "who have streamlined their finances with",
+    "start": 1290.64,
+    "duration": 3.6
+  },
+  {
+    "text": "found. Support for the show comes from",
+    "start": 1294.36,
+    "duration": 4.6
+  },
+  {
+    "text": "Gruns. If you're looking for a new tasty",
+    "start": 1296.72,
+    "duration": 4.079
+  },
+  {
+    "text": "nutrition solution, then look no further",
+    "start": 1298.96,
+    "duration": 3.76
+  },
+  {
+    "text": "than Grun. It's a convenient,",
+    "start": 1300.799,
+    "duration": 3.841
+  },
+  {
+    "text": "comprehensive formula packed into eight",
+    "start": 1302.72,
+    "duration": 3.839
+  },
+  {
+    "text": "gummies a day. Grun isn't a",
+    "start": 1304.64,
+    "duration": 4.0
+  },
+  {
+    "text": "multivitamin, a greens gummy, or a",
+    "start": 1306.559,
+    "duration": 4.321
+  },
+  {
+    "text": "prebiotic. It's all of those things and",
+    "start": 1308.64,
+    "duration": 4.24
+  },
+  {
+    "text": "then some at a fraction of the price.",
+    "start": 1310.88,
+    "duration": 3.919
+  },
+  {
+    "text": "Their daily packs contain eight gummies",
+    "start": 1312.88,
+    "duration": 3.52
+  },
+  {
+    "text": "because you just can't fit the amount of",
+    "start": 1314.799,
+    "duration": 4.0
+  },
+  {
+    "text": "nutrients they do just into one gummy.",
+    "start": 1316.4,
+    "duration": 4.08
+  },
+  {
+    "text": "Generic multivitamins only contain",
+    "start": 1318.799,
+    "duration": 3.76
+  },
+  {
+    "text": "around 7 to nine vitamins, but Gruns",
+    "start": 1320.48,
+    "duration": 3.84
+  },
+  {
+    "text": "have more than 20 vitamins and minerals,",
+    "start": 1322.559,
+    "duration": 3.36
+  },
+  {
+    "text": "plus more than 60 whole food",
+    "start": 1324.32,
+    "duration": 3.52
+  },
+  {
+    "text": "ingredients. They actually provided us",
+    "start": 1325.919,
+    "duration": 3.441
+  },
+  {
+    "text": "with a bit of science to explain what",
+    "start": 1327.84,
+    "duration": 4.319
+  },
+  {
+    "text": "makes Gruns different. Basically, 30% of",
+    "start": 1329.36,
+    "duration": 4.319
+  },
+  {
+    "text": "the population has a gene that messes",
+    "start": 1332.159,
+    "duration": 4.0
+  },
+  {
+    "text": "with how they absorb vitamins. But Grun",
+    "start": 1333.679,
+    "duration": 4.641
+  },
+  {
+    "text": "is methylated, which is a fancy way of",
+    "start": 1336.159,
+    "duration": 4.0
+  },
+  {
+    "text": "saying their vitamins like B12 and",
+    "start": 1338.32,
+    "duration": 4.08
+  },
+  {
+    "text": "folate can be absorbed by your body.",
+    "start": 1340.159,
+    "duration": 4.481
+  },
+  {
+    "text": "Methylating is an expensive option for a",
+    "start": 1342.4,
+    "duration": 4.0
+  },
+  {
+    "text": "lot of other companies, but Grun is",
+    "start": 1344.64,
+    "duration": 4.0
+  },
+  {
+    "text": "looking out for you. Plus, they're vegan",
+    "start": 1346.4,
+    "duration": 4.24
+  },
+  {
+    "text": "and free of nuts, dairy, and gluten, and",
+    "start": 1348.64,
+    "duration": 3.519
+  },
+  {
+    "text": "they're made with no artificial colors",
+    "start": 1350.64,
+    "duration": 3.919
+  },
+  {
+    "text": "or flavors. Get up to 45% off when you",
+    "start": 1352.159,
+    "duration": 5.201
+  },
+  {
+    "text": "go to grunt.co code and use code provg.",
+    "start": 1354.559,
+    "duration": 5.561
+  },
+  {
+    "text": "That's gru",
+    "start": 1357.36,
+    "duration": 8.4
+  },
+  {
+    "text": "ns.co using code provg for 45%",
+    "start": 1360.12,
+    "duration": 5.64
+  },
+  {
+    "text": "off. Welcome back. Here is our",
+    "start": 1367.96,
+    "duration": 4.199
+  },
+  {
+    "text": "conversation with Ryan Peterson, the",
+    "start": 1370.4,
+    "duration": 4.399
+  },
+  {
+    "text": "founder and CEO of Flexport, a leader in",
+    "start": 1372.159,
+    "duration": 4.4
+  },
+  {
+    "text": "global supply chain management and one",
+    "start": 1374.799,
+    "duration": 4.081
+  },
+  {
+    "text": "of the largest customs brokers in the",
+    "start": 1376.559,
+    "duration": 4.161
+  },
+  {
+    "text": "United States. Ryan, good to see you",
+    "start": 1378.88,
+    "duration": 3.039
+  },
+  {
+    "text": "again. Nice to see you. Thanks for",
+    "start": 1380.72,
+    "duration": 2.56
+  },
+  {
+    "text": "having me on.",
+    "start": 1381.919,
+    "duration": 3.921
+  },
+  {
+    "text": "You operate one of the largest supply",
+    "start": 1383.28,
+    "duration": 4.96
+  },
+  {
+    "text": "chain management and logistics companies",
+    "start": 1385.84,
+    "duration": 5.12
+  },
+  {
+    "text": "in the world. I feel that you are kind",
+    "start": 1388.24,
+    "duration": 4.799
+  },
+  {
+    "text": "of in the eye of the storm when it comes",
+    "start": 1390.96,
+    "duration": 5.839
+  },
+  {
+    "text": "to tariffs. So just very basic question.",
+    "start": 1393.039,
+    "duration": 5.52
+  },
+  {
+    "text": "I mean just give us the rundown. What",
+    "start": 1396.799,
+    "duration": 4.401
+  },
+  {
+    "text": "are tariffs doing to businesses on the",
+    "start": 1398.559,
+    "duration": 5.041
+  },
+  {
+    "text": "ground that you're experiencing? Um and",
+    "start": 1401.2,
+    "duration": 5.12
+  },
+  {
+    "text": "how is this all affecting supply chains",
+    "start": 1403.6,
+    "duration": 4.079
+  },
+  {
+    "text": "around the world? Well, the eye of the",
+    "start": 1406.32,
+    "duration": 2.64
+  },
+  {
+    "text": "storm is supposed to be really calm. I",
+    "start": 1407.679,
+    "duration": 2.321
+  },
+  {
+    "text": "don't feel like we're there right now.",
+    "start": 1408.96,
+    "duration": 3.88
+  },
+  {
+    "text": "Right in the middle of it. Um the it's",
+    "start": 1410.0,
+    "duration": 6.039
+  },
+  {
+    "text": "creating in a word I would say",
+    "start": 1412.84,
+    "duration": 5.839
+  },
+  {
+    "text": "paralysis especially hurting small",
+    "start": 1416.039,
+    "duration": 5.161
+  },
+  {
+    "text": "business. Um bigger companies tend to",
+    "start": 1418.679,
+    "duration": 4.521
+  },
+  {
+    "text": "have factories in multiple locations.",
+    "start": 1421.2,
+    "duration": 3.52
+  },
+  {
+    "text": "They kind of load balance. They shift",
+    "start": 1423.2,
+    "duration": 3.52
+  },
+  {
+    "text": "production to Vietnam. Even for the same",
+    "start": 1424.72,
+    "duration": 4.56
+  },
+  {
+    "text": "item they'll have multiple factories.",
+    "start": 1426.72,
+    "duration": 4.319
+  },
+  {
+    "text": "Small business doesn't have that luxury.",
+    "start": 1429.28,
+    "duration": 3.519
+  },
+  {
+    "text": "And a lot of small businesses are buying",
+    "start": 1431.039,
+    "duration": 2.961
+  },
+  {
+    "text": "from China. It's very hard. Like they're",
+    "start": 1432.799,
+    "duration": 2.321
+  },
+  {
+    "text": "kind of the back of the line. If you",
+    "start": 1434.0,
+    "duration": 2.4
+  },
+  {
+    "text": "want to go to a new country and say,",
+    "start": 1435.12,
+    "duration": 3.2
+  },
+  {
+    "text": "\"Hey, I need you to produce this good.\"",
+    "start": 1436.4,
+    "duration": 3.04
+  },
+  {
+    "text": "And they go, \"Sure, how many you need?\"",
+    "start": 1438.32,
+    "duration": 2.96
+  },
+  {
+    "text": "If you go, I need 500 of them. They they",
+    "start": 1439.44,
+    "duration": 3.599
+  },
+  {
+    "text": "tell you to pound sand. They they've got",
+    "start": 1441.28,
+    "duration": 4.0
+  },
+  {
+    "text": "a long backlog from kind of the the",
+    "start": 1443.039,
+    "duration": 4.161
+  },
+  {
+    "text": "Fortune 500 that's setting up mega",
+    "start": 1445.28,
+    "duration": 3.519
+  },
+  {
+    "text": "factories and and they don't really care",
+    "start": 1447.2,
+    "duration": 3.2
+  },
+  {
+    "text": "about taking these small batch",
+    "start": 1448.799,
+    "duration": 3.041
+  },
+  {
+    "text": "production orders out of small business.",
+    "start": 1450.4,
+    "duration": 2.879
+  },
+  {
+    "text": "So, those are the ones who are kind of",
+    "start": 1451.84,
+    "duration": 2.959
+  },
+  {
+    "text": "still stuck producing in China right now",
+    "start": 1453.279,
+    "duration": 3.76
+  },
+  {
+    "text": "and struggling to find options. And then",
+    "start": 1454.799,
+    "duration": 4.161
+  },
+  {
+    "text": "the reason I use the word paralysis is",
+    "start": 1457.039,
+    "duration": 4.12
+  },
+  {
+    "text": "it also be sort of crazy to shift your",
+    "start": 1458.96,
+    "duration": 4.24
+  },
+  {
+    "text": "manufacturing when we know there's this",
+    "start": 1461.159,
+    "duration": 3.721
+  },
+  {
+    "text": "looming new information that's going to",
+    "start": 1463.2,
+    "duration": 3.52
+  },
+  {
+    "text": "come out in two and a half months or so.",
+    "start": 1464.88,
+    "duration": 4.56
+  },
+  {
+    "text": "um when they tell us what the new duty",
+    "start": 1466.72,
+    "duration": 4.559
+  },
+  {
+    "text": "rates are, we have a 90-day pause, but",
+    "start": 1469.44,
+    "duration": 3.68
+  },
+  {
+    "text": "in the meantime, you're either too late",
+    "start": 1471.279,
+    "duration": 3.76
+  },
+  {
+    "text": "or too early to move your manufacturing.",
+    "start": 1473.12,
+    "duration": 2.96
+  },
+  {
+    "text": "Too late, you should have done it by",
+    "start": 1475.039,
+    "duration": 2.801
+  },
+  {
+    "text": "now, and too early, might as well wait",
+    "start": 1476.08,
+    "duration": 3.28
+  },
+  {
+    "text": "two more months and see what the duty",
+    "start": 1477.84,
+    "duration": 3.6
+  },
+  {
+    "text": "rates land at. So, but people are",
+    "start": 1479.36,
+    "duration": 5.199
+  },
+  {
+    "text": "freaking out. I mean, 145% duty, you're",
+    "start": 1481.44,
+    "duration": 5.2
+  },
+  {
+    "text": "going to see a lot of businesses fail.",
+    "start": 1484.559,
+    "duration": 4.641
+  },
+  {
+    "text": "um a lot of shortages. Frankly, ocean",
+    "start": 1486.64,
+    "duration": 4.88
+  },
+  {
+    "text": "freight bookings out of China, China to",
+    "start": 1489.2,
+    "duration": 4.2
+  },
+  {
+    "text": "US trade lane are down",
+    "start": 1491.52,
+    "duration": 4.8
+  },
+  {
+    "text": "50%. Just in the week since the tariffs",
+    "start": 1493.4,
+    "duration": 5.12
+  },
+  {
+    "text": "hit. Um that's going to lead to",
+    "start": 1496.32,
+    "duration": 5.04
+  },
+  {
+    "text": "shortages, mass inflation, business",
+    "start": 1498.52,
+    "duration": 4.84
+  },
+  {
+    "text": "failures, unemployment, all sorts of",
+    "start": 1501.36,
+    "duration": 3.52
+  },
+  {
+    "text": "second order effects that we can't even",
+    "start": 1503.36,
+    "duration": 4.16
+  },
+  {
+    "text": "predict. It sounds like small businesses",
+    "start": 1504.88,
+    "duration": 4.64
+  },
+  {
+    "text": "are are being hurt more so than larger",
+    "start": 1507.52,
+    "duration": 3.44
+  },
+  {
+    "text": "businesses. And the reason they're being",
+    "start": 1509.52,
+    "duration": 3.039
+  },
+  {
+    "text": "hurt is because small businesses are",
+    "start": 1510.96,
+    "duration": 3.44
+  },
+  {
+    "text": "more reliant on China than anyone else.",
+    "start": 1512.559,
+    "duration": 2.641
+  },
+  {
+    "text": "Would that be the right",
+    "start": 1514.4,
+    "duration": 2.08
+  },
+  {
+    "text": "characterization? There's that. They",
+    "start": 1515.2,
+    "duration": 2.64
+  },
+  {
+    "text": "also didn't have the great lobbyists",
+    "start": 1516.48,
+    "duration": 3.199
+  },
+  {
+    "text": "that Apple and Nvidia and all those",
+    "start": 1517.84,
+    "duration": 4.64
+  },
+  {
+    "text": "other guys had to keep their products uh",
+    "start": 1519.679,
+    "duration": 5.201
+  },
+  {
+    "text": "non, you know, they got exemptions for",
+    "start": 1522.48,
+    "duration": 3.76
+  },
+  {
+    "text": "smartphones for a lot of other",
+    "start": 1524.88,
+    "duration": 4.32
+  },
+  {
+    "text": "categories. So that's those aren't small",
+    "start": 1526.24,
+    "duration": 4.24
+  },
+  {
+    "text": "businesses don't produce smartphones,",
+    "start": 1529.2,
+    "duration": 3.04
+  },
+  {
+    "text": "right? They're producing furniture and",
+    "start": 1530.48,
+    "duration": 3.52
+  },
+  {
+    "text": "apparel and home goods and these types",
+    "start": 1532.24,
+    "duration": 3.6
+  },
+  {
+    "text": "of things that are hit with these crazy",
+    "start": 1534.0,
+    "duration": 3.679
+  },
+  {
+    "text": "duties. Could you take us through what",
+    "start": 1535.84,
+    "duration": 4.56
+  },
+  {
+    "text": "these tariffs actually are at these",
+    "start": 1537.679,
+    "duration": 4.641
+  },
+  {
+    "text": "point because it's it's just so",
+    "start": 1540.4,
+    "duration": 3.6
+  },
+  {
+    "text": "difficult to track. Okay, they go up,",
+    "start": 1542.32,
+    "duration": 4.04
+  },
+  {
+    "text": "they go down, they're cancelled, they're",
+    "start": 1544.0,
+    "duration": 5.039
+  },
+  {
+    "text": "uncancled. What are the actual tariff",
+    "start": 1546.36,
+    "duration": 5.88
+  },
+  {
+    "text": "rates in America today? Not what they're",
+    "start": 1549.039,
+    "duration": 5.921
+  },
+  {
+    "text": "supposed to be in a week or whatever,",
+    "start": 1552.24,
+    "duration": 5.36
+  },
+  {
+    "text": "but what are you actually paying? uh if",
+    "start": 1554.96,
+    "duration": 4.48
+  },
+  {
+    "text": "you're shipping something into the US",
+    "start": 1557.6,
+    "duration": 4.24
+  },
+  {
+    "text": "today as of April 22nd. So the first",
+    "start": 1559.44,
+    "duration": 4.479
+  },
+  {
+    "text": "container ships arrived yesterday that",
+    "start": 1561.84,
+    "duration": 3.76
+  },
+  {
+    "text": "are subject to the new duties out of",
+    "start": 1563.919,
+    "duration": 3.521
+  },
+  {
+    "text": "China they left if it left after",
+    "start": 1565.6,
+    "duration": 4.72
+  },
+  {
+    "text": "midnight on April 9th it's getting hit",
+    "start": 1567.44,
+    "duration": 6.64
+  },
+  {
+    "text": "with um with 125% duty on top of",
+    "start": 1570.32,
+    "duration": 5.64
+  },
+  {
+    "text": "whatever pre-existing duty existed",
+    "start": 1574.08,
+    "duration": 4.64
+  },
+  {
+    "text": "before. So that's from China. It's 10%",
+    "start": 1575.96,
+    "duration": 4.52
+  },
+  {
+    "text": "for rest of world on top of whatever",
+    "start": 1578.72,
+    "duration": 3.76
+  },
+  {
+    "text": "existed before. So and those f it takes",
+    "start": 1580.48,
+    "duration": 3.36
+  },
+  {
+    "text": "a while to cross the ocean, right? So",
+    "start": 1582.48,
+    "duration": 3.679
+  },
+  {
+    "text": "the first ships arrived last night. Uh",
+    "start": 1583.84,
+    "duration": 3.92
+  },
+  {
+    "text": "and then so going forward presumably all",
+    "start": 1586.159,
+    "duration": 4.64
+  },
+  {
+    "text": "the ships are now subject to this 125%",
+    "start": 1587.76,
+    "duration": 5.919
+  },
+  {
+    "text": "duty rate. Um and then yeah a lot of a",
+    "start": 1590.799,
+    "duration": 5.521
+  },
+  {
+    "text": "lot of products already had a 25% duty.",
+    "start": 1593.679,
+    "duration": 5.561
+  },
+  {
+    "text": "The maximum I think it was",
+    "start": 1596.32,
+    "duration": 5.76
+  },
+  {
+    "text": "syringes for whatever reason are at 100",
+    "start": 1599.24,
+    "duration": 5.4
+  },
+  {
+    "text": "at 245% but that's pretty rare. It's",
+    "start": 1602.08,
+    "duration": 6.0
+  },
+  {
+    "text": "usually um most goods are around 150%.",
+    "start": 1604.64,
+    "duration": 6.8
+  },
+  {
+    "text": "Furniture like a couch is 179%.",
+    "start": 1608.08,
+    "duration": 5.04
+  },
+  {
+    "text": "Now what consumers need to think about",
+    "start": 1611.44,
+    "duration": 3.52
+  },
+  {
+    "text": "that's the price of the that that's",
+    "start": 1613.12,
+    "duration": 3.6
+  },
+  {
+    "text": "applied to the cost of the goods. That",
+    "start": 1614.96,
+    "duration": 3.04
+  },
+  {
+    "text": "doesn't mean prices are going up that",
+    "start": 1616.72,
+    "duration": 4.16
+  },
+  {
+    "text": "much. That's the cost uh to the company",
+    "start": 1618.0,
+    "duration": 6.039
+  },
+  {
+    "text": "you buy from goes up by call it",
+    "start": 1620.88,
+    "duration": 5.679
+  },
+  {
+    "text": "125%. Typically these companies if they",
+    "start": 1624.039,
+    "duration": 3.88
+  },
+  {
+    "text": "have a good business they probably are",
+    "start": 1626.559,
+    "duration": 3.6
+  },
+  {
+    "text": "marking stuff up three times because",
+    "start": 1627.919,
+    "duration": 3.521
+  },
+  {
+    "text": "they got to pay for a lot of overhead.",
+    "start": 1630.159,
+    "duration": 2.64
+  },
+  {
+    "text": "They got to pay for their whole team,",
+    "start": 1631.44,
+    "duration": 4.32
+  },
+  {
+    "text": "their marketing, everything else. So,",
+    "start": 1632.799,
+    "duration": 4.321
+  },
+  {
+    "text": "you know, like if they're marketing up",
+    "start": 1635.76,
+    "duration": 3.519
+  },
+  {
+    "text": "3x and the 100% duty, just the simple",
+    "start": 1637.12,
+    "duration": 4.08
+  },
+  {
+    "text": "math, your your price is going up 30%",
+    "start": 1639.279,
+    "duration": 4.561
+  },
+  {
+    "text": "somewhere around there. Um, so yeah,",
+    "start": 1641.2,
+    "duration": 3.76
+  },
+  {
+    "text": "it's definitely going to lead to price",
+    "start": 1643.84,
+    "duration": 3.12
+  },
+  {
+    "text": "hikes. Now, the real inflation, like all",
+    "start": 1644.96,
+    "duration": 3.52
+  },
+  {
+    "text": "the inflation modeling that I've seen",
+    "start": 1646.96,
+    "duration": 3.36
+  },
+  {
+    "text": "people talk about is doing that simple",
+    "start": 1648.48,
+    "duration": 4.079
+  },
+  {
+    "text": "math, which I'm not that good at math in",
+    "start": 1650.32,
+    "duration": 3.68
+  },
+  {
+    "text": "my head, so somewhere around what I just",
+    "start": 1652.559,
+    "duration": 4.401
+  },
+  {
+    "text": "said. But the real inflation spikes are",
+    "start": 1654.0,
+    "duration": 4.88
+  },
+  {
+    "text": "going to come when there's shortages.",
+    "start": 1656.96,
+    "duration": 4.88
+  },
+  {
+    "text": "Like ocean freight is down 50%. There's",
+    "start": 1658.88,
+    "duration": 5.279
+  },
+  {
+    "text": "going to be a lot less stuff. whoever",
+    "start": 1661.84,
+    "duration": 5.439
+  },
+  {
+    "text": "has stuff has cornered the market and",
+    "start": 1664.159,
+    "duration": 4.961
+  },
+  {
+    "text": "can charge whatever they want. Uh, and",
+    "start": 1667.279,
+    "duration": 3.76
+  },
+  {
+    "text": "that's where you see kind of like real",
+    "start": 1669.12,
+    "duration": 3.76
+  },
+  {
+    "text": "kind of crazy hyperinflation. I know",
+    "start": 1671.039,
+    "duration": 3.201
+  },
+  {
+    "text": "hyperinflation is a technical term. I",
+    "start": 1672.88,
+    "duration": 3.12
+  },
+  {
+    "text": "don't know if we get there, but um, but",
+    "start": 1674.24,
+    "duration": 3.36
+  },
+  {
+    "text": "where you see really high inflation is,",
+    "start": 1676.0,
+    "duration": 2.799
+  },
+  {
+    "text": "hey, you're the only guy that got your",
+    "start": 1677.6,
+    "duration": 3.199
+  },
+  {
+    "text": "furniture in before the tariffs. You",
+    "start": 1678.799,
+    "duration": 3.281
+  },
+  {
+    "text": "charge a lot. The other people didn't",
+    "start": 1680.799,
+    "duration": 2.801
+  },
+  {
+    "text": "bother importing. You know, you can",
+    "start": 1682.08,
+    "duration": 2.959
+  },
+  {
+    "text": "charge whatever price you want if you're",
+    "start": 1683.6,
+    "duration": 4.52
+  },
+  {
+    "text": "that guy. That tariff, the",
+    "start": 1685.039,
+    "duration": 6.481
+  },
+  {
+    "text": "125%. Who actually pays that? you know",
+    "start": 1688.12,
+    "duration": 5.32
+  },
+  {
+    "text": "who in who in the transaction is paying",
+    "start": 1691.52,
+    "duration": 5.519
+  },
+  {
+    "text": "it? Is it just you know you buy a a sofa",
+    "start": 1693.44,
+    "duration": 5.359
+  },
+  {
+    "text": "from IKEA or whatever they ship it in.",
+    "start": 1697.039,
+    "duration": 4.24
+  },
+  {
+    "text": "Is IKEA paying the tariff or is it split",
+    "start": 1698.799,
+    "duration": 4.24
+  },
+  {
+    "text": "among people? Yeah. So this depends on",
+    "start": 1701.279,
+    "duration": 4.64
+  },
+  {
+    "text": "the terms of trade. Most trade is done",
+    "start": 1703.039,
+    "duration": 5.36
+  },
+  {
+    "text": "where the importer pays the tariff. Uh",
+    "start": 1705.919,
+    "duration": 5.281
+  },
+  {
+    "text": "importer pays the duties. US is it's",
+    "start": 1708.399,
+    "duration": 4.561
+  },
+  {
+    "text": "actually a really interesting thing to",
+    "start": 1711.2,
+    "duration": 3.28
+  },
+  {
+    "text": "cover that I I think hasn't gotten",
+    "start": 1712.96,
+    "duration": 3.439
+  },
+  {
+    "text": "enough attention that the United States",
+    "start": 1714.48,
+    "duration": 3.919
+  },
+  {
+    "text": "is one of the few countries US, Canada",
+    "start": 1716.399,
+    "duration": 4.321
+  },
+  {
+    "text": "and and a lot of Western Europe. So it",
+    "start": 1718.399,
+    "duration": 3.76
+  },
+  {
+    "text": "seems to be like a product of Western",
+    "start": 1720.72,
+    "duration": 3.6
+  },
+  {
+    "text": "civilization in some way. But these",
+    "start": 1722.159,
+    "duration": 4.321
+  },
+  {
+    "text": "countries allow foreign companies to",
+    "start": 1724.32,
+    "duration": 4.2
+  },
+  {
+    "text": "import goods in without registering an",
+    "start": 1726.48,
+    "duration": 4.64
+  },
+  {
+    "text": "entity. It's kind of a weird thing. Like",
+    "start": 1728.52,
+    "duration": 3.8
+  },
+  {
+    "text": "if you want to import something into",
+    "start": 1731.12,
+    "duration": 2.64
+  },
+  {
+    "text": "China, you got to go set up a Chinese",
+    "start": 1732.32,
+    "duration": 3.12
+  },
+  {
+    "text": "entity and then you can, you know, that",
+    "start": 1733.76,
+    "duration": 3.84
+  },
+  {
+    "text": "entity can import goods into China. In",
+    "start": 1735.44,
+    "duration": 4.4
+  },
+  {
+    "text": "the US, Chinese companies and and any",
+    "start": 1737.6,
+    "duration": 3.52
+  },
+  {
+    "text": "company in the world can just import",
+    "start": 1739.84,
+    "duration": 3.52
+  },
+  {
+    "text": "stuff into our country without creating",
+    "start": 1741.12,
+    "duration": 4.559
+  },
+  {
+    "text": "a local entity. Now, this creates real",
+    "start": 1743.36,
+    "duration": 4.64
+  },
+  {
+    "text": "problems for enforcement because that",
+    "start": 1745.679,
+    "duration": 3.841
+  },
+  {
+    "text": "there's now a huge incentive to lie",
+    "start": 1748.0,
+    "duration": 3.12
+  },
+  {
+    "text": "about the value of your goods, right?",
+    "start": 1749.52,
+    "duration": 3.68
+  },
+  {
+    "text": "You save 100 if you if you say you",
+    "start": 1751.12,
+    "duration": 4.72
+  },
+  {
+    "text": "import $100,000 worth of furniture, tell",
+    "start": 1753.2,
+    "duration": 4.16
+  },
+  {
+    "text": "the government it was 10,000, you just",
+    "start": 1755.84,
+    "duration": 4.48
+  },
+  {
+    "text": "cut your duty bill by 90%. And so,",
+    "start": 1757.36,
+    "duration": 4.48
+  },
+  {
+    "text": "there's a lot of this fraud now",
+    "start": 1760.32,
+    "duration": 3.92
+  },
+  {
+    "text": "happening. It's escalating like crazy",
+    "start": 1761.84,
+    "duration": 4.24
+  },
+  {
+    "text": "where people just lie and then if they",
+    "start": 1764.24,
+    "duration": 3.52
+  },
+  {
+    "text": "get caught, like Customs and Border",
+    "start": 1766.08,
+    "duration": 3.52
+  },
+  {
+    "text": "Protection does not have agents in China",
+    "start": 1767.76,
+    "duration": 4.48
+  },
+  {
+    "text": "to go chase you down. like you're not uh",
+    "start": 1769.6,
+    "duration": 4.16
+  },
+  {
+    "text": "th those people kind of disappear,",
+    "start": 1772.24,
+    "duration": 3.6
+  },
+  {
+    "text": "create a new shell company, keep going.",
+    "start": 1773.76,
+    "duration": 4.32
+  },
+  {
+    "text": "And I know Scott will love this. Those",
+    "start": 1775.84,
+    "duration": 3.76
+  },
+  {
+    "text": "merchants get to keep their Amazon",
+    "start": 1778.08,
+    "duration": 3.839
+  },
+  {
+    "text": "account with all of its product listings",
+    "start": 1779.6,
+    "duration": 5.12
+  },
+  {
+    "text": "and reviews and they just, you know, now",
+    "start": 1781.919,
+    "duration": 4.321
+  },
+  {
+    "text": "a new shell company keeps importing the",
+    "start": 1784.72,
+    "duration": 3.76
+  },
+  {
+    "text": "goods, keeps selling. So Amazon",
+    "start": 1786.24,
+    "duration": 4.159
+  },
+  {
+    "text": "merchants, 60% of them are these Chinese",
+    "start": 1788.48,
+    "duration": 3.439
+  },
+  {
+    "text": "companies where they import. There's no",
+    "start": 1790.399,
+    "duration": 3.921
+  },
+  {
+    "text": "American company at all. Chinese company",
+    "start": 1791.919,
+    "duration": 5.281
+  },
+  {
+    "text": "imports, sells online on Amazon, gets",
+    "start": 1794.32,
+    "duration": 4.88
+  },
+  {
+    "text": "busted for tariffs, spins up a new shell",
+    "start": 1797.2,
+    "duration": 3.76
+  },
+  {
+    "text": "company. No, no, you know, just keeps",
+    "start": 1799.2,
+    "duration": 3.52
+  },
+  {
+    "text": "going. So, that's something I'm",
+    "start": 1800.96,
+    "duration": 2.88
+  },
+  {
+    "text": "surprised that they they haven't",
+    "start": 1802.72,
+    "duration": 2.8
+  },
+  {
+    "text": "addressed in all of this. They've kind",
+    "start": 1803.84,
+    "duration": 4.16
+  },
+  {
+    "text": "of taken this 40,000 foot macro view of",
+    "start": 1805.52,
+    "duration": 5.12
+  },
+  {
+    "text": "the tariffs with crazy uh kind of",
+    "start": 1808.0,
+    "duration": 4.08
+  },
+  {
+    "text": "general assumptions that, you know,",
+    "start": 1810.64,
+    "duration": 2.8
+  },
+  {
+    "text": "we've heard about Penguin Island and",
+    "start": 1812.08,
+    "duration": 2.719
+  },
+  {
+    "text": "everything, but they miss like the micro",
+    "start": 1813.44,
+    "duration": 2.719
+  },
+  {
+    "text": "like here's the real fraud that's",
+    "start": 1814.799,
+    "duration": 3.521
+  },
+  {
+    "text": "happening like fix that. What do you",
+    "start": 1816.159,
+    "duration": 4.24
+  },
+  {
+    "text": "hear from trying to describe the vibe",
+    "start": 1818.32,
+    "duration": 5.2
+  },
+  {
+    "text": "you're getting from these big, medium,",
+    "start": 1820.399,
+    "duration": 4.88
+  },
+  {
+    "text": "and small retailers? I mean, Walmart and",
+    "start": 1823.52,
+    "duration": 3.12
+  },
+  {
+    "text": "Target, this affects all the way down to",
+    "start": 1825.279,
+    "duration": 4.161
+  },
+  {
+    "text": "the little guys. Do do you think a few",
+    "start": 1826.64,
+    "duration": 4.399
+  },
+  {
+    "text": "of them go out of business or is this",
+    "start": 1829.44,
+    "duration": 4.4
+  },
+  {
+    "text": "really kind of a a meteor that could",
+    "start": 1831.039,
+    "duration": 5.76
+  },
+  {
+    "text": "take thousands of these guys uh off the",
+    "start": 1833.84,
+    "duration": 4.559
+  },
+  {
+    "text": "table, if you will, if they don't change",
+    "start": 1836.799,
+    "duration": 4.081
+  },
+  {
+    "text": "anything and this 145% duty sticks on",
+    "start": 1838.399,
+    "duration": 4.561
+  },
+  {
+    "text": "China, it'll it'll take out like mass",
+    "start": 1840.88,
+    "duration": 4.88
+  },
+  {
+    "text": "bankruptcies. You're talking like 80% of",
+    "start": 1842.96,
+    "duration": 4.88
+  },
+  {
+    "text": "small business that buys from China will",
+    "start": 1845.76,
+    "duration": 5.039
+  },
+  {
+    "text": "just die. Um and millions of employees",
+    "start": 1847.84,
+    "duration": 5.04
+  },
+  {
+    "text": "will go, you know, will be unemployed. I",
+    "start": 1850.799,
+    "duration": 4.081
+  },
+  {
+    "text": "mean, it's it's sort of why I'm like",
+    "start": 1852.88,
+    "duration": 4.08
+  },
+  {
+    "text": "they obviously have to back off the",
+    "start": 1854.88,
+    "duration": 3.519
+  },
+  {
+    "text": "trade. Like, they can't be that they",
+    "start": 1856.96,
+    "duration": 4.8
+  },
+  {
+    "text": "just do that. Uh I don't believe that",
+    "start": 1858.399,
+    "duration": 5.681
+  },
+  {
+    "text": "they're that crazy. But aren't you also",
+    "start": 1861.76,
+    "duration": 4.24
+  },
+  {
+    "text": "saying China will will likely not back",
+    "start": 1864.08,
+    "duration": 3.199
+  },
+  {
+    "text": "down because they probably have done the",
+    "start": 1866.0,
+    "duration": 3.08
+  },
+  {
+    "text": "math? I just think the US backs down and",
+    "start": 1867.279,
+    "duration": 5.12
+  },
+  {
+    "text": "and China doesn't. You think 80% of",
+    "start": 1869.08,
+    "duration": 6.04
+  },
+  {
+    "text": "companies that that get shipments from",
+    "start": 1872.399,
+    "duration": 5.121
+  },
+  {
+    "text": "China will just disappear and millions",
+    "start": 1875.12,
+    "duration": 4.24
+  },
+  {
+    "text": "of employees laid off? I think so. Yeah.",
+    "start": 1877.52,
+    "duration": 5.84
+  },
+  {
+    "text": "Um there's 145% duty and people, you",
+    "start": 1879.36,
+    "duration": 7.199
+  },
+  {
+    "text": "know, don't have to buy those things. Um",
+    "start": 1883.36,
+    "duration": 5.039
+  },
+  {
+    "text": "a lot of what we buy from China is kind",
+    "start": 1886.559,
+    "duration": 3.521
+  },
+  {
+    "text": "of discretionary spend. You don't have",
+    "start": 1888.399,
+    "duration": 3.121
+  },
+  {
+    "text": "to buy it. When the price goes way up,",
+    "start": 1890.08,
+    "duration": 3.04
+  },
+  {
+    "text": "you shift your spend to something else.",
+    "start": 1891.52,
+    "duration": 3.279
+  },
+  {
+    "text": "You know, we have a customers that ship",
+    "start": 1893.12,
+    "duration": 4.159
+  },
+  {
+    "text": "uh that buy pizza ovens in China for",
+    "start": 1894.799,
+    "duration": 3.681
+  },
+  {
+    "text": "your like for your backyard. They're",
+    "start": 1897.279,
+    "duration": 3.441
+  },
+  {
+    "text": "really cool products. When the price",
+    "start": 1898.48,
+    "duration": 6.319
+  },
+  {
+    "text": "goes up 50% or more, you might just go",
+    "start": 1900.72,
+    "duration": 6.0
+  },
+  {
+    "text": "out and buy pizza from Domino's or",
+    "start": 1904.799,
+    "duration": 3.041
+  },
+  {
+    "text": "something, right? like it's literally",
+    "start": 1906.72,
+    "duration": 2.64
+  },
+  {
+    "text": "there's a substitute there that is made",
+    "start": 1907.84,
+    "duration": 3.36
+  },
+  {
+    "text": "in America that's not taxed and you know",
+    "start": 1909.36,
+    "duration": 3.52
+  },
+  {
+    "text": "you can see shift spend shift out of",
+    "start": 1911.2,
+    "duration": 4.8
+  },
+  {
+    "text": "these categories really quickly. Um so",
+    "start": 1912.88,
+    "duration": 4.399
+  },
+  {
+    "text": "yeah, I think I think you're looking at",
+    "start": 1916.0,
+    "duration": 3.039
+  },
+  {
+    "text": "something pretty catastrophic to the to",
+    "start": 1917.279,
+    "duration": 3.52
+  },
+  {
+    "text": "the point where I don't actually believe",
+    "start": 1919.039,
+    "duration": 4.0
+  },
+  {
+    "text": "that they can hold the line. You know",
+    "start": 1920.799,
+    "duration": 4.0
+  },
+  {
+    "text": "the classic game of chicken, you got two",
+    "start": 1923.039,
+    "duration": 3.441
+  },
+  {
+    "text": "guys driving right at each other in",
+    "start": 1924.799,
+    "duration": 4.36
+  },
+  {
+    "text": "their cars and first one to swerve loes",
+    "start": 1926.48,
+    "duration": 5.039
+  },
+  {
+    "text": "and the other guy gets the girl, right?",
+    "start": 1929.159,
+    "duration": 4.961
+  },
+  {
+    "text": "And like in this",
+    "start": 1931.519,
+    "duration": 4.801
+  },
+  {
+    "text": "scenario, you can kind of game theory",
+    "start": 1934.12,
+    "duration": 4.52
+  },
+  {
+    "text": "this out like okay where where two cars",
+    "start": 1936.32,
+    "duration": 3.599
+  },
+  {
+    "text": "headed straight at each other, China and",
+    "start": 1938.64,
+    "duration": 2.639
+  },
+  {
+    "text": "the US. Now there is a scenario where",
+    "start": 1939.919,
+    "duration": 2.88
+  },
+  {
+    "text": "where both party neither party swerves",
+    "start": 1941.279,
+    "duration": 2.921
+  },
+  {
+    "text": "and they both die. Like that's a",
+    "start": 1942.799,
+    "duration": 3.681
+  },
+  {
+    "text": "possibility. But but now evaluate it",
+    "start": 1944.2,
+    "duration": 5.319
+  },
+  {
+    "text": "from both sides point of view. China,",
+    "start": 1946.48,
+    "duration": 4.24
+  },
+  {
+    "text": "the Chinese people, the Chinese",
+    "start": 1949.519,
+    "duration": 2.561
+  },
+  {
+    "text": "leadership looks at it and go, \"Hey,",
+    "start": 1950.72,
+    "duration": 4.4
+  },
+  {
+    "text": "this is being done to us by this foreign",
+    "start": 1952.08,
+    "duration": 4.479
+  },
+  {
+    "text": "imperialist power.\" or they'll use",
+    "start": 1955.12,
+    "duration": 3.36
+  },
+  {
+    "text": "whatever language they use but it's",
+    "start": 1956.559,
+    "duration": 4.24
+  },
+  {
+    "text": "being done to them by a by the other by",
+    "start": 1958.48,
+    "duration": 4.96
+  },
+  {
+    "text": "the other party on the US side all of us",
+    "start": 1960.799,
+    "duration": 5.201
+  },
+  {
+    "text": "look at it and go this is being done to",
+    "start": 1963.44,
+    "duration": 5.28
+  },
+  {
+    "text": "us by our own leadership like you know",
+    "start": 1966.0,
+    "duration": 4.72
+  },
+  {
+    "text": "we don't have the same resolve for you",
+    "start": 1968.72,
+    "duration": 3.76
+  },
+  {
+    "text": "know because of like just that dynamic",
+    "start": 1970.72,
+    "duration": 3.76
+  },
+  {
+    "text": "second we have way more feedbacks back",
+    "start": 1972.48,
+    "duration": 4.0
+  },
+  {
+    "text": "to our government to put pressure on",
+    "start": 1974.48,
+    "duration": 3.36
+  },
+  {
+    "text": "those both through elections through",
+    "start": 1976.48,
+    "duration": 2.88
+  },
+  {
+    "text": "markets the bond market there's all",
+    "start": 1977.84,
+    "duration": 3.52
+  },
+  {
+    "text": "kinds of things um American people are",
+    "start": 1979.36,
+    "duration": 3.52
+  },
+  {
+    "text": "way softer the Chinese have suffered",
+    "start": 1981.36,
+    "duration": 3.039
+  },
+  {
+    "text": "much worse they can they can bear this",
+    "start": 1982.88,
+    "duration": 3.519
+  },
+  {
+    "text": "grin and bear it they'll be fine and",
+    "start": 1984.399,
+    "duration": 3.601
+  },
+  {
+    "text": "they've gone through worse uh in their",
+    "start": 1986.399,
+    "duration": 3.76
+  },
+  {
+    "text": "history, in their recent history even.",
+    "start": 1988.0,
+    "duration": 3.76
+  },
+  {
+    "text": "Uh and so I just like you just look at",
+    "start": 1990.159,
+    "duration": 2.961
+  },
+  {
+    "text": "those two dynamics, one of these sides",
+    "start": 1991.76,
+    "duration": 3.279
+  },
+  {
+    "text": "is going to budge. And it if if neither",
+    "start": 1993.12,
+    "duration": 3.279
+  },
+  {
+    "text": "side budges, I think it's catastrophic",
+    "start": 1995.039,
+    "duration": 3.841
+  },
+  {
+    "text": "for both economies and and ultimately",
+    "start": 1996.399,
+    "duration": 4.081
+  },
+  {
+    "text": "for the people of both countries. But if",
+    "start": 1998.88,
+    "duration": 3.039
+  },
+  {
+    "text": "one side's going to be a buzz, it seems",
+    "start": 2000.48,
+    "duration": 2.96
+  },
+  {
+    "text": "like it has to be the United States. As",
+    "start": 2001.919,
+    "duration": 3.201
+  },
+  {
+    "text": "iron willed as Donald Trump may be and",
+    "start": 2003.44,
+    "duration": 3.2
+  },
+  {
+    "text": "may want everyone to think he is, I just",
+    "start": 2005.12,
+    "duration": 3.36
+  },
+  {
+    "text": "think the forces are really strong here.",
+    "start": 2006.64,
+    "duration": 3.6
+  },
+  {
+    "text": "And just on that point, I just saw a",
+    "start": 2008.48,
+    "duration": 3.679
+  },
+  {
+    "text": "headline coming into this recording",
+    "start": 2010.24,
+    "duration": 4.0
+  },
+  {
+    "text": "which is Bessant sees deescalation with",
+    "start": 2012.159,
+    "duration": 6.081
+  },
+  {
+    "text": "China situation unsustainable. So I it",
+    "start": 2014.24,
+    "duration": 5.76
+  },
+  {
+    "text": "certainly is pointing in that direction",
+    "start": 2018.24,
+    "duration": 4.08
+  },
+  {
+    "text": "based on what you say. It could be that",
+    "start": 2020.0,
+    "duration": 4.96
+  },
+  {
+    "text": "by the time this episode airs they they",
+    "start": 2022.32,
+    "duration": 4.16
+  },
+  {
+    "text": "have budged. Yeah. Now the question is",
+    "start": 2024.96,
+    "duration": 2.959
+  },
+  {
+    "text": "does Trump listen to Besson or somebody",
+    "start": 2026.48,
+    "duration": 3.039
+  },
+  {
+    "text": "else? Who knows? You know I mean seems",
+    "start": 2027.919,
+    "duration": 2.961
+  },
+  {
+    "text": "like a rational guy who's got a lot of",
+    "start": 2029.519,
+    "duration": 2.321
+  },
+  {
+    "text": "experience in the markets and",
+    "start": 2030.88,
+    "duration": 2.88
+  },
+  {
+    "text": "understands what it means when equities",
+    "start": 2031.84,
+    "duration": 3.52
+  },
+  {
+    "text": "go down and bonds go down at the same",
+    "start": 2033.76,
+    "duration": 4.159
+  },
+  {
+    "text": "time. Like this isn't normal. you're",
+    "start": 2035.36,
+    "duration": 4.64
+  },
+  {
+    "text": "sort of the helm of the bobsled in terms",
+    "start": 2037.919,
+    "duration": 3.88
+  },
+  {
+    "text": "of visibility into the supply",
+    "start": 2040.0,
+    "duration": 4.399
+  },
+  {
+    "text": "chain. It seems like a lot of just the",
+    "start": 2041.799,
+    "duration": 4.921
+  },
+  {
+    "text": "perception of us as a reliable partner",
+    "start": 2044.399,
+    "duration": 5.44
+  },
+  {
+    "text": "is is being eroded. How do you see the",
+    "start": 2046.72,
+    "duration": 5.6
+  },
+  {
+    "text": "supply chain reconfiguring?",
+    "start": 2049.839,
+    "duration": 5.441
+  },
+  {
+    "text": "um what once wherever the tariffs level",
+    "start": 2052.32,
+    "duration": 5.839
+  },
+  {
+    "text": "out and I realize that that's a big you",
+    "start": 2055.28,
+    "duration": 5.04
+  },
+  {
+    "text": "know a big open-ended question but how",
+    "start": 2058.159,
+    "duration": 5.281
+  },
+  {
+    "text": "do you see how do you see um generally",
+    "start": 2060.32,
+    "duration": 5.599
+  },
+  {
+    "text": "speaking the world's the way the world",
+    "start": 2063.44,
+    "duration": 5.12
+  },
+  {
+    "text": "gets sources manufactures and",
+    "start": 2065.919,
+    "duration": 5.361
+  },
+  {
+    "text": "distributes products when you you",
+    "start": 2068.56,
+    "duration": 4.559
+  },
+  {
+    "text": "obviously have to allocate capital as a",
+    "start": 2071.28,
+    "duration": 4.16
+  },
+  {
+    "text": "CEO like what is flexport where do you",
+    "start": 2073.119,
+    "duration": 3.841
+  },
+  {
+    "text": "see opportunities and how are you",
+    "start": 2075.44,
+    "duration": 4.0
+  },
+  {
+    "text": "reallocating capital around which",
+    "start": 2076.96,
+    "duration": 3.919
+  },
+  {
+    "text": "country's rich supply routes you're",
+    "start": 2079.44,
+    "duration": 3.679
+  },
+  {
+    "text": "going to overinvest and and divest from",
+    "start": 2080.879,
+    "duration": 4.401
+  },
+  {
+    "text": "US consumer still king, but that also",
+    "start": 2083.119,
+    "duration": 4.56
+  },
+  {
+    "text": "res revolves around the US dollar being",
+    "start": 2085.28,
+    "duration": 3.839
+  },
+  {
+    "text": "strong. It's come down a lot. I think",
+    "start": 2087.679,
+    "duration": 4.96
+  },
+  {
+    "text": "it's down from down about 6% or so in in",
+    "start": 2089.119,
+    "duration": 5.48
+  },
+  {
+    "text": "the last few weeks since all this",
+    "start": 2092.639,
+    "duration": 4.561
+  },
+  {
+    "text": "started. That degrades our consumer",
+    "start": 2094.599,
+    "duration": 4.601
+  },
+  {
+    "text": "purchasing power and and therefore, you",
+    "start": 2097.2,
+    "duration": 4.24
+  },
+  {
+    "text": "know, companies will look for customers",
+    "start": 2099.2,
+    "duration": 4.879
+  },
+  {
+    "text": "in other markets. Um but you know, when",
+    "start": 2101.44,
+    "duration": 4.0
+  },
+  {
+    "text": "it comes to supply chain, yeah, there",
+    "start": 2104.079,
+    "duration": 2.801
+  },
+  {
+    "text": "there will be a reconfiguration out of",
+    "start": 2105.44,
+    "duration": 3.12
+  },
+  {
+    "text": "China. That's an ongoing trend, by the",
+    "start": 2106.88,
+    "duration": 3.76
+  },
+  {
+    "text": "way, for over a decade as the labor cost",
+    "start": 2108.56,
+    "duration": 3.279
+  },
+  {
+    "text": "in China has just gotten higher and",
+    "start": 2110.64,
+    "duration": 3.199
+  },
+  {
+    "text": "higher. Um, yeah, I remember 10 years",
+    "start": 2111.839,
+    "duration": 4.401
+  },
+  {
+    "text": "ago at a at a shipping conference, a guy",
+    "start": 2113.839,
+    "duration": 4.0
+  },
+  {
+    "text": "saying that they were shipping thousands",
+    "start": 2116.24,
+    "duration": 3.2
+  },
+  {
+    "text": "of containers a year of used",
+    "start": 2117.839,
+    "duration": 3.441
+  },
+  {
+    "text": "manufacturing equipment from China to",
+    "start": 2119.44,
+    "duration": 4.399
+  },
+  {
+    "text": "Vietnam to like like basically lift and",
+    "start": 2121.28,
+    "duration": 4.72
+  },
+  {
+    "text": "shift factories down there because labor",
+    "start": 2123.839,
+    "duration": 3.681
+  },
+  {
+    "text": "cost is so much cheaper. We're",
+    "start": 2126.0,
+    "duration": 3.359
+  },
+  {
+    "text": "definitely we're doing a few things. Um,",
+    "start": 2127.52,
+    "duration": 3.68
+  },
+  {
+    "text": "we we I created this program. We call it",
+    "start": 2129.359,
+    "duration": 3.361
+  },
+  {
+    "text": "the Marco Polo program, but it's",
+    "start": 2131.2,
+    "duration": 3.36
+  },
+  {
+    "text": "basically to take flexorters from around",
+    "start": 2132.72,
+    "duration": 4.24
+  },
+  {
+    "text": "the company and move them into these new",
+    "start": 2134.56,
+    "duration": 4.24
+  },
+  {
+    "text": "emerging markets. We have about 400",
+    "start": 2136.96,
+    "duration": 5.44
+  },
+  {
+    "text": "employees in China. We got 50 in Vietnam",
+    "start": 2138.8,
+    "duration": 4.96
+  },
+  {
+    "text": "and then a lot of the other Southeast",
+    "start": 2142.4,
+    "duration": 2.959
+  },
+  {
+    "text": "Asian countries, we only have a handful",
+    "start": 2143.76,
+    "duration": 4.4
+  },
+  {
+    "text": "of folks trying to serve that giant",
+    "start": 2145.359,
+    "duration": 4.161
+  },
+  {
+    "text": "market. So, we're shifting trying to",
+    "start": 2148.16,
+    "duration": 2.88
+  },
+  {
+    "text": "move talent, create incentives for",
+    "start": 2149.52,
+    "duration": 3.44
+  },
+  {
+    "text": "people to leadership program to go down",
+    "start": 2151.04,
+    "duration": 4.24
+  },
+  {
+    "text": "there and and help us grow in those",
+    "start": 2152.96,
+    "duration": 3.92
+  },
+  {
+    "text": "regions. We're getting a lot more focus",
+    "start": 2155.28,
+    "duration": 3.839
+  },
+  {
+    "text": "on intraasia moves. One of the",
+    "start": 2156.88,
+    "duration": 3.36
+  },
+  {
+    "text": "interesting things that's not intuitive",
+    "start": 2159.119,
+    "duration": 2.72
+  },
+  {
+    "text": "at all here is that trade might actually",
+    "start": 2160.24,
+    "duration": 4.0
+  },
+  {
+    "text": "increase from this. The market finds a",
+    "start": 2161.839,
+    "duration": 4.961
+  },
+  {
+    "text": "way. And so if you put heavy duties on",
+    "start": 2164.24,
+    "duration": 4.72
+  },
+  {
+    "text": "Chinese products, you now created this",
+    "start": 2166.8,
+    "duration": 5.12
+  },
+  {
+    "text": "incentive to move components from China",
+    "start": 2168.96,
+    "duration": 4.44
+  },
+  {
+    "text": "down to Southeast",
+    "start": 2171.92,
+    "duration": 4.0
+  },
+  {
+    "text": "Asia, assemble them, do what's called a",
+    "start": 2173.4,
+    "duration": 4.76
+  },
+  {
+    "text": "substantial transformation. You have to",
+    "start": 2175.92,
+    "duration": 4.4
+  },
+  {
+    "text": "do enough value added work and add other",
+    "start": 2178.16,
+    "duration": 4.56
+  },
+  {
+    "text": "components that this can now be say made",
+    "start": 2180.32,
+    "duration": 4.64
+  },
+  {
+    "text": "in Vietnam and then you ship it to the",
+    "start": 2182.72,
+    "duration": 4.24
+  },
+  {
+    "text": "US. Well, now you've got two logistics",
+    "start": 2184.96,
+    "duration": 4.159
+  },
+  {
+    "text": "moves. your trade has gone up even",
+    "start": 2186.96,
+    "duration": 3.6
+  },
+  {
+    "text": "though you've you know the system is far",
+    "start": 2189.119,
+    "duration": 3.201
+  },
+  {
+    "text": "less efficient. So we're doing a lot of",
+    "start": 2190.56,
+    "duration": 2.96
+  },
+  {
+    "text": "stuff like that like help people with",
+    "start": 2192.32,
+    "duration": 3.44
+  },
+  {
+    "text": "tariff engineering help people",
+    "start": 2193.52,
+    "duration": 4.4
+  },
+  {
+    "text": "understand the advisory role of things",
+    "start": 2195.76,
+    "duration": 3.92
+  },
+  {
+    "text": "like what is what qualifies as",
+    "start": 2197.92,
+    "duration": 4.32
+  },
+  {
+    "text": "substantial transformation that stuff",
+    "start": 2199.68,
+    "duration": 3.76
+  },
+  {
+    "text": "and then the biggest thing you see",
+    "start": 2202.24,
+    "duration": 3.599
+  },
+  {
+    "text": "behind me I have this model airplane we",
+    "start": 2203.44,
+    "duration": 5.76
+  },
+  {
+    "text": "Flexport has three 747s dedicated that",
+    "start": 2205.839,
+    "duration": 5.52
+  },
+  {
+    "text": "we fly a lot of Chinese e-commerce goods",
+    "start": 2209.2,
+    "duration": 4.639
+  },
+  {
+    "text": "and that we're modeling that business to",
+    "start": 2211.359,
+    "duration": 6.881
+  },
+  {
+    "text": "go down between 40 go down 60% to 95%.",
+    "start": 2213.839,
+    "duration": 5.841
+  },
+  {
+    "text": "We don't know but it's going to drop",
+    "start": 2218.24,
+    "duration": 3.76
+  },
+  {
+    "text": "dramatically. Uh so we're we're",
+    "start": 2219.68,
+    "duration": 4.0
+  },
+  {
+    "text": "reconfiguring our network on that.",
+    "start": 2222.0,
+    "duration": 4.64
+  },
+  {
+    "text": "They've been flying South China to US.",
+    "start": 2223.68,
+    "duration": 5.2
+  },
+  {
+    "text": "We're um we got one of them going to",
+    "start": 2226.64,
+    "duration": 5.12
+  },
+  {
+    "text": "redeploy from uh South China to Europe.",
+    "start": 2228.88,
+    "duration": 4.6
+  },
+  {
+    "text": "Uh we got one that's going to go",
+    "start": 2231.76,
+    "duration": 4.24
+  },
+  {
+    "text": "Vietnam, stop in Korea. We got one",
+    "start": 2233.48,
+    "duration": 3.8
+  },
+  {
+    "text": "that's just going to I mean we're making",
+    "start": 2236.0,
+    "duration": 2.48
+  },
+  {
+    "text": "deals right now trying to figure out,",
+    "start": 2237.28,
+    "duration": 2.96
+  },
+  {
+    "text": "hey, how do we keep these planes full?",
+    "start": 2238.48,
+    "duration": 4.32
+  },
+  {
+    "text": "We try not we try to be asset light. Uh",
+    "start": 2240.24,
+    "duration": 4.64
+  },
+  {
+    "text": "but we made those deals during COVID",
+    "start": 2242.8,
+    "duration": 4.4
+  },
+  {
+    "text": "when there were no capacity of passenger",
+    "start": 2244.88,
+    "duration": 5.04
+  },
+  {
+    "text": "airplanes. uh 50% of the world's air",
+    "start": 2247.2,
+    "duration": 4.159
+  },
+  {
+    "text": "freight flies in the belly of passenger",
+    "start": 2249.92,
+    "duration": 3.52
+  },
+  {
+    "text": "planes. So when there was no capacity,",
+    "start": 2251.359,
+    "duration": 3.281
+  },
+  {
+    "text": "we went out and signed these long-term",
+    "start": 2253.44,
+    "duration": 2.88
+  },
+  {
+    "text": "deals. So we're sort of I wouldn't say",
+    "start": 2254.64,
+    "duration": 3.199
+  },
+  {
+    "text": "stuck with it because I would do that",
+    "start": 2256.32,
+    "duration": 3.039
+  },
+  {
+    "text": "deal again 10 times out of 10, it's made",
+    "start": 2257.839,
+    "duration": 3.601
+  },
+  {
+    "text": "a lot of money over its lifetime. But at",
+    "start": 2259.359,
+    "duration": 4.0
+  },
+  {
+    "text": "the moment, we have some assets that are",
+    "start": 2261.44,
+    "duration": 3.679
+  },
+  {
+    "text": "it's the asset owning logistics",
+    "start": 2263.359,
+    "duration": 2.881
+  },
+  {
+    "text": "companies that are going to feel the",
+    "start": 2265.119,
+    "duration": 2.48
+  },
+  {
+    "text": "pain here. If you don't have any assets,",
+    "start": 2266.24,
+    "duration": 3.28
+  },
+  {
+    "text": "you kind of flow with the uh with the",
+    "start": 2267.599,
+    "duration": 3.281
+  },
+  {
+    "text": "tide, but if you have assets, you know,",
+    "start": 2269.52,
+    "duration": 2.96
+  },
+  {
+    "text": "you could be underwater. Is there any",
+    "start": 2270.88,
+    "duration": 3.6
+  },
+  {
+    "text": "indication from what you've seen, Ryan,",
+    "start": 2272.48,
+    "duration": 5.28
+  },
+  {
+    "text": "that that these trade partnerships are",
+    "start": 2274.48,
+    "duration": 5.359
+  },
+  {
+    "text": "building among the world and trade is",
+    "start": 2277.76,
+    "duration": 4.68
+  },
+  {
+    "text": "increasing for everyone except for",
+    "start": 2279.839,
+    "duration": 5.681
+  },
+  {
+    "text": "America? This idea that, you know, if",
+    "start": 2282.44,
+    "duration": 4.6
+  },
+  {
+    "text": "we're going to build this this wall",
+    "start": 2285.52,
+    "duration": 3.599
+  },
+  {
+    "text": "around us in the form of tariffs, the",
+    "start": 2287.04,
+    "duration": 4.48
+  },
+  {
+    "text": "world's going to keep on chugging along.",
+    "start": 2289.119,
+    "duration": 3.681
+  },
+  {
+    "text": "People are going to keep continue to",
+    "start": 2291.52,
+    "duration": 3.12
+  },
+  {
+    "text": "trade goods. It's just that they won't",
+    "start": 2292.8,
+    "duration": 4.24
+  },
+  {
+    "text": "trade with the US. Is that a trend that",
+    "start": 2294.64,
+    "duration": 5.36
+  },
+  {
+    "text": "you think is actually viable? Is that",
+    "start": 2297.04,
+    "duration": 4.48
+  },
+  {
+    "text": "something that you think we would see?",
+    "start": 2300.0,
+    "duration": 2.96
+  },
+  {
+    "text": "Maybe. But like, you know, a lot of",
+    "start": 2301.52,
+    "duration": 3.2
+  },
+  {
+    "text": "these analysis forget that trade is not",
+    "start": 2302.96,
+    "duration": 3.68
+  },
+  {
+    "text": "zero sum. It's positive sum. By",
+    "start": 2304.72,
+    "duration": 3.359
+  },
+  {
+    "text": "definition, both parties are better off",
+    "start": 2306.64,
+    "duration": 2.88
+  },
+  {
+    "text": "when they do trade. That's why they do",
+    "start": 2308.079,
+    "duration": 4.081
+  },
+  {
+    "text": "it. And so, I mean, if the US backs off",
+    "start": 2309.52,
+    "duration": 3.92
+  },
+  {
+    "text": "here, it's going to lead to recession",
+    "start": 2312.16,
+    "duration": 2.48
+  },
+  {
+    "text": "all over the place. There'll be less",
+    "start": 2313.44,
+    "duration": 3.04
+  },
+  {
+    "text": "consumer demand in other markets. It's",
+    "start": 2314.64,
+    "duration": 5.199
+  },
+  {
+    "text": "like these these very complex systems",
+    "start": 2316.48,
+    "duration": 5.04
+  },
+  {
+    "text": "with second or even the second order",
+    "start": 2319.839,
+    "duration": 3.121
+  },
+  {
+    "text": "effects are hard to model, much less",
+    "start": 2321.52,
+    "duration": 4.88
+  },
+  {
+    "text": "third, fourth order. Um, so this it's it",
+    "start": 2322.96,
+    "duration": 5.2
+  },
+  {
+    "text": "will not be like a graceful transition",
+    "start": 2326.4,
+    "duration": 3.439
+  },
+  {
+    "text": "and the oh now I'll just sell it to",
+    "start": 2328.16,
+    "duration": 2.88
+  },
+  {
+    "text": "someone else. I mean you would have sold",
+    "start": 2329.839,
+    "duration": 2.801
+  },
+  {
+    "text": "to them already if they if you could",
+    "start": 2331.04,
+    "duration": 3.6
+  },
+  {
+    "text": "have, right? So going to be kind of",
+    "start": 2332.64,
+    "duration": 4.32
+  },
+  {
+    "text": "ugly. And then the the big thing that",
+    "start": 2334.64,
+    "duration": 4.479
+  },
+  {
+    "text": "people are missing here is let's say",
+    "start": 2336.96,
+    "duration": 5.44
+  },
+  {
+    "text": "they go do a deal right now. Well 50% of",
+    "start": 2339.119,
+    "duration": 5.041
+  },
+  {
+    "text": "bookings for the last two weeks the",
+    "start": 2342.4,
+    "duration": 3.4
+  },
+  {
+    "text": "ocean freight market has gone down by",
+    "start": 2344.16,
+    "duration": 4.24
+  },
+  {
+    "text": "50%. Some of Scott's buddies, right?",
+    "start": 2345.8,
+    "duration": 5.319
+  },
+  {
+    "text": "Canceled their orders. Well, when if if",
+    "start": 2348.4,
+    "duration": 4.48
+  },
+  {
+    "text": "a deal gets done, all of that stuff's",
+    "start": 2351.119,
+    "duration": 4.081
+  },
+  {
+    "text": "going to flow at once and you won't have",
+    "start": 2352.88,
+    "duration": 4.8
+  },
+  {
+    "text": "enough space on ships. And meantime, the",
+    "start": 2355.2,
+    "duration": 3.84
+  },
+  {
+    "text": "ocean carriers have already started",
+    "start": 2357.68,
+    "duration": 3.439
+  },
+  {
+    "text": "cancelling services, moving ships to",
+    "start": 2359.04,
+    "duration": 5.039
+  },
+  {
+    "text": "Southeast Asia, moving containers down",
+    "start": 2361.119,
+    "duration": 5.441
+  },
+  {
+    "text": "there, and you're going to wake up every",
+    "start": 2364.079,
+    "duration": 3.841
+  },
+  {
+    "text": "week that goes on, this problem's going",
+    "start": 2366.56,
+    "duration": 3.12
+  },
+  {
+    "text": "to compound. But you'll wake up and go,",
+    "start": 2367.92,
+    "duration": 4.08
+  },
+  {
+    "text": "\"Oh my goodness, like trade is back.",
+    "start": 2369.68,
+    "duration": 3.84
+  },
+  {
+    "text": "Maybe not to where it was. Maybe it's,",
+    "start": 2372.0,
+    "duration": 2.96
+  },
+  {
+    "text": "you know, down a little bit, but it",
+    "start": 2373.52,
+    "duration": 3.52
+  },
+  {
+    "text": "comes back a lot more than 50% down",
+    "start": 2374.96,
+    "duration": 4.159
+  },
+  {
+    "text": "where it is now. But the ships aren't",
+    "start": 2377.04,
+    "duration": 3.84
+  },
+  {
+    "text": "here, the containers aren't here, and",
+    "start": 2379.119,
+    "duration": 2.72
+  },
+  {
+    "text": "you're going to get back to these",
+    "start": 2380.88,
+    "duration": 2.479
+  },
+  {
+    "text": "bottleneck situations that we had in",
+    "start": 2381.839,
+    "duration": 3.681
+  },
+  {
+    "text": "COVID where the price of freight goes",
+    "start": 2383.359,
+    "duration": 4.321
+  },
+  {
+    "text": "crazy. So, we're sitting here modeling",
+    "start": 2385.52,
+    "duration": 4.24
+  },
+  {
+    "text": "these scenarios. We're like, \"All right,",
+    "start": 2387.68,
+    "duration": 4.64
+  },
+  {
+    "text": "either it all goes to hell and you're",
+    "start": 2389.76,
+    "duration": 4.64
+  },
+  {
+    "text": "down 100, you know, the duties stay at",
+    "start": 2392.32,
+    "duration": 4.16
+  },
+  {
+    "text": "145%, volumes are way down. We got to",
+    "start": 2394.4,
+    "duration": 3.52
+  },
+  {
+    "text": "make all these contingency plans for",
+    "start": 2396.48,
+    "duration": 4.8
+  },
+  {
+    "text": "that world.\" Or the opposite where the",
+    "start": 2397.92,
+    "duration": 6.159
+  },
+  {
+    "text": "price of freight goes crazy and I can't",
+    "start": 2401.28,
+    "duration": 4.24
+  },
+  {
+    "text": "get anything loaded and we're",
+    "start": 2404.079,
+    "duration": 3.601
+  },
+  {
+    "text": "scrambling. There's like super like",
+    "start": 2405.52,
+    "duration": 4.16
+  },
+  {
+    "text": "longtail effects in both directions that",
+    "start": 2407.68,
+    "duration": 3.679
+  },
+  {
+    "text": "it's very hard to make decisions as a",
+    "start": 2409.68,
+    "duration": 4.159
+  },
+  {
+    "text": "logistics operator right now. We'll be",
+    "start": 2411.359,
+    "duration": 4.0
+  },
+  {
+    "text": "right back. And if you like the show,",
+    "start": 2413.839,
+    "duration": 2.801
+  },
+  {
+    "text": "please let us know in the comments and",
+    "start": 2415.359,
+    "duration": 3.76
+  },
+  {
+    "text": "tap the subscribe button below to get",
+    "start": 2416.64,
+    "duration": 4.8
+  },
+  {
+    "text": "new",
+    "start": 2419.119,
+    "duration": 2.321
+  },
+  {
+    "text": "episodes. Support for the show comes",
+    "start": 2423.4,
+    "duration": 4.04
+  },
+  {
+    "text": "from Zbiotics. If you're like me, then",
+    "start": 2425.44,
+    "duration": 3.2
+  },
+  {
+    "text": "you probably enjoy a cocktail with",
+    "start": 2427.44,
+    "duration": 3.28
+  },
+  {
+    "text": "friends at the end of a long day. And if",
+    "start": 2428.64,
+    "duration": 3.439
+  },
+  {
+    "text": "you want to feel your best in the",
+    "start": 2430.72,
+    "duration": 2.879
+  },
+  {
+    "text": "morning, you could start the night with",
+    "start": 2432.079,
+    "duration": 3.841
+  },
+  {
+    "text": "Zbiotics. Ziotics pre-alco probiotic",
+    "start": 2433.599,
+    "duration": 4.321
+  },
+  {
+    "text": "drink is the world's first genetically",
+    "start": 2435.92,
+    "duration": 3.84
+  },
+  {
+    "text": "engineered probiotic. It was invented by",
+    "start": 2437.92,
+    "duration": 4.0
+  },
+  {
+    "text": "PhD scientists to tackle rough mornings",
+    "start": 2439.76,
+    "duration": 4.16
+  },
+  {
+    "text": "after drinking. And according to",
+    "start": 2441.92,
+    "duration": 4.159
+  },
+  {
+    "text": "Zbiotics, here's how it works. When you",
+    "start": 2443.92,
+    "duration": 3.919
+  },
+  {
+    "text": "drink, alcohol gets converted into a",
+    "start": 2446.079,
+    "duration": 4.401
+  },
+  {
+    "text": "toxic byproduct in the gut. It's this",
+    "start": 2447.839,
+    "duration": 4.961
+  },
+  {
+    "text": "byproduct, not dehydration, that's to",
+    "start": 2450.48,
+    "duration": 4.16
+  },
+  {
+    "text": "blame for your rough next day.",
+    "start": 2452.8,
+    "duration": 4.0
+  },
+  {
+    "text": "Pre-alcohol produces an enzyme to break",
+    "start": 2454.64,
+    "duration": 4.0
+  },
+  {
+    "text": "this byproduct down. Just remember to",
+    "start": 2456.8,
+    "duration": 3.76
+  },
+  {
+    "text": "make pre-alcohol your first drink of the",
+    "start": 2458.64,
+    "duration": 4.4
+  },
+  {
+    "text": "night. Drink responsibly and you'll feel",
+    "start": 2460.56,
+    "duration": 4.24
+  },
+  {
+    "text": "your best tomorrow. I have been using",
+    "start": 2463.04,
+    "duration": 4.64
+  },
+  {
+    "text": "Ziotics and I have found it takes about",
+    "start": 2464.8,
+    "duration": 5.519
+  },
+  {
+    "text": "30 to 40% of whatever you want to call",
+    "start": 2467.68,
+    "duration": 4.56
+  },
+  {
+    "text": "it, the pain or not feeling great away",
+    "start": 2470.319,
+    "duration": 4.721
+  },
+  {
+    "text": "the next morning. So, I'm a fan. I use",
+    "start": 2472.24,
+    "duration": 5.0
+  },
+  {
+    "text": "it. Anyways, go to",
+    "start": 2475.04,
+    "duration": 4.319
+  },
+  {
+    "text": "zbiotics.com/propg to learn more and get",
+    "start": 2477.24,
+    "duration": 4.04
+  },
+  {
+    "text": "15% off your first order when you use",
+    "start": 2479.359,
+    "duration": 4.24
+  },
+  {
+    "text": "PropG at checkout. Ziotics is backed",
+    "start": 2481.28,
+    "duration": 4.559
+  },
+  {
+    "text": "with a 100% money back guarantee. So, if",
+    "start": 2483.599,
+    "duration": 3.841
+  },
+  {
+    "text": "you're unsatisfied for any reason,",
+    "start": 2485.839,
+    "duration": 3.441
+  },
+  {
+    "text": "they'll refund your money, no questions",
+    "start": 2487.44,
+    "duration": 4.44
+  },
+  {
+    "text": "asked. Remember to head to",
+    "start": 2489.28,
+    "duration": 4.48
+  },
+  {
+    "text": "zbiotics.com/propg and use the code",
+    "start": 2491.88,
+    "duration": 6.92
+  },
+  {
+    "text": "propg at checkout for 15% off.",
+    "start": 2493.76,
+    "duration": 7.44
+  },
+  {
+    "text": "We're back with PropG Markets. You",
+    "start": 2498.8,
+    "duration": 5.519
+  },
+  {
+    "text": "mentioned the if if he makes a deal and",
+    "start": 2501.2,
+    "duration": 4.8
+  },
+  {
+    "text": "Trump has said, you know, more than 70",
+    "start": 2504.319,
+    "duration": 3.841
+  },
+  {
+    "text": "countries have called him to make a",
+    "start": 2506.0,
+    "duration": 5.2
+  },
+  {
+    "text": "deal. Do you have any insight into what",
+    "start": 2508.16,
+    "duration": 6.56
+  },
+  {
+    "text": "the deal is or is supposed to be? just",
+    "start": 2511.2,
+    "duration": 5.96
+  },
+  {
+    "text": "at like a very basic",
+    "start": 2514.72,
+    "duration": 6.879
+  },
+  {
+    "text": "level, what is your sense of the goal of",
+    "start": 2517.16,
+    "duration": 6.84
+  },
+  {
+    "text": "these tariffs and and and you know, if",
+    "start": 2521.599,
+    "duration": 4.72
+  },
+  {
+    "text": "we're going to swerve out the way, you",
+    "start": 2524.0,
+    "duration": 4.4
+  },
+  {
+    "text": "know, what is the deal? First off, on",
+    "start": 2526.319,
+    "duration": 3.201
+  },
+  {
+    "text": "the short term, I don't think they can",
+    "start": 2528.4,
+    "duration": 2.48
+  },
+  {
+    "text": "make a deal with China in the short",
+    "start": 2529.52,
+    "duration": 3.92
+  },
+  {
+    "text": "term. I think the deal is, hey, we'll",
+    "start": 2530.88,
+    "duration": 4.88
+  },
+  {
+    "text": "pause this and give ourselves all some",
+    "start": 2533.44,
+    "duration": 3.76
+  },
+  {
+    "text": "time to sit down and have a nice",
+    "start": 2535.76,
+    "duration": 2.88
+  },
+  {
+    "text": "negotiation, and that might take a year",
+    "start": 2537.2,
+    "duration": 3.52
+  },
+  {
+    "text": "or two. I mean the that it's very",
+    "start": 2538.64,
+    "duration": 4.24
+  },
+  {
+    "text": "difficult for Trump particularly to deal",
+    "start": 2540.72,
+    "duration": 5.84
+  },
+  {
+    "text": "with China because his style is man at",
+    "start": 2542.88,
+    "duration": 6.32
+  },
+  {
+    "text": "the top head honcho sit down in the room",
+    "start": 2546.56,
+    "duration": 5.2
+  },
+  {
+    "text": "yell at each other say some things make",
+    "start": 2549.2,
+    "duration": 4.72
+  },
+  {
+    "text": "a deal uh he wants to negotiate that",
+    "start": 2551.76,
+    "duration": 5.12
+  },
+  {
+    "text": "deal himself personally probably um",
+    "start": 2553.92,
+    "duration": 5.439
+  },
+  {
+    "text": "Chinese will never allow that in the",
+    "start": 2556.88,
+    "duration": 4.8
+  },
+  {
+    "text": "Chinese system they can't risk the",
+    "start": 2559.359,
+    "duration": 4.641
+  },
+  {
+    "text": "leader looking bad and losing face so",
+    "start": 2561.68,
+    "duration": 4.0
+  },
+  {
+    "text": "the deal has to be worked out at the",
+    "start": 2564.0,
+    "duration": 4.64
+  },
+  {
+    "text": "lower levels and then it's a formality",
+    "start": 2565.68,
+    "duration": 4.48
+  },
+  {
+    "text": "when when President Xi and President",
+    "start": 2568.64,
+    "duration": 2.8
+  },
+  {
+    "text": "Trump come and shake hands. So, I just",
+    "start": 2570.16,
+    "duration": 2.88
+  },
+  {
+    "text": "think there's a mismatch there. They'll",
+    "start": 2571.44,
+    "duration": 2.879
+  },
+  {
+    "text": "get over that, but like not on a",
+    "start": 2573.04,
+    "duration": 3.36
+  },
+  {
+    "text": "three-week time frame. And I think the",
+    "start": 2574.319,
+    "duration": 3.441
+  },
+  {
+    "text": "nuance there's so much complexity in the",
+    "start": 2576.4,
+    "duration": 3.199
+  },
+  {
+    "text": "China deal that by the time they",
+    "start": 2577.76,
+    "duration": 3.2
+  },
+  {
+    "text": "actually sat down and got on the same",
+    "start": 2579.599,
+    "duration": 4.081
+  },
+  {
+    "text": "page, it would be too late for the types",
+    "start": 2580.96,
+    "duration": 3.76
+  },
+  {
+    "text": "of businesses we're talking about",
+    "start": 2583.68,
+    "duration": 3.12
+  },
+  {
+    "text": "failing. So, I would say, but what would",
+    "start": 2584.72,
+    "duration": 3.68
+  },
+  {
+    "text": "the deal look like over time? And what",
+    "start": 2586.8,
+    "duration": 3.0
+  },
+  {
+    "text": "does the deal look like with these other",
+    "start": 2588.4,
+    "duration": 3.52
+  },
+  {
+    "text": "countries? I have a rule in life like",
+    "start": 2589.8,
+    "duration": 3.64
+  },
+  {
+    "text": "don't argue with someone unless you",
+    "start": 2591.92,
+    "duration": 2.96
+  },
+  {
+    "text": "think you can make their argument better",
+    "start": 2593.44,
+    "duration": 3.2
+  },
+  {
+    "text": "than they can. I got that from Charlie",
+    "start": 2594.88,
+    "duration": 4.16
+  },
+  {
+    "text": "Munger. It's like a good healthy uh rule",
+    "start": 2596.64,
+    "duration": 3.76
+  },
+  {
+    "text": "to make sure you're doing a good job in",
+    "start": 2599.04,
+    "duration": 3.52
+  },
+  {
+    "text": "your debate. And so if you're taking",
+    "start": 2600.4,
+    "duration": 3.28
+  },
+  {
+    "text": "their side and saying kind of",
+    "start": 2602.56,
+    "duration": 2.559
+  },
+  {
+    "text": "steelmanning it, what are they what are",
+    "start": 2603.68,
+    "duration": 2.72
+  },
+  {
+    "text": "they looking for here? What are their",
+    "start": 2605.119,
+    "duration": 3.401
+  },
+  {
+    "text": "points? They have a few that I think are",
+    "start": 2606.4,
+    "duration": 4.64
+  },
+  {
+    "text": "valid. Um and and that they might be",
+    "start": 2608.52,
+    "duration": 5.559
+  },
+  {
+    "text": "after in some form or another. Uh one",
+    "start": 2611.04,
+    "duration": 4.799
+  },
+  {
+    "text": "might just be, hey, this is negotiating",
+    "start": 2614.079,
+    "duration": 3.28
+  },
+  {
+    "text": "tactic and actually these guys are",
+    "start": 2615.839,
+    "duration": 3.841
+  },
+  {
+    "text": "actually free traders all along and",
+    "start": 2617.359,
+    "duration": 3.841
+  },
+  {
+    "text": "really just want to lower tariffs and",
+    "start": 2619.68,
+    "duration": 2.96
+  },
+  {
+    "text": "trade barriers and it's, you know,",
+    "start": 2621.2,
+    "duration": 3.2
+  },
+  {
+    "text": "that's what they're after. doesn't",
+    "start": 2622.64,
+    "duration": 3.04
+  },
+  {
+    "text": "really jive with the rhetoric about",
+    "start": 2624.4,
+    "duration": 3.12
+  },
+  {
+    "text": "bringing jobs home. If free trade is",
+    "start": 2625.68,
+    "duration": 4.0
+  },
+  {
+    "text": "bad, then it's bad, right? So, not sure",
+    "start": 2627.52,
+    "duration": 3.52
+  },
+  {
+    "text": "that's the case, but maybe there's some",
+    "start": 2629.68,
+    "duration": 2.8
+  },
+  {
+    "text": "there's some they will get better terms",
+    "start": 2631.04,
+    "duration": 3.12
+  },
+  {
+    "text": "out of people than they were before,",
+    "start": 2632.48,
+    "duration": 4.639
+  },
+  {
+    "text": "sounds like. Um, two is we have a major",
+    "start": 2634.16,
+    "duration": 5.6
+  },
+  {
+    "text": "fiscal problem in this country, $2",
+    "start": 2637.119,
+    "duration": 4.881
+  },
+  {
+    "text": "trillion deficit, no end in sight. You",
+    "start": 2639.76,
+    "duration": 3.92
+  },
+  {
+    "text": "got to do something to generate more",
+    "start": 2642.0,
+    "duration": 3.359
+  },
+  {
+    "text": "revenue. So, tariffs are one way to do",
+    "start": 2643.68,
+    "duration": 4.96
+  },
+  {
+    "text": "that. not 145% probably net lowers the",
+    "start": 2645.359,
+    "duration": 4.96
+  },
+  {
+    "text": "amount of trade and the amount of duties",
+    "start": 2648.64,
+    "duration": 4.0
+  },
+  {
+    "text": "collected but some amount of duties",
+    "start": 2650.319,
+    "duration": 4.0
+  },
+  {
+    "text": "maybe is a reasonable place to you gota",
+    "start": 2652.64,
+    "duration": 2.8
+  },
+  {
+    "text": "you got to get the revenue somehow for",
+    "start": 2654.319,
+    "duration": 2.481
+  },
+  {
+    "text": "the government so that's fine that's",
+    "start": 2655.44,
+    "duration": 4.399
+  },
+  {
+    "text": "reasonable um third is it is a valid",
+    "start": 2656.8,
+    "duration": 6.319
+  },
+  {
+    "text": "point around us not having manufacturing",
+    "start": 2659.839,
+    "duration": 5.361
+  },
+  {
+    "text": "capacity in a national security time of",
+    "start": 2663.119,
+    "duration": 5.121
+  },
+  {
+    "text": "war like your your car factories become",
+    "start": 2665.2,
+    "duration": 5.04
+  },
+  {
+    "text": "your tank factories this is why auto is",
+    "start": 2668.24,
+    "duration": 3.68
+  },
+  {
+    "text": "such an important strategic sector for",
+    "start": 2670.24,
+    "duration": 4.079
+  },
+  {
+    "text": "example and then fourth and I think were",
+    "start": 2671.92,
+    "duration": 5.199
+  },
+  {
+    "text": "they really Will you see them hammer? I",
+    "start": 2674.319,
+    "duration": 4.081
+  },
+  {
+    "text": "think they have a valid point is on the",
+    "start": 2677.119,
+    "duration": 3.321
+  },
+  {
+    "text": "industrial policies of these",
+    "start": 2678.4,
+    "duration": 4.8
+  },
+  {
+    "text": "countries both currency you know look at",
+    "start": 2680.44,
+    "duration": 5.96
+  },
+  {
+    "text": "Vietnam that Vietnamese dong has gone",
+    "start": 2683.2,
+    "duration": 6.159
+  },
+  {
+    "text": "down in valuation the last three years",
+    "start": 2686.4,
+    "duration": 4.48
+  },
+  {
+    "text": "maybe not the last three weeks but the",
+    "start": 2689.359,
+    "duration": 2.521
+  },
+  {
+    "text": "last few",
+    "start": 2690.88,
+    "duration": 3.04
+  },
+  {
+    "text": "years at the moment that their",
+    "start": 2691.88,
+    "duration": 3.76
+  },
+  {
+    "text": "manufacturing sector is absolutely",
+    "start": 2693.92,
+    "duration": 4.48
+  },
+  {
+    "text": "booming and if this was a normal market",
+    "start": 2695.64,
+    "duration": 4.199
+  },
+  {
+    "text": "their currency would appreciate as so",
+    "start": 2698.4,
+    "duration": 3.76
+  },
+  {
+    "text": "much so many more dollars flowed in. So",
+    "start": 2699.839,
+    "duration": 4.321
+  },
+  {
+    "text": "there's some some some probably terms",
+    "start": 2702.16,
+    "duration": 4.48
+  },
+  {
+    "text": "for a deal around currency uh setting",
+    "start": 2704.16,
+    "duration": 4.159
+  },
+  {
+    "text": "the reserve currency setting the US",
+    "start": 2706.64,
+    "duration": 3.36
+  },
+  {
+    "text": "currency exchange rates at a level that",
+    "start": 2708.319,
+    "duration": 5.121
+  },
+  {
+    "text": "we think is healthier. Uh subsidies",
+    "start": 2710.0,
+    "duration": 4.56
+  },
+  {
+    "text": "these countries provide a lot of",
+    "start": 2713.44,
+    "duration": 3.84
+  },
+  {
+    "text": "subsidies for manufacturing free land",
+    "start": 2714.56,
+    "duration": 4.799
+  },
+  {
+    "text": "free buildings cheap credit. There's all",
+    "start": 2717.28,
+    "duration": 3.92
+  },
+  {
+    "text": "kinds of things that they do smartly",
+    "start": 2719.359,
+    "duration": 3.521
+  },
+  {
+    "text": "from their own perspective I think but",
+    "start": 2721.2,
+    "duration": 3.76
+  },
+  {
+    "text": "but that do um don't make the level",
+    "start": 2722.88,
+    "duration": 4.56
+  },
+  {
+    "text": "playing field. Um environmental",
+    "start": 2724.96,
+    "duration": 4.159
+  },
+  {
+    "text": "regulations that we have that are way",
+    "start": 2727.44,
+    "duration": 4.56
+  },
+  {
+    "text": "higher than theirs. organized labor",
+    "start": 2729.119,
+    "duration": 4.881
+  },
+  {
+    "text": "repression. I mean, Korea for many, many",
+    "start": 2732.0,
+    "duration": 4.68
+  },
+  {
+    "text": "years had like a mandatory six day work",
+    "start": 2734.0,
+    "duration": 5.04
+  },
+  {
+    "text": "week, you know, I mean, that would never",
+    "start": 2736.68,
+    "duration": 4.679
+  },
+  {
+    "text": "fly here. China has a six- day work",
+    "start": 2739.04,
+    "duration": 3.52
+  },
+  {
+    "text": "week. I don't think it's mandatory. It's",
+    "start": 2741.359,
+    "duration": 2.48
+  },
+  {
+    "text": "just like culturally they just work",
+    "start": 2742.56,
+    "duration": 3.6
+  },
+  {
+    "text": "harder than us. Um, I don't know if",
+    "start": 2743.839,
+    "duration": 3.601
+  },
+  {
+    "text": "there's some, but there's there's these",
+    "start": 2746.16,
+    "duration": 3.199
+  },
+  {
+    "text": "are all like fair grounds for going,",
+    "start": 2747.44,
+    "duration": 4.72
+  },
+  {
+    "text": "hey, like, you know, it's not a balanced",
+    "start": 2749.359,
+    "duration": 6.161
+  },
+  {
+    "text": "playing field for us. Uh, and so maybe",
+    "start": 2752.16,
+    "duration": 5.199
+  },
+  {
+    "text": "there's some deal on one one or more of",
+    "start": 2755.52,
+    "duration": 4.0
+  },
+  {
+    "text": "those grounds to get them to change some",
+    "start": 2757.359,
+    "duration": 4.321
+  },
+  {
+    "text": "policy or something. But it the duty",
+    "start": 2759.52,
+    "duration": 4.559
+  },
+  {
+    "text": "rates itself is one small piece of it,",
+    "start": 2761.68,
+    "duration": 4.0
+  },
+  {
+    "text": "like how much they charge us in duty",
+    "start": 2764.079,
+    "duration": 3.841
+  },
+  {
+    "text": "versus what we charge them. It's the and",
+    "start": 2765.68,
+    "duration": 3.28
+  },
+  {
+    "text": "they've been pretty clear about this,",
+    "start": 2767.92,
+    "duration": 2.56
+  },
+  {
+    "text": "that the administration cares much more",
+    "start": 2768.96,
+    "duration": 3.92
+  },
+  {
+    "text": "about these non-tariff barriers, they",
+    "start": 2770.48,
+    "duration": 4.56
+  },
+  {
+    "text": "would call them. Memo to sell mandatory",
+    "start": 2772.88,
+    "duration": 5.52
+  },
+  {
+    "text": "six- day work week. Okay, good.",
+    "start": 2775.04,
+    "duration": 5.64
+  },
+  {
+    "text": "That'd be good for us.",
+    "start": 2778.4,
+    "duration": 5.84
+  },
+  {
+    "text": "um you so let's take tariffs off the",
+    "start": 2780.68,
+    "duration": 5.639
+  },
+  {
+    "text": "table pre-tariff if you look at",
+    "start": 2784.24,
+    "duration": 4.879
+  },
+  {
+    "text": "countries as stocks or asset classes and",
+    "start": 2786.319,
+    "duration": 5.121
+  },
+  {
+    "text": "you get to see who's doing a great job",
+    "start": 2789.119,
+    "duration": 3.841
+  },
+  {
+    "text": "in terms of partnerships and",
+    "start": 2791.44,
+    "duration": 3.76
+  },
+  {
+    "text": "manufacturing",
+    "start": 2792.96,
+    "duration": 4.48
+  },
+  {
+    "text": "uh prowess who what countries would you",
+    "start": 2795.2,
+    "duration": 4.639
+  },
+  {
+    "text": "go long and what countries would you go",
+    "start": 2797.44,
+    "duration": 4.72
+  },
+  {
+    "text": "short definitely Vietnam long it's",
+    "start": 2799.839,
+    "duration": 3.361
+  },
+  {
+    "text": "incredible what they're doing they have",
+    "start": 2802.16,
+    "duration": 2.72
+  },
+  {
+    "text": "some real geographic benefits to their",
+    "start": 2803.2,
+    "duration": 4.08
+  },
+  {
+    "text": "river network 80% of the containers",
+    "start": 2804.88,
+    "duration": 4.16
+  },
+  {
+    "text": "flowing out of Vietnam actually go on a",
+    "start": 2807.28,
+    "duration": 2.64
+  },
+  {
+    "text": "barge",
+    "start": 2809.04,
+    "duration": 2.64
+  },
+  {
+    "text": "floating down the river to the port",
+    "start": 2809.92,
+    "duration": 4.24
+  },
+  {
+    "text": "instead of having to use trucks. Uh",
+    "start": 2811.68,
+    "duration": 5.52
+  },
+  {
+    "text": "that's let them kind of go much faster",
+    "start": 2814.16,
+    "duration": 4.56
+  },
+  {
+    "text": "in scaling because their roads can't",
+    "start": 2817.2,
+    "duration": 2.96
+  },
+  {
+    "text": "really keep up with the demand, the",
+    "start": 2818.72,
+    "duration": 3.28
+  },
+  {
+    "text": "amount of manufacturing uh boom that's",
+    "start": 2820.16,
+    "duration": 3.6
+  },
+  {
+    "text": "happened there. They've had I think it's",
+    "start": 2822.0,
+    "duration": 4.88
+  },
+  {
+    "text": "8% GDP growth last few years in a row. I",
+    "start": 2823.76,
+    "duration": 4.16
+  },
+  {
+    "text": "mean that you know you only have to do",
+    "start": 2826.88,
+    "duration": 3.28
+  },
+  {
+    "text": "that for so long before you get um",
+    "start": 2827.92,
+    "duration": 5.199
+  },
+  {
+    "text": "before you double. Uh so Vietnam, a lot",
+    "start": 2830.16,
+    "duration": 5.36
+  },
+  {
+    "text": "of the Southeast Asian countries are are",
+    "start": 2833.119,
+    "duration": 4.24
+  },
+  {
+    "text": "just benefiting from like lower costs of",
+    "start": 2835.52,
+    "duration": 5.2
+  },
+  {
+    "text": "labor and reasonably good um policies",
+    "start": 2837.359,
+    "duration": 6.801
+  },
+  {
+    "text": "around industrial you stimulus. Uh who",
+    "start": 2840.72,
+    "duration": 6.16
+  },
+  {
+    "text": "am I short? India still remains a mess.",
+    "start": 2844.16,
+    "duration": 4.48
+  },
+  {
+    "text": "Uh I guess they're probably doing well",
+    "start": 2846.88,
+    "duration": 3.36
+  },
+  {
+    "text": "but it's just like very complicated to",
+    "start": 2848.64,
+    "duration": 3.679
+  },
+  {
+    "text": "do business there. Logist they don't",
+    "start": 2850.24,
+    "duration": 3.599
+  },
+  {
+    "text": "benefit from logistics network. They",
+    "start": 2852.319,
+    "duration": 4.641
+  },
+  {
+    "text": "don't have inland river network. Um so",
+    "start": 2853.839,
+    "duration": 6.081
+  },
+  {
+    "text": "it's more expensive to move stuff. lot",
+    "start": 2856.96,
+    "duration": 4.72
+  },
+  {
+    "text": "of complexity from a logistics",
+    "start": 2859.92,
+    "duration": 4.72
+  },
+  {
+    "text": "standpoint that falls out of that. Um,",
+    "start": 2861.68,
+    "duration": 5.76
+  },
+  {
+    "text": "their infrastructure is lagging. But,",
+    "start": 2864.64,
+    "duration": 4.16
+  },
+  {
+    "text": "uh, but then again, you know, it's a",
+    "start": 2867.44,
+    "duration": 3.12
+  },
+  {
+    "text": "billion people that are relatively low",
+    "start": 2868.8,
+    "duration": 3.2
+  },
+  {
+    "text": "cost. So maybe I don't know if I'd short",
+    "start": 2870.56,
+    "duration": 3.759
+  },
+  {
+    "text": "it, but we have not seen as much",
+    "start": 2872.0,
+    "duration": 4.839
+  },
+  {
+    "text": "dynamism there as you have in Southeast",
+    "start": 2874.319,
+    "duration": 6.0
+  },
+  {
+    "text": "Asia. Um, Europe seems hard to go long",
+    "start": 2876.839,
+    "duration": 5.961
+  },
+  {
+    "text": "Europe right now. They're just",
+    "start": 2880.319,
+    "duration": 6.0
+  },
+  {
+    "text": "overregulating everything. And but then",
+    "start": 2882.8,
+    "duration": 5.6
+  },
+  {
+    "text": "again, flexport uh actually Europe is",
+    "start": 2886.319,
+    "duration": 3.04
+  },
+  {
+    "text": "one of my favorite case studies",
+    "start": 2888.4,
+    "duration": 2.88
+  },
+  {
+    "text": "internally because Europe has been our",
+    "start": 2889.359,
+    "duration": 3.201
+  },
+  {
+    "text": "fastest growing market for the last",
+    "start": 2891.28,
+    "duration": 5.039
+  },
+  {
+    "text": "three years in a row. Uh and we've way",
+    "start": 2892.56,
+    "duration": 5.2
+  },
+  {
+    "text": "outgrown the scale of the market hasn't",
+    "start": 2896.319,
+    "duration": 2.481
+  },
+  {
+    "text": "really grown, but we've been growing",
+    "start": 2897.76,
+    "duration": 3.68
+  },
+  {
+    "text": "like 30% annually there. And it allows",
+    "start": 2898.8,
+    "duration": 4.64
+  },
+  {
+    "text": "me any other anytime any other team at",
+    "start": 2901.44,
+    "duration": 3.84
+  },
+  {
+    "text": "Flexport points to market dynamics, I",
+    "start": 2903.44,
+    "duration": 3.04
+  },
+  {
+    "text": "just point to Europe and go markets",
+    "start": 2905.28,
+    "duration": 2.559
+  },
+  {
+    "text": "don't matter. It's all about how you",
+    "start": 2906.48,
+    "duration": 4.079
+  },
+  {
+    "text": "guys execute. So within within our",
+    "start": 2907.839,
+    "duration": 4.961
+  },
+  {
+    "text": "company, I we kind of ignore the macro",
+    "start": 2910.559,
+    "duration": 3.441
+  },
+  {
+    "text": "trends and it's all about just having",
+    "start": 2912.8,
+    "duration": 3.36
+  },
+  {
+    "text": "good people that can go find the",
+    "start": 2914.0,
+    "duration": 3.599
+  },
+  {
+    "text": "market's so big from our perspective",
+    "start": 2916.16,
+    "duration": 3.04
+  },
+  {
+    "text": "that like it barely matters if it goes",
+    "start": 2917.599,
+    "duration": 3.921
+  },
+  {
+    "text": "up or down. So just on the topic of",
+    "start": 2919.2,
+    "duration": 6.159
+  },
+  {
+    "text": "people, uh Toby Lutkkey from Shopify uh",
+    "start": 2921.52,
+    "duration": 6.079
+  },
+  {
+    "text": "made headlines when he said you can't",
+    "start": 2925.359,
+    "duration": 4.0
+  },
+  {
+    "text": "have a job hire unless you can prove",
+    "start": 2927.599,
+    "duration": 4.72
+  },
+  {
+    "text": "that AI can do it. curious as the CEO of",
+    "start": 2929.359,
+    "duration": 5.881
+  },
+  {
+    "text": "a a logistics and supply chain",
+    "start": 2932.319,
+    "duration": 6.321
+  },
+  {
+    "text": "company, what is what role is does AI",
+    "start": 2935.24,
+    "duration": 5.8
+  },
+  {
+    "text": "play in your mind and how how how what",
+    "start": 2938.64,
+    "duration": 4.32
+  },
+  {
+    "text": "type of level of investment? How do you",
+    "start": 2941.04,
+    "duration": 4.0
+  },
+  {
+    "text": "think it impacts your current hiring or",
+    "start": 2942.96,
+    "duration": 4.399
+  },
+  {
+    "text": "kind of human capital strategy? So, um",
+    "start": 2945.04,
+    "duration": 4.559
+  },
+  {
+    "text": "Shopify owns 20% of Flexport, so I",
+    "start": 2947.359,
+    "duration": 3.361
+  },
+  {
+    "text": "follow everything Toby says very",
+    "start": 2949.599,
+    "duration": 2.801
+  },
+  {
+    "text": "closely. He's kind of my my boss on some",
+    "start": 2950.72,
+    "duration": 4.24
+  },
+  {
+    "text": "level. They got a board seat. Um the uh",
+    "start": 2952.4,
+    "duration": 5.52
+  },
+  {
+    "text": "and I I actually took his AI memo and",
+    "start": 2954.96,
+    "duration": 4.72
+  },
+  {
+    "text": "put it into chat GPT and said rewrite",
+    "start": 2957.92,
+    "duration": 3.439
+  },
+  {
+    "text": "this and pretend the CEO of Flexboard",
+    "start": 2959.68,
+    "duration": 2.8
+  },
+  {
+    "text": "wrote it so I can send it to my",
+    "start": 2961.359,
+    "duration": 2.48
+  },
+  {
+    "text": "employees. I haven't hit send on that",
+    "start": 2962.48,
+    "duration": 4.4
+  },
+  {
+    "text": "yet. You do you do that too. Might send",
+    "start": 2963.839,
+    "duration": 5.52
+  },
+  {
+    "text": "that one out soon. Um so if you take",
+    "start": 2966.88,
+    "duration": 4.64
+  },
+  {
+    "text": "like let's take normal conditions which",
+    "start": 2969.359,
+    "duration": 3.76
+  },
+  {
+    "text": "we haven't seen in 10 years or something",
+    "start": 2971.52,
+    "duration": 3.52
+  },
+  {
+    "text": "in logistics but take normal long run",
+    "start": 2973.119,
+    "duration": 3.761
+  },
+  {
+    "text": "average for the last 30 years is like",
+    "start": 2975.04,
+    "duration": 3.6
+  },
+  {
+    "text": "cost you about $2,000 to ship a",
+    "start": 2976.88,
+    "duration": 3.92
+  },
+  {
+    "text": "container from Asia to the US. So let's",
+    "start": 2978.64,
+    "duration": 4.24
+  },
+  {
+    "text": "just say we go back to that world. the",
+    "start": 2980.8,
+    "duration": 5.559
+  },
+  {
+    "text": "the cost of the freight forwarders keep",
+    "start": 2982.88,
+    "duration": 5.92
+  },
+  {
+    "text": "20%. And 80% gets paid to the people",
+    "start": 2986.359,
+    "duration": 3.801
+  },
+  {
+    "text": "that own the ships and the trucks and",
+    "start": 2988.8,
+    "duration": 2.64
+  },
+  {
+    "text": "the you know own the assets. They",
+    "start": 2990.16,
+    "duration": 4.159
+  },
+  {
+    "text": "deserve that. Uh at least that. So okay,",
+    "start": 2991.44,
+    "duration": 5.84
+  },
+  {
+    "text": "of the 20% of the $400 the freight",
+    "start": 2994.319,
+    "duration": 5.28
+  },
+  {
+    "text": "forwarder is keeping on this half of",
+    "start": 2997.28,
+    "duration": 4.4
+  },
+  {
+    "text": "that is going to labor cost of",
+    "start": 2999.599,
+    "duration": 3.681
+  },
+  {
+    "text": "coordinating the shipment. what I call",
+    "start": 3001.68,
+    "duration": 4.24
+  },
+  {
+    "text": "freight email forwarding pushing to",
+    "start": 3003.28,
+    "duration": 5.039
+  },
+  {
+    "text": "pushing docks making phone calls not the",
+    "start": 3005.92,
+    "duration": 4.32
+  },
+  {
+    "text": "bluecollar guys driving forklifts like",
+    "start": 3008.319,
+    "duration": 5.52
+  },
+  {
+    "text": "this is the service jobs desk jobs we",
+    "start": 3010.24,
+    "duration": 6.16
+  },
+  {
+    "text": "believe we can take about 80% of that",
+    "start": 3013.839,
+    "duration": 4.641
+  },
+  {
+    "text": "cost out in the next two three years",
+    "start": 3016.4,
+    "duration": 5.199
+  },
+  {
+    "text": "largely because of AI and if you asked",
+    "start": 3018.48,
+    "duration": 4.72
+  },
+  {
+    "text": "me that three years ago I'd be like",
+    "start": 3021.599,
+    "duration": 4.401
+  },
+  {
+    "text": "stuff's pretty hard to automate you know",
+    "start": 3023.2,
+    "duration": 4.56
+  },
+  {
+    "text": "it turns out there's a million edge",
+    "start": 3026.0,
+    "duration": 3.599
+  },
+  {
+    "text": "cases that you can't put into rules",
+    "start": 3027.76,
+    "duration": 4.079
+  },
+  {
+    "text": "engines and you need people that are",
+    "start": 3029.599,
+    "duration": 4.0
+  },
+  {
+    "text": "smart that can do it. Um, now we're",
+    "start": 3031.839,
+    "duration": 4.801
+  },
+  {
+    "text": "finding about 1% weekly, uh, the ability",
+    "start": 3033.599,
+    "duration": 4.801
+  },
+  {
+    "text": "to automate about 1% of that work every",
+    "start": 3036.64,
+    "duration": 5.76
+  },
+  {
+    "text": "week. It's kind of crazy. Um, and so we",
+    "start": 3038.4,
+    "duration": 5.679
+  },
+  {
+    "text": "think 80% in the next few years is",
+    "start": 3042.4,
+    "duration": 4.159
+  },
+  {
+    "text": "totally possible. That means you reduce",
+    "start": 3044.079,
+    "duration": 4.24
+  },
+  {
+    "text": "in a state steady state world without",
+    "start": 3046.559,
+    "duration": 3.361
+  },
+  {
+    "text": "craziness, you're reducing the cost of",
+    "start": 3048.319,
+    "duration": 4.961
+  },
+  {
+    "text": "shipping anything by about 8%. So",
+    "start": 3049.92,
+    "duration": 6.24
+  },
+  {
+    "text": "that'll be huge for consumers. Now, we",
+    "start": 3053.28,
+    "duration": 4.24
+  },
+  {
+    "text": "might decide to keep all that for my",
+    "start": 3056.16,
+    "duration": 2.8
+  },
+  {
+    "text": "margin and be the highest margin freight",
+    "start": 3057.52,
+    "duration": 3.039
+  },
+  {
+    "text": "forwarder in the world. Our view is much",
+    "start": 3058.96,
+    "duration": 3.2
+  },
+  {
+    "text": "more give it back to the customer, drive",
+    "start": 3060.559,
+    "duration": 4.081
+  },
+  {
+    "text": "more scale. Uh but you have it's",
+    "start": 3062.16,
+    "duration": 3.84
+  },
+  {
+    "text": "probably some the the correct answer is",
+    "start": 3064.64,
+    "duration": 3.199
+  },
+  {
+    "text": "probably some choice in there. So that's",
+    "start": 3066.0,
+    "duration": 3.04
+  },
+  {
+    "text": "one. Number one, the thing that people",
+    "start": 3067.839,
+    "duration": 3.041
+  },
+  {
+    "text": "would care about is price can lower the",
+    "start": 3069.04,
+    "duration": 4.4
+  },
+  {
+    "text": "cost. Two, um a lot of these supply",
+    "start": 3070.88,
+    "duration": 4.92
+  },
+  {
+    "text": "chains are about data. Data to make good",
+    "start": 3073.44,
+    "duration": 4.24
+  },
+  {
+    "text": "decisions. How many units should I",
+    "start": 3075.8,
+    "duration": 3.16
+  },
+  {
+    "text": "order? When should I order them? Where",
+    "start": 3077.68,
+    "duration": 3.2
+  },
+  {
+    "text": "should I position them? How should I",
+    "start": 3078.96,
+    "duration": 3.92
+  },
+  {
+    "text": "engineer them from a tariff standpoint?",
+    "start": 3080.88,
+    "duration": 4.479
+  },
+  {
+    "text": "These types of things. All of that we're",
+    "start": 3082.88,
+    "duration": 4.479
+  },
+  {
+    "text": "finding huge opportunity to just use AI",
+    "start": 3085.359,
+    "duration": 3.641
+  },
+  {
+    "text": "to like ask questions in natural",
+    "start": 3087.359,
+    "duration": 5.361
+  },
+  {
+    "text": "language, generate reports on the fly,",
+    "start": 3089.0,
+    "duration": 6.04
+  },
+  {
+    "text": "like stuff that used to take you'd have",
+    "start": 3092.72,
+    "duration": 3.68
+  },
+  {
+    "text": "some analysts on your team, it would",
+    "start": 3095.04,
+    "duration": 2.64
+  },
+  {
+    "text": "take them three days to generate the",
+    "start": 3096.4,
+    "duration": 2.8
+  },
+  {
+    "text": "report. You get it in an instant. Last",
+    "start": 3097.68,
+    "duration": 5.12
+  },
+  {
+    "text": "question for me, uh, Teimu and Shien,",
+    "start": 3099.2,
+    "duration": 6.56
+  },
+  {
+    "text": "these incredible supply chain monsters.",
+    "start": 3102.8,
+    "duration": 4.48
+  },
+  {
+    "text": "Curious what you think about those two",
+    "start": 3105.76,
+    "duration": 4.48
+  },
+  {
+    "text": "companies and how this shakes out and",
+    "start": 3107.28,
+    "duration": 4.4
+  },
+  {
+    "text": "what you think the prospects for those",
+    "start": 3110.24,
+    "duration": 3.92
+  },
+  {
+    "text": "two firms are. Obviously May 2nd is the",
+    "start": 3111.68,
+    "duration": 4.8
+  },
+  {
+    "text": "key for them that their business model",
+    "start": 3114.16,
+    "duration": 3.52
+  },
+  {
+    "text": "as it stands right now gets turned",
+    "start": 3116.48,
+    "duration": 2.24
+  },
+  {
+    "text": "upside down. So they have to start",
+    "start": 3117.68,
+    "duration": 3.72
+  },
+  {
+    "text": "paying duties May 2nd or shift their",
+    "start": 3118.72,
+    "duration": 4.72
+  },
+  {
+    "text": "manufacturing. Um I think you'll see a",
+    "start": 3121.4,
+    "duration": 2.919
+  },
+  {
+    "text": "bit of both. They're going to have",
+    "start": 3123.44,
+    "duration": 1.84
+  },
+  {
+    "text": "they're going to pay duties. They're",
+    "start": 3124.319,
+    "duration": 2.561
+  },
+  {
+    "text": "going to see what consumers are willing",
+    "start": 3125.28,
+    "duration": 4.0
+  },
+  {
+    "text": "to do. They can still import the goods.",
+    "start": 3126.88,
+    "duration": 3.679
+  },
+  {
+    "text": "By the way, they they still have a cost",
+    "start": 3129.28,
+    "duration": 2.52
+  },
+  {
+    "text": "of goods sold",
+    "start": 3130.559,
+    "duration": 3.441
+  },
+  {
+    "text": "advantage over you and your buddies",
+    "start": 3131.8,
+    "duration": 4.6
+  },
+  {
+    "text": "because they're just built in China made",
+    "start": 3134.0,
+    "duration": 4.8
+  },
+  {
+    "text": "to source things cheaper. Like they they",
+    "start": 3136.4,
+    "duration": 4.08
+  },
+  {
+    "text": "have some big advantages there. Doesn't",
+    "start": 3138.8,
+    "duration": 3.84
+  },
+  {
+    "text": "their cost advantage broaden? Because if",
+    "start": 3140.48,
+    "duration": 4.639
+  },
+  {
+    "text": "they're selling a garment in for 10",
+    "start": 3142.64,
+    "duration": 5.679
+  },
+  {
+    "text": "bucks versus 60 from Ralph Lauren, okay,",
+    "start": 3145.119,
+    "duration": 5.681
+  },
+  {
+    "text": "they go to 24, but Ralph Lauren goes to",
+    "start": 3148.319,
+    "duration": 4.401
+  },
+  {
+    "text": "150. Exactly. Their cost is lower",
+    "start": 3150.8,
+    "duration": 4.64
+  },
+  {
+    "text": "already. So, Exactly. So, the cost um",
+    "start": 3152.72,
+    "duration": 4.72
+  },
+  {
+    "text": "advantage is still there. They're",
+    "start": 3155.44,
+    "duration": 3.119
+  },
+  {
+    "text": "they're they're paying for air freight",
+    "start": 3157.44,
+    "duration": 2.72
+  },
+  {
+    "text": "where Ralph Lauren's probably paying for",
+    "start": 3158.559,
+    "duration": 4.0
+  },
+  {
+    "text": "ocean freight. So, there's a you know,",
+    "start": 3160.16,
+    "duration": 4.24
+  },
+  {
+    "text": "that's much cheaper, but they're not",
+    "start": 3162.559,
+    "duration": 3.441
+  },
+  {
+    "text": "paying for US warehousing, which is much",
+    "start": 3164.4,
+    "duration": 5.04
+  },
+  {
+    "text": "more expensive. their their their um",
+    "start": 3166.0,
+    "duration": 5.839
+  },
+  {
+    "text": "final mile cost is lower. They have less",
+    "start": 3169.44,
+    "duration": 4.72
+  },
+  {
+    "text": "working capital of just like products",
+    "start": 3171.839,
+    "duration": 4.161
+  },
+  {
+    "text": "sitting on the warehouse and sitting on",
+    "start": 3174.16,
+    "duration": 4.0
+  },
+  {
+    "text": "the water for months at a time. It's",
+    "start": 3176.0,
+    "duration": 5.2
+  },
+  {
+    "text": "much more just in time production. So I",
+    "start": 3178.16,
+    "duration": 6.24
+  },
+  {
+    "text": "think net net like the tariffs will cost",
+    "start": 3181.2,
+    "duration": 5.28
+  },
+  {
+    "text": "having to pay duties will cost you know",
+    "start": 3184.4,
+    "duration": 4.719
+  },
+  {
+    "text": "hurt them versus their current model but",
+    "start": 3186.48,
+    "duration": 4.119
+  },
+  {
+    "text": "I think they still have a big advantage",
+    "start": 3189.119,
+    "duration": 4.321
+  },
+  {
+    "text": "over other kind of companies that they",
+    "start": 3190.599,
+    "duration": 4.041
+  },
+  {
+    "text": "would compete with. So probably their",
+    "start": 3193.44,
+    "duration": 3.28
+  },
+  {
+    "text": "sales go down but but they might their",
+    "start": 3194.64,
+    "duration": 4.08
+  },
+  {
+    "text": "market share might go up. Um not it's",
+    "start": 3196.72,
+    "duration": 4.24
+  },
+  {
+    "text": "hard to say. I think that I don't think",
+    "start": 3198.72,
+    "duration": 3.599
+  },
+  {
+    "text": "it's going to be the death of Timu and",
+    "start": 3200.96,
+    "duration": 2.48
+  },
+  {
+    "text": "Sheen. I think you're going to see that",
+    "start": 3202.319,
+    "duration": 3.28
+  },
+  {
+    "text": "they unless there's some other like very",
+    "start": 3203.44,
+    "duration": 3.919
+  },
+  {
+    "text": "possible Trump administration puts in",
+    "start": 3205.599,
+    "duration": 4.401
+  },
+  {
+    "text": "some kind of company specific regulation",
+    "start": 3207.359,
+    "duration": 4.48
+  },
+  {
+    "text": "to kill these guys. It's you know",
+    "start": 3210.0,
+    "duration": 2.88
+  },
+  {
+    "text": "nothing's outside the range of",
+    "start": 3211.839,
+    "duration": 4.321
+  },
+  {
+    "text": "possibility. But um I think you're still",
+    "start": 3212.88,
+    "duration": 5.439
+  },
+  {
+    "text": "I think they'll still be okay probably.",
+    "start": 3216.16,
+    "duration": 3.84
+  },
+  {
+    "text": "Final question from me Ryan. This has",
+    "start": 3218.319,
+    "duration": 5.721
+  },
+  {
+    "text": "been massively informative. Thank you.",
+    "start": 3220.0,
+    "duration": 6.72
+  },
+  {
+    "text": "Um, we've been talking about the public",
+    "start": 3224.04,
+    "duration": 5.4
+  },
+  {
+    "text": "response from business leaders to the",
+    "start": 3226.72,
+    "duration": 5.68
+  },
+  {
+    "text": "tariffs and to what what Trump is doing.",
+    "start": 3229.44,
+    "duration": 7.2
+  },
+  {
+    "text": "Uh, and what we have found or our view",
+    "start": 3232.4,
+    "duration": 6.679
+  },
+  {
+    "text": "is that the response has been quite",
+    "start": 3236.64,
+    "duration": 6.64
+  },
+  {
+    "text": "muted from CEOs. People are not",
+    "start": 3239.079,
+    "duration": 7.48
+  },
+  {
+    "text": "complaining as much as you'd think. Um,",
+    "start": 3243.28,
+    "duration": 5.52
+  },
+  {
+    "text": "and you know, I just think about the",
+    "start": 3246.559,
+    "duration": 3.52
+  },
+  {
+    "text": "stats that you mention or your",
+    "start": 3248.8,
+    "duration": 3.84
+  },
+  {
+    "text": "predictions that this would wipe out 80%",
+    "start": 3250.079,
+    "duration": 5.121
+  },
+  {
+    "text": "of businesses that rely on China. It's",
+    "start": 3252.64,
+    "duration": 4.8
+  },
+  {
+    "text": "massively affecting small businesses.",
+    "start": 3255.2,
+    "duration": 4.96
+  },
+  {
+    "text": "You could see millions of jobs lost as a",
+    "start": 3257.44,
+    "duration": 5.04
+  },
+  {
+    "text": "result of this change. And then I also",
+    "start": 3260.16,
+    "duration": 4.159
+  },
+  {
+    "text": "would reference a tweet you put out. You",
+    "start": 3262.48,
+    "duration": 3.359
+  },
+  {
+    "text": "said, quote, \"Thousands and then",
+    "start": 3264.319,
+    "duration": 2.961
+  },
+  {
+    "text": "millions of American small businesses,",
+    "start": 3265.839,
+    "duration": 3.76
+  },
+  {
+    "text": "including many iconic brands, will go",
+    "start": 3267.28,
+    "duration": 4.079
+  },
+  {
+    "text": "bankrupt this year if the tariff",
+    "start": 3269.599,
+    "duration": 3.681
+  },
+  {
+    "text": "policies on China don't change.\" And",
+    "start": 3271.359,
+    "duration": 5.76
+  },
+  {
+    "text": "you, I believe, are one of the few CEOs,",
+    "start": 3273.28,
+    "duration": 7.68
+  },
+  {
+    "text": "granted you have a a real uh horse in",
+    "start": 3277.119,
+    "duration": 6.401
+  },
+  {
+    "text": "this race, but you're one of the few",
+    "start": 3280.96,
+    "duration": 5.68
+  },
+  {
+    "text": "CEOs that is speaking out about this and",
+    "start": 3283.52,
+    "duration": 5.599
+  },
+  {
+    "text": "saying just plain and simple, this is a",
+    "start": 3286.64,
+    "duration": 4.959
+  },
+  {
+    "text": "bad idea. I'm wondering if you think",
+    "start": 3289.119,
+    "duration": 5.44
+  },
+  {
+    "text": "based on your uh the people you speak",
+    "start": 3291.599,
+    "duration": 4.561
+  },
+  {
+    "text": "with and the businesses and the clients",
+    "start": 3294.559,
+    "duration": 4.081
+  },
+  {
+    "text": "you service, do you feel that we are",
+    "start": 3296.16,
+    "duration": 5.6
+  },
+  {
+    "text": "about to see a change in sentiment from",
+    "start": 3298.64,
+    "duration": 5.199
+  },
+  {
+    "text": "our business leaders? Do you think that",
+    "start": 3301.76,
+    "duration": 4.64
+  },
+  {
+    "text": "we're about to see business leaders come",
+    "start": 3303.839,
+    "duration": 5.841
+  },
+  {
+    "text": "out and say this is a horrible idea and",
+    "start": 3306.4,
+    "duration": 5.12
+  },
+  {
+    "text": "this is stupid and we don't support",
+    "start": 3309.68,
+    "duration": 3.76
+  },
+  {
+    "text": "this? I see a fair number certainly all",
+    "start": 3311.52,
+    "duration": 3.36
+  },
+  {
+    "text": "of our customers are up in arms and",
+    "start": 3313.44,
+    "duration": 3.119
+  },
+  {
+    "text": "tweeting about it, posting about it, any",
+    "start": 3314.88,
+    "duration": 2.959
+  },
+  {
+    "text": "all these small brands, they may just",
+    "start": 3316.559,
+    "duration": 4.321
+  },
+  {
+    "text": "not have enough of a voice. Uh I don't",
+    "start": 3317.839,
+    "duration": 4.48
+  },
+  {
+    "text": "know man. I think big companies there's",
+    "start": 3320.88,
+    "duration": 2.8
+  },
+  {
+    "text": "a lot of failure of leadership in",
+    "start": 3322.319,
+    "duration": 4.081
+  },
+  {
+    "text": "general. Like a lot of big companies are",
+    "start": 3323.68,
+    "duration": 4.24
+  },
+  {
+    "text": "well the they're found a long time ago.",
+    "start": 3326.4,
+    "duration": 3.36
+  },
+  {
+    "text": "The founders have retired. You got",
+    "start": 3327.92,
+    "duration": 3.439
+  },
+  {
+    "text": "middle managers who got promoted up to",
+    "start": 3329.76,
+    "duration": 3.76
+  },
+  {
+    "text": "be the CEO. I might be the there's a lot",
+    "start": 3331.359,
+    "duration": 3.921
+  },
+  {
+    "text": "of risk here. You know you go criticize",
+    "start": 3333.52,
+    "duration": 4.0
+  },
+  {
+    "text": "the president attacks you publicly. You",
+    "start": 3335.28,
+    "duration": 3.68
+  },
+  {
+    "text": "might get fired. There's like a lot of",
+    "start": 3337.52,
+    "duration": 4.4
+  },
+  {
+    "text": "downside to criticizing. Uh I'm hard to",
+    "start": 3338.96,
+    "duration": 6.24
+  },
+  {
+    "text": "fire. So, and you know, on some level",
+    "start": 3341.92,
+    "duration": 5.04
+  },
+  {
+    "text": "I'm not I'm not the best voice for the",
+    "start": 3345.2,
+    "duration": 3.359
+  },
+  {
+    "text": "administration to listen to because I am",
+    "start": 3346.96,
+    "duration": 3.359
+  },
+  {
+    "text": "selling my own book. It is bad for my",
+    "start": 3348.559,
+    "duration": 4.401
+  },
+  {
+    "text": "business, bad for my customers. Like, so",
+    "start": 3350.319,
+    "duration": 3.841
+  },
+  {
+    "text": "you know, are they going to listen to me",
+    "start": 3352.96,
+    "duration": 3.599
+  },
+  {
+    "text": "on tariffs? Probably not. Like, I I I'm",
+    "start": 3354.16,
+    "duration": 4.88
+  },
+  {
+    "text": "I'm I'm a little too self-interested for",
+    "start": 3356.559,
+    "duration": 5.681
+  },
+  {
+    "text": "you to take me that seriously. Um, but",
+    "start": 3359.04,
+    "duration": 6.0
+  },
+  {
+    "text": "uh I think you'll see more and more some",
+    "start": 3362.24,
+    "duration": 4.879
+  },
+  {
+    "text": "JP Morgan put out a statement. I haven't",
+    "start": 3365.04,
+    "duration": 3.36
+  },
+  {
+    "text": "seen Jamie Diamond say anything, but",
+    "start": 3367.119,
+    "duration": 2.72
+  },
+  {
+    "text": "like their chief strategist, whatever",
+    "start": 3368.4,
+    "duration": 3.679
+  },
+  {
+    "text": "that job is, said that this was really,",
+    "start": 3369.839,
+    "duration": 4.081
+  },
+  {
+    "text": "really bad. I think you'll see more the",
+    "start": 3372.079,
+    "duration": 3.841
+  },
+  {
+    "text": "banks probably weigh in. I don't know",
+    "start": 3373.92,
+    "duration": 3.84
+  },
+  {
+    "text": "that it matters. I I feel like the Trump",
+    "start": 3375.92,
+    "duration": 3.6
+  },
+  {
+    "text": "administration knows that this is bad",
+    "start": 3377.76,
+    "duration": 3.76
+  },
+  {
+    "text": "for businesses importing from China.",
+    "start": 3379.52,
+    "duration": 4.96
+  },
+  {
+    "text": "Maybe they want that. So, it's like not",
+    "start": 3381.52,
+    "duration": 5.279
+  },
+  {
+    "text": "clear that that this isn't by design.",
+    "start": 3384.48,
+    "duration": 5.68
+  },
+  {
+    "text": "Sounds like your view is founder CEOs",
+    "start": 3386.799,
+    "duration": 5.721
+  },
+  {
+    "text": "will speak out and the middle managers",
+    "start": 3390.16,
+    "duration": 4.56
+  },
+  {
+    "text": "won't, which I actually think is a",
+    "start": 3392.52,
+    "duration": 4.039
+  },
+  {
+    "text": "pretty good thesis. I well it's also my",
+    "start": 3394.72,
+    "duration": 3.44
+  },
+  {
+    "text": "thesis for why Flexport can beat other",
+    "start": 3396.559,
+    "duration": 3.04
+  },
+  {
+    "text": "logistics companies. These companies",
+    "start": 3398.16,
+    "duration": 2.88
+  },
+  {
+    "text": "were the only one founded in the last 40",
+    "start": 3399.599,
+    "duration": 3.121
+  },
+  {
+    "text": "years. So uh in the big in the big",
+    "start": 3401.04,
+    "duration": 3.68
+  },
+  {
+    "text": "global companies so the the founders are",
+    "start": 3402.72,
+    "duration": 5.04
+  },
+  {
+    "text": "mostly retired uh pretty much all",
+    "start": 3404.72,
+    "duration": 4.639
+  },
+  {
+    "text": "retired and these companies aren't",
+    "start": 3407.76,
+    "duration": 3.92
+  },
+  {
+    "text": "managed by uh by people with enough skin",
+    "start": 3409.359,
+    "duration": 4.401
+  },
+  {
+    "text": "in the game or or frankly like yeah they",
+    "start": 3411.68,
+    "duration": 4.159
+  },
+  {
+    "text": "could get fired really easily if they",
+    "start": 3413.76,
+    "duration": 3.359
+  },
+  {
+    "text": "they're also a little too rational.",
+    "start": 3415.839,
+    "duration": 5.041
+  },
+  {
+    "text": "Logistics is a very rational market. You",
+    "start": 3417.119,
+    "duration": 5.401
+  },
+  {
+    "text": "know it's all math at the end of the",
+    "start": 3420.88,
+    "duration": 4.959
+  },
+  {
+    "text": "day. Uh, and some of this stuff is you",
+    "start": 3422.52,
+    "duration": 5.0
+  },
+  {
+    "text": "don't have that much math to go by. You",
+    "start": 3425.839,
+    "duration": 3.441
+  },
+  {
+    "text": "got to go off your instinct and just be",
+    "start": 3427.52,
+    "duration": 4.0
+  },
+  {
+    "text": "like, \"Yo, this is let me speak up here.",
+    "start": 3429.28,
+    "duration": 3.839
+  },
+  {
+    "text": "I don't need to listen to my committee",
+    "start": 3431.52,
+    "duration": 3.279
+  },
+  {
+    "text": "of managers. Like, this is really bad",
+    "start": 3433.119,
+    "duration": 4.081
+  },
+  {
+    "text": "for my customers, so just do it.\" I love",
+    "start": 3434.799,
+    "duration": 4.881
+  },
+  {
+    "text": "that. Well, we we support you. I'm",
+    "start": 3437.2,
+    "duration": 4.32
+  },
+  {
+    "text": "certainly feeling long, Flexport, after",
+    "start": 3439.68,
+    "duration": 3.679
+  },
+  {
+    "text": "this interview. Ryan Peterson is the",
+    "start": 3441.52,
+    "duration": 3.599
+  },
+  {
+    "text": "founder and CEO of Flexport, a leading",
+    "start": 3443.359,
+    "duration": 3.041
+  },
+  {
+    "text": "technology platform for global",
+    "start": 3445.119,
+    "duration": 3.281
+  },
+  {
+    "text": "logistics. Prior to selling Flexport,",
+    "start": 3446.4,
+    "duration": 3.679
+  },
+  {
+    "text": "Ryan was the founder and CEO of Import",
+    "start": 3448.4,
+    "duration": 3.28
+  },
+  {
+    "text": "Genius, a premier provider of",
+    "start": 3450.079,
+    "duration": 3.601
+  },
+  {
+    "text": "transaction data for the global trade",
+    "start": 3451.68,
+    "duration": 3.6
+  },
+  {
+    "text": "industry. He earned a BA in economics",
+    "start": 3453.68,
+    "duration": 3.76
+  },
+  {
+    "text": "from UC Berkeley. Go Bears. I didn't",
+    "start": 3455.28,
+    "duration": 4.72
+  },
+  {
+    "text": "know that. Oh, yeah. Go Bears. Nice. And",
+    "start": 3457.44,
+    "duration": 3.76
+  },
+  {
+    "text": "California. Enough Enough of your",
+    "start": 3460.0,
+    "duration": 3.04
+  },
+  {
+    "text": " Ed. Did you Were you raised in",
+    "start": 3461.2,
+    "duration": 3.919
+  },
+  {
+    "text": "California? No, I'm from uh Bethesda,",
+    "start": 3463.04,
+    "duration": 3.44
+  },
+  {
+    "text": "Maryland, but I was lucky enough to get",
+    "start": 3465.119,
+    "duration": 3.281
+  },
+  {
+    "text": "in as an out of state student undergrad.",
+    "start": 3466.48,
+    "duration": 3.44
+  },
+  {
+    "text": "And did you stick in the Bay Area? Yeah,",
+    "start": 3468.4,
+    "duration": 2.8
+  },
+  {
+    "text": "I'm here in San Francisco. Oh, that's",
+    "start": 3469.92,
+    "duration": 2.879
+  },
+  {
+    "text": "great. Love to hear that. Sorry. Can",
+    "start": 3471.2,
+    "duration": 3.919
+  },
+  {
+    "text": "please continue it. I'm done. That's the",
+    "start": 3472.799,
+    "duration": 4.721
+  },
+  {
+    "text": "outro. Thank you for joining us, Ryan.",
+    "start": 3475.119,
+    "duration": 4.801
+  },
+  {
+    "text": "Ryan, you're you're you've got this",
+    "start": 3477.52,
+    "duration": 4.0
+  },
+  {
+    "text": "great I think you actually should",
+    "start": 3479.92,
+    "duration": 3.52
+  },
+  {
+    "text": "command the space you occupy. You have",
+    "start": 3481.52,
+    "duration": 4.559
+  },
+  {
+    "text": "this kind of firebrand, I don't know,",
+    "start": 3483.44,
+    "duration": 4.639
+  },
+  {
+    "text": "reputation as this sort of maverick",
+    "start": 3486.079,
+    "duration": 5.04
+  },
+  {
+    "text": "entrepreneur who's kind of shoots first",
+    "start": 3488.079,
+    "duration": 4.561
+  },
+  {
+    "text": "and ask questions later. I think you're",
+    "start": 3491.119,
+    "duration": 3.041
+  },
+  {
+    "text": "just the voice that small business",
+    "start": 3492.64,
+    "duration": 3.439
+  },
+  {
+    "text": "needs. I'm trying. I mean, my customers",
+    "start": 3494.16,
+    "duration": 3.12
+  },
+  {
+    "text": "certainly appreciate it. That's why I'm",
+    "start": 3496.079,
+    "duration": 2.641
+  },
+  {
+    "text": "doing more and more. I want them to see",
+    "start": 3497.28,
+    "duration": 3.039
+  },
+  {
+    "text": "that we got their back. Yeah. Well, I",
+    "start": 3498.72,
+    "duration": 3.119
+  },
+  {
+    "text": "think you do. Keep on keeping on, my",
+    "start": 3500.319,
+    "duration": 3.28
+  },
+  {
+    "text": "brother. I love seeing stuff from you",
+    "start": 3501.839,
+    "duration": 3.28
+  },
+  {
+    "text": "and I think you're I don't know. I think",
+    "start": 3503.599,
+    "duration": 2.881
+  },
+  {
+    "text": "you're bold and I love what you said",
+    "start": 3505.119,
+    "duration": 3.521
+  },
+  {
+    "text": "that founders aren't as worried about",
+    "start": 3506.48,
+    "duration": 4.72
+  },
+  {
+    "text": "being fired.",
+    "start": 3508.64,
+    "duration": 4.479
+  },
+  {
+    "text": "It's sort of the silver bullet to the",
+    "start": 3511.2,
+    "duration": 3.599
+  },
+  {
+    "text": "the questions we've been asking. Fly",
+    "start": 3513.119,
+    "duration": 4.96
+  },
+  {
+    "text": "your freak flag. I love that. Can't get",
+    "start": 3514.799,
+    "duration": 5.04
+  },
+  {
+    "text": "rid of you. So, thanks very much for",
+    "start": 3518.079,
+    "duration": 3.121
+  },
+  {
+    "text": "your time. Thanks, Ryan. All right. Take",
+    "start": 3519.839,
+    "duration": 3.231
+  },
+  {
+    "text": "care, guys.",
+    "start": 3521.2,
+    "duration": 10.08
+  },
+  {
+    "text": "[Music]",
+    "start": 3523.07,
+    "duration": 9.69
+  },
+  {
+    "text": "Alpha of",
+    "start": 3531.28,
+    "duration": 4.039
+  },
+  {
+    "text": "Wealth. It's got",
+    "start": 3532.76,
+    "duration": 6.359
+  },
+  {
+    "text": "Ryan painted kind of a dark picture for",
+    "start": 3535.319,
+    "duration": 5.721
+  },
+  {
+    "text": "small and medium-sized business owners",
+    "start": 3539.119,
+    "duration": 5.281
+  },
+  {
+    "text": "in America in that interview. And I",
+    "start": 3541.04,
+    "duration": 5.6
+  },
+  {
+    "text": "believe him. I mean, he has the probably",
+    "start": 3544.4,
+    "duration": 5.56
+  },
+  {
+    "text": "the greatest and the the the",
+    "start": 3546.64,
+    "duration": 6.719
+  },
+  {
+    "text": "most colorful understanding of what is",
+    "start": 3549.96,
+    "duration": 5.56
+  },
+  {
+    "text": "actually happening in our supply chains.",
+    "start": 3553.359,
+    "duration": 4.801
+  },
+  {
+    "text": "for any small business owners or even",
+    "start": 3555.52,
+    "duration": 4.799
+  },
+  {
+    "text": "employees at these small businesses who",
+    "start": 3558.16,
+    "duration": 4.8
+  },
+  {
+    "text": "rely on trade and maybe on trade with",
+    "start": 3560.319,
+    "duration": 4.8
+  },
+  {
+    "text": "China, what would be your advice to them",
+    "start": 3562.96,
+    "duration": 5.44
+  },
+  {
+    "text": "and what would be perhaps a message of",
+    "start": 3565.119,
+    "duration": 6.881
+  },
+  {
+    "text": "optimism uh or sanity to deal with what",
+    "start": 3568.4,
+    "duration": 5.76
+  },
+  {
+    "text": "Ryan just told us? What I would say is",
+    "start": 3572.0,
+    "duration": 5.04
+  },
+  {
+    "text": "that well one you can only control what",
+    "start": 3574.16,
+    "duration": 5.52
+  },
+  {
+    "text": "you can control and that is all right go",
+    "start": 3577.04,
+    "duration": 3.92
+  },
+  {
+    "text": "to the bank see if you can get an",
+    "start": 3579.68,
+    "duration": 2.96
+  },
+  {
+    "text": "increase in credit slow down the",
+    "start": 3580.96,
+    "duration": 3.44
+  },
+  {
+    "text": "shipments",
+    "start": 3582.64,
+    "duration": 4.12
+  },
+  {
+    "text": "um you know think about how you save",
+    "start": 3584.4,
+    "duration": 4.959
+  },
+  {
+    "text": "money you know does it involve layoffs",
+    "start": 3586.76,
+    "duration": 4.2
+  },
+  {
+    "text": "to try and extend your runway there's",
+    "start": 3589.359,
+    "duration": 3.281
+  },
+  {
+    "text": "some just very hard decisions you have",
+    "start": 3590.96,
+    "duration": 2.96
+  },
+  {
+    "text": "to make you know your business better",
+    "start": 3592.64,
+    "duration": 3.84
+  },
+  {
+    "text": "than me but you can control only what",
+    "start": 3593.92,
+    "duration": 4.56
+  },
+  {
+    "text": "you can control",
+    "start": 3596.48,
+    "duration": 4.24
+  },
+  {
+    "text": "uh the other thing I would keep in mind",
+    "start": 3598.48,
+    "duration": 4.0
+  },
+  {
+    "text": "that has always played out for me not",
+    "start": 3600.72,
+    "duration": 3.2
+  },
+  {
+    "text": "only businessman in life is that",
+    "start": 3602.48,
+    "duration": 3.8
+  },
+  {
+    "text": "nothing's ever as good or as bad as it",
+    "start": 3603.92,
+    "duration": 5.439
+  },
+  {
+    "text": "seems. And then generally speaking, you",
+    "start": 3606.28,
+    "duration": 4.76
+  },
+  {
+    "text": "look back on situations like this and",
+    "start": 3609.359,
+    "duration": 3.72
+  },
+  {
+    "text": "go, \"Okay, it wasn't as bad as I",
+    "start": 3611.04,
+    "duration": 4.88
+  },
+  {
+    "text": "thought.\" Um because it could I do think",
+    "start": 3613.079,
+    "duration": 4.28
+  },
+  {
+    "text": "what Ryan was saying that they're going",
+    "start": 3615.92,
+    "duration": 4.24
+  },
+  {
+    "text": "to blink and the tariffs could be um the",
+    "start": 3617.359,
+    "duration": 5.2
+  },
+  {
+    "text": "tariffs could be off. And also even",
+    "start": 3620.16,
+    "duration": 5.28
+  },
+  {
+    "text": "imagining the worst case scenario. I",
+    "start": 3622.559,
+    "duration": 5.76
+  },
+  {
+    "text": "remember when a variety of things moons",
+    "start": 3625.44,
+    "duration": 5.159
+  },
+  {
+    "text": "lined up in a very negative way when I",
+    "start": 3628.319,
+    "duration": 5.601
+  },
+  {
+    "text": "was had done a proxy fight taken control",
+    "start": 3630.599,
+    "duration": 5.161
+  },
+  {
+    "text": "of the border red envelope came back in",
+    "start": 3633.92,
+    "duration": 3.28
+  },
+  {
+    "text": "like the you know like MacArthur",
+    "start": 3635.76,
+    "duration": 3.599
+  },
+  {
+    "text": "returning to the Philippines and then we",
+    "start": 3637.2,
+    "duration": 3.919
+  },
+  {
+    "text": "had the great financial recession. our",
+    "start": 3639.359,
+    "duration": 3.44
+  },
+  {
+    "text": "credit line got pulled and we had a",
+    "start": 3641.119,
+    "duration": 4.081
+  },
+  {
+    "text": "software glitch when sent out 10,000",
+    "start": 3642.799,
+    "duration": 4.32
+  },
+  {
+    "text": "gifts to the wrong address and we went",
+    "start": 3645.2,
+    "duration": 4.96
+  },
+  {
+    "text": "from a stock of $7 to chapter 11 in like",
+    "start": 3647.119,
+    "duration": 5.041
+  },
+  {
+    "text": "two weeks and I was just devastated. I",
+    "start": 3650.16,
+    "duration": 4.56
+  },
+  {
+    "text": "lost everything and it and just such an",
+    "start": 3652.16,
+    "duration": 3.84
+  },
+  {
+    "text": "emotional investment. I'd been in the",
+    "start": 3654.72,
+    "duration": 5.04
+  },
+  {
+    "text": "company 10 years and I ended up",
+    "start": 3656.0,
+    "duration": 6.559
+  },
+  {
+    "text": "strangely a year later or 6 months later",
+    "start": 3659.76,
+    "duration": 4.48
+  },
+  {
+    "text": "some hedge funds called me and said",
+    "start": 3662.559,
+    "duration": 3.441
+  },
+  {
+    "text": "we've been watching the proxy fight at",
+    "start": 3664.24,
+    "duration": 4.24
+  },
+  {
+    "text": "Red Envelope and you're crazy. Well,",
+    "start": 3666.0,
+    "duration": 4.4
+  },
+  {
+    "text": "thanks for that. And but they said, \"But",
+    "start": 3668.48,
+    "duration": 3.52
+  },
+  {
+    "text": "you're are kind of crazy. Would you be",
+    "start": 3670.4,
+    "duration": 3.52
+  },
+  {
+    "text": "interested in us? We have some stock in",
+    "start": 3672.0,
+    "duration": 2.88
+  },
+  {
+    "text": "some companies that we think are",
+    "start": 3673.92,
+    "duration": 2.72
+  },
+  {
+    "text": "underperforming. Would you be interested",
+    "start": 3674.88,
+    "duration": 3.439
+  },
+  {
+    "text": "if we had bought some more stock? Would",
+    "start": 3676.64,
+    "duration": 3.36
+  },
+  {
+    "text": "would you be interested in co-investing",
+    "start": 3678.319,
+    "duration": 3.921
+  },
+  {
+    "text": "and in getting involved in an activist",
+    "start": 3680.0,
+    "duration": 4.16
+  },
+  {
+    "text": "play with us?\" I I would have never",
+    "start": 3682.24,
+    "duration": 4.079
+  },
+  {
+    "text": "thought that Red Envelope going out of",
+    "start": 3684.16,
+    "duration": 4.48
+  },
+  {
+    "text": "business after I had waged this public",
+    "start": 3686.319,
+    "duration": 5.361
+  },
+  {
+    "text": "war against the board would result in",
+    "start": 3688.64,
+    "duration": 5.04
+  },
+  {
+    "text": "opportunities for me. I just would have",
+    "start": 3691.68,
+    "duration": 3.6
+  },
+  {
+    "text": "I in a million years I could have never",
+    "start": 3693.68,
+    "duration": 3.84
+  },
+  {
+    "text": "thought that. So, one, control what you",
+    "start": 3695.28,
+    "duration": 4.64
+  },
+  {
+    "text": "can control. Two, recognize that",
+    "start": 3697.52,
+    "duration": 4.48
+  },
+  {
+    "text": "whatever you're feeling right now, if",
+    "start": 3699.92,
+    "duration": 3.52
+  },
+  {
+    "text": "it's bad, it's probably not as bad as",
+    "start": 3702.0,
+    "duration": 2.88
+  },
+  {
+    "text": "what you're feeling. And also, sometimes",
+    "start": 3703.44,
+    "duration": 2.8
+  },
+  {
+    "text": "when things are really good, it's",
+    "start": 3704.88,
+    "duration": 3.199
+  },
+  {
+    "text": "probably the situation isn't as good as",
+    "start": 3706.24,
+    "duration": 4.559
+  },
+  {
+    "text": "you think it is. And also, you just",
+    "start": 3708.079,
+    "duration": 5.04
+  },
+  {
+    "text": "don't know what kind of opportunities",
+    "start": 3710.799,
+    "duration": 4.161
+  },
+  {
+    "text": "might open up. Even if the worst thing",
+    "start": 3713.119,
+    "duration": 3.761
+  },
+  {
+    "text": "possible happens, you just don't know.",
+    "start": 3714.96,
+    "duration": 4.159
+  },
+  {
+    "text": "And but again, nothing's ever as good or",
+    "start": 3716.88,
+    "duration": 4.32
+  },
+  {
+    "text": "as bad as it seems. Thank you for",
+    "start": 3719.119,
+    "duration": 3.841
+  },
+  {
+    "text": "listening to Profit Markets from the Vox",
+    "start": 3721.2,
+    "duration": 3.919
+  },
+  {
+    "text": "Media Podcast Network. If you liked what",
+    "start": 3722.96,
+    "duration": 4.399
+  },
+  {
+    "text": "you heard, give us a follow and join us",
+    "start": 3725.119,
+    "duration": 6.041
+  },
+  {
+    "text": "for a fresh take on markets on Monday.",
+    "start": 3727.359,
+    "duration": 12.711
+  },
+  {
+    "text": "[Music]",
+    "start": 3731.16,
+    "duration": 8.91
+  }
+]
