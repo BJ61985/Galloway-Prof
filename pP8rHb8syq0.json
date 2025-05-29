@@ -1,0 +1,3622 @@
+[
+  {
+    "text": "Welcome to Office Hours with Prop G.",
+    "start": 1.12,
+    "duration": 3.12
+  },
+  {
+    "text": "This is the part of the show where we",
+    "start": 2.879,
+    "duration": 2.641
+  },
+  {
+    "text": "answer questions about business, big",
+    "start": 4.24,
+    "duration": 2.559
+  },
+  {
+    "text": "tech, entrepreneurship, and whatever",
+    "start": 5.52,
+    "duration": 3.92
+  },
+  {
+    "text": "else is on your mind. Today, we've got",
+    "start": 6.799,
+    "duration": 4.481
+  },
+  {
+    "text": "two great listener questions lined up.",
+    "start": 9.44,
+    "duration": 3.04
+  },
+  {
+    "text": "And then after the break, we're",
+    "start": 11.28,
+    "duration": 3.519
+  },
+  {
+    "text": "introducing something new. The Reddit",
+    "start": 12.48,
+    "duration": 5.2
+  },
+  {
+    "text": "hotline. Oh my god, it's not the red",
+    "start": 14.799,
+    "duration": 4.64
+  },
+  {
+    "text": "phone, it's not the bat phone, it's the",
+    "start": 17.68,
+    "duration": 4.56
+  },
+  {
+    "text": "Reddit hotline where we pull questions",
+    "start": 19.439,
+    "duration": 4.961
+  },
+  {
+    "text": "straight from Reddit. If you'd like to",
+    "start": 22.24,
+    "duration": 4.959
+  },
+  {
+    "text": "submit a question for next time, you can",
+    "start": 24.4,
+    "duration": 4.52
+  },
+  {
+    "text": "send a voice recording to office hours",
+    "start": 27.199,
+    "duration": 3.641
+  },
+  {
+    "text": "ofproofymedia.com. Again, that's office",
+    "start": 28.92,
+    "duration": 3.639
+  },
+  {
+    "text": "hoursprofitmedia.com. Or if you prefer",
+    "start": 30.84,
+    "duration": 4.52
+  },
+  {
+    "text": "to ask on Reddit, post your question on",
+    "start": 32.559,
+    "duration": 5.441
+  },
+  {
+    "text": "the Scott Galloway subreddit. That's",
+    "start": 35.36,
+    "duration": 4.24
+  },
+  {
+    "text": "scary. Which must be flying around",
+    "start": 38.0,
+    "duration": 3.84
+  },
+  {
+    "text": "on that thing and we just might feature",
+    "start": 39.6,
+    "duration": 5.36
+  },
+  {
+    "text": "it in our next episode. By the way, just",
+    "start": 41.84,
+    "duration": 4.559
+  },
+  {
+    "text": "a little bit of insight. Let's let's",
+    "start": 44.96,
+    "duration": 4.24
+  },
+  {
+    "text": "bring this back to me. Uh, so we did in",
+    "start": 46.399,
+    "duration": 4.801
+  },
+  {
+    "text": "South by Southwest, we did a party or",
+    "start": 49.2,
+    "duration": 3.44
+  },
+  {
+    "text": "Vox did a party, which is basically",
+    "start": 51.2,
+    "duration": 2.4
+  },
+  {
+    "text": "where they feature all their",
+    "start": 52.64,
+    "duration": 2.48
+  },
+  {
+    "text": "quoteunquote talent or lack thereof,",
+    "start": 53.6,
+    "duration": 2.959
+  },
+  {
+    "text": "their podcasters to try and get",
+    "start": 55.12,
+    "duration": 4.04
+  },
+  {
+    "text": "advertisers to advertise more on our",
+    "start": 56.559,
+    "duration": 5.84
+  },
+  {
+    "text": "podcasts. And uh, they let out some",
+    "start": 59.16,
+    "duration": 5.24
+  },
+  {
+    "text": "information. Basically, Vox, like every",
+    "start": 62.399,
+    "duration": 3.481
+  },
+  {
+    "text": "other organization, holds on to",
+    "start": 64.4,
+    "duration": 3.759
+  },
+  {
+    "text": "information like nuclear codes because",
+    "start": 65.88,
+    "duration": 3.96
+  },
+  {
+    "text": "an asymmetry of information creates",
+    "start": 68.159,
+    "duration": 3.201
+  },
+  {
+    "text": "advantage for the people who have the",
+    "start": 69.84,
+    "duration": 3.84
+  },
+  {
+    "text": "information. But they did let out the",
+    "start": 71.36,
+    "duration": 4.56
+  },
+  {
+    "text": "following that one of our or our fastest",
+    "start": 73.68,
+    "duration": 4.96
+  },
+  {
+    "text": "growing segment of anything I do across",
+    "start": 75.92,
+    "duration": 4.32
+  },
+  {
+    "text": "this entire I'm let's be honest I'm a",
+    "start": 78.64,
+    "duration": 3.36
+  },
+  {
+    "text": "total podcast tour. I'm like hey",
+    "start": 80.24,
+    "duration": 3.04
+  },
+  {
+    "text": "stranger what's your name? Another",
+    "start": 82.0,
+    "duration": 4.159
+  },
+  {
+    "text": "podcast sure why not. Uh but the pod",
+    "start": 83.28,
+    "duration": 4.96
+  },
+  {
+    "text": "that's doing or growing the fastest is",
+    "start": 86.159,
+    "duration": 3.64
+  },
+  {
+    "text": "actually office",
+    "start": 88.24,
+    "duration": 4.239
+  },
+  {
+    "text": "hours. And uh office hours the vision",
+    "start": 89.799,
+    "duration": 5.081
+  },
+  {
+    "text": "for office hours was when my mom and I I",
+    "start": 92.479,
+    "duration": 4.64
+  },
+  {
+    "text": "moved in with uh with my mom for about",
+    "start": 94.88,
+    "duration": 4.72
+  },
+  {
+    "text": "eight months when she was uh very sick.",
+    "start": 97.119,
+    "duration": 4.241
+  },
+  {
+    "text": "And what one of the things we used to do",
+    "start": 99.6,
+    "duration": 3.44
+  },
+  {
+    "text": "was we would watch her favorite show,",
+    "start": 101.36,
+    "duration": 5.119
+  },
+  {
+    "text": "Frraasier, and I based office hours on",
+    "start": 103.04,
+    "duration": 6.8
+  },
+  {
+    "text": "um the Colin show on Frasier. Anyways,",
+    "start": 106.479,
+    "duration": 5.761
+  },
+  {
+    "text": "uh welcome. Uh hi, this is Dr. Crane,",
+    "start": 109.84,
+    "duration": 5.84
+  },
+  {
+    "text": "and I'm listening. First question.",
+    "start": 112.24,
+    "duration": 5.839
+  },
+  {
+    "text": "Hey, baby.",
+    "start": 115.68,
+    "duration": 4.799
+  },
+  {
+    "text": "Hi, Prof. Uh this is Brian from New",
+    "start": 118.079,
+    "duration": 4.0
+  },
+  {
+    "text": "Jersey and I wanted to say thanks for",
+    "start": 120.479,
+    "duration": 3.521
+  },
+  {
+    "text": "doing such a great job offering an",
+    "start": 122.079,
+    "duration": 4.481
+  },
+  {
+    "text": "analysis on a wide range of topics and",
+    "start": 124.0,
+    "duration": 4.479
+  },
+  {
+    "text": "your genuine concern for people despite",
+    "start": 126.56,
+    "duration": 4.16
+  },
+  {
+    "text": "party politics. I'm involved with the",
+    "start": 128.479,
+    "duration": 4.081
+  },
+  {
+    "text": "small successful school adjacent to New",
+    "start": 130.72,
+    "duration": 4.0
+  },
+  {
+    "text": "York City that exists solely on tuition.",
+    "start": 132.56,
+    "duration": 4.0
+  },
+  {
+    "text": "Last week I heard you talking with Jess",
+    "start": 134.72,
+    "duration": 4.879
+  },
+  {
+    "text": "Tarlov about school choice. But the",
+    "start": 136.56,
+    "duration": 5.92
+  },
+  {
+    "text": "reality is not everyone who sends their",
+    "start": 139.599,
+    "duration": 4.481
+  },
+  {
+    "text": "children to a private school are doing",
+    "start": 142.48,
+    "duration": 4.0
+  },
+  {
+    "text": "so from a place of excess. The public",
+    "start": 144.08,
+    "duration": 4.239
+  },
+  {
+    "text": "schools in our area are overcrowded and",
+    "start": 146.48,
+    "duration": 3.6
+  },
+  {
+    "text": "parents have little to no say about what",
+    "start": 148.319,
+    "duration": 3.041
+  },
+  {
+    "text": "their children are learning or",
+    "start": 150.08,
+    "duration": 3.6
+  },
+  {
+    "text": "experiencing. Do you see any value, even",
+    "start": 151.36,
+    "duration": 5.04
+  },
+  {
+    "text": "if it was a means-ested program for some",
+    "start": 153.68,
+    "duration": 6.08
+  },
+  {
+    "text": "sort of voucher or tax incentive to take",
+    "start": 156.4,
+    "duration": 4.96
+  },
+  {
+    "text": "children from the public school and",
+    "start": 159.76,
+    "duration": 3.839
+  },
+  {
+    "text": "support smaller schools that run more",
+    "start": 161.36,
+    "duration": 4.32
+  },
+  {
+    "text": "efficiently? From my very slanted",
+    "start": 163.599,
+    "duration": 4.081
+  },
+  {
+    "text": "perspective, for a third of the money of",
+    "start": 165.68,
+    "duration": 3.76
+  },
+  {
+    "text": "public schools, we're doing a better",
+    "start": 167.68,
+    "duration": 4.88
+  },
+  {
+    "text": "job. And at the same time, if the public",
+    "start": 169.44,
+    "duration": 5.439
+  },
+  {
+    "text": "schools were getting 2/3 of the money",
+    "start": 172.56,
+    "duration": 4.64
+  },
+  {
+    "text": "not to have a child in the classroom,",
+    "start": 174.879,
+    "duration": 4.64
+  },
+  {
+    "text": "they could devote more resources to the",
+    "start": 177.2,
+    "duration": 4.319
+  },
+  {
+    "text": "children who are there. Thanks for",
+    "start": 179.519,
+    "duration": 3.521
+  },
+  {
+    "text": "listening and I really look forward to",
+    "start": 181.519,
+    "duration": 4.161
+  },
+  {
+    "text": "your answer. So, let me be clear and I",
+    "start": 183.04,
+    "duration": 4.32
+  },
+  {
+    "text": "want to acknowledge up front there's no",
+    "start": 185.68,
+    "duration": 3.199
+  },
+  {
+    "text": "there's no such thing as a perfect",
+    "start": 187.36,
+    "duration": 3.36
+  },
+  {
+    "text": "solution where everybody wins. I I think",
+    "start": 188.879,
+    "duration": 3.521
+  },
+  {
+    "text": "you make a solid argument for why there",
+    "start": 190.72,
+    "duration": 3.84
+  },
+  {
+    "text": "are instances where vouchers probably",
+    "start": 192.4,
+    "duration": 5.36
+  },
+  {
+    "text": "help good people afford programs, maybe",
+    "start": 194.56,
+    "duration": 5.08
+  },
+  {
+    "text": "put some competition on the public",
+    "start": 197.76,
+    "duration": 4.64
+  },
+  {
+    "text": "schools. When I look at so the US is",
+    "start": 199.64,
+    "duration": 4.519
+  },
+  {
+    "text": "strange. Our K through2 is some of the",
+    "start": 202.4,
+    "duration": 4.08
+  },
+  {
+    "text": "worst in the modern or G7 economy, but",
+    "start": 204.159,
+    "duration": 4.08
+  },
+  {
+    "text": "our universities are some of the best",
+    "start": 206.48,
+    "duration": 4.88
+  },
+  {
+    "text": "and our education or our economy is",
+    "start": 208.239,
+    "duration": 4.56
+  },
+  {
+    "text": "beating everybody. So a lot of people",
+    "start": 211.36,
+    "duration": 3.2
+  },
+  {
+    "text": "would just do the analysis and say,",
+    "start": 212.799,
+    "duration": 3.36
+  },
+  {
+    "text": "well, shitty K through 12, that's sort",
+    "start": 214.56,
+    "duration": 4.0
+  },
+  {
+    "text": "of the Hunger Games. you have rich",
+    "start": 216.159,
+    "duration": 3.841
+  },
+  {
+    "text": "parents or you're excellent and somehow",
+    "start": 218.56,
+    "duration": 3.44
+  },
+  {
+    "text": "you find a way to a good college seems",
+    "start": 220.0,
+    "duration": 3.519
+  },
+  {
+    "text": "to be working for the US economy. The",
+    "start": 222.0,
+    "duration": 4.159
+  },
+  {
+    "text": "problem is I think it results in a lot",
+    "start": 223.519,
+    "duration": 5.201
+  },
+  {
+    "text": "of obesity, anxiety, young people",
+    "start": 226.159,
+    "duration": 4.961
+  },
+  {
+    "text": "without the skills to thrive in this",
+    "start": 228.72,
+    "duration": 4.239
+  },
+  {
+    "text": "economy that don't have a lot of",
+    "start": 231.12,
+    "duration": 3.52
+  },
+  {
+    "text": "economic power and probably I don't want",
+    "start": 232.959,
+    "duration": 3.121
+  },
+  {
+    "text": "to say get exploited but leverage for",
+    "start": 234.64,
+    "duration": 4.08
+  },
+  {
+    "text": "minimum wage that should be $23 an hour",
+    "start": 236.08,
+    "duration": 5.04
+  },
+  {
+    "text": "not 725 based on productivity or just",
+    "start": 238.72,
+    "duration": 5.04
+  },
+  {
+    "text": "inflation. So I feel as if the public",
+    "start": 241.12,
+    "duration": 4.96
+  },
+  {
+    "text": "school system is yet another example of",
+    "start": 243.76,
+    "duration": 3.839
+  },
+  {
+    "text": "not a direct conspiracy but the",
+    "start": 246.08,
+    "duration": 3.28
+  },
+  {
+    "text": "accidental conspiracy of creating the",
+    "start": 247.599,
+    "duration": 6.0
+  },
+  {
+    "text": "bottom 90% who become very cheap inputs",
+    "start": 249.36,
+    "duration": 6.079
+  },
+  {
+    "text": "for shareholders of bigger companies",
+    "start": 253.599,
+    "duration": 3.281
+  },
+  {
+    "text": "that know how to manage the information",
+    "start": 255.439,
+    "duration": 3.121
+  },
+  {
+    "text": "economy and end up quite frankly just",
+    "start": 256.88,
+    "duration": 4.16
+  },
+  {
+    "text": "being exploited and paying a lot of",
+    "start": 258.56,
+    "duration": 4.24
+  },
+  {
+    "text": "money for shitty sugary food and then",
+    "start": 261.04,
+    "duration": 3.12
+  },
+  {
+    "text": "becoming obese and then being handed",
+    "start": 262.8,
+    "duration": 3.2
+  },
+  {
+    "text": "over to the diabetes industrial complex.",
+    "start": 264.16,
+    "duration": 4.24
+  },
+  {
+    "text": "So I don't part of that system though is",
+    "start": 266.0,
+    "duration": 4.4
+  },
+  {
+    "text": "I think that when I look at healthy",
+    "start": 268.4,
+    "duration": 4.96
+  },
+  {
+    "text": "societies where there's low childhood",
+    "start": 270.4,
+    "duration": 4.64
+  },
+  {
+    "text": "obesity they have a private school",
+    "start": 273.36,
+    "duration": 3.36
+  },
+  {
+    "text": "option but essentially there's just much",
+    "start": 275.04,
+    "duration": 3.64
+  },
+  {
+    "text": "more focus on the resources and",
+    "start": 276.72,
+    "duration": 5.6
+  },
+  {
+    "text": "measurements for uh good public schools.",
+    "start": 278.68,
+    "duration": 5.079
+  },
+  {
+    "text": "On average American public school",
+    "start": 282.32,
+    "duration": 3.439
+  },
+  {
+    "text": "teachers make roughly 70,000 annually",
+    "start": 283.759,
+    "duration": 3.761
+  },
+  {
+    "text": "while their private counterparts make",
+    "start": 285.759,
+    "duration": 3.44
+  },
+  {
+    "text": "about 50k. So you're absolutely right.",
+    "start": 287.52,
+    "duration": 3.28
+  },
+  {
+    "text": "It appears that on average public",
+    "start": 289.199,
+    "duration": 4.081
+  },
+  {
+    "text": "schools are paying people 40% more cuz",
+    "start": 290.8,
+    "duration": 5.44
+  },
+  {
+    "text": "quite frankly you end up with probably a",
+    "start": 293.28,
+    "duration": 4.4
+  },
+  {
+    "text": "more difficult situation with a lot of",
+    "start": 296.24,
+    "duration": 2.959
+  },
+  {
+    "text": "low-income kids that probably bring a",
+    "start": 297.68,
+    "duration": 4.56
+  },
+  {
+    "text": "lot of anger. Maybe uh single parent",
+    "start": 299.199,
+    "duration": 4.801
+  },
+  {
+    "text": "home where they the parents can't be",
+    "start": 302.24,
+    "duration": 4.08
+  },
+  {
+    "text": "involved in the kids' life, whatever,",
+    "start": 304.0,
+    "duration": 3.759
+  },
+  {
+    "text": "you know, whatever the excuse is. But",
+    "start": 306.32,
+    "duration": 2.96
+  },
+  {
+    "text": "public school teachers that the market",
+    "start": 307.759,
+    "duration": 3.841
+  },
+  {
+    "text": "is saying we need to pay them more and",
+    "start": 309.28,
+    "duration": 4.6
+  },
+  {
+    "text": "private schools don't have to pay as",
+    "start": 311.6,
+    "duration": 5.2
+  },
+  {
+    "text": "much. Um despite this, private school",
+    "start": 313.88,
+    "duration": 4.44
+  },
+  {
+    "text": "students consistently score better on",
+    "start": 316.8,
+    "duration": 3.6
+  },
+  {
+    "text": "assessments in almost every subject. And",
+    "start": 318.32,
+    "duration": 4.4
+  },
+  {
+    "text": "some teachers increased wages don't",
+    "start": 320.4,
+    "duration": 3.6
+  },
+  {
+    "text": "necessarily correlate with better",
+    "start": 322.72,
+    "duration": 3.039
+  },
+  {
+    "text": "outcomes. Why? Because the public school",
+    "start": 324.0,
+    "duration": 4.88
+  },
+  {
+    "text": "system is riddled with bureaucracy quite",
+    "start": 325.759,
+    "duration": 4.641
+  },
+  {
+    "text": "frankly. And I think this kind of",
+    "start": 328.88,
+    "duration": 3.12
+  },
+  {
+    "text": "buttresses your point. In America, there",
+    "start": 330.4,
+    "duration": 3.2
+  },
+  {
+    "text": "are four times as many administrators in",
+    "start": 332.0,
+    "duration": 3.84
+  },
+  {
+    "text": "the public education system than there",
+    "start": 333.6,
+    "duration": 5.039
+  },
+  {
+    "text": "were in the 1950s. In 2015, the New York",
+    "start": 335.84,
+    "duration": 4.24
+  },
+  {
+    "text": "State School Board Association found",
+    "start": 338.639,
+    "duration": 3.361
+  },
+  {
+    "text": "that firing an incompetent teacher takes",
+    "start": 340.08,
+    "duration": 5.0
+  },
+  {
+    "text": "an average of 830 days and cost",
+    "start": 342.0,
+    "duration": 5.919
+  },
+  {
+    "text": "$313,000. The good news, school choice",
+    "start": 345.08,
+    "duration": 4.52
+  },
+  {
+    "text": "bills or laws that allow states to award",
+    "start": 347.919,
+    "duration": 3.28
+  },
+  {
+    "text": "vouchers to the parents of students in",
+    "start": 349.6,
+    "duration": 4.159
+  },
+  {
+    "text": "non-public schools are on the rise. Uh",
+    "start": 351.199,
+    "duration": 4.241
+  },
+  {
+    "text": "this is true even across party lines. A",
+    "start": 353.759,
+    "duration": 3.601
+  },
+  {
+    "text": "2024 poll of registered voters found",
+    "start": 355.44,
+    "duration": 4.0
+  },
+  {
+    "text": "that 83% of Republicans, 69% of",
+    "start": 357.36,
+    "duration": 3.679
+  },
+  {
+    "text": "independents, and 70% of Democrats say",
+    "start": 359.44,
+    "duration": 4.0
+  },
+  {
+    "text": "they strongly or somewhat support school",
+    "start": 361.039,
+    "duration": 5.16
+  },
+  {
+    "text": "choice. I am really torn on this",
+    "start": 363.44,
+    "duration": 5.199
+  },
+  {
+    "text": "because what I have seen is the net",
+    "start": 366.199,
+    "duration": 5.241
+  },
+  {
+    "text": "effect of school choice or vouchers just",
+    "start": 368.639,
+    "duration": 5.68
+  },
+  {
+    "text": "subsidizes wealthy people who were going",
+    "start": 371.44,
+    "duration": 4.72
+  },
+  {
+    "text": "to send their kids to public or to",
+    "start": 374.319,
+    "duration": 5.361
+  },
+  {
+    "text": "private schools anyways. And this is",
+    "start": 376.16,
+    "duration": 5.2
+  },
+  {
+    "text": "pulse marketing, but my kids were at",
+    "start": 379.68,
+    "duration": 4.16
+  },
+  {
+    "text": "this lovely private school in uh",
+    "start": 381.36,
+    "duration": 4.48
+  },
+  {
+    "text": "Gulfream, Florida called Gulfream that",
+    "start": 383.84,
+    "duration": 4.479
+  },
+  {
+    "text": "costs 18 or 20 grand. And the idea that",
+    "start": 385.84,
+    "duration": 4.639
+  },
+  {
+    "text": "we were going to give or that people in",
+    "start": 388.319,
+    "duration": 4.72
+  },
+  {
+    "text": "the local community would get $10,000",
+    "start": 390.479,
+    "duration": 4.56
+  },
+  {
+    "text": "towards a school. I think all that would",
+    "start": 393.039,
+    "duration": 4.481
+  },
+  {
+    "text": "have done was of the 230 families, 200",
+    "start": 395.039,
+    "duration": 3.88
+  },
+  {
+    "text": "of them would have just gotten a $2",
+    "start": 397.52,
+    "duration": 5.519
+  },
+  {
+    "text": "million tax break and taken money away",
+    "start": 398.919,
+    "duration": 5.881
+  },
+  {
+    "text": "from Atlantic, the high school, which is",
+    "start": 403.039,
+    "duration": 3.6
+  },
+  {
+    "text": "actually a pretty good high school that",
+    "start": 404.8,
+    "duration": 3.519
+  },
+  {
+    "text": "they desperately need. Now, are there",
+    "start": 406.639,
+    "duration": 3.761
+  },
+  {
+    "text": "probably middle class families that",
+    "start": 408.319,
+    "duration": 4.16
+  },
+  {
+    "text": "would be able to attend a better school",
+    "start": 410.4,
+    "duration": 5.519
+  },
+  {
+    "text": "because of that $10,000 voucher? Yes. Is",
+    "start": 412.479,
+    "duration": 6.881
+  },
+  {
+    "text": "it good to have competition put on",
+    "start": 415.919,
+    "duration": 4.881
+  },
+  {
+    "text": "public schools? Yes. When we're talking",
+    "start": 419.36,
+    "duration": 2.959
+  },
+  {
+    "text": "about education though, I mean, it gets",
+    "start": 420.8,
+    "duration": 3.119
+  },
+  {
+    "text": "so complicated so fast. So, the",
+    "start": 422.319,
+    "duration": 3.121
+  },
+  {
+    "text": "Department of Education is supposedly on",
+    "start": 423.919,
+    "duration": 4.161
+  },
+  {
+    "text": "the chopping block. And I'm not one of",
+    "start": 425.44,
+    "duration": 3.84
+  },
+  {
+    "text": "these people that doesn't think the",
+    "start": 428.08,
+    "duration": 2.72
+  },
+  {
+    "text": "Department of Education should, you",
+    "start": 429.28,
+    "duration": 3.52
+  },
+  {
+    "text": "know, is this it used to be sort of this",
+    "start": 430.8,
+    "duration": 3.44
+  },
+  {
+    "text": "virtue signaling. Everyone rallied",
+    "start": 432.8,
+    "duration": 3.36
+  },
+  {
+    "text": "around it. I think it should probably be",
+    "start": 434.24,
+    "duration": 4.239
+  },
+  {
+    "text": "much smaller. It's good at uh PEL",
+    "start": 436.16,
+    "duration": 3.599
+  },
+  {
+    "text": "grants. It's good at figuring out",
+    "start": 438.479,
+    "duration": 3.28
+  },
+  {
+    "text": "student loans. It's probably done a lot",
+    "start": 439.759,
+    "duration": 3.44
+  },
+  {
+    "text": "of harm in terms of universal and",
+    "start": 441.759,
+    "duration": 3.201
+  },
+  {
+    "text": "mandatory testing where every teacher",
+    "start": 443.199,
+    "duration": 3.761
+  },
+  {
+    "text": "now studies to the test. It's created a",
+    "start": 444.96,
+    "duration": 3.6
+  },
+  {
+    "text": "lot of unnecessary stress in our public",
+    "start": 446.96,
+    "duration": 3.6
+  },
+  {
+    "text": "schools. Parents hate it, principals",
+    "start": 448.56,
+    "duration": 3.68
+  },
+  {
+    "text": "hate it, teachers hate it, students hate",
+    "start": 450.56,
+    "duration": 4.24
+  },
+  {
+    "text": "it. Uh and I feel as if they again are",
+    "start": 452.24,
+    "duration": 5.359
+  },
+  {
+    "text": "trying to justify their own bureaucracy.",
+    "start": 454.8,
+    "duration": 5.76
+  },
+  {
+    "text": "So this a long-winded way of saying I I",
+    "start": 457.599,
+    "duration": 6.521
+  },
+  {
+    "text": "see your point, but uh one I'm on board",
+    "start": 460.56,
+    "duration": 6.72
+  },
+  {
+    "text": "with a dramatic decrease in the amount",
+    "start": 464.12,
+    "duration": 5.16
+  },
+  {
+    "text": "of bureaucracy through competition with",
+    "start": 467.28,
+    "duration": 3.68
+  },
+  {
+    "text": "public schools. I believe that teachers",
+    "start": 469.28,
+    "duration": 3.199
+  },
+  {
+    "text": "and principles should be fired and",
+    "start": 470.96,
+    "duration": 2.799
+  },
+  {
+    "text": "schools should be shut down if they're",
+    "start": 472.479,
+    "duration": 3.681
+  },
+  {
+    "text": "not performing and new ones should be",
+    "start": 473.759,
+    "duration": 4.72
+  },
+  {
+    "text": "propped up. But I think we've got to",
+    "start": 476.16,
+    "duration": 4.319
+  },
+  {
+    "text": "figure out a way to get more parents",
+    "start": 478.479,
+    "duration": 4.16
+  },
+  {
+    "text": "involved in public schools because the",
+    "start": 480.479,
+    "duration": 4.481
+  },
+  {
+    "text": "number one signal of whether a school is",
+    "start": 482.639,
+    "duration": 4.881
+  },
+  {
+    "text": "successful isn't even resources, it's",
+    "start": 484.96,
+    "duration": 5.919
+  },
+  {
+    "text": "parental involvement. So trying to make",
+    "start": 487.52,
+    "duration": 6.64
+  },
+  {
+    "text": "public schools more attractive. And the",
+    "start": 490.879,
+    "duration": 5.201
+  },
+  {
+    "text": "way you do that, I think, is with a lack",
+    "start": 494.16,
+    "duration": 4.4
+  },
+  {
+    "text": "of bureaucracy. And also, I just think",
+    "start": 496.08,
+    "duration": 5.119
+  },
+  {
+    "text": "it's going to take more resources. And I",
+    "start": 498.56,
+    "duration": 5.6
+  },
+  {
+    "text": "don't think that skimming the most",
+    "start": 501.199,
+    "duration": 5.041
+  },
+  {
+    "text": "blessed families and the most uh",
+    "start": 504.16,
+    "duration": 4.08
+  },
+  {
+    "text": "involved parents off of the top and",
+    "start": 506.24,
+    "duration": 3.28
+  },
+  {
+    "text": "pulling them out of the public school",
+    "start": 508.24,
+    "duration": 3.32
+  },
+  {
+    "text": "system. I just think we're further",
+    "start": 509.52,
+    "duration": 4.8
+  },
+  {
+    "text": "cementing have and have not cast system.",
+    "start": 511.56,
+    "duration": 4.039
+  },
+  {
+    "text": "Having said that, I think it should be",
+    "start": 514.32,
+    "duration": 3.68
+  },
+  {
+    "text": "most of it should be left to the states",
+    "start": 515.599,
+    "duration": 4.32
+  },
+  {
+    "text": "and local governments trying to figure",
+    "start": 518.0,
+    "duration": 4.24
+  },
+  {
+    "text": "it out. One of the biggest problems we",
+    "start": 519.919,
+    "duration": 3.68
+  },
+  {
+    "text": "have in our society is that local",
+    "start": 522.24,
+    "duration": 3.039
+  },
+  {
+    "text": "schools are based on property tax",
+    "start": 523.599,
+    "duration": 4.001
+  },
+  {
+    "text": "revenue. So the wealthy neighborhoods",
+    "start": 525.279,
+    "duration": 4.401
+  },
+  {
+    "text": "have some private schools. The the",
+    "start": 527.6,
+    "duration": 4.96
+  },
+  {
+    "text": "public school in PaloAlto and Woodside",
+    "start": 529.68,
+    "duration": 4.56
+  },
+  {
+    "text": "is better than most private schools",
+    "start": 532.56,
+    "duration": 3.6
+  },
+  {
+    "text": "nationally because they have a lot of",
+    "start": 534.24,
+    "duration": 4.48
+  },
+  {
+    "text": "money from property taxes. So there has",
+    "start": 536.16,
+    "duration": 4.56
+  },
+  {
+    "text": "to be a leveling up. The problem is the",
+    "start": 538.72,
+    "duration": 3.84
+  },
+  {
+    "text": "leveling up isn't just about resources.",
+    "start": 540.72,
+    "duration": 4.16
+  },
+  {
+    "text": "It's about keeping dual parent",
+    "start": 542.56,
+    "duration": 4.56
+  },
+  {
+    "text": "households involved in the schools. This",
+    "start": 544.88,
+    "duration": 5.16
+  },
+  {
+    "text": "is a difficult tough question. more",
+    "start": 547.12,
+    "duration": 5.839
+  },
+  {
+    "text": "competition, more holding the teachers",
+    "start": 550.04,
+    "duration": 4.76
+  },
+  {
+    "text": "unions and public schools accountable,",
+    "start": 552.959,
+    "duration": 3.601
+  },
+  {
+    "text": "not being afraid to shut them down,",
+    "start": 554.8,
+    "duration": 3.32
+  },
+  {
+    "text": "having a reasonable ratio of",
+    "start": 556.56,
+    "duration": 3.2
+  },
+  {
+    "text": "administrators, clearing out the",
+    "start": 558.12,
+    "duration": 3.399
+  },
+  {
+    "text": "bureaucracy such that you can fire",
+    "start": 559.76,
+    "duration": 4.56
+  },
+  {
+    "text": "teachers and bureaucrats, but also I'm",
+    "start": 561.519,
+    "duration": 5.041
+  },
+  {
+    "text": "just not down with taking more money for",
+    "start": 564.32,
+    "duration": 3.92
+  },
+  {
+    "text": "vouchers for the privatization of our",
+    "start": 566.56,
+    "duration": 3.2
+  },
+  {
+    "text": "education system. I think in general",
+    "start": 568.24,
+    "duration": 3.84
+  },
+  {
+    "text": "you've had an oligarchy that is trying",
+    "start": 569.76,
+    "duration": 4.4
+  },
+  {
+    "text": "to insert a profit motive into every",
+    "start": 572.08,
+    "duration": 4.56
+  },
+  {
+    "text": "single public service which ultimately",
+    "start": 574.16,
+    "duration": 4.48
+  },
+  {
+    "text": "just creates scale of better service and",
+    "start": 576.64,
+    "duration": 3.96
+  },
+  {
+    "text": "then they start raising the rents on",
+    "start": 578.64,
+    "duration": 4.12
+  },
+  {
+    "text": "everybody. Appreciate the",
+    "start": 580.6,
+    "duration": 5.48
+  },
+  {
+    "text": "question. Question number two. Hey",
+    "start": 582.76,
+    "duration": 5.639
+  },
+  {
+    "text": "Scott, big fan of the podcast. I'm a",
+    "start": 586.08,
+    "duration": 4.72
+  },
+  {
+    "text": "young man looking to start investing and",
+    "start": 588.399,
+    "duration": 4.241
+  },
+  {
+    "text": "I want to hear more about your view on",
+    "start": 590.8,
+    "duration": 4.08
+  },
+  {
+    "text": "the Reddit stock. I know I listened to",
+    "start": 592.64,
+    "duration": 3.759
+  },
+  {
+    "text": "the podcast on Monday. You said you were",
+    "start": 594.88,
+    "duration": 3.76
+  },
+  {
+    "text": "bullish on this stock. I tend to agree",
+    "start": 596.399,
+    "duration": 4.161
+  },
+  {
+    "text": "with you through my own research. Would",
+    "start": 598.64,
+    "duration": 4.56
+  },
+  {
+    "text": "love to hear more about your outlook on",
+    "start": 600.56,
+    "duration": 5.12
+  },
+  {
+    "text": "Reddit and what you see for the next",
+    "start": 603.2,
+    "duration": 4.8
+  },
+  {
+    "text": "five ten years with this stock. Uh",
+    "start": 605.68,
+    "duration": 4.96
+  },
+  {
+    "text": "thanks anonymous from Unknown. Really",
+    "start": 608.0,
+    "duration": 6.48
+  },
+  {
+    "text": "appreciate uh the question. So my IPO",
+    "start": 610.64,
+    "duration": 6.24
+  },
+  {
+    "text": "recommendation of 2024 was Reddit and it",
+    "start": 614.48,
+    "duration": 4.08
+  },
+  {
+    "text": "was a simple analysis. I looked at the",
+    "start": 616.88,
+    "duration": 3.6
+  },
+  {
+    "text": "10 most traffic sites in America and all",
+    "start": 618.56,
+    "duration": 4.56
+  },
+  {
+    "text": "of them except Wikipedia and nonprofit",
+    "start": 620.48,
+    "duration": 5.12
+  },
+  {
+    "text": "traded for were worth between 600",
+    "start": 623.12,
+    "duration": 5.76
+  },
+  {
+    "text": "billion and three trillion and Reddit at",
+    "start": 625.6,
+    "duration": 5.2
+  },
+  {
+    "text": "that time was toggling based on the",
+    "start": 628.88,
+    "duration": 3.36
+  },
+  {
+    "text": "metric you looked at somewhere between",
+    "start": 630.8,
+    "duration": 2.96
+  },
+  {
+    "text": "the third and the fifth most traffic",
+    "start": 632.24,
+    "duration": 3.279
+  },
+  {
+    "text": "site in America and it was going public",
+    "start": 633.76,
+    "duration": 4.72
+  },
+  {
+    "text": "in a market cap of 5 billion because to",
+    "start": 635.519,
+    "duration": 4.401
+  },
+  {
+    "text": "that point they had not done a great job",
+    "start": 638.48,
+    "duration": 3.359
+  },
+  {
+    "text": "of monetizing that incredible attention.",
+    "start": 639.92,
+    "duration": 4.479
+  },
+  {
+    "text": "However, I believe over time you can",
+    "start": 641.839,
+    "duration": 5.201
+  },
+  {
+    "text": "monetize attention. It just I remember",
+    "start": 644.399,
+    "duration": 4.88
+  },
+  {
+    "text": "looking at at these charts 20 years ago",
+    "start": 647.04,
+    "duration": 5.039
+  },
+  {
+    "text": "where newspapers were 10% of attention",
+    "start": 649.279,
+    "duration": 4.721
+  },
+  {
+    "text": "but 30% of advertising and the internet",
+    "start": 652.079,
+    "duration": 3.921
+  },
+  {
+    "text": "was 50% of attention but only 50%",
+    "start": 654.0,
+    "duration": 3.72
+  },
+  {
+    "text": "advertising and okay this is pretty",
+    "start": 656.0,
+    "duration": 4.079
+  },
+  {
+    "text": "easy. Find the internet companies that",
+    "start": 657.72,
+    "duration": 3.799
+  },
+  {
+    "text": "are commanding attention and eventually",
+    "start": 660.079,
+    "duration": 3.44
+  },
+  {
+    "text": "these things are going to calibrate and",
+    "start": 661.519,
+    "duration": 4.641
+  },
+  {
+    "text": "equalize. And I saw the same thing here.",
+    "start": 663.519,
+    "duration": 5.361
+  },
+  {
+    "text": "And the stock went out at was priced I",
+    "start": 666.16,
+    "duration": 6.4
+  },
+  {
+    "text": "think at 35 or 38, shot to 60 and then",
+    "start": 668.88,
+    "duration": 7.199
+  },
+  {
+    "text": "went as high as 240 and is now has been",
+    "start": 672.56,
+    "duration": 6.08
+  },
+  {
+    "text": "cut in half with the draw down. Um, so",
+    "start": 676.079,
+    "duration": 5.041
+  },
+  {
+    "text": "as we're recording this, their stock has",
+    "start": 678.64,
+    "duration": 4.16
+  },
+  {
+    "text": "been cut in half in the past month after",
+    "start": 681.12,
+    "duration": 3.68
+  },
+  {
+    "text": "Q4 earnings that reported underwhelming",
+    "start": 682.8,
+    "duration": 4.8
+  },
+  {
+    "text": "user growth, but that's still up. I",
+    "start": 684.8,
+    "duration": 5.279
+  },
+  {
+    "text": "think that still means it's tripled or",
+    "start": 687.6,
+    "duration": 4.96
+  },
+  {
+    "text": "quadrupled since its IPO. global daily",
+    "start": 690.079,
+    "duration": 4.481
+  },
+  {
+    "text": "active unique users rose 39%",
+    "start": 692.56,
+    "duration": 4.64
+  },
+  {
+    "text": "year-on-year to an average of 102",
+    "start": 694.56,
+    "duration": 3.92
+  },
+  {
+    "text": "million just missing analyst",
+    "start": 697.2,
+    "duration": 3.12
+  },
+  {
+    "text": "expectations of 103 million. Why did it",
+    "start": 698.48,
+    "duration": 4.12
+  },
+  {
+    "text": "get hit so hard? The new meeting",
+    "start": 700.32,
+    "duration": 5.04
+  },
+  {
+    "text": "expectations in the internet economy is",
+    "start": 702.6,
+    "duration": 4.12
+  },
+  {
+    "text": "blowing them away. That's the",
+    "start": 705.36,
+    "duration": 2.88
+  },
+  {
+    "text": "expectation. The expectation is that",
+    "start": 706.72,
+    "duration": 2.799
+  },
+  {
+    "text": "you're going to blow away expectations.",
+    "start": 708.24,
+    "duration": 3.68
+  },
+  {
+    "text": "Although Reddit was now or is now the",
+    "start": 709.519,
+    "duration": 4.241
+  },
+  {
+    "text": "most the sixth most visited website in",
+    "start": 711.92,
+    "duration": 4.8
+  },
+  {
+    "text": "the world, it's worth 50 to 60 times",
+    "start": 713.76,
+    "duration": 5.36
+  },
+  {
+    "text": "less than other sites in that same that",
+    "start": 716.72,
+    "duration": 3.76
+  },
+  {
+    "text": "command that same attention, including",
+    "start": 719.12,
+    "duration": 2.839
+  },
+  {
+    "text": "Google, YouTube, Facebook, and",
+    "start": 720.48,
+    "duration": 4.72
+  },
+  {
+    "text": "Instagram. So, what do I think? Uh, I",
+    "start": 721.959,
+    "duration": 5.32
+  },
+  {
+    "text": "think this company is still a good",
+    "start": 725.2,
+    "duration": 4.52
+  },
+  {
+    "text": "long-term hold. Uh, it's got a market",
+    "start": 727.279,
+    "duration": 5.521
+  },
+  {
+    "text": "cap now of 22 billion, which for a guy",
+    "start": 729.72,
+    "duration": 4.919
+  },
+  {
+    "text": "like me, one of my many flaws as",
+    "start": 732.8,
+    "duration": 4.4
+  },
+  {
+    "text": "investors, I anchor off the cheapest",
+    "start": 734.639,
+    "duration": 3.921
+  },
+  {
+    "text": "it's ever been. Yeah. uh it went public",
+    "start": 737.2,
+    "duration": 3.36
+  },
+  {
+    "text": "at a valuation of 5 billion. It traded",
+    "start": 738.56,
+    "duration": 3.6
+  },
+  {
+    "text": "to 7 or 8 billion that day and now it's",
+    "start": 740.56,
+    "duration": 3.519
+  },
+  {
+    "text": "at 21, but it peaked at 40. It's come",
+    "start": 742.16,
+    "duration": 4.239
+  },
+  {
+    "text": "down. I think Reddit is a good long-term",
+    "start": 744.079,
+    "duration": 4.081
+  },
+  {
+    "text": "hold. I just think again if you buy into",
+    "start": 746.399,
+    "duration": 3.841
+  },
+  {
+    "text": "this notion that eventually monetization",
+    "start": 748.16,
+    "duration": 4.239
+  },
+  {
+    "text": "catches up with attention,",
+    "start": 750.24,
+    "duration": 3.68
+  },
+  {
+    "text": "uh it's going to I think it's a good",
+    "start": 752.399,
+    "duration": 3.921
+  },
+  {
+    "text": "long-term hold. Having said that, my",
+    "start": 753.92,
+    "duration": 4.479
+  },
+  {
+    "text": "general advice is the following. Lowcost",
+    "start": 756.32,
+    "duration": 4.0
+  },
+  {
+    "text": "index funds because nobody can pick",
+    "start": 758.399,
+    "duration": 3.761
+  },
+  {
+    "text": "stocks over the long term and outperform",
+    "start": 760.32,
+    "duration": 3.519
+  },
+  {
+    "text": "the market. Even Warren Buffett will",
+    "start": 762.16,
+    "duration": 3.76
+  },
+  {
+    "text": "tell you that they were investing in a",
+    "start": 763.839,
+    "duration": 3.761
+  },
+  {
+    "text": "in an unusual time with a lack of",
+    "start": 765.92,
+    "duration": 3.44
+  },
+  {
+    "text": "information and the asymmetry of",
+    "start": 767.6,
+    "duration": 3.679
+  },
+  {
+    "text": "information or ability to find alpha or",
+    "start": 769.36,
+    "duration": 5.039
+  },
+  {
+    "text": "stocks that were undervalued was much",
+    "start": 771.279,
+    "duration": 4.641
+  },
+  {
+    "text": "greater the likelihood of doing that",
+    "start": 774.399,
+    "duration": 3.921
+  },
+  {
+    "text": "than it is now. Warren Buffett who got",
+    "start": 775.92,
+    "duration": 3.68
+  },
+  {
+    "text": "who's arguably the best investor in",
+    "start": 778.32,
+    "duration": 3.36
+  },
+  {
+    "text": "history is telling people not to be",
+    "start": 779.6,
+    "duration": 5.52
+  },
+  {
+    "text": "stock pickers. So having said that uh I",
+    "start": 781.68,
+    "duration": 5.92
+  },
+  {
+    "text": "believe that you can take 30% or should",
+    "start": 785.12,
+    "duration": 4.48
+  },
+  {
+    "text": "take 30% of your money and have some fun",
+    "start": 787.6,
+    "duration": 4.239
+  },
+  {
+    "text": "and invest in single stocks or single",
+    "start": 789.6,
+    "duration": 3.76
+  },
+  {
+    "text": "asset classes where you think you have",
+    "start": 791.839,
+    "duration": 3.361
+  },
+  {
+    "text": "some sort of insight or you believe that",
+    "start": 793.36,
+    "duration": 3.039
+  },
+  {
+    "text": "they're undervalued and this might be",
+    "start": 795.2,
+    "duration": 2.639
+  },
+  {
+    "text": "that. What I would also suggest though",
+    "start": 796.399,
+    "duration": 4.401
+  },
+  {
+    "text": "is that 2/3 plus of your net worth is",
+    "start": 797.839,
+    "duration": 5.041
+  },
+  {
+    "text": "put in lowcost index funds. And here's a",
+    "start": 800.8,
+    "duration": 3.279
+  },
+  {
+    "text": "bit of the wrinkle there. Make sure",
+    "start": 802.88,
+    "duration": 2.88
+  },
+  {
+    "text": "they're lowcost index funds that aren't",
+    "start": 804.079,
+    "duration": 3.521
+  },
+  {
+    "text": "just solely focused on the US. The US",
+    "start": 805.76,
+    "duration": 4.079
+  },
+  {
+    "text": "stock market is now at 98% in terms of",
+    "start": 807.6,
+    "duration": 4.08
+  },
+  {
+    "text": "value. meaning it's only been more",
+    "start": 809.839,
+    "duration": 4.0
+  },
+  {
+    "text": "expensive on a PE ratio 2% of its",
+    "start": 811.68,
+    "duration": 4.32
+  },
+  {
+    "text": "history. European value stocks are in",
+    "start": 813.839,
+    "duration": 3.921
+  },
+  {
+    "text": "the bottom 2% meaning they've been more",
+    "start": 816.0,
+    "duration": 4.079
+  },
+  {
+    "text": "expensive on a PE basis or traded at",
+    "start": 817.76,
+    "duration": 4.72
+  },
+  {
+    "text": "higher levels for 98% of their history.",
+    "start": 820.079,
+    "duration": 4.481
+  },
+  {
+    "text": "This to me sends the says to me that the",
+    "start": 822.48,
+    "duration": 4.159
+  },
+  {
+    "text": "markets or the rivers or flows of",
+    "start": 824.56,
+    "duration": 3.6
+  },
+  {
+    "text": "capital are about to reverse. That was",
+    "start": 826.639,
+    "duration": 3.76
+  },
+  {
+    "text": "one of my big predictions for 2025 is I",
+    "start": 828.16,
+    "duration": 4.2
+  },
+  {
+    "text": "think that non- US markets are going to",
+    "start": 830.399,
+    "duration": 4.56
+  },
+  {
+    "text": "outperform US markets. Anyways, were you",
+    "start": 832.36,
+    "duration": 4.279
+  },
+  {
+    "text": "ask I like Reddit. I think it's a nice",
+    "start": 834.959,
+    "duration": 4.401
+  },
+  {
+    "text": "long-term hold, but just be careful",
+    "start": 836.639,
+    "duration": 4.801
+  },
+  {
+    "text": "believing that me or anybody else can",
+    "start": 839.36,
+    "duration": 4.08
+  },
+  {
+    "text": "give you advice on single stock picking.",
+    "start": 841.44,
+    "duration": 3.839
+  },
+  {
+    "text": "We can't. You want to have some fun. You",
+    "start": 843.44,
+    "duration": 3.44
+  },
+  {
+    "text": "want to try and find some alpha, have at",
+    "start": 845.279,
+    "duration": 4.081
+  },
+  {
+    "text": "it. But keep the bulk of your firepower,",
+    "start": 846.88,
+    "duration": 4.959
+  },
+  {
+    "text": "your dry powder for lowcost index funds",
+    "start": 849.36,
+    "duration": 4.32
+  },
+  {
+    "text": "that are diversified not only across the",
+    "start": 851.839,
+    "duration": 4.161
+  },
+  {
+    "text": "S&P, but across different geographies",
+    "start": 853.68,
+    "duration": 6.519
+  },
+  {
+    "text": "globally. Thanks for the question.",
+    "start": 856.0,
+    "duration": 4.199
+  },
+  {
+    "text": "We have one quick break and when we're",
+    "start": 860.56,
+    "duration": 3.92
+  },
+  {
+    "text": "back, speaking of Reddit, we're diving",
+    "start": 862.48,
+    "duration": 4.719
+  },
+  {
+    "text": "into the depths into the bowels of",
+    "start": 864.48,
+    "duration": 5.0
+  },
+  {
+    "text": "Reddit. Buckle",
+    "start": 867.199,
+    "duration": 4.64
+  },
+  {
+    "text": "up. Support for the show comes from",
+    "start": 869.48,
+    "duration": 3.96
+  },
+  {
+    "text": "Betterment. When investing your money",
+    "start": 871.839,
+    "duration": 3.12
+  },
+  {
+    "text": "starts to feel like a second job,",
+    "start": 873.44,
+    "duration": 3.28
+  },
+  {
+    "text": "Betterment steps in with a little work",
+    "start": 874.959,
+    "duration": 3.68
+  },
+  {
+    "text": "life balance. They're an automated",
+    "start": 876.72,
+    "duration": 3.679
+  },
+  {
+    "text": "investing and savings app, which means",
+    "start": 878.639,
+    "duration": 3.76
+  },
+  {
+    "text": "they do the work. While they build and",
+    "start": 880.399,
+    "duration": 3.601
+  },
+  {
+    "text": "manage your portfolio, you build and",
+    "start": 882.399,
+    "duration": 3.281
+  },
+  {
+    "text": "manage your weekend plans. Well, they",
+    "start": 884.0,
+    "duration": 4.0
+  },
+  {
+    "text": "make it easy to invest for what matters.",
+    "start": 885.68,
+    "duration": 5.04
+  },
+  {
+    "text": "You just get to enjoy what matters.",
+    "start": 888.0,
+    "duration": 4.32
+  },
+  {
+    "text": "Their automated tools simplify the",
+    "start": 890.72,
+    "duration": 3.44
+  },
+  {
+    "text": "complex and put your money to work",
+    "start": 892.32,
+    "duration": 3.92
+  },
+  {
+    "text": "optimizing day after day and again and",
+    "start": 894.16,
+    "duration": 4.32
+  },
+  {
+    "text": "again. So go ahead, take your time to",
+    "start": 896.24,
+    "duration": 3.76
+  },
+  {
+    "text": "rest and recharge because while your",
+    "start": 898.48,
+    "duration": 3.44
+  },
+  {
+    "text": "money doesn't need a work life balance,",
+    "start": 900.0,
+    "duration": 4.959
+  },
+  {
+    "text": "you do. Make your money hustle with",
+    "start": 901.92,
+    "duration": 4.599
+  },
+  {
+    "text": "Betterment. Get started at",
+    "start": 904.959,
+    "duration": 5.68
+  },
+  {
+    "text": "betterment.com. That's be",
+    "start": 906.519,
+    "duration": 4.12
+  },
+  {
+    "text": "tert.com. Investing involves risk.",
+    "start": 911.24,
+    "duration": 4.44
+  },
+  {
+    "text": "Performance not guaranteed. Welcome",
+    "start": 913.68,
+    "duration": 4.48
+  },
+  {
+    "text": "back. We asked and Reddit delivered.",
+    "start": 915.68,
+    "duration": 5.44
+  },
+  {
+    "text": "Let's bust right into",
+    "start": 918.16,
+    "duration": 2.96
+  },
+  {
+    "text": "it. All right. Armend 8194 asks, \"Scott,",
+    "start": 922.92,
+    "duration": 5.0
+  },
+  {
+    "text": "something you used to preach is",
+    "start": 926.88,
+    "duration": 4.079
+  },
+  {
+    "text": "exclusivity as a great marketing tactic.",
+    "start": 927.92,
+    "duration": 5.52
+  },
+  {
+    "text": "No is the sexiest word in the English",
+    "start": 930.959,
+    "duration": 4.081
+  },
+  {
+    "text": "language.\" I always say that, but",
+    "start": 933.44,
+    "duration": 2.959
+  },
+  {
+    "text": "recently you've been releasing more and",
+    "start": 935.04,
+    "duration": 3.919
+  },
+  {
+    "text": "more podcast content. Can you reconcile",
+    "start": 936.399,
+    "duration": 6.481
+  },
+  {
+    "text": "the two? Yeah. So, it's a fair point in",
+    "start": 938.959,
+    "duration": 5.921
+  },
+  {
+    "text": "that is, and I worry about this a lot.",
+    "start": 942.88,
+    "duration": 5.04
+  },
+  {
+    "text": "So, we had Pivot, then I launched ProfG",
+    "start": 944.88,
+    "duration": 4.959
+  },
+  {
+    "text": "G, then ProfG Markets, now we have",
+    "start": 947.92,
+    "duration": 4.96
+  },
+  {
+    "text": "raging moderates. So, I'm like AOL in",
+    "start": 949.839,
+    "duration": 4.481
+  },
+  {
+    "text": "the '90s when you'd stick your hand in a",
+    "start": 952.88,
+    "duration": 3.36
+  },
+  {
+    "text": "cereal box and you pull out a CD ROM of",
+    "start": 954.32,
+    "duration": 3.84
+  },
+  {
+    "text": "AOL. I mean, it's like to resist is",
+    "start": 956.24,
+    "duration": 5.12
+  },
+  {
+    "text": "feudal. And I do worry that the ubiquity",
+    "start": 958.16,
+    "duration": 4.96
+  },
+  {
+    "text": "of me that people are going to start to",
+    "start": 961.36,
+    "duration": 3.599
+  },
+  {
+    "text": "have a gag reflex like, \"Oh, Jesus, this",
+    "start": 963.12,
+    "duration": 5.76
+  },
+  {
+    "text": "guy again.\" So, what I'm trying to do is",
+    "start": 964.959,
+    "duration": 5.841
+  },
+  {
+    "text": "um create more enterprise value. What do",
+    "start": 968.88,
+    "duration": 4.72
+  },
+  {
+    "text": "I mean by that? So, my co-host on Propy",
+    "start": 970.8,
+    "duration": 4.56
+  },
+  {
+    "text": "Markets, Edson, does the interviews now.",
+    "start": 973.6,
+    "duration": 4.88
+  },
+  {
+    "text": "My co-host on Raging Moderates, uh Jess",
+    "start": 975.36,
+    "duration": 4.8
+  },
+  {
+    "text": "does all the interviews. So, I'm only on",
+    "start": 978.48,
+    "duration": 3.2
+  },
+  {
+    "text": "about half of the episodes. We're about",
+    "start": 980.16,
+    "duration": 4.08
+  },
+  {
+    "text": "to go daily. Speaking of like too much",
+    "start": 981.68,
+    "duration": 4.719
+  },
+  {
+    "text": "of anything is is not a good thing.",
+    "start": 984.24,
+    "duration": 4.08
+  },
+  {
+    "text": "We're about to go daily on Prop Markets",
+    "start": 986.399,
+    "duration": 4.161
+  },
+  {
+    "text": "because the markets are daily and I'm",
+    "start": 988.32,
+    "duration": 4.959
+  },
+  {
+    "text": "only going to be on twice a week. I'll",
+    "start": 990.56,
+    "duration": 4.68
+  },
+  {
+    "text": "do some like impromptu guest",
+    "start": 993.279,
+    "duration": 4.0
+  },
+  {
+    "text": "appearances. But what you're saying is",
+    "start": 995.24,
+    "duration": 4.599
+  },
+  {
+    "text": "absolutely um true. I try and create",
+    "start": 997.279,
+    "duration": 4.56
+  },
+  {
+    "text": "scarcity across my speaking. I price my",
+    "start": 999.839,
+    "duration": 4.24
+  },
+  {
+    "text": "speaking fees at sort of an outrageous",
+    "start": 1001.839,
+    "duration": 3.601
+  },
+  {
+    "text": "dollar amount because one, I don't want",
+    "start": 1004.079,
+    "duration": 3.12
+  },
+  {
+    "text": "to work that hard and I only want to go",
+    "start": 1005.44,
+    "duration": 3.92
+  },
+  {
+    "text": "to places I like and two, pricing is a",
+    "start": 1007.199,
+    "duration": 4.88
+  },
+  {
+    "text": "signal. So scarcity is key. I'm very",
+    "start": 1009.36,
+    "duration": 4.56
+  },
+  {
+    "text": "cognizant of that. I try and take time",
+    "start": 1012.079,
+    "duration": 4.801
+  },
+  {
+    "text": "off. One, because I'm lazy, but b uh so",
+    "start": 1013.92,
+    "duration": 4.8
+  },
+  {
+    "text": "my co-host on pivot, Cara Swisser, does",
+    "start": 1016.88,
+    "duration": 3.519
+  },
+  {
+    "text": "pretty much every episode. I take the",
+    "start": 1018.72,
+    "duration": 3.44
+  },
+  {
+    "text": "month of August off. I take weeks off at",
+    "start": 1020.399,
+    "duration": 3.44
+  },
+  {
+    "text": "a time. I'm doing a college tour with my",
+    "start": 1022.16,
+    "duration": 3.6
+  },
+  {
+    "text": "son and they said, \"We'll set you up for",
+    "start": 1023.839,
+    "duration": 3.041
+  },
+  {
+    "text": "remote.\" I'm like, \"No, you won't. Just",
+    "start": 1025.76,
+    "duration": 3.279
+  },
+  {
+    "text": "find a guest host.\" So, I think it's",
+    "start": 1026.88,
+    "duration": 3.199
+  },
+  {
+    "text": "important to have a little bit of",
+    "start": 1029.039,
+    "duration": 3.681
+  },
+  {
+    "text": "scarcity value and I'm very cognizant of",
+    "start": 1030.079,
+    "duration": 4.96
+  },
+  {
+    "text": "it and quite frankly, you're right. I'm",
+    "start": 1032.72,
+    "duration": 4.479
+  },
+  {
+    "text": "worried that at some point I'm just",
+    "start": 1035.039,
+    "duration": 3.76
+  },
+  {
+    "text": "going to dilute my brand equity and it's",
+    "start": 1037.199,
+    "duration": 2.88
+  },
+  {
+    "text": "just going to be too much and people are",
+    "start": 1038.799,
+    "duration": 3.04
+  },
+  {
+    "text": "going to get, you know, sick of sick of",
+    "start": 1040.079,
+    "duration": 4.161
+  },
+  {
+    "text": "dick jokes. I'm cognizant of it. Your",
+    "start": 1041.839,
+    "duration": 3.921
+  },
+  {
+    "text": "theory goes to an important marketing",
+    "start": 1044.24,
+    "duration": 3.12
+  },
+  {
+    "text": "theory and that is the most profitable",
+    "start": 1045.76,
+    "duration": 2.799
+  },
+  {
+    "text": "companies in history that have the",
+    "start": 1047.36,
+    "duration": 3.28
+  },
+  {
+    "text": "greatest gross margins create the",
+    "start": 1048.559,
+    "duration": 3.521
+  },
+  {
+    "text": "illusion of scarcity. I'm wearing a",
+    "start": 1050.64,
+    "duration": 4.48
+  },
+  {
+    "text": "Panerai watch, which is $1,000 of",
+    "start": 1052.08,
+    "duration": 4.88
+  },
+  {
+    "text": "movements, plastic, and glass that they",
+    "start": 1055.12,
+    "duration": 3.679
+  },
+  {
+    "text": "charge $11,000 for because they've",
+    "start": 1056.96,
+    "duration": 4.32
+  },
+  {
+    "text": "created this illusion that Paneris are",
+    "start": 1058.799,
+    "duration": 5.441
+  },
+  {
+    "text": "scarce. They purposely constrict supply",
+    "start": 1061.28,
+    "duration": 4.48
+  },
+  {
+    "text": "such that when you see the watch you",
+    "start": 1064.24,
+    "duration": 3.28
+  },
+  {
+    "text": "want, they can honestly say, \"Well, we",
+    "start": 1065.76,
+    "duration": 4.64
+  },
+  {
+    "text": "only have one.\" We have artificially",
+    "start": 1067.52,
+    "duration": 5.44
+  },
+  {
+    "text": "reduced the supply of freshman seats at",
+    "start": 1070.4,
+    "duration": 5.12
+  },
+  {
+    "text": "elite universities. I'm cognizant of the",
+    "start": 1072.96,
+    "duration": 5.04
+  },
+  {
+    "text": "fact that I might be moving myself from",
+    "start": 1075.52,
+    "duration": 4.72
+  },
+  {
+    "text": "what is kind of a scarcity luxury brand",
+    "start": 1078.0,
+    "duration": 5.2
+  },
+  {
+    "text": "to a mass brand. Uh, and I'm trying to",
+    "start": 1080.24,
+    "duration": 5.52
+  },
+  {
+    "text": "ensure that uh, it's just not too much",
+    "start": 1083.2,
+    "duration": 5.04
+  },
+  {
+    "text": "Scott all the time through co-hosts and",
+    "start": 1085.76,
+    "duration": 4.32
+  },
+  {
+    "text": "limiting or or reducing some of my",
+    "start": 1088.24,
+    "duration": 3.6
+  },
+  {
+    "text": "appearances. But you clearly have an",
+    "start": 1090.08,
+    "duration": 3.599
+  },
+  {
+    "text": "instinct for marketing and the illusion",
+    "start": 1091.84,
+    "duration": 4.48
+  },
+  {
+    "text": "of scarcity is so important. In life,",
+    "start": 1093.679,
+    "duration": 4.801
+  },
+  {
+    "text": "it's really important. uh in an",
+    "start": 1096.32,
+    "duration": 3.28
+  },
+  {
+    "text": "interview when you're interviewing with",
+    "start": 1098.48,
+    "duration": 3.36
+  },
+  {
+    "text": "somebody start asking them questions and",
+    "start": 1099.6,
+    "duration": 4.24
+  },
+  {
+    "text": "act as if you're interviewing them and",
+    "start": 1101.84,
+    "duration": 4.32
+  },
+  {
+    "text": "give them the impression that you might",
+    "start": 1103.84,
+    "duration": 4.48
+  },
+  {
+    "text": "have another offer that you are so good",
+    "start": 1106.16,
+    "duration": 4.24
+  },
+  {
+    "text": "at what you do that you are interviewing",
+    "start": 1108.32,
+    "duration": 4.64
+  },
+  {
+    "text": "them. Why? Because my human capital is",
+    "start": 1110.4,
+    "duration": 4.159
+  },
+  {
+    "text": "scarce and a lot of people want to rent",
+    "start": 1112.96,
+    "duration": 4.079
+  },
+  {
+    "text": "it. You don't want to be too available",
+    "start": 1114.559,
+    "duration": 4.561
+  },
+  {
+    "text": "to potential romantic partners. You have",
+    "start": 1117.039,
+    "duration": 4.721
+  },
+  {
+    "text": "to have lines that say okay this is",
+    "start": 1119.12,
+    "duration": 6.32
+  },
+  {
+    "text": "unacceptable or don't be too available.",
+    "start": 1121.76,
+    "duration": 7.6
+  },
+  {
+    "text": "uh scarcity. Uh yeah, I I think your",
+    "start": 1125.44,
+    "duration": 5.84
+  },
+  {
+    "text": "instincts are right on. You want to you",
+    "start": 1129.36,
+    "duration": 4.319
+  },
+  {
+    "text": "want to maintain again any any high",
+    "start": 1131.28,
+    "duration": 4.24
+  },
+  {
+    "text": "margin product equals the illusion of",
+    "start": 1133.679,
+    "duration": 3.88
+  },
+  {
+    "text": "scarcity. Thank you for the",
+    "start": 1135.52,
+    "duration": 6.0
+  },
+  {
+    "text": "question. All right, next",
+    "start": 1137.559,
+    "duration": 3.961
+  },
+  {
+    "text": "question. Scott, when you hear or come",
+    "start": 1141.64,
+    "duration": 4.12
+  },
+  {
+    "text": "up with your dirty jokes, where is the",
+    "start": 1143.919,
+    "duration": 3.921
+  },
+  {
+    "text": "line where you think, ooh, that is too",
+    "start": 1145.76,
+    "duration": 4.88
+  },
+  {
+    "text": "far. Okay. So I am generally a profane",
+    "start": 1147.84,
+    "duration": 4.48
+  },
+  {
+    "text": "or vulgar person but there's a strategy",
+    "start": 1150.64,
+    "duration": 4.48
+  },
+  {
+    "text": "behind it and that is all strategy comes",
+    "start": 1152.32,
+    "duration": 5.68
+  },
+  {
+    "text": "down to one question. What can we do",
+    "start": 1155.12,
+    "duration": 5.76
+  },
+  {
+    "text": "that is really hard or put another way",
+    "start": 1158.0,
+    "duration": 5.679
+  },
+  {
+    "text": "what can we do that our competition",
+    "start": 1160.88,
+    "duration": 7.039
+  },
+  {
+    "text": "can't do? Amazon and Netflix spend tens",
+    "start": 1163.679,
+    "duration": 6.401
+  },
+  {
+    "text": "of billions of dollars on infrastructure",
+    "start": 1167.919,
+    "duration": 4.561
+  },
+  {
+    "text": "and fulfillment and on content because",
+    "start": 1170.08,
+    "duration": 3.76
+  },
+  {
+    "text": "their competitors can't because they",
+    "start": 1172.48,
+    "duration": 3.36
+  },
+  {
+    "text": "don't have access to cheap capital. So",
+    "start": 1173.84,
+    "duration": 4.48
+  },
+  {
+    "text": "they're like, \"Okay, Netflix goes, if we",
+    "start": 1175.84,
+    "duration": 4.64
+  },
+  {
+    "text": "spend $18 billion on content, Peacock",
+    "start": 1178.32,
+    "duration": 3.68
+  },
+  {
+    "text": "just can't do it. Hulu can't do it.",
+    "start": 1180.48,
+    "duration": 3.68
+  },
+  {
+    "text": "Disney Plus can't do it. Even HBO can't",
+    "start": 1182.0,
+    "duration": 4.48
+  },
+  {
+    "text": "do it.\" And so that's where they go and",
+    "start": 1184.16,
+    "duration": 4.8
+  },
+  {
+    "text": "they focus on this kind of brute force",
+    "start": 1186.48,
+    "duration": 4.559
+  },
+  {
+    "text": "spending strategy.",
+    "start": 1188.96,
+    "duration": 4.32
+  },
+  {
+    "text": "uh where I have decided to go in terms",
+    "start": 1191.039,
+    "duration": 4.161
+  },
+  {
+    "text": "of trying to differentiate my podcast is",
+    "start": 1193.28,
+    "duration": 3.519
+  },
+  {
+    "text": "quite frankly one of the reasons I am",
+    "start": 1195.2,
+    "duration": 5.2
+  },
+  {
+    "text": "really crude is that one CNBC can't tell",
+    "start": 1196.799,
+    "duration": 7.601
+  },
+  {
+    "text": "dick jokes and I want to be known as",
+    "start": 1200.4,
+    "duration": 5.92
+  },
+  {
+    "text": "provocative and profane. I also think",
+    "start": 1204.4,
+    "duration": 4.08
+  },
+  {
+    "text": "that if you're funny and profane it kind",
+    "start": 1206.32,
+    "duration": 4.88
+  },
+  {
+    "text": "of softens the beach and people become",
+    "start": 1208.48,
+    "duration": 5.84
+  },
+  {
+    "text": "more open to new ideas. Also I want to",
+    "start": 1211.2,
+    "duration": 6.4
+  },
+  {
+    "text": "appeal to younger people. Um, and quite",
+    "start": 1214.32,
+    "duration": 6.32
+  },
+  {
+    "text": "frankly, young men respond to my type of",
+    "start": 1217.6,
+    "duration": 5.04
+  },
+  {
+    "text": "profanity. Sometimes I go too far.",
+    "start": 1220.64,
+    "duration": 3.52
+  },
+  {
+    "text": "Sometimes I can hear myself the words",
+    "start": 1222.64,
+    "duration": 2.32
+  },
+  {
+    "text": "coming out and thinking, you know,",
+    "start": 1224.16,
+    "duration": 2.72
+  },
+  {
+    "text": "that's a little bit much. I've had",
+    "start": 1224.96,
+    "duration": 4.0
+  },
+  {
+    "text": "parents write in and say, \"I'd like to",
+    "start": 1226.88,
+    "duration": 3.76
+  },
+  {
+    "text": "play this with my kids, but I've stopped",
+    "start": 1228.96,
+    "duration": 3.36
+  },
+  {
+    "text": "because you're so crude.\" I've had CEOs",
+    "start": 1230.64,
+    "duration": 3.12
+  },
+  {
+    "text": "call me and say, I would have sent this",
+    "start": 1232.32,
+    "duration": 3.12
+  },
+  {
+    "text": "clip to the entire company, but I can't",
+    "start": 1233.76,
+    "duration": 3.919
+  },
+  {
+    "text": "be seen or heard sending out something",
+    "start": 1235.44,
+    "duration": 4.0
+  },
+  {
+    "text": "with these types of this type of",
+    "start": 1237.679,
+    "duration": 5.24
+  },
+  {
+    "text": "profanity. I also my kind of heroes are",
+    "start": 1239.44,
+    "duration": 5.84
+  },
+  {
+    "text": "comedians that were social commentators",
+    "start": 1242.919,
+    "duration": 4.281
+  },
+  {
+    "text": "and were also really profane. Whether it",
+    "start": 1245.28,
+    "duration": 3.759
+  },
+  {
+    "text": "was Richard Prior or Lenny Bruce or I",
+    "start": 1247.2,
+    "duration": 3.359
+  },
+  {
+    "text": "think Bill Burr is a genius. These guys",
+    "start": 1249.039,
+    "duration": 3.201
+  },
+  {
+    "text": "are not afraid to be profane and vulgar.",
+    "start": 1250.559,
+    "duration": 4.24
+  },
+  {
+    "text": "So, one, it's genuine. I'm a profane and",
+    "start": 1252.24,
+    "duration": 4.559
+  },
+  {
+    "text": "vulgar person. Two, I want to appeal to",
+    "start": 1254.799,
+    "duration": 4.321
+  },
+  {
+    "text": "young men. I want I want my content to",
+    "start": 1256.799,
+    "duration": 3.76
+  },
+  {
+    "text": "resonate with them such that they listen",
+    "start": 1259.12,
+    "duration": 3.039
+  },
+  {
+    "text": "to some of the lessons I have about what",
+    "start": 1260.559,
+    "duration": 3.6
+  },
+  {
+    "text": "I hope is a positive vision of",
+    "start": 1262.159,
+    "duration": 4.361
+  },
+  {
+    "text": "masculinity. And also just purely",
+    "start": 1264.159,
+    "duration": 4.241
+  },
+  {
+    "text": "strategically, it is clear when you",
+    "start": 1266.52,
+    "duration": 3.32
+  },
+  {
+    "text": "listen to the show, this is not your",
+    "start": 1268.4,
+    "duration": 2.36
+  },
+  {
+    "text": "father's",
+    "start": 1269.84,
+    "duration": 4.0
+  },
+  {
+    "text": "CNBC. Appreciate the question. And just",
+    "start": 1270.76,
+    "duration": 5.399
+  },
+  {
+    "text": "so you know, the other day I walked into",
+    "start": 1273.84,
+    "duration": 4.8
+  },
+  {
+    "text": "my son's room to have the sex ed talk",
+    "start": 1276.159,
+    "duration": 4.4
+  },
+  {
+    "text": "and I walked in with, you know, with a",
+    "start": 1278.64,
+    "duration": 4.159
+  },
+  {
+    "text": "condom and a banana and he said, \"What's",
+    "start": 1280.559,
+    "duration": 4.081
+  },
+  {
+    "text": "the banana for?\" And I'm like, \"Well, I",
+    "start": 1282.799,
+    "duration": 3.641
+  },
+  {
+    "text": "can't get hard on an empty",
+    "start": 1284.64,
+    "duration": 6.36
+  },
+  {
+    "text": "stomach.\" That's good. Thanks for the",
+    "start": 1286.44,
+    "duration": 7.0
+  },
+  {
+    "text": "question. Hey, Scott. They say wealth",
+    "start": 1291.0,
+    "duration": 4.2
+  },
+  {
+    "text": "typically lasts about three generations.",
+    "start": 1293.44,
+    "duration": 3.92
+  },
+  {
+    "text": "Are you doing anything different in the",
+    "start": 1295.2,
+    "duration": 3.52
+  },
+  {
+    "text": "way you are raising your children to",
+    "start": 1297.36,
+    "duration": 2.559
+  },
+  {
+    "text": "prepare them for the advantages they",
+    "start": 1298.72,
+    "duration": 3.12
+  },
+  {
+    "text": "will have entering the market and how to",
+    "start": 1299.919,
+    "duration": 3.601
+  },
+  {
+    "text": "contextualize them? Are you even",
+    "start": 1301.84,
+    "duration": 3.36
+  },
+  {
+    "text": "considering this as a concern or is it",
+    "start": 1303.52,
+    "duration": 3.639
+  },
+  {
+    "text": "overblown? Oh, no. It's a huge",
+    "start": 1305.2,
+    "duration": 4.68
+  },
+  {
+    "text": "concern. Um, I'm",
+    "start": 1307.159,
+    "duration": 5.481
+  },
+  {
+    "text": "worried if my parents had been wealthy",
+    "start": 1309.88,
+    "duration": 5.159
+  },
+  {
+    "text": "and I knew that was sort of a backs stop",
+    "start": 1312.64,
+    "duration": 4.72
+  },
+  {
+    "text": "or a hammock, the only two things I know",
+    "start": 1315.039,
+    "duration": 3.841
+  },
+  {
+    "text": "I would had in my life if my parents",
+    "start": 1317.36,
+    "duration": 2.88
+  },
+  {
+    "text": "were rich were a Range Rover and a",
+    "start": 1318.88,
+    "duration": 5.279
+  },
+  {
+    "text": "cocaine habit. I I was my motivation",
+    "start": 1320.24,
+    "duration": 5.28
+  },
+  {
+    "text": "didn't come from wanting to be",
+    "start": 1324.159,
+    "duration": 4.321
+  },
+  {
+    "text": "successful or wanting to have a positive",
+    "start": 1325.52,
+    "duration": 5.36
+  },
+  {
+    "text": "impact in the world. My motivation was I",
+    "start": 1328.48,
+    "duration": 3.679
+  },
+  {
+    "text": "grew up without money. It was",
+    "start": 1330.88,
+    "duration": 4.32
+  },
+  {
+    "text": "humiliating for me and my mom. And I was",
+    "start": 1332.159,
+    "duration": 4.481
+  },
+  {
+    "text": "very focused on okay, what can I",
+    "start": 1335.2,
+    "duration": 3.28
+  },
+  {
+    "text": "control? I can control how hard I work",
+    "start": 1336.64,
+    "duration": 3.519
+  },
+  {
+    "text": "and the risks I take because I want",
+    "start": 1338.48,
+    "duration": 4.64
+  },
+  {
+    "text": "economic security. My kids probably",
+    "start": 1340.159,
+    "duration": 6.081
+  },
+  {
+    "text": "don't have that same fire. Um I think",
+    "start": 1343.12,
+    "duration": 6.08
+  },
+  {
+    "text": "about it a lot. I think about, you know,",
+    "start": 1346.24,
+    "duration": 4.799
+  },
+  {
+    "text": "not spoiling them. You fly somewhere",
+    "start": 1349.2,
+    "duration": 3.359
+  },
+  {
+    "text": "nice, you've worked hard, you want to",
+    "start": 1351.039,
+    "duration": 4.401
+  },
+  {
+    "text": "fly business or first class. And then I",
+    "start": 1352.559,
+    "duration": 5.841
+  },
+  {
+    "text": "see my my 14-year-old playing with this",
+    "start": 1355.44,
+    "duration": 4.719
+  },
+  {
+    "text": "flat seat. And I see a 70-year-old woman",
+    "start": 1358.4,
+    "duration": 3.2
+  },
+  {
+    "text": "roll by. I'm going to coach. And I think",
+    "start": 1360.159,
+    "duration": 3.601
+  },
+  {
+    "text": "this is just wrong. And I say to my",
+    "start": 1361.6,
+    "duration": 3.68
+  },
+  {
+    "text": "partner, \"The kid should not be in",
+    "start": 1363.76,
+    "duration": 2.88
+  },
+  {
+    "text": "business.\" And she says, \"Well, fine. If",
+    "start": 1365.28,
+    "duration": 3.92
+  },
+  {
+    "text": "you fly want to fly with coach and coach",
+    "start": 1366.64,
+    "duration": 3.919
+  },
+  {
+    "text": "with them, have at it.\" Because they",
+    "start": 1369.2,
+    "duration": 4.4
+  },
+  {
+    "text": "don't allow kids alone back in coach. Uh",
+    "start": 1370.559,
+    "duration": 4.801
+  },
+  {
+    "text": "so the reality is my kids know they have",
+    "start": 1373.6,
+    "duration": 5.84
+  },
+  {
+    "text": "money. The good news is that I find a",
+    "start": 1375.36,
+    "duration": 6.4
+  },
+  {
+    "text": "kid's approach to money or anything else",
+    "start": 1379.44,
+    "duration": 4.0
+  },
+  {
+    "text": "is that the parents have less impact",
+    "start": 1381.76,
+    "duration": 4.56
+  },
+  {
+    "text": "than you think. And that is as parents",
+    "start": 1383.44,
+    "duration": 4.4
+  },
+  {
+    "text": "we like to think we're engineers. We're",
+    "start": 1386.32,
+    "duration": 3.52
+  },
+  {
+    "text": "not. We're shepherds. And that is we get",
+    "start": 1387.84,
+    "duration": 3.76
+  },
+  {
+    "text": "to choose the land they graze on, point",
+    "start": 1389.84,
+    "duration": 3.04
+  },
+  {
+    "text": "them in the right direction, decide what",
+    "start": 1391.6,
+    "duration": 3.439
+  },
+  {
+    "text": "they eat. But the in the sheep comes to",
+    "start": 1392.88,
+    "duration": 4.84
+  },
+  {
+    "text": "you. And what I have found is one of my",
+    "start": 1395.039,
+    "duration": 5.041
+  },
+  {
+    "text": "sons, he won't even let me buy stuff for",
+    "start": 1397.72,
+    "duration": 3.56
+  },
+  {
+    "text": "him. I'll take them out and I'll say,",
+    "start": 1400.08,
+    "duration": 4.479
+  },
+  {
+    "text": "\"Hey, I we went to Sunspiel, this great",
+    "start": 1401.28,
+    "duration": 4.8
+  },
+  {
+    "text": "kind of British brand that's sort of the",
+    "start": 1404.559,
+    "duration": 3.281
+  },
+  {
+    "text": "supposed to be the casual brand for",
+    "start": 1406.08,
+    "duration": 3.36
+  },
+  {
+    "text": "James Bond and I wanted to buy him a",
+    "start": 1407.84,
+    "duration": 4.079
+  },
+  {
+    "text": "Kashmir hoodie and it was 230 lbs.\" He's",
+    "start": 1409.44,
+    "duration": 3.44
+  },
+  {
+    "text": "like, \"I'm not buying this.\" I'm like,",
+    "start": 1411.919,
+    "duration": 2.321
+  },
+  {
+    "text": "\"No, you're not buying it. I am.\" And",
+    "start": 1412.88,
+    "duration": 2.32
+  },
+  {
+    "text": "he's like, \"No, no, no. I'm not going to",
+    "start": 1414.24,
+    "duration": 2.24
+  },
+  {
+    "text": "spend this kind of money on it. I just",
+    "start": 1415.2,
+    "duration": 4.08
+  },
+  {
+    "text": "He just is physically uncomfortable with",
+    "start": 1416.48,
+    "duration": 4.24
+  },
+  {
+    "text": "spending money.\" And I don't know where",
+    "start": 1419.28,
+    "duration": 3.04
+  },
+  {
+    "text": "he got that because even when I didn't",
+    "start": 1420.72,
+    "duration": 2.8
+  },
+  {
+    "text": "have money, I was very comfortable",
+    "start": 1422.32,
+    "duration": 3.2
+  },
+  {
+    "text": "spending money. I've always, you know, I",
+    "start": 1423.52,
+    "duration": 3.36
+  },
+  {
+    "text": "haven't had a spending problem, but I've",
+    "start": 1425.52,
+    "duration": 2.56
+  },
+  {
+    "text": "always been, I like to think, someone",
+    "start": 1426.88,
+    "duration": 2.64
+  },
+  {
+    "text": "who enjoys life and is not afraid to",
+    "start": 1428.08,
+    "duration": 3.599
+  },
+  {
+    "text": "spend money. Whereas my other son is",
+    "start": 1429.52,
+    "duration": 3.84
+  },
+  {
+    "text": "like will pop up and go, can I have two",
+    "start": 1431.679,
+    "duration": 4.161
+  },
+  {
+    "text": "then? So, and and we just haven't",
+    "start": 1433.36,
+    "duration": 4.319
+  },
+  {
+    "text": "treated him that much differently. I",
+    "start": 1435.84,
+    "duration": 3.92
+  },
+  {
+    "text": "think about this a lot. I'm going to put",
+    "start": 1437.679,
+    "duration": 4.0
+  },
+  {
+    "text": "some money aside so they can have always",
+    "start": 1439.76,
+    "duration": 3.36
+  },
+  {
+    "text": "have access to housing, always have",
+    "start": 1441.679,
+    "duration": 4.48
+  },
+  {
+    "text": "access to education. But my plan is to",
+    "start": 1443.12,
+    "duration": 5.919
+  },
+  {
+    "text": "spend it all before I go. Um, my",
+    "start": 1446.159,
+    "duration": 4.161
+  },
+  {
+    "text": "approach to spending is pretty",
+    "start": 1449.039,
+    "duration": 3.921
+  },
+  {
+    "text": "promiscuous. I spend a lot of money. Uh,",
+    "start": 1450.32,
+    "duration": 4.0
+  },
+  {
+    "text": "every year I meet with my team at",
+    "start": 1452.96,
+    "duration": 3.28
+  },
+  {
+    "text": "Goldman. I look at how much money I",
+    "start": 1454.32,
+    "duration": 4.8
+  },
+  {
+    "text": "made, I already have my number. And any",
+    "start": 1456.24,
+    "duration": 4.48
+  },
+  {
+    "text": "additional money above that in terms of",
+    "start": 1459.12,
+    "duration": 3.12
+  },
+  {
+    "text": "net worth, I either spend it or I give",
+    "start": 1460.72,
+    "duration": 3.92
+  },
+  {
+    "text": "it away because I want to make sure my",
+    "start": 1462.24,
+    "duration": 4.24
+  },
+  {
+    "text": "kids have some advantage, housing,",
+    "start": 1464.64,
+    "duration": 4.8
+  },
+  {
+    "text": "access to education, but I don't believe",
+    "start": 1466.48,
+    "duration": 5.199
+  },
+  {
+    "text": "in dynastic wealth. I know a lot of rich",
+    "start": 1469.44,
+    "duration": 3.76
+  },
+  {
+    "text": "kids. I wouldn't say they're any more",
+    "start": 1471.679,
+    "duration": 2.801
+  },
+  {
+    "text": " up than other kids, but they're",
+    "start": 1473.2,
+    "duration": 3.04
+  },
+  {
+    "text": "no less up than other kids. So, I",
+    "start": 1474.48,
+    "duration": 3.52
+  },
+  {
+    "text": "don't think you're really giving much",
+    "start": 1476.24,
+    "duration": 2.96
+  },
+  {
+    "text": "advantage to your kids with",
+    "start": 1478.0,
+    "duration": 2.96
+  },
+  {
+    "text": "extraordinary wealth. Is it a",
+    "start": 1479.2,
+    "duration": 3.04
+  },
+  {
+    "text": "competitive environment? Do you want",
+    "start": 1480.96,
+    "duration": 2.719
+  },
+  {
+    "text": "them to have some of the opportunities",
+    "start": 1482.24,
+    "duration": 3.439
+  },
+  {
+    "text": "that you've worked so hard to give them?",
+    "start": 1483.679,
+    "duration": 3.6
+  },
+  {
+    "text": "Yeah. I want my kid to be able to live",
+    "start": 1485.679,
+    "duration": 3.521
+  },
+  {
+    "text": "where he wants to live to pick the",
+    "start": 1487.279,
+    "duration": 3.601
+  },
+  {
+    "text": "career he wants to pick, which is",
+    "start": 1489.2,
+    "duration": 3.44
+  },
+  {
+    "text": "obviously extraordinary advantage. But",
+    "start": 1490.88,
+    "duration": 3.12
+  },
+  {
+    "text": "just being blunt, I'm going to offer",
+    "start": 1492.64,
+    "duration": 3.44
+  },
+  {
+    "text": "that to my children. I think you use",
+    "start": 1494.0,
+    "duration": 4.4
+  },
+  {
+    "text": "money with your kids to lever up or",
+    "start": 1496.08,
+    "duration": 4.0
+  },
+  {
+    "text": "lever down. If one of my kids decides to",
+    "start": 1498.4,
+    "duration": 3.68
+  },
+  {
+    "text": "teach public school, I'm going to",
+    "start": 1500.08,
+    "duration": 4.479
+  },
+  {
+    "text": "probably give uh uh him a decent amount",
+    "start": 1502.08,
+    "duration": 5.04
+  },
+  {
+    "text": "of money. if one is doing nothing and",
+    "start": 1504.559,
+    "duration": 6.801
+  },
+  {
+    "text": "kind of just nar do well or you know I'm",
+    "start": 1507.12,
+    "duration": 6.64
+  },
+  {
+    "text": "not going to give that kid any money. So",
+    "start": 1511.36,
+    "duration": 4.4
+  },
+  {
+    "text": "I think you have some control over it",
+    "start": 1513.76,
+    "duration": 4.159
+  },
+  {
+    "text": "not a lot but it is something I think",
+    "start": 1515.76,
+    "duration": 6.24
+  },
+  {
+    "text": "about all the time and my approach my my",
+    "start": 1517.919,
+    "duration": 5.681
+  },
+  {
+    "text": "way of expressing concern about this",
+    "start": 1522.0,
+    "duration": 3.76
+  },
+  {
+    "text": "problem is I am spending money like a",
+    "start": 1523.6,
+    "duration": 3.6
+  },
+  {
+    "text": " gangster in the 50s just",
+    "start": 1525.76,
+    "duration": 4.88
+  },
+  {
+    "text": "diagnosed with ass cancer. Hello. Hello.",
+    "start": 1527.2,
+    "duration": 7.28
+  },
+  {
+    "text": "What Vegas? Daddy's in. The dog is in. I",
+    "start": 1530.64,
+    "duration": 5.56
+  },
+  {
+    "text": "start from",
+    "start": 1534.48,
+    "duration": 4.16
+  },
+  {
+    "text": "yes. That's all for this episode. If",
+    "start": 1536.2,
+    "duration": 3.88
+  },
+  {
+    "text": "you'd like to submit a question, please",
+    "start": 1538.64,
+    "duration": 3.48
+  },
+  {
+    "text": "email a voice recording to office",
+    "start": 1540.08,
+    "duration": 4.44
+  },
+  {
+    "text": "hours.com. That's office",
+    "start": 1542.12,
+    "duration": 4.919
+  },
+  {
+    "text": "hours.com. Or if you prefer to ask on",
+    "start": 1544.52,
+    "duration": 4.44
+  },
+  {
+    "text": "Reddit, just post your question on the",
+    "start": 1547.039,
+    "duration": 4.321
+  },
+  {
+    "text": "Scott Galloway subreddit and we just",
+    "start": 1548.96,
+    "duration": 4.24
+  },
+  {
+    "text": "might feature it in our next Reddit",
+    "start": 1551.36,
+    "duration": 6.76
+  },
+  {
+    "text": "hotline segment. What a thrill.",
+    "start": 1553.2,
+    "duration": 4.92
+  }
+]
